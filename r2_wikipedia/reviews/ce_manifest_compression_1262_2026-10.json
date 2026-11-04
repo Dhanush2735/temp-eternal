@@ -1,0 +1,77 @@
+{
+  "note": "Lossless gzip with pre-existing gzip-aware loader; canonical hash validation and synthetic pack roundtrips. Historic reports retain old paths. Decompress and restore installer paths to undo.",
+  "files": [
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1062_1111_ce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1062_1111_ce_context_2026-10.json.gz",
+      "sha256_original": "cfd4bb23290fbcc704262c442ddd5b467f9a8590d55df2e3be75f528cbf5e976",
+      "original_bytes": 21624,
+      "compressed_bytes": 4538,
+      "installer": "r2_wikipedia/apply_1062_1111_ce_context.py",
+      "synthetic_pack_roundtrips": 7
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1062_1111_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1062_1111_ce_hazards_2026-10.json.gz",
+      "sha256_original": "1034408359f31a14714115534ee2424437e5faad9ff395d562f5e3bf09d0c2b3",
+      "original_bytes": 14079,
+      "compressed_bytes": 2116,
+      "installer": "r2_wikipedia/apply_1062_1111_ce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1112_1161_ce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1112_1161_ce_context_2026-10.json.gz",
+      "sha256_original": "0bc974622e67ae9c24b5ed560c15d0838d7ccd6758056381311f5371d98006bb",
+      "original_bytes": 24765,
+      "compressed_bytes": 6023,
+      "installer": "r2_wikipedia/apply_1112_1161_ce_context.py",
+      "synthetic_pack_roundtrips": 6
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1112_1161_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1112_1161_ce_hazards_2026-10.json.gz",
+      "sha256_original": "7d8c61d1b5899936ac2288ff9f0ecd4f423cb08b8d254f193e46af2f618ad01d",
+      "original_bytes": 19522,
+      "compressed_bytes": 2673,
+      "installer": "r2_wikipedia/apply_1112_1161_ce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1162_1211_ce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1162_1211_ce_context_2026-10.json.gz",
+      "sha256_original": "51bf143b437c565cfe8d3f8e3622ada3a0179252fe0c8d4e7ae207338bb89cfe",
+      "original_bytes": 20047,
+      "compressed_bytes": 5220,
+      "installer": "r2_wikipedia/apply_1162_1211_ce_context.py",
+      "synthetic_pack_roundtrips": 5
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1162_1211_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1162_1211_ce_hazards_2026-10.json.gz",
+      "sha256_original": "ce696b69675e8ace6123c49b4cc612d5773273eea33aa1878a3ac50bf76d6cef",
+      "original_bytes": 18072,
+      "compressed_bytes": 2859,
+      "installer": "r2_wikipedia/apply_1162_1211_ce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1212_1261_ce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1212_1261_ce_context_2026-10.json.gz",
+      "sha256_original": "a81a3185735c9e5000e4202d61ca60efa284fdf2f2eda018686950021c2711c8",
+      "original_bytes": 17177,
+      "compressed_bytes": 4325,
+      "installer": "r2_wikipedia/apply_1212_1261_ce_context.py",
+      "synthetic_pack_roundtrips": 6
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1212_1261_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1212_1261_ce_hazards_2026-10.json.gz",
+      "sha256_original": "fc7dc953445a418522d56833838c9c19c92d8d6617f7d51d0725e00d3869c386",
+      "original_bytes": 16819,
+      "compressed_bytes": 2347,
+      "installer": "r2_wikipedia/apply_1212_1261_ce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    }
+  ]
+}

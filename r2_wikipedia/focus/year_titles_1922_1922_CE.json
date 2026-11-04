@@ -1,0 +1,18 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-02T07:41:07.401742+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1922 (year)",
+      "canonical_title": "1922",
+      "redirect_chain": [
+        "1922"
+      ],
+      "status": "resolved",
+      "pageid": 34866,
+      "lastrevid": 1380504749
+    }
+  ]
+}

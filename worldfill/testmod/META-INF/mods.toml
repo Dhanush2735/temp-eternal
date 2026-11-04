@@ -1,0 +1,17 @@
+# SANDBOX ONLY, NEVER SHIPPED: the test helper for worldfill/tools/run_test_server.sh (EE_TEST_HELPER=1).
+modLoader="javafml"
+loaderVersion="[47,)"
+license="sandbox test only"
+
+[[mods]]
+modId="eetesthelper"
+version="1.0"
+displayName="EE test helper (sandbox only)"
+description="Drives CrowdFigures.ensure with a fake player on the sandbox test server. Never ship."
+
+[[dependencies.eetesthelper]]
+modId="eternalengine"
+mandatory=true
+versionRange="[0,)"
+ordering="AFTER"
+side="BOTH"

@@ -1,0 +1,86 @@
+{
+ "-2500": {
+  "people_millions": 64.0,
+  "state_known_pct": 2.6,
+  "ruler_named_pct": 0.0,
+  "famous_person_of_the_land_pct": 0.0
+ },
+ "-1500": {
+  "people_millions": 101.5,
+  "state_known_pct": 6.5,
+  "ruler_named_pct": 3.2,
+  "famous_person_of_the_land_pct": 0.0
+ },
+ "-500": {
+  "people_millions": 179.8,
+  "state_known_pct": 23.3,
+  "ruler_named_pct": 14.2,
+  "famous_person_of_the_land_pct": 15.0
+ },
+ "1": {
+  "people_millions": 266.6,
+  "state_known_pct": 56.3,
+  "ruler_named_pct": 24.0,
+  "famous_person_of_the_land_pct": 46.0
+ },
+ "500": {
+  "people_millions": 289.4,
+  "state_known_pct": 68.7,
+  "ruler_named_pct": 37.0,
+  "famous_person_of_the_land_pct": 57.9
+ },
+ "1000": {
+  "people_millions": 370.3,
+  "state_known_pct": 61.1,
+  "ruler_named_pct": 52.8,
+  "famous_person_of_the_land_pct": 43.9
+ },
+ "1300": {
+  "people_millions": 525.5,
+  "state_known_pct": 67.6,
+  "ruler_named_pct": 55.3,
+  "famous_person_of_the_land_pct": 58.7
+ },
+ "1500": {
+  "people_millions": 578.3,
+  "state_known_pct": 67.8,
+  "ruler_named_pct": 59.2,
+  "famous_person_of_the_land_pct": 62.6
+ },
+ "1700": {
+  "people_millions": 691.3,
+  "state_known_pct": 84.2,
+  "ruler_named_pct": 77.6,
+  "famous_person_of_the_land_pct": 76.2
+ },
+ "1850": {
+  "people_millions": 1498.1,
+  "state_known_pct": 91.9,
+  "ruler_named_pct": 63.9,
+  "famous_person_of_the_land_pct": 90.0
+ },
+ "1900": {
+  "people_millions": 1977.9,
+  "state_known_pct": 95.9,
+  "ruler_named_pct": 80.6,
+  "famous_person_of_the_land_pct": 94.5
+ },
+ "1950": {
+  "people_millions": 3141.9,
+  "state_known_pct": 96.2,
+  "ruler_named_pct": 82.2,
+  "famous_person_of_the_land_pct": 96.1
+ },
+ "2000": {
+  "people_millions": 7685.7,
+  "state_known_pct": 96.7,
+  "ruler_named_pct": 93.4,
+  "famous_person_of_the_land_pct": 96.6
+ },
+ "2020": {
+  "people_millions": 9427.7,
+  "state_known_pct": 96.3,
+  "ruler_named_pct": 94.1,
+  "famous_person_of_the_land_pct": 96.1
+ }
+}

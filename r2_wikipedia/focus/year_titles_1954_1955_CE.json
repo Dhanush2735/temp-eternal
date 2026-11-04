@@ -1,0 +1,28 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-03T13:11:46.324819+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1954 (year)",
+      "canonical_title": "1954",
+      "redirect_chain": [
+        "1954"
+      ],
+      "status": "resolved",
+      "pageid": 34982,
+      "lastrevid": 1383449342
+    },
+    {
+      "requested_title": "1955 (year)",
+      "canonical_title": "1955",
+      "redirect_chain": [
+        "1955"
+      ],
+      "status": "resolved",
+      "pageid": 34851,
+      "lastrevid": 1381750229
+    }
+  ]
+}

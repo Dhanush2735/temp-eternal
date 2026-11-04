@@ -1,0 +1,18 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-03T08:37:52.889244+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1941 (year)",
+      "canonical_title": "1941",
+      "redirect_chain": [
+        "1941"
+      ],
+      "status": "resolved",
+      "pageid": 34632,
+      "lastrevid": 1382989202
+    }
+  ]
+}

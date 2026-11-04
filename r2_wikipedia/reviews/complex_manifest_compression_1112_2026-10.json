@@ -1,0 +1,59 @@
+{
+  "note": "Lossless gzip; byte hashes, canonical guards, synthetic source-index pack roundtrips; storage_compaction ledgers retain historical names. Restore by decompressing and reverting installer loader/path.",
+  "files": [
+    {
+      "original": "r2_wikipedia/reviews/50_10_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/50_10_bce_context_2026-10.json.gz",
+      "bytes": 51168,
+      "compressed_bytes": 8153,
+      "sha256_original": "5f054055a8026fd68a80a28d9c619f00d13aab65f29b4b2bd096a582b603accb",
+      "installer": "r2_wikipedia/apply_50_10_context.py",
+      "pack_roundtrips": 6
+    },
+    {
+      "original": "r2_wikipedia/reviews/100_60_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/100_60_bce_context_2026-10.json.gz",
+      "bytes": 47390,
+      "compressed_bytes": 7846,
+      "sha256_original": "6e1fe7c5718766b1bf85539f6633937b751e3e73dee7db7a67e1fccd6145da43",
+      "installer": "r2_wikipedia/apply_100_60_context.py",
+      "pack_roundtrips": 5
+    },
+    {
+      "original": "r2_wikipedia/reviews/350_310_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/350_310_bce_context_2026-10.json.gz",
+      "bytes": 47312,
+      "compressed_bytes": 7317,
+      "sha256_original": "3014eaf310857420b92446764cb6c2b64bc3c652c4c6a48d8838d2b6b91997fa",
+      "installer": "r2_wikipedia/apply_350_310_context.py",
+      "pack_roundtrips": 6
+    },
+    {
+      "original": "r2_wikipedia/reviews/200_160_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/200_160_bce_context_2026-10.json.gz",
+      "bytes": 46421,
+      "compressed_bytes": 7383,
+      "sha256_original": "7d0d0c8842d44b5bdfb06858f8904d63769b055cf1fac2a53531c308cc6e5571",
+      "installer": "r2_wikipedia/apply_200_160_context.py",
+      "pack_roundtrips": 5
+    },
+    {
+      "original": "r2_wikipedia/reviews/850_810_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/850_810_bce_context_2026-10.json.gz",
+      "bytes": 46228,
+      "compressed_bytes": 8237,
+      "sha256_original": "2019a60526b439f5dac381d4f978221fb7b4e5966b61501337ac3c917f0e0999",
+      "installer": "r2_wikipedia/apply_850_810_context.py",
+      "pack_roundtrips": 6
+    },
+    {
+      "original": "r2_wikipedia/reviews/950_910_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/950_910_bce_context_2026-10.json.gz",
+      "bytes": 45172,
+      "compressed_bytes": 6773,
+      "sha256_original": "3227942c0c407cf3cb6daa4850e55ce09f435c11f8dfa9eae12168fc96dbaf75",
+      "installer": "r2_wikipedia/apply_950_910_context.py",
+      "pack_roundtrips": 5
+    }
+  ]
+}

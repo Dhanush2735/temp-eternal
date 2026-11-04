@@ -1,0 +1,42 @@
+# 639–590 BCE: preliminary R2 batch
+
+## Progress and scope
+
+**2,673 years partly worked; 0 fully collected.** This batch adds 45 under the existing shared-period convention, after five previously counted decade endpoints. These are not complete, independently researched annual histories. Next chronological batch: 589–540 BCE; earlier periods remain open.
+
+All 50 year titles were resolved: 25 redirects and 25 individual year articles. Complete revision wikitext for the 25 individual articles is archived in `year_wikitext_639_590.json.gz`, with templates and transclusions unexpanded; `year_titles_639_590.json` holds resolution metadata. Resolution and retrieval do not mean all linked articles or references were collected. Five decade pages and selected linked articles were reviewed, often only in part. The initial `600s_BC` request redirected to the century; the actual decade page was then checked separately.
+
+A scan found 143 indexed rows **starting** in the range: Wikipedia regional 71, annual 46, decades 13, world 7, Wikidata 2, wars 2 and hazards 2. Most rows were not individually reviewed; rows starting outside the range were not captured by this scan.
+
+## Indexed gameplay changes
+
+**23 existing rows updated and two uncertain hazards moved to regional notes.** IDs were retained. These are changes to indexed source packs, not merely a separate research file. A running game and the stale jar have not been verified to load them.
+
+- Six Wikidata-derived world rows used a year one later than the linked BCE article: Megiddo `q913818`, Bi `q1288667`, Carchemish `q633560`, Hamath `q2401276`, Jerusalem `q1252915` and the attempted retaking of Harran `q55633156`. Their start labels were aligned to 609, 597, 605, 605, 597 and 609 BCE respectively, retaining military effects. Hamath's article infobox and narrative give c. 605 while its short description says 604; Necho's presence is uncertain. Harran's earlier fall and later failed reconquest are distinct events.
+- **Boundary caveat:** these world rows retain a one-year exclusive end for HistoryGazetteer, but NewsIndex treats world-pack ends as inclusive and may also display the following year. Saved-world effects and broader BCE/astronomical-year conventions remain untested; these edits do not fix the readers globally. Separate indexed rows may duplicate the same event.
+- The wrongly dated 609 BCE Esarhaddon conquest row was changed to a note: the linked biography places his Egyptian conquest in 671 BCE. A Harran row's inherited Babylon-area coordinates were changed to a Harran regional reference, with fall versus reconquest qualified. Nineveh's fall was qualified as a stage in Assyria's decline rather than an instantaneous empire-wide transition. A reported 625 attack and an ancient population ranking were also made uncertain notes.
+- Two Cylon entries now note 636 or 632 BCE and ancient accounts' disagreement about his fate. Two Solon entries describe attributed reforms without asserting that all later democratic institutions began in one year. Two Alyattes accession estimates are qualified; the linked pages disagree about chronology.
+- Three Napata records from 593, 592 and 590 BCE may refer to the same Egyptian–Kushite campaign. The 592 campaign row retains its military effect but now uses a Napata-area reference rather than a generic Egyptian point; the 593 and 590 rows are qualified notes. The dating, extent of plunder and any transfer of political functions to Meroë are uncertain. Regional points and radii do not establish an exact battlefield or route.
+- A combined 622 BCE biblical book-discovery/Ezekiel claim and a 603 BCE calendrical conversion claim were qualified instead of treated as exact political events. The latter needs independent astronomical-year and calendar conversion verification.
+- The inherited 590 BCE Tyre earthquake and Lebanese-coast tsunami rows were moved out of the active hazard pack. [Salamon and colleagues' 2007 supplement, Table 2](https://www.seismosoc.org/Publications/BSSA_html/bssa_97-3/06147-esupp/) says no ancient sources were found for an earthquake or tsunami in that year. The inherited rows were matched by year and area, **not** by confirmed NOAA database identifier; they may be related claims, not independent evidence. Their occurrence, date and disruption radii remain unproven.
+
+## Selected linked evidence
+
+- [Battle of Megiddo](https://en.wikipedia.org/w/index.php?title=Battle_of_Megiddo_(609_BC)&oldid=1370269318), [Battle of Bi](https://en.wikipedia.org/w/index.php?title=Battle_of_Bi&oldid=1378907768), [Battle of Carchemish](https://en.wikipedia.org/w/index.php?title=Battle_of_Carchemish&oldid=1375979106), [Battle of Hamath](https://en.wikipedia.org/w/index.php?title=Battle_of_Hamath&oldid=1370442524) and [597 Jerusalem siege](https://en.wikipedia.org/w/index.php?title=Siege_of_Jerusalem_(597_BC)&oldid=1378907738).
+- [Fall of Harran](https://en.wikipedia.org/w/index.php?title=Fall_of_Harran&oldid=1370617774) and the distinct [Siege of Harran](https://en.wikipedia.org/w/index.php?title=Siege_of_Harran&oldid=1370741786); [Fall of Nineveh](https://en.wikipedia.org/w/index.php?title=Fall_of_Nineveh&oldid=1379442153) and [Nabopolassar](https://en.wikipedia.org/w/index.php?title=Nabopolassar&oldid=1376351153).
+- [Psamtik II](https://en.wikipedia.org/w/index.php?title=Psamtik_II&oldid=1372253555), [Napata](https://en.wikipedia.org/w/index.php?title=Napata&oldid=1364101444), [Cylon](https://en.wikipedia.org/w/index.php?title=Cylon_of_Athens&oldid=1360644706), [Solon](https://en.wikipedia.org/w/index.php?title=Solon&oldid=1378908659) and [Alyattes](https://en.wikipedia.org/w/index.php?title=Alyattes&oldid=1363681016).
+- The [600s decade page](https://en.wikipedia.org/w/index.php?title=600s_BC_(decade)&oldid=1361563473) asserts that Cahokia's largest mound began around 600 BCE. The linked [Cahokia](https://en.wikipedia.org/w/index.php?title=Cahokia&oldid=1380096105) and [Monks Mound](https://en.wikipedia.org/wiki/Monks_Mound) articles date the city and mound construction much later, in the Common Era. No 600 BCE mound event was added. Other claims need similar review.
+
+## People and limitations
+
+`history/sources/wikipedia_639_590_people_links.json` contains **34 selected people references, 29 qualified relationships and 38 event roles across 12 indexed IDs**. Jin and Chu commanders, Egyptian and Kushite figures, Judahite and Babylonian rulers, and connected Athenian figures are included. Some named figures appear only in connected articles, and one title is a redlink. Structural links were checked, not individual identity or attendance. The graph is research-only: none of these people were made spawnable. Natural VIP spawning, historically guided behavior and player-triggered branching remain unimplemented.
+
+No comprehensive loader, Java probe, live game, save or full integrity test was run. The crawler is storage-blocked and the jar remains stale. Much of the worldwide record and Wikipedia link chain is still unreviewed.
+
+## Verification and rollback
+
+- Context manifest `reviews/639_590_bce_context_2026-10.json.gz`, canonical SHA-256 `f55f6f6dbe838ea20b663c3ded54452de46e7f170994d9a0c029244207aba098`: 16 targeted tests passed before and after application.
+- Hazard manifest `reviews/639_590_bce_hazards_2026-10.json`, canonical SHA-256 `90f68e91779486513e6035dd644811d8a5e1a29d1f8c36bdf81f3cc30cd428f4`: 11 targeted tests passed before and after application. An initial version incorrectly referred to Appendix 2 rather than Table 2; it was actually rolled back, corrected, restaged, tested and reapplied.
+- All 25 resulting indexed rows were unique and matched after-images. Four context and two hazard pack objects round-tripped in memory in dependency order. Those in-memory checks did not write a rollback. Writes are atomic per pack, **not across packs**.
+- Roll back hazards first with `PYTHONPATH=r2_wikipedia python r2_wikipedia/apply_639_590_bce_hazards.py rollback`, then context with `PYTHONPATH=r2_wikipedia python r2_wikipedia/apply_639_590_bce_context.py rollback`. Reverse these hazards before older 689–640 and 739–690 hazard moves because source-pack positions are shared. Later changes may require their own rollback first.
+- Ten older guarded CE manifests were compacted without changing parsed objects; hashes and validation results are in `storage_compaction_639_590.md` and `storage_compaction_639_590_extra.md`. Binary and external raw-byte dependencies were not checked.

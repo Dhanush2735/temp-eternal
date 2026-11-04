@@ -1,0 +1,270 @@
+{
+  "as_of_utc": "2026-10-28T15:11:04.300799+00:00",
+  "active_focus": {
+    "root": "3rd millennium BC",
+    "range": {
+      "start": -3000,
+      "end": -2001,
+      "convention": "negative BCE; no year zero"
+    },
+    "counts": {
+      "millennium_discovered": 1,
+      "millennium_checked": 1,
+      "year_discovered": 1001,
+      "century_discovered": 10,
+      "century_checked": 10,
+      "year_checked": 2,
+      "other_discovered": 9994,
+      "other_checked": 32,
+      "decade_discovered": 101,
+      "decade_checked": 9,
+      "distinct_canonical_pages_read": 43,
+      "century_pages_read": 10,
+      "year_canonical_pages": 0,
+      "deferred_out_of_scope_period_titles": 495,
+      "years_certified_complete": 0
+    },
+    "warning": "Graph reachability does not prove article relevance or completeness. Year-title checks include redirects. Canonical year titles are not yet validated year articles. Deferred period titles are not discarded.",
+    "recognized_year_pages": []
+  },
+  "legacy_patches_in_archive": 37,
+  "legacy_patches_archived_only": 37,
+  "estimated_persisted_workspace_bytes": 124280540,
+  "default_workspace_guard_bytes": 125000000,
+  "overall_completion_percent": null,
+  "overall_reason": "The total linked article graph, extraction, verification, future projection, integration and gameplay work have no established denominator.",
+  "millennium_pages": {
+    "loaded": 6,
+    "checked": 6,
+    "expected": 6,
+    "percent": 100.0,
+    "checked_percent": 100.0,
+    "not_read": []
+  },
+  "century_pages": {
+    "loaded": 51,
+    "checked": 60,
+    "expected": 60,
+    "percent": 85.0,
+    "checked_percent": 100.0,
+    "not_read": [
+      {
+        "title": "22nd century",
+        "state": "redirect_or_alias"
+      },
+      {
+        "title": "23rd century",
+        "state": "redirect_or_alias"
+      },
+      {
+        "title": "24th century",
+        "state": "redirect_or_alias"
+      },
+      {
+        "title": "25th century",
+        "state": "redirect_or_alias"
+      },
+      {
+        "title": "26th century",
+        "state": "redirect_or_alias"
+      },
+      {
+        "title": "27th century",
+        "state": "redirect_or_alias"
+      },
+      {
+        "title": "28th century",
+        "state": "redirect_or_alias"
+      },
+      {
+        "title": "29th century",
+        "state": "redirect_or_alias"
+      },
+      {
+        "title": "30th century",
+        "state": "redirect_or_alias"
+      }
+    ]
+  },
+  "decade_title_checks": {
+    "checked": 36,
+    "currently_discovered": 504,
+    "percent_of_discovered": 7.14
+  },
+  "year_title_checks": {
+    "checked": 3,
+    "currently_discovered": 6331,
+    "percent_of_discovered": 0.05
+  },
+  "year_page_identified_years": [
+    1948
+  ],
+  "years_certified_complete": 0,
+  "year_completion_note": "No year has been certified complete; no comprehensive whole-year completeness audit exists yet. Reading a year page is not completion.",
+  "requested_year_slots": 6000,
+  "people_article_checks": {
+    "checked": 416,
+    "currently_discovered": 32032,
+    "percent_of_discovered": 1.3,
+    "statuses": {
+      "human": 112,
+      "pending": 31616,
+      "unconfirmed": 304
+    }
+  },
+  "article_pages_read": 116,
+  "graph_edges": 57433,
+  "period_bullet_candidates": 8622,
+  "history_staging_records": 8622,
+  "history_explicit_year_labels": 2846,
+  "history_future_year_context": 107,
+  "biographies_saved": 108,
+  "vip_candidates_staged": 108,
+  "timeline_statements": 318,
+  "timeline_people": 98,
+  "event_comparison": {
+    "packs": 20,
+    "events": 129163,
+    "candidates": 8622,
+    "matched_candidates": 1661,
+    "pairs": 1773,
+    "assessments": {
+      "exact_text_year_not_comparable": 405,
+      "exact_text_same_labeled_start_year": 1237,
+      "exact_text_possible_start_year_conflict": 131
+    }
+  },
+  "future_game_event_audit": {
+    "schema": "eternal-r2-future-year-audit-v1",
+    "as_of": "2026-10-28",
+    "indexed_packs": 26,
+    "counts": {
+      "rows": 129163,
+      "earlier_start_year": 128650,
+      "current_start_year_day_unknown": 513
+    },
+    "per_pack": {
+      "indus.json": {},
+      "mesopotamia.json": {
+        "rows": 1,
+        "earlier_start_year": 1
+      },
+      "egypt.json": {
+        "rows": 1,
+        "earlier_start_year": 1
+      },
+      "china.json": {
+        "rows": 1,
+        "earlier_start_year": 1
+      },
+      "mediterranean.json": {
+        "rows": 2,
+        "earlier_start_year": 2
+      },
+      "south_asia.json": {
+        "rows": 2,
+        "earlier_start_year": 2
+      },
+      "americas.json": {
+        "rows": 1,
+        "earlier_start_year": 1
+      },
+      "afro_islamic.json": {
+        "rows": 2,
+        "earlier_start_year": 2
+      },
+      "places_pleiades.json.gz": {},
+      "places_chgis.json.gz": {},
+      "places_reba.json.gz": {},
+      "present_kamareddy.json.gz": {},
+      "present_hyderabad_metro.json.gz": {},
+      "present_telangana.json.gz": {},
+      "events.json": {
+        "rows": 83,
+        "earlier_start_year": 83
+      },
+      "events_world.json.gz": {
+        "rows": 13987,
+        "earlier_start_year": 13949,
+        "current_start_year_day_unknown": 38
+      },
+      "events_wikidata_more.json.gz": {
+        "rows": 6040,
+        "earlier_start_year": 6028,
+        "current_start_year_day_unknown": 12
+      },
+      "events_wars.json.gz": {
+        "rows": 2397,
+        "earlier_start_year": 2394,
+        "current_start_year_day_unknown": 3
+      },
+      "events_ucdp.json.gz": {
+        "rows": 28639,
+        "earlier_start_year": 28639
+      },
+      "events_wikipedia.json.gz": {
+        "rows": 19364,
+        "earlier_start_year": 19288,
+        "current_start_year_day_unknown": 76
+      },
+      "events_wikipedia_regional.json.gz": {
+        "rows": 21907,
+        "earlier_start_year": 21814,
+        "current_start_year_day_unknown": 93
+      },
+      "events_wikipedia_decades.json.gz": {
+        "rows": 1763,
+        "earlier_start_year": 1763
+      },
+      "events_hazards.json.gz": {
+        "rows": 26997,
+        "earlier_start_year": 26787,
+        "current_start_year_day_unknown": 210
+      },
+      "events_storms.json.gz": {
+        "rows": 5884,
+        "earlier_start_year": 5858,
+        "current_start_year_day_unknown": 26
+      },
+      "events_nature.json.gz": {
+        "rows": 1844,
+        "earlier_start_year": 1789,
+        "current_start_year_day_unknown": 55
+      },
+      "deccan_events.json.gz": {
+        "rows": 248,
+        "earlier_start_year": 248
+      }
+    },
+    "warning": "Year-only audit, not verified history or a projection classifier. Current-year events may be past or future; earlier-start events may continue or describe plans. Pack-specific end-year conventions are not interpreted. Other resources are not scanned."
+  },
+  "candidate_origin_audit": {
+    "counts": {
+      "current_candidate_origin_links": 18729,
+      "non_candidate_origin_links": 47702,
+      "retained_not_in_current_export_links": 181
+    },
+    "retained_not_in_current_export_by_source": {
+      "00s": 27,
+      "3rd millennium": 154
+    },
+    "warning": "Read-only identifier comparison; old page revisions may remain available at their stored Wikipedia revision URLs. This does not verify origins or facts."
+  },
+  "reviewed_event_batch": {
+    "installed": 10,
+    "reviewed": 10
+  },
+  "reconciled_vip_candidates": 108,
+  "possible_existing_vip_matches": 2,
+  "possible_existing_people_matches": 72,
+  "potential_date_conflict_matches": 7,
+  "place_entities_exported": 145,
+  "places_checked": 145,
+  "places_pending": 0,
+  "places_with_coordinate_statements": 141,
+  "warnings": [
+    "People-check percentage uses only the currently discovered queue; the queue grows as pages are explored.",
+    "An article checked is not necessarily a person. Unconfirmed articles may still be people.",
+    "A retrieved page, biography or candidate is not a verified fact or a working NPC."
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "records": [
+    {
+      "database": "crawl.sqlite3",
+      "parked_index": "frontier_priority",
+      "restore_ddl": "CREATE INDEX frontier_priority ON frontier(status,priority,depth)",
+      "old_bytes": 9027584,
+      "new_bytes": 8155136,
+      "saved_bytes": 872448,
+      "before_file_sha256": "13f5b7d4f76ecfb4ef97b2c8073df254e67d0389bda9ceb81feb8f75e85e3c36",
+      "after_file_sha256": "35cd32e28b461695987bc0e53162e612c9b6bf34db95f6fb7e5be15ff13c9e96",
+      "table_fingerprints": {
+        "frontier": {
+          "rows": 45613,
+          "sha256": "a96fabd9f235837ff9c08314ad342c30e72a12a419f5f890f5df997ae05a8f46"
+        },
+        "pages": {
+          "rows": 206,
+          "sha256": "522d627e0fc14424d122bece3492906d5f01c13dad8c5e030724d12ca91a48e4"
+        },
+        "edges": {
+          "rows": 89209,
+          "sha256": "0021be287a78c389d6e7caf10e37695506bdc9f3e09008e92c0793208b488ac5"
+        },
+        "resolutions": {
+          "rows": 236,
+          "sha256": "0b0a60caf304bef4df38d57fe3b1e39f2fcb0ac7036f20a0f9143cf5889efc5b"
+        },
+        "scheduler_state": {
+          "rows": 2,
+          "sha256": "bebe5d29a59a06a60db275641e0823b69210ae8d8477347a6a8fc6180ad9ae50"
+        }
+      },
+      "sample_queue_choices": {
+        "next": [
+          "1590s BC",
+          0
+        ],
+        "priority": {
+          "0": [
+            "1590s BC",
+            0
+          ],
+          "10": null,
+          "20": null,
+          "30": [
+            "1740s BC",
+            1
+          ],
+          "40": [
+            "2000 BCE",
+            1
+          ],
+          "100": [
+            "'Apepi",
+            1
+          ]
+        },
+        "fair": [
+          [
+            "1590s BC",
+            0
+          ],
+          [
+            "1590s BC",
+            0
+          ],
+          [
+            "1590s BC",
+            0
+          ],
+          [
+            "1590s BC",
+            0
+          ],
+          [
+            "1590s BC",
+            0
+          ],
+          [
+            "1590s BC",
+            0
+          ]
+        ]
+      },
+      "integrity": "ok",
+      "foreign_keys": "ok",
+      "note": "Logical content preserved; SQLite bytes changed. Excluded-cache backup is temporary. Collector rebuilds index only when workspace reserve permits."
+    },
+    {
+      "database": "people.sqlite3",
+      "parked_index": "subject_queue",
+      "restore_ddl": "CREATE INDEX subject_queue ON subjects(first_source) WHERE status='pending'",
+      "old_bytes": 8204288,
+      "new_bytes": 7249920,
+      "saved_bytes": 954368,
+      "before_file_sha256": "8ee40b8ce0bac384917dd5317478e5648ea8f18500819a7fd016833deb139498",
+      "after_file_sha256": "4f930862468db568f24b6d850531d07450d3393518290fe14fd8bd36bd1566d6",
+      "table_fingerprints": {
+        "subjects": {
+          "rows": 32032,
+          "sha256": "6a06dcbe4317e711e9ade7df9c4a64702108ff4c75b7218541d1592203f8223c"
+        },
+        "biographies": {
+          "rows": 108,
+          "sha256": "d4d7d1e658ecf6174d6c119bbbace92eaa767dc054a2b26e0859a5b450ef41d7"
+        },
+        "origins": {
+          "rows": 67576,
+          "sha256": "924712c20d7eb9dfba0bf56a41f8b054a589b97230588ef76b0e2a02be677a5b"
+        },
+        "origin_sources": {
+          "rows": 196,
+          "sha256": "46199cd2b284718f35e3142a5cfb5f2dd7ff0f2950db314e14530f391261da95"
+        },
+        "origin_candidates": {
+          "rows": 13694,
+          "sha256": "6620884fa14e94bd87003407f31b70cef046c10b081b27df88469c10084b6f27"
+        },
+        "sqlite_sequence": {
+          "rows": 1,
+          "sha256": "98bda747a8bf823a8a13164995a92a362b127d2d4d93adb230095b2944b2cde4"
+        },
+        "origin_links_table": {
+          "rows": 67576,
+          "sha256": "e826b560783ba71f65b8f20bcd0b4582dd84cc983c112ef6843a28b4b082df37"
+        },
+        "people_scheduler": {
+          "rows": 2,
+          "sha256": "24509d4187f86c602a8e39924d2177b8f6bfbd31cb40a3491a32dc49a0626051"
+        }
+      },
+      "sample_queue_choices": {
+        "1": [
+          "2000s (century)"
+        ],
+        "5": [
+          "2000s (century)",
+          "Tincomarus",
+          "Saturn",
+          "1 Baruch",
+          "Sancho III of Navarre"
+        ],
+        "25": [
+          "2000s (century)",
+          "Tincomarus",
+          "Saturn",
+          "1 Baruch",
+          "Sancho III of Navarre",
+          "Solomon",
+          "Bithynia and Pontus",
+          "Catiline",
+          "Akkadevi",
+          "993–994 carbon-14 spike",
+          "1033 Jordan Valley earthquake",
+          "Abbey of Bec",
+          "Aaronios",
+          "Aaron Scotus",
+          "Euthydemid dynasty",
+          "sutra",
+          "Mayapan",
+          "Siamun",
+          "Drepung Monastery",
+          "Diplomacy",
+          "Twentieth dynasty of Egypt",
+          "Opium Wars",
+          "Georgian Orthodox Church",
+          "first civilization",
+          "British expedition to Tibet"
+        ]
+      },
+      "integrity": "ok",
+      "foreign_keys": "ok",
+      "note": "Logical content preserved; SQLite bytes changed. Excluded-cache backup is temporary. Collector rebuilds index only when workspace reserve permits."
+    }
+  ]
+}

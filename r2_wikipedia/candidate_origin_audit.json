@@ -1,0 +1,12 @@
+{
+  "counts": {
+    "current_candidate_origin_links": 18729,
+    "non_candidate_origin_links": 47702,
+    "retained_not_in_current_export_links": 181
+  },
+  "retained_not_in_current_export_by_source": {
+    "00s": 27,
+    "3rd millennium": 154
+  },
+  "warning": "Read-only identifier comparison; old page revisions may remain available at their stored Wikipedia revision URLs. This does not verify origins or facts."
+}

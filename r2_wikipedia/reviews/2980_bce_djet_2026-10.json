@@ -1,0 +1,28 @@
+{
+  "schema": "eternal-r2-2980bce-v1",
+  "pack": "events_wikipedia_regional.json.gz",
+  "event": {
+    "id": "r2_djet_reign_reference_c2980",
+    "name": "c. 2980 BC: Djet ruled Egypt after Djer; dates are uncertain",
+    "start": -2980,
+    "end": -2979,
+    "lat": 26.175,
+    "lon": 31.9083,
+    "radiusKm": 100,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=Djet&oldid=1376673981",
+        "https://en.wikipedia.org/w/index.php?title=First_Dynasty_of_Egypt&oldid=1379753537",
+        "https://en.wikipedia.org/w/index.php?title=30th_century_BC&oldid=1371895853",
+        "https://en.wikipedia.org/w/index.php?title=Umm_El_Qa%27ab&oldid=1381208653"
+      ],
+      "review_note": "Djet is a First Dynasty ruler described as succeeding Djer. The article places his reign around 2980 BCE; the dynasty page presents c.2980 as an approximate start, but chronology and reign length are disputed. This is not an exact accession date, death date, or proof Djet was at the reference coordinate in 2980 BCE. The point is his tomb site at Abydos as a regional Egypt reference, and the radius is a gameplay setting. The -2980 one-year slot is a reference, not the duration of his reign. The separate -2990 Djer entry concerns an estimated death rather than this Djet reign context.",
+      "date_precision": "Approximately 2980 BCE; alternative dynastic chronologies differ. The one-year slot is an approximate reference, not a literal event duration.",
+      "location_precision": "Regional reference at Umm el-Qa'ab cemetery, site of Djet's tomb; no exact position for him in 2980 is asserted.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

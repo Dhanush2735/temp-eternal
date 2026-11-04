@@ -1,0 +1,9 @@
+{
+  "original": "/home/user/r2_wikipedia/reviews/1262_1311_ce_context_2026-10.json",
+  "compressed": "/home/user/r2_wikipedia/reviews/1262_1311_ce_context_2026-10.json.gz",
+  "original_sha256": "01056f4c5e077bafc7425192cc42f02301110aa97d968bb598a0edb14d96b2da",
+  "original_bytes": 20992,
+  "compressed_bytes": 4916,
+  "installer": "r2_wikipedia/apply_1262_1311_ce_context.py",
+  "note": "Lossless gzip, validated original bytes and canonical guard; subsequent batch tests cover transforms."
+}

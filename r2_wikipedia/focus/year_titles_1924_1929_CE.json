@@ -1,0 +1,68 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-02T17:03:35.115312+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1924 (year)",
+      "canonical_title": "1924",
+      "redirect_chain": [
+        "1924"
+      ],
+      "status": "resolved",
+      "pageid": 34675,
+      "lastrevid": 1378907052
+    },
+    {
+      "requested_title": "1925 (year)",
+      "canonical_title": "1925",
+      "redirect_chain": [
+        "1925"
+      ],
+      "status": "resolved",
+      "pageid": 34867,
+      "lastrevid": 1374884132
+    },
+    {
+      "requested_title": "1926 (year)",
+      "canonical_title": "1926",
+      "redirect_chain": [
+        "1926"
+      ],
+      "status": "resolved",
+      "pageid": 34609,
+      "lastrevid": 1381202929
+    },
+    {
+      "requested_title": "1927 (year)",
+      "canonical_title": "1927",
+      "redirect_chain": [
+        "1927"
+      ],
+      "status": "resolved",
+      "pageid": 34939,
+      "lastrevid": 1382977526
+    },
+    {
+      "requested_title": "1928 (year)",
+      "canonical_title": "1928",
+      "redirect_chain": [
+        "1928"
+      ],
+      "status": "resolved",
+      "pageid": 34674,
+      "lastrevid": 1379566602
+    },
+    {
+      "requested_title": "1929 (year)",
+      "canonical_title": "1929",
+      "redirect_chain": [
+        "1929"
+      ],
+      "status": "resolved",
+      "pageid": 34656,
+      "lastrevid": 1382796378
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+ "stats": {
+  "features": 13797,
+  "polity_rows": 12064,
+  "skipped_relation_or_composite": 1733,
+  "polity_rows_smaller_than_a_cell": 290,
+  "cell_polity_pairs": 5454310,
+  "deccan_places_checked": 15741,
+  "deccan_places_identical_every_25_years": 8905,
+  "deccan_sampled_years_same_ruler_pct": 97.09,
+  "cells_left_to_deccan_register": 58
+ },
+ "polities": 1544,
+ "timelines": 8451,
+ "spans": 185770,
+ "places": 62647,
+ "seconds": 38
+}

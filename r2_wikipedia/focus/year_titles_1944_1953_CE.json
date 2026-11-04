@@ -1,0 +1,108 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-03T12:25:09.005843+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1944 (year)",
+      "canonical_title": "1944",
+      "redirect_chain": [
+        "1944"
+      ],
+      "status": "resolved",
+      "pageid": 34622,
+      "lastrevid": 1382517172
+    },
+    {
+      "requested_title": "1945 (year)",
+      "canonical_title": "1945",
+      "redirect_chain": [
+        "1945"
+      ],
+      "status": "resolved",
+      "pageid": 34624,
+      "lastrevid": 1383475521
+    },
+    {
+      "requested_title": "1946 (year)",
+      "canonical_title": "1946",
+      "redirect_chain": [
+        "1946"
+      ],
+      "status": "resolved",
+      "pageid": 34631,
+      "lastrevid": 1383360130
+    },
+    {
+      "requested_title": "1947 (year)",
+      "canonical_title": "1947",
+      "redirect_chain": [
+        "1947"
+      ],
+      "status": "resolved",
+      "pageid": 34584,
+      "lastrevid": 1380411981
+    },
+    {
+      "requested_title": "1948 (year)",
+      "canonical_title": "1948",
+      "redirect_chain": [
+        "1948"
+      ],
+      "status": "resolved",
+      "pageid": 34612,
+      "lastrevid": 1380472391
+    },
+    {
+      "requested_title": "1949 (year)",
+      "canonical_title": "1949",
+      "redirect_chain": [
+        "1949"
+      ],
+      "status": "resolved",
+      "pageid": 34604,
+      "lastrevid": 1383409582
+    },
+    {
+      "requested_title": "1950 (year)",
+      "canonical_title": "1950",
+      "redirect_chain": [
+        "1950"
+      ],
+      "status": "resolved",
+      "pageid": 19283873,
+      "lastrevid": 1380782309
+    },
+    {
+      "requested_title": "1951 (year)",
+      "canonical_title": "1951",
+      "redirect_chain": [
+        "1951"
+      ],
+      "status": "resolved",
+      "pageid": 34602,
+      "lastrevid": 1380783174
+    },
+    {
+      "requested_title": "1952 (year)",
+      "canonical_title": "1952",
+      "redirect_chain": [
+        "1952"
+      ],
+      "status": "resolved",
+      "pageid": 34575,
+      "lastrevid": 1380783903
+    },
+    {
+      "requested_title": "1953 (year)",
+      "canonical_title": "1953",
+      "redirect_chain": [
+        "1953"
+      ],
+      "status": "resolved",
+      "pageid": 34865,
+      "lastrevid": 1382228855
+    }
+  ]
+}

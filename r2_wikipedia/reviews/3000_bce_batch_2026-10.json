@@ -1,0 +1,122 @@
+{
+  "schema": "eternal-r2-3000bce-batch-corrections-v1",
+  "purpose": "Source-reviewed corrections to existing records; no new exact-date assertions",
+  "updates": [
+    {
+      "pack": "events_wikipedia.json.gz",
+      "event_id": "wpy_23394c2b6a",
+      "before": {
+        "id": "wpy_23394c2b6a",
+        "name": "c. 3000 BC: There is an intense phase of burial at on the Hill of Tara, the ancient seat of the High King of Ireland",
+        "start": -3000,
+        "end": -2999,
+        "lat": 53.351,
+        "lon": -7.921,
+        "radiusKm": 20,
+        "kind": "political",
+        "effect": "political",
+        "confidence": "wikipedia_year_page"
+      },
+      "after": {
+        "id": "wpy_23394c2b6a",
+        "name": "c. 3000 BC: The Mound of the Hostages on Ireland's Hill of Tara is a Neolithic burial monument",
+        "start": -3000,
+        "end": -2999,
+        "lat": 53.57944,
+        "lon": -6.61167,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_year_page",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Mound_of_the_Hostages&oldid=1358920533",
+            "https://en.wikipedia.org/w/index.php?title=Hill_of_Tara&oldid=1377631814",
+            "https://heritageireland.ie/places-to-visit/hill-of-tara/",
+            "https://colinpquinn.com/wp-content/uploads/2019/08/quinn21.pdf"
+          ],
+          "review_note": "Restores the monument name and moves the erroneous generic Ireland coordinates to the modern site reference point. Archaeological chronology gives an early communal cemetery approximately 3150–3050 BCE, not evidence of intense burials specifically in 3000; this description identifies the monument rather than asserting that event. The retained 3000 BCE year is the existing approximate gameplay reference, not a verified calendar year. Later kingship is not assigned to prehistory. The old political kind and effect were changed to cultural/note because this record describes an archaeological site, not a political event.",
+          "date_precision": "approximate; 3000 BCE is an existing gameplay reference, not a verified year",
+          "location_precision": "modern monument reference point",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    },
+    {
+      "pack": "events_wikipedia.json.gz",
+      "event_id": "wpy_88f05a4abb",
+      "before": {
+        "id": "wpy_88f05a4abb",
+        "name": "c. 3000 BC: Earliest remains from Aniba (Nubia)",
+        "start": -3000,
+        "end": -2999,
+        "lat": 22.73056,
+        "lon": 32.00306,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_year_page"
+      },
+      "after": {
+        "id": "wpy_88f05a4abb",
+        "name": "c. 3000 BC: The earliest remains at Aniba in Lower Nubia are associated with the A-Group culture",
+        "start": -3000,
+        "end": -2999,
+        "lat": 22.73056,
+        "lon": 32.00306,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_year_page",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Aniba_(Nubia)&oldid=1373685139",
+            "https://en.wikipedia.org/w/index.php?title=A-Group_culture&oldid=1381672634"
+          ],
+          "review_note": "The linked Aniba article connects the earliest remains and several cemeteries with A-Group culture. The year and site coordinate are retained as pre-existing approximate gameplay references, not proof of an exact date or exact cemetery point. Broader A-Group chronology varies among sources.",
+          "date_precision": "approximate; 3000 BCE is an existing gameplay reference, not a verified year",
+          "location_precision": "existing regional or site reference point",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    },
+    {
+      "pack": "events_wikipedia_regional.json.gz",
+      "event_id": "wpr_28f26bb88f",
+      "before": {
+        "id": "wpr_28f26bb88f",
+        "name": "c. 3000 BC: Jawa, Jordan is founded along with the world's first known dam",
+        "start": -3000,
+        "end": -2999,
+        "lat": 32.335,
+        "lon": 37.00333,
+        "radiusKm": 20,
+        "kind": "political",
+        "effect": "political",
+        "confidence": "wikipedia_coord"
+      },
+      "after": {
+        "id": "wpr_28f26bb88f",
+        "name": "c. 3000 BC: Jawa in Jordan was a Bronze Age settlement with an early system of dams and reservoirs",
+        "start": -3000,
+        "end": -2999,
+        "lat": 32.335,
+        "lon": 37.00333,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_coord",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Jawa,_Jordan&oldid=1380688119",
+            "https://www.sciencedirect.com/science/article/abs/pii/S1040618216000598"
+          ],
+          "review_note": "The source article and archaeological study describe Jawa and its early water management as late fourth-millennium/approximately 3500–3000 BCE; the previous claim that the settlement and the world’s first known dam were founded exactly together around 3000 is not established. The existing year and regional reference point are retained, and the title does not claim a precise construction year. No separate dam point or extent is inferred. The old political kind and effect were changed to cultural/note because this record describes an archaeological site, not a political event.",
+          "date_precision": "approximate; 3000 BCE is an existing gameplay reference, not a verified year",
+          "location_precision": "existing regional or site reference point",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    }
+  ]
+}

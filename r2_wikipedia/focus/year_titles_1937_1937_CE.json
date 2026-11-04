@@ -1,0 +1,18 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-02T18:47:33.241115+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1937 (year)",
+      "canonical_title": "1937",
+      "redirect_chain": [
+        "1937"
+      ],
+      "status": "resolved",
+      "pageid": 34684,
+      "lastrevid": 1382023058
+    }
+  ]
+}

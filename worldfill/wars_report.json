@@ -1,0 +1,254 @@
+{
+ "seconds": 621,
+ "rows": 3443,
+ "articles": 3147,
+ "infobox_places": 2427,
+ "stats": {
+  "dupe_row": 55,
+  "no_name": 63,
+  "no_year": 31,
+  "placed_infobox": 1886,
+  "placed_side_lost": 484,
+  "placed_side_won": 574,
+  "unplaced": 350
+ },
+ "placed": 2944,
+ "already_war_theatres": 386,
+ "already_other_pins": 161,
+ "installed": 2397,
+ "installed_by_era": {
+  "1000-1 BC": 125,
+  "1000-1499": 312,
+  "1500-1799": 355,
+  "1800-2026": 1389,
+  "3000-1001 BC": 50,
+  "AD 1-999": 166
+ },
+ "samples": {
+  "infobox": [
+   "-58--50: Gallic Wars -> isle r=250",
+   "-54--53: Ambiorix's revolt -> site r=120",
+   "28-28: Battle of Baduhenna Wood -> site r=120",
+   "772-804: Saxon Wars -> region r=150",
+   "978-980: Franco-German war of 978–980 -> state:West Franks r=382",
+   "1018-1018: Battle of Vlaardingen -> site r=120",
+   "1070-1071: Battle of Cassel (1071) -> district r=120",
+   "1203-1206: Loon War -> state r=300",
+   "1212-1213: Battle of Steppes -> district r=120",
+   "1213-1214: Anglo-French War (1213–1214) -> region r=125"
+  ],
+  "unplaced": [
+   "-12: Roman campaigns in Germania (12 BC – AD 16)",
+   "47: Gannascus",
+   "69: Revolt of the Batavi",
+   "286: Carausian Revolt",
+   "987: Charles, Duke of Lower Lorraine",
+   "1128: Waleran, Duke of Lower Lorraine",
+   "1139: Godfrey II, Count of Louvain",
+   "1142: Henry II, Duke of Limburg",
+   "1182: Fr:Spécial:Pages liées/Guerres de Lembeek",
+   "1226: War of the Succession of Breda",
+   "1283: War of the Limburg Succession",
+   "1352: War of the Valkenburg succession",
+   "1371: Battle of Baesweiler",
+   "1397: Third war of Guelders",
+   "1488: Squire Francis War",
+   "1491: Bread and Cheese Revolt",
+   "1531: Guelders Wars",
+   "1566: Eighty Years' War",
+   "1740: War of the Austrian Succession",
+   "1789: Liège Revolution",
+   "1792: War of the First Coalition",
+   "1798: Peasants' War (1798)",
+   "1803: War of the Third Coalition",
+   "1815: Hundred Days",
+   "1003: Henry of Schweinfurt"
+  ],
+  "side_lost": [
+   "448-448: Battle of Vicus Helena -> state:Salian Franks r=149",
+   "600-793: Frisian–Frankish wars -> state:Magna Frisia r=180",
+   "715-718: Frankish Civil War (715–718) -> state:Kingdom of Neustria r=211",
+   "834-891: Viking raids in the Rhineland -> state:Kingdom of the Franks r=607",
+   "1012-1018: Nl:Slag bij Florennes -> region r=150",
+   "1037-1037: Odo II, Count of Blois -> state r=300",
+   "1044-1056: Godfrey III, Duke of Lower Lorraine -> state:Holy Roman Empire r=533",
+   "1101-1115: Henry, Duke of Lower Lorraine -> state:Holy Roman Empire r=531",
+   "1102-1105: Robert II, Count of Flanders -> state:Holy Roman Empire r=531",
+   "1127-1128: William Clito -> state:County of Flanders r=120"
+  ],
+  "side_won": [
+   "1245-1273: Interregnum (Holy Roman Empire) -> state:House of Hohenstaufen r=154",
+   "1336-1366: Wars of the Loon Succession -> state r=150",
+   "1364-1368: First war of Guelders -> state:County of Holland r=148",
+   "1442-1446: Hollandic–Bremer war -> state r=300",
+   "1456-1458: Utrecht war (1456–1458) -> state:Duchy of Burgundy r=302",
+   "1459-1459: Revolt against Arnold -> state:Duchy of Burgundy r=302",
+   "1465-1468: Wars of Liège -> state:Duchy of Burgundy r=302",
+   "1473-1473: Burgundian conquest of Guelders -> state:Duchy of Burgundy r=303",
+   "1539-1540: Revolt of Ghent (1539) -> state:Spanish Empire r=800",
+   "1008-1008: Ajtony -> state:Kingdom of Hungary r=280"
+  ]
+ },
+ "theatre_duplicates_sample": [
+  [
+   "Saxon Wars",
+   "Saxon Wars"
+  ],
+  [
+   "Anglo-French War (1213–1214)",
+   "Anglo-French War of 1213–14"
+  ],
+  [
+   "Franco-Flemish War",
+   "Franco-Flemish War"
+  ],
+  [
+   "Hundred Years' War",
+   "Hundred Years' War"
+  ],
+  [
+   "Great Frisian War",
+   "Great Frisian War"
+  ],
+  [
+   "Burgundian Wars",
+   "Burgundian Wars"
+  ],
+  [
+   "Italian War of 1542–1546",
+   "Italian War of 1542–46 Un penesote"
+  ],
+  [
+   "Italian War of 1551–1559",
+   "Italian War of 1551–1559"
+  ],
+  [
+   "Franco-Spanish War (1635–1659)",
+   "Franco-Spanish War"
+  ],
+  [
+   "War of Devolution",
+   "War of Devolution"
+  ],
+  [
+   "Franco-Dutch War",
+   "Franco-Dutch War (theatre 1 of 2)"
+  ],
+  [
+   "War of the Reunions",
+   "War of the Reunions (theatre 1 of 2)"
+  ],
+  [
+   "Nine Years' War",
+   "Nine Years' War"
+  ],
+  [
+   "War of the Spanish Succession",
+   "War of the Spanish Succession in Aragon"
+  ],
+  [
+   "War of the Quadruple Alliance",
+   "War of the Quadruple Alliance"
+  ],
+  [
+   "War of the Second Coalition",
+   "War of the First Coalition (theatre 1 of 2)"
+  ],
+  [
+   "War of the Sixth Coalition",
+   "War of the Sixth Coalition"
+  ],
+  [
+   "First Crusade",
+   "People's Crusade"
+  ],
+  [
+   "Jurchen campaigns against the Song dynasty",
+   "Jurchen campaigns against the Song dynasty"
+  ],
+  [
+   "Livonian Crusade",
+   "Livonian Crusade"
+  ],
+  [
+   "Bulgarian–Latin wars",
+   "Bulgarian–Latin Wars"
+  ],
+  [
+   "Mongol invasions and conquests",
+   "Mongol invasions and conquests"
+  ],
+  [
+   "Saintonge War",
+   "Saintonge War"
+  ],
+  [
+   "War of Saint Sabas",
+   "War of Saint Sabas"
+  ],
+  [
+   "Kaidu–Kublai war",
+   "Kaidu–Kublai War"
+  ],
+  [
+   "War of the Sicilian Vespers",
+   "War of the Sicilian Vespers"
+  ],
+  [
+   "War of Metz",
+   "War of Metz"
+  ],
+  [
+   "Bulgarian–Ottoman Wars",
+   "Bulgarian–Ottoman Wars"
+  ],
+  [
+   "War of the Two Peters",
+   "War of the Two Peters"
+  ],
+  [
+   "War of the Cities (1387–1389)",
+   "War of the Cities"
+  ],
+  [
+   "Polish–Lithuanian–Teutonic War",
+   "Polish-Lithuanian-Teutonic War"
+  ],
+  [
+   "Wars in Lombardy",
+   "Wars in Lombardy"
+  ],
+  [
+   "Chanka–Inca War",
+   "Chanka–Inca War"
+  ],
+  [
+   "Albanian–Venetian War",
+   "Albanian–Venetian War"
+  ],
+  [
+   "Thirteen Years' War (1454–66)",
+   "Thirteen Years' War"
+  ],
+  [
+   "Wars of the Roses",
+   "Wars of the Roses"
+  ],
+  [
+   "Ottoman–Venetian War (1463–1479)",
+   "First Ottoman–Venetian War"
+  ],
+  [
+   "Ōnin War",
+   "Ōnin War"
+  ],
+  [
+   "Bohemian War (1468–78)",
+   "Bohemian–Hungarian War (1468–1478)"
+  ],
+  [
+   "Dano-Swedish War (1470–71)",
+   "Dano-Swedish War"
+  ]
+ ]
+}

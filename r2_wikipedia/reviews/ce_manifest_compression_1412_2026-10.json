@@ -1,0 +1,21 @@
+{
+  "note": "Lossless gzip and canonical hash validation.",
+  "files": [
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1362_1411_ce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1362_1411_ce_context_2026-10.json.gz",
+      "sha256_original": "6b249e07990d1f03583824c9799b9e4577447a0c209b76e49ff2d178d35d3803",
+      "original_bytes": 25352,
+      "compressed_bytes": 5531,
+      "installer": "r2_wikipedia/apply_1362_1411_ce_context.py"
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1362_1411_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1362_1411_ce_hazards_2026-10.json.gz",
+      "sha256_original": "13c084a5f324b8c90f036c0b2b24b42818b594d9db62c977fb1cbfaf22c7a26c",
+      "original_bytes": 13700,
+      "compressed_bytes": 2268,
+      "installer": "r2_wikipedia/apply_1362_1411_ce_hazards.py"
+    }
+  ]
+}

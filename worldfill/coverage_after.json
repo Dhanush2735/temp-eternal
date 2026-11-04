@@ -1,0 +1,68 @@
+{
+ "events_total": 92030,
+ "by_kind": {
+  "incident": 19216,
+  "political": 16719,
+  "battle": 13158,
+  "earthquake": 11815,
+  "volcano": 6849,
+  "plague": 5090,
+  "siege": 3957,
+  "disaster": 3911,
+  "war": 2960,
+  "cultural": 2560,
+  "treaty": 2486,
+  "tsunami": 2111,
+  "famine": 398,
+  "pandemic": 339,
+  "flood": 267,
+  "epidemic": 129,
+  "memorial": 54,
+  "?": 10,
+  "military": 1
+ },
+ "by_confidence": {
+  "wikipedia_year_page": 19368,
+  "wikipedia_region": 19193,
+  "wikidata": 15012,
+  "wikipedia_coord": 8748,
+  "wikipedia_list": 6711,
+  "gvp": 6059,
+  "noaa_ncei": 5550,
+  "wikidata_location": 5399,
+  "plague_biraben": 5044,
+  "wikidata_battles": 563,
+  "gazetteer_1909_auto": 170,
+  "gazetteer_1909": 103,
+  "high": 83,
+  "siddham": 17,
+  "?": 10
+ },
+ "source_coverage": {
+  "NOAA earthquakes": {
+   "covered": 6609,
+   "records": 6634,
+   "pct": 99.6
+  },
+  "NOAA tsunamis": {
+   "covered": 2388,
+   "records": 2670,
+   "pct": 89.4
+  },
+  "NOAA volcanic eruptions": {
+   "covered": 893,
+   "records": 897,
+   "pct": 99.6
+  },
+  "Smithsonian eruptions": {
+   "covered": 9898,
+   "records": 9911,
+   "pct": 99.9
+  },
+  "Plague outbreaks (Biraben)": {
+   "covered": 7551,
+   "records": 7711,
+   "pct": 97.9
+  }
+ }
+}

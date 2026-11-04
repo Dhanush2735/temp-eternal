@@ -1,0 +1,12 @@
+{
+  "packs": 20,
+  "events": 129163,
+  "candidates": 8622,
+  "matched_candidates": 1661,
+  "pairs": 1773,
+  "assessments": {
+    "exact_text_year_not_comparable": 405,
+    "exact_text_same_labeled_start_year": 1237,
+    "exact_text_possible_start_year_conflict": 131
+  }
+}

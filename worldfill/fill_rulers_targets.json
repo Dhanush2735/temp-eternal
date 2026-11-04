@@ -1,0 +1,1183 @@
+[
+ [
+  "List of Roman consuls",
+  "replace",
+  479,
+  {
+   "Roman Republic": 479
+  }
+ ],
+ [
+  "List of pharaohs",
+  "gaps",
+  141,
+  {
+   "New Kingdom of Egypt": 47,
+   "Twenty-third Dynasty of Egypt": 35,
+   "Ptolemaic Kingdom": 29,
+   "Twenty-sixth Dynasty of Egypt": 10,
+   "Thirtieth Dynasty of Egypt": 6,
+   "Middle Kingdom of Egypt": 1,
+   "Assyrian Egypt": 1
+  }
+ ],
+ [
+  "First Dynasty of Egypt",
+  "replace",
+  10,
+  {
+   "Early Dynastic Period of Egypt": 9
+  }
+ ],
+ [
+  "Second Dynasty of Egypt",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Third Dynasty of Egypt",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Fourth Dynasty of Egypt",
+  "replace",
+  8,
+  {
+   "Early Dynastic Period of Egypt": 7,
+   "Old Kingdom of Egypt": 2
+  }
+ ],
+ [
+  "Fifth Dynasty of Egypt",
+  "replace",
+  9,
+  {
+   "Old Kingdom of Egypt": 9
+  }
+ ],
+ [
+  "Sixth Dynasty of Egypt",
+  "replace",
+  6,
+  {
+   "Old Kingdom of Egypt": 4,
+   "Lower Egypt": 2
+  }
+ ],
+ [
+  "Ninth Dynasty of Egypt",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Tenth Dynasty of Egypt",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Eleventh Dynasty of Egypt",
+  "replace",
+  9,
+  {
+   "Upper Egypt": 8,
+   "Middle Kingdom of Egypt": 2
+  }
+ ],
+ [
+  "Twelfth Dynasty of Egypt",
+  "replace",
+  8,
+  {
+   "Middle Kingdom of Egypt": 8
+  }
+ ],
+ [
+  "Thirteenth Dynasty of Egypt",
+  "replace",
+  40,
+  {
+   "Middle Kingdom of Egypt": 40
+  }
+ ],
+ [
+  "Fifteenth Dynasty of Egypt",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Seventeenth Dynasty of Egypt",
+  "replace",
+  3,
+  {
+   "Seventeenth Dynasty of Egypt": 3
+  }
+ ],
+ [
+  "Eighteenth Dynasty of Egypt",
+  "replace",
+  15,
+  {
+   "New Kingdom of Egypt": 13,
+   "Seventeenth Dynasty of Egypt": 3
+  }
+ ],
+ [
+  "Nineteenth Dynasty of Egypt",
+  "replace",
+  8,
+  {
+   "New Kingdom of Egypt": 8
+  }
+ ],
+ [
+  "Twentieth Dynasty of Egypt",
+  "replace",
+  10,
+  {
+   "New Kingdom of Egypt": 10
+  }
+ ],
+ [
+  "Twenty-first Dynasty of Egypt",
+  "replace",
+  7,
+  {
+   "New Kingdom of Egypt": 7
+  }
+ ],
+ [
+  "List of kings of Babylon",
+  "replace",
+  63,
+  {
+   "Babylonia": 56
+  }
+ ],
+ [
+  "List of Assyrian kings",
+  "replace",
+  70,
+  {
+   "Assyria": 52,
+   "Neo-Assyrian Empire": 13,
+   "Assyrian Egypt": 2
+  }
+ ],
+ [
+  "List of Hittite kings",
+  "replace",
+  25,
+  {
+   "Hittites": 23
+  }
+ ],
+ [
+  "List of rulers of Elam",
+  "replace",
+  81,
+  {
+   "Elam": 52
+  }
+ ],
+ [
+  "Akkadian Empire",
+  "replace",
+  7,
+  {
+   "Akkadian Empire": 7
+  }
+ ],
+ [
+  "Mitanni",
+  "replace",
+  16,
+  {
+   "Mitanni": 16
+  }
+ ],
+ [
+  "King of Rome",
+  "gaps",
+  7,
+  {
+   "Roman Kingdom": 7
+  }
+ ],
+ [
+  "List of Roman emperors",
+  "replace",
+  173,
+  {
+   "Roman Empire": 76,
+   "Western Roman Empire": 19,
+   "Holy Roman Empire Minor States": 16,
+   "Byzantine Empire": 6
+  }
+ ],
+ [
+  "List of Byzantine emperors",
+  "replace",
+  90,
+  {
+   "Byzantine Empire": 80,
+   "Roman Empire": 8
+  }
+ ],
+ [
+  "Ptolemaic dynasty",
+  "gaps",
+  27,
+  {
+   "Ptolemaic Kingdom": 27
+  }
+ ],
+ [
+  "Seleucid dynasty",
+  "replace",
+  32,
+  {
+   "Seleucid Empire": 32
+  }
+ ],
+ [
+  "List of monarchs of Parthia",
+  "replace",
+  44,
+  {
+   "Parthian Empire": 43
+  }
+ ],
+ [
+  "Achaemenid Empire",
+  "replace",
+  17,
+  {
+   "Achaemenid Empire": 16
+  }
+ ],
+ [
+  "List of English monarchs",
+  "replace",
+  59,
+  {
+   "Kingdom of England": 44,
+   "Norman England": 7,
+   "Kingdom of Wessex": 4,
+   "Commonwealth of England": 4,
+   "Denmark-England": 3
+  }
+ ],
+ [
+  "List of British monarchs",
+  "replace",
+  13,
+  {
+   "Kingdom of Great Britain": 13
+  }
+ ],
+ [
+  "List of French monarchs",
+  "replace",
+  68,
+  {
+   "Kingdom of France": 37,
+   "West Franks": 22,
+   "Bourbon Kingdom of France": 7,
+   "French Second Republic": 4,
+   "Carolingian Empire": 3,
+   "First French Empire": 3,
+   "French First Republic": 2,
+   "French Consulate": 2
+  }
+ ],
+ [
+  "List of Spanish monarchs",
+  "replace",
+  35,
+  {
+   "Kingdom of Spain": 22,
+   "Francoist Spain": 8,
+   "Crown of Castile": 4,
+   "First Spanish Republic": 4,
+   "Second Spanish Republic": 3
+  }
+ ],
+ [
+  "List of Portuguese monarchs",
+  "replace",
+  42,
+  {
+   "Kingdom of Portugal": 41
+  }
+ ],
+ [
+  "List of Chinese monarchs",
+  "replace",
+  376,
+  {
+   "Han Dynasty": 25,
+   "Tang Dynasty": 23,
+   "Southern Song": 17,
+   "Ming Dynasty": 16,
+   "Northern Wei": 15,
+   "Zhou Dynasty": 13,
+   "Qing Dynasty": 10,
+   "Liu Song Dynasty": 9
+  }
+ ],
+ [
+  "Qi (state)",
+  "replace",
+  40,
+  {
+   "Qi": 34
+  }
+ ],
+ [
+  "Jin (Chinese state)",
+  "replace",
+  36,
+  {
+   "Jin": 30
+  }
+ ],
+ [
+  "Lu (state)",
+  "replace",
+  36,
+  {
+   "Lu": 25
+  }
+ ],
+ [
+  "Song (state)",
+  "replace",
+  24,
+  {
+   "Song": 21
+  }
+ ],
+ [
+  "Wei (state)",
+  "replace",
+  8,
+  {
+   "Wei": 8
+  }
+ ],
+ [
+  "Zhao (state)",
+  "replace",
+  12,
+  {
+   "Zhao": 12
+  }
+ ],
+ [
+  "Han (Warring States)",
+  "replace",
+  12,
+  {
+   "Han": 12
+  }
+ ],
+ [
+  "Qin (state)",
+  "replace",
+  31,
+  {
+   "Qin": 31
+  }
+ ],
+ [
+  "Zheng (state)",
+  "replace",
+  28,
+  {
+   "Zheng": 28
+  }
+ ],
+ [
+  "Zhongshan (state)",
+  "replace",
+  2,
+  {
+   "Zhongshan": 1
+  }
+ ],
+ [
+  "Chu (state)",
+  "replace",
+  42,
+  {
+   "Western Chu": 34
+  }
+ ],
+ [
+  "List of Polish monarchs",
+  "replace",
+  5,
+  {}
+ ],
+ [
+  "List of Satavahana kings",
+  "gaps",
+  65,
+  {
+   "Satavahana Dynasty": 65
+  }
+ ],
+ [
+  "List of Gupta emperors",
+  "replace",
+  16,
+  {
+   "Gupta Empire": 15
+  }
+ ],
+ [
+  "List of Pala emperors",
+  "replace",
+  22,
+  {
+   "Pala Empire": 22
+  }
+ ],
+ [
+  "Shunga Empire",
+  "replace",
+  9,
+  {
+   "Shunga Empire": 9
+  }
+ ],
+ [
+  "Pallava dynasty",
+  "replace",
+  24,
+  {
+   "Late Pallava Empire": 22
+  }
+ ],
+ [
+  "Kushan Empire",
+  "replace",
+  14,
+  {
+   "Western Kushans": 14
+  }
+ ],
+ [
+  "Mamluk dynasty (Delhi)",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Jaunpur Sultanate",
+  "replace",
+  6,
+  {
+   "Jaunpur Sultanate": 6
+  }
+ ],
+ [
+  "Kadamba dynasty",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Maitraka dynasty",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Alchon Huns",
+  "gaps",
+  10,
+  {
+   "White Huns": 9
+  }
+ ],
+ [
+  "Vakataka dynasty",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Gahadavala dynasty",
+  "replace",
+  6,
+  {
+   "Gahadavala Dynasty": 6
+  }
+ ],
+ [
+  "Eastern Ganga dynasty",
+  "replace",
+  38,
+  {
+   "Eastern Ganga Kingdom": 17
+  }
+ ],
+ [
+  "Chahamanas of Shakambhari",
+  "replace",
+  33,
+  {
+   "Chauhan Dynasty": 20
+  }
+ ],
+ [
+  "Kakatiya dynasty",
+  "replace",
+  5,
+  {
+   "Kakatiya Dynasty": 5
+  }
+ ],
+ [
+  "Nawabs of Awadh",
+  "replace",
+  13,
+  {
+   "Nawab of Awadh": 8
+  }
+ ],
+ [
+  "Western Chalukya Empire",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Western Satraps",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Habbari Emirate",
+  "replace",
+  6,
+  {
+   "Sind-Habbari Dynasty": 6
+  }
+ ],
+ [
+  "Paramara dynasty",
+  "replace",
+  19,
+  {
+   "Paramara Dynasty": 16
+  }
+ ],
+ [
+  "Seuna (Yadava) dynasty",
+  "replace",
+  28,
+  {
+   "Yadava Dynasty": 13
+  }
+ ],
+ [
+  "Varman dynasty (Kannauj)",
+  "replace",
+  2,
+  {
+   "Kannauj-Varman Dynasty": 2
+  }
+ ],
+ [
+  "Karkota dynasty",
+  "replace",
+  13,
+  {
+   "Karkota Dynasty": 13,
+   "Kashmir": 1
+  }
+ ],
+ [
+  "Utpala dynasty",
+  "replace",
+  25,
+  {
+   "Kashmir": 25,
+   "Karkota Dynasty": 1
+  }
+ ],
+ [
+  "Lohara dynasty",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Bahmani Sultanate",
+  "replace",
+  16,
+  {
+   "Bahmani Sultanate": 14
+  }
+ ],
+ [
+  "Maurya Empire",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Nanda Empire",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Kanva dynasty",
+  "replace",
+  4,
+  {
+   "Kanva Dynasty": 4
+  }
+ ],
+ [
+  "Chola dynasty",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Rashtrakuta dynasty",
+  "replace",
+  15,
+  {
+   "Rashtrakuta Dynasty": 15
+  }
+ ],
+ [
+  "List of Chalukya emperors",
+  "gaps",
+  75,
+  {
+   "Chalukya Dynasty": 31
+  }
+ ],
+ [
+  "List of Vijayanagara emperors",
+  "replace",
+  28,
+  {
+   "Vijayanagara Empire": 24
+  }
+ ],
+ [
+  "Qutb Shahi dynasty",
+  "replace",
+  8,
+  {
+   "Golconda Sultanate": 8
+  }
+ ],
+ [
+  "List of emperors of the Mughal Empire",
+  "replace",
+  21,
+  {
+   "Mughal Empire": 21
+  }
+ ],
+ [
+  "Nizams of Hyderabad",
+  "replace",
+  10,
+  {
+   "Hyderabad State": 10
+  }
+ ],
+ [
+  "Sena dynasty",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Kamarupa",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Pratihara dynasty",
+  "replace",
+  17,
+  {
+   "Gurjara-Pratihara Dynasty": 17
+  }
+ ],
+ [
+  "Chandela dynasty",
+  "replace",
+  23,
+  {
+   "Chandela Kingdom": 18
+  }
+ ],
+ [
+  "Hoysala Empire",
+  "replace",
+  16,
+  {
+   "Hoysala Kingdom": 11
+  }
+ ],
+ [
+  "List of rulers of Saba and Himyar",
+  "replace",
+  7,
+  {
+   "Himyarite Kingdom": 7
+  }
+ ],
+ [
+  "Funan",
+  "replace",
+  8,
+  {
+   "Funan": 8
+  }
+ ],
+ [
+  "Sunda Kingdom",
+  "replace",
+  15,
+  {
+   "Sunda Kingdom": 12
+  }
+ ],
+ [
+  "Ziyadid dynasty",
+  "gaps",
+  4,
+  {
+   "Ziyadid dynasty": 4
+  }
+ ],
+ [
+  "List of kings of the Lombards",
+  "replace",
+  35,
+  {
+   "Kingdom of Italy": 23,
+   "Lombards": 3
+  }
+ ],
+ [
+  "King of Italy",
+  "reject",
+  46,
+  {}
+ ],
+ [
+  "List of rulers of Tenochtitlan",
+  "replace",
+  22,
+  {
+   "Aztec Triple Alliance": 17
+  }
+ ],
+ [
+  "Sapa Inca",
+  "replace",
+  19,
+  {
+   "Inca Empire": 13
+  }
+ ],
+ [
+  "Kingdom of Kush",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "List of kings of Axum",
+  "replace",
+  41,
+  {
+   "Kingdom of Axum": 40
+  }
+ ],
+ [
+  "Mali Empire",
+  "reject",
+  0,
+  {}
+ ],
+ [
+  "Songhai Empire",
+  "replace",
+  72,
+  {
+   "Songhai Empire": 22
+  }
+ ],
+ [
+  "List of sultans of Delhi",
+  "replace",
+  33,
+  {
+   "Mamluk Dynasty": 12,
+   "Khalji Dynasty": 8,
+   "Tughlaq Dynasty": 8,
+   "Sayyid Dynasty": 5,
+   "Lodi Dynasty": 3
+  }
+ ],
+ [
+  "List of Maurya emperors",
+  "replace",
+  9,
+  {
+   "Maurya Empire": 9
+  }
+ ],
+ [
+  "List of Ottoman sultans",
+  "replace",
+  48,
+  {
+   "Ottoman Empire": 48
+  }
+ ],
+ [
+  "List of Mamluk sultans of Egypt",
+  "replace",
+  57,
+  {
+   "Mamluk Sultanate": 57
+  }
+ ],
+ [
+  "List of monarchs of Iran",
+  "replace",
+  220,
+  {
+   "Sasanian Empire": 43,
+   "Great Seljuk Empire": 28,
+   "Buyid Dynasty": 18,
+   "Samanid Empire": 17,
+   "Safavid Dynasty": 13,
+   "Ilkhanate": 11,
+   "Timurid Empire": 11,
+   "Aq Qoyunlu": 11
+  }
+ ],
+ [
+  "List of monarchs of Korea",
+  "gaps",
+  208,
+  {
+   "Unified Silla": 36,
+   "Goryeo": 32,
+   "Joseon": 27,
+   "Silla": 22,
+   "Baekje": 20,
+   "Goguryeo": 16,
+   "Korean Jin": 2,
+   "Korean Empire": 2
+  }
+ ],
+ [
+  "List of emperors of Japan",
+  "replace",
+  136,
+  {
+   "Heian Japan": 33,
+   "Asuka Japan": 17,
+   "Tokugawa Shogunate": 17,
+   "Kamakura Shogunate": 16,
+   "Ashikaga Shogunate": 16,
+   "Nara Japan": 11,
+   "Kenmu Restoration": 4,
+   "Warring States Japan": 3
+  }
+ ],
+ [
+  "List of Vietnamese monarchs",
+  "gaps",
+  254,
+  {
+   "Ngô Dynasty": 86,
+   "Lê Dynasty": 22,
+   "Đại Việt": 14,
+   "Nguyễn dynasty": 9,
+   "Tây Sơn dynasty": 8
+  }
+ ],
+ [
+  "List of monarchs of Thailand",
+  "gaps",
+  109,
+  {
+   "Ayutthaya Kingdom": 49,
+   "Sukhothai Kingdom": 22,
+   "Rattanakosin Kingdom": 7,
+   "Kingdom of Thailand": 4,
+   "Thonburi Kingdom": 2
+  }
+ ],
+ [
+  "List of Burmese monarchs",
+  "gaps",
+  159,
+  {
+   "First Toungoo Empire": 59,
+   "Ava Kingdom": 41,
+   "Pagan Kingdom": 23,
+   "Sagaing Kingdom": 20,
+   "Konbaung Dynasty": 16,
+   "Myinsaing Kingdom": 7,
+   "Kingdom of Pinya": 5,
+   "Union of Myanmar": 5
+  }
+ ],
+ [
+  "List of monarchs of Laos",
+  "gaps",
+  87,
+  {
+   "Kingdom of Luang Phrabang": 46,
+   "Lan Xang": 36,
+   "Kingdom of Laos": 2
+  }
+ ],
+ [
+  "List of Sri Lankan monarchs",
+  "replace",
+  163,
+  {
+   "Kingdom of Polonnaruwa": 21,
+   "Jaffna kingdom": 3,
+   "Sri Lanka": 1
+  }
+ ],
+ [
+  "List of caliphs",
+  "replace",
+  115,
+  {
+   "Abbasid Caliphate/Buyid Dynasty": 45,
+   "Umayyad Caliphate": 17,
+   "Fatimid Caliphate": 10,
+   "Rashidun Caliphate": 1
+  }
+ ],
+ [
+  "List of monarchs of Hungary",
+  "replace",
+  14,
+  {
+   "Principality of Hungary": 8,
+   "Kingdom of Hungary": 5
+  }
+ ],
+ [
+  "List of Polish monarchs",
+  "replace",
+  8,
+  {
+   "Kingdom of Poland": 5,
+   "Polish-Lithuanian Commonwealth": 3
+  }
+ ],
+ [
+  "List of Russian monarchs",
+  "replace",
+  12,
+  {
+   "Tsardom of Russia": 3,
+   "Grand Principality of Moscow": 1,
+   "Russian Empire": 1
+  }
+ ],
+ [
+  "List of rulers of Bohemia",
+  "gaps",
+  63,
+  {
+   "Kingdom of Bohemia": 11,
+   "Duchy of Bohemia": 9
+  }
+ ],
+ [
+  "List of monarchs of Denmark",
+  "replace",
+  45,
+  {
+   "Danish Magnates": 31,
+   "Denmark-England": 2,
+   "Denmark-Norway": 2,
+   "Kalmar Union": 1
+  }
+ ],
+ [
+  "List of Norwegian monarchs",
+  "replace",
+  72,
+  {
+   "Old Kingdom of Norway": 45,
+   "Denmark-Norway": 13,
+   "Kingdom of Norway": 7,
+   "United Kingdoms of Sweden and Norway": 5
+  }
+ ],
+ [
+  "List of Scottish monarchs",
+  "replace",
+  52,
+  {
+   "Kingdom of Alba": 26,
+   "Kingdom of Scotland": 13
+  }
+ ],
+ [
+  "List of monarchs of Naples",
+  "replace",
+  36,
+  {
+   "Kingdom of Naples": 19,
+   "Kingdom of Naples (Napoleonic)": 3,
+   "Kingdom of the Two Sicilies": 2
+  }
+ ],
+ [
+  "List of rulers of Austria",
+  "replace",
+  95,
+  {
+   "House of Habsburg": 35,
+   "Habsburg Monarchy": 33,
+   "Austrian Empire": 3,
+   "Austria-Hungary": 1
+  }
+ ],
+ [
+  "List of Holy Roman Emperors",
+  "gaps",
+  70,
+  {
+   "Holy Roman Empire Minor States": 53,
+   "Kingdom of Germany": 3
+  }
+ ],
+ [
+  "List of monarchs of Prussia",
+  "replace",
+  15,
+  {
+   "Brandenburg-Prussia": 6,
+   "Kingdom of Prussia": 5,
+   "Electorate of Brandenburg": 3
+  }
+ ],
+ [
+  "List of rulers of Lithuania",
+  "gaps",
+  6,
+  {
+   "Republic of Lithuania": 2,
+   "Kingdom of Lithuania": 1
+  }
+ ],
+ [
+  "List of Serbian monarchs",
+  "replace",
+  99,
+  {
+   "Grand Principality of Serbia": 27,
+   "Serbian Empire": 20,
+   "Serbian Despots": 18,
+   "Serbia": 14
+  }
+ ],
+ [
+  "List of Bulgarian monarchs",
+  "replace",
+  67,
+  {
+   "First Bulgarian Empire": 27,
+   "Second Bulgarian Empire": 26,
+   "Principality of Bulgaria": 4
+  }
+ ],
+ [
+  "List of Georgian monarchs",
+  "gaps",
+  199,
+  {
+   "Kingdom of Georgia": 66,
+   "Kingdom of Kartli": 41,
+   "Georgia": 28,
+   "Caucasian Iberia": 27,
+   "Principality of Iberia": 3
+  }
+ ],
+ [
+  "List of Armenian monarchs",
+  "replace",
+  161,
+  {
+   "Kingdom of Armenia": 65,
+   "Bagratid Armenia": 26
+  }
+ ],
+ [
+  "List of monarchs of Sicily",
+  "gaps",
+  1,
+  {}
+ ],
+ [
+  "List of Aragonese monarchs",
+  "replace",
+  6,
+  {
+   "Kingdom of Aragon": 4
+  }
+ ],
+ [
+  "List of Castilian monarchs",
+  "replace",
+  24,
+  {
+   "Crown of Castile": 15,
+   "Kingdom of Castile": 9
+  }
+ ],
+ [
+  "List of Navarrese monarchs",
+  "replace",
+  3,
+  {
+   "Kingdom of Navarre": 2
+  }
+ ],
+ [
+  "List of monarchs of Leon",
+  "replace",
+  23,
+  {
+   "Kingdom of León": 21,
+   "Kingdom of Asturias": 1
+  }
+ ]
+]

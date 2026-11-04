@@ -1,0 +1,35 @@
+{
+  "schema": "eternal-r2-3000-egypt-people-v1",
+  "updates": [],
+  "additions": [
+    {
+      "pack": "events_wikipedia_regional.json.gz",
+      "event": {
+        "id": "r2_egypt_first_dynasty_succession_context_c3000",
+        "name": "c. 3000 BC: First Dynasty sequence includes Narmer, Hor-Aha, Djer and Djet; dating uncertain",
+        "start": -3000,
+        "end": -2999,
+        "lat": 26.175,
+        "lon": 31.9083,
+        "radiusKm": 100,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=First_Dynasty_of_Egypt&oldid=1379753537",
+            "https://en.wikipedia.org/w/index.php?title=Narmer&oldid=1380968539",
+            "https://en.wikipedia.org/w/index.php?title=Hor-Aha&oldid=1381182889",
+            "https://en.wikipedia.org/w/index.php?title=Djer&oldid=1374952723",
+            "https://en.wikipedia.org/w/index.php?title=Djet&oldid=1376673981",
+            "https://en.wikipedia.org/w/index.php?title=Menes&oldid=1372501796"
+          ],
+          "review_note": "The conventional sequence includes Narmer, Hor-Aha, Djer and Djet. Absolute chronology varies: the First Dynasty article discusses different radiocarbon studies. The 3000 BCE slot is a contextual reference, not a claim these individuals were all alive, reigned together, or were present here in 3000 BCE. The identification of Menes with Narmer or Hor-Aha is debated; do not spawn Menes as an independent duplicate on this evidence. Abydos royal burial sites provide a regional reference, not the place of any individual event or an attested residence. No historical action or NPC behaviour is specified.",
+          "date_precision": "Approximate contextual indexing anchor; not a date for an accession, death, lifespan or event.",
+          "location_precision": "Abydos-area burial reference, not a proven location of participants during life. Radius is a game search setting.",
+          "reviewed_as_of": "2026-10-29"
+        }
+      }
+    }
+  ]
+}

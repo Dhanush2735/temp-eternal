@@ -1,0 +1,137 @@
+{
+  "schema": "eternal-r2-3000bce-world-v1",
+  "additions": [
+    {
+      "pack": "events_wikipedia.json.gz",
+      "event": {
+        "id": "r2_harappa_ravi_c3000",
+        "name": "c. 3000 BC: Harappa is inhabited during the early Ravi phase",
+        "start": -3000,
+        "end": -2999,
+        "lat": 30.62889,
+        "lon": 72.86389,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_coord",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Harappa&oldid=1382238880",
+            "https://whc.unesco.org/en/tentativelists/1878/",
+            "https://www.harappa.com/category/slide-subject/ravi-phase"
+          ],
+          "review_note": "The archaeological Ravi phase is approximately 3300–2800 BCE; the later mature city dates approximately 2600–1900 BCE. This note describes early settlement, not the founding date or mature city.",
+          "date_precision": "Approximate archaeological context; 3000 BCE is a gameplay reference, not a verified exact date.",
+          "location_precision": "Archaeological site coordinates; radius is a gameplay setting, not a mapped site boundary.",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    },
+    {
+      "pack": "events_wikipedia.json.gz",
+      "event": {
+        "id": "r2_dholavira_early_c3000",
+        "name": "c. 3000 BC: early settlement at Dholavira, in present-day Gujarat",
+        "start": -3000,
+        "end": -2999,
+        "lat": 23.88861,
+        "lon": 70.21364,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_coord",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Dholavira&oldid=1380144703",
+            "https://whc.unesco.org/en/list/1645/",
+            "https://whc.unesco.org/document/189324"
+          ],
+          "review_note": "UNESCO places earliest evidence around 3000 BCE. Wikipedia gives conflicting stage dates, including a 2650 BCE infobox and research that dates the first stages earlier; the precise onset is debated. The later walled city and reservoirs are not asserted for this reference year.",
+          "date_precision": "Approximate archaeological context; 3000 BCE is a gameplay reference, not a verified exact date.",
+          "location_precision": "Archaeological site coordinates; radius is a gameplay setting, not a mapped site boundary.",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    },
+    {
+      "pack": "events_wikipedia.json.gz",
+      "event": {
+        "id": "r2_shahr_sukhteh_c3000",
+        "name": "c. 3000 BC: Shahr-e Sukhteh is inhabited in southeastern Iran",
+        "start": -3000,
+        "end": -2999,
+        "lat": 30.59528,
+        "lon": 61.32639,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_coord",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Shahr-e_Sukhteh&oldid=1379197586",
+            "https://whc.unesco.org/en/list/1456/",
+            "https://www.iranicaonline.org/articles/italy-vi-italian-excavations-in-iran-2/"
+          ],
+          "review_note": "Wikipedia and UNESCO differ on occupation endpoints but both support habitation around 3000 BCE. The Wikipedia article dates an end-of-phase fire around 3000 BCE, but its cited Encyclopaedia Iranica places that fire around 2700 BCE; no fire or exact-year founding is asserted.",
+          "date_precision": "Approximate archaeological context; 3000 BCE is a gameplay reference, not a verified exact date.",
+          "location_precision": "Archaeological site coordinates; radius is a gameplay setting, not a mapped site boundary.",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    },
+    {
+      "pack": "events_wikipedia_regional.json.gz",
+      "event": {
+        "id": "r2_supe_valley_c3000",
+        "name": "c. 3000 BC: settlements exist in Peru’s Supe Valley, where Caral later becomes a major center",
+        "start": -3000,
+        "end": -2999,
+        "lat": -10.89361,
+        "lon": -77.52028,
+        "radiusKm": 80,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Norte_Chico_civilization&oldid=1375529882",
+            "https://en.wikipedia.org/w/index.php?title=Caral&oldid=1379214244",
+            "https://whc.unesco.org/document/152221",
+            "https://whc.unesco.org/en/list/1269/"
+          ],
+          "review_note": "ICOMOS states Supe Valley settlements were occupied in 3000 BCE and distinguishes the organized capital zone around 2600 BCE. Wikipedia dates Caral itself approximately 2600–2000 BCE, while UNESCO uses 3000–1800 BCE for the site; therefore this note concerns the valley, not an exact 3000 BCE date for the city. The later Caral site is only a regional reference point.",
+          "date_precision": "Approximate archaeological context; 3000 BCE is a gameplay reference, not a verified exact date.",
+          "location_precision": "Regional reference point and gameplay radius; not the culture or settlement boundary.",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    },
+    {
+      "pack": "events_wikipedia_regional.json.gz",
+      "event": {
+        "id": "r2_valdivia_coast_c3000",
+        "name": "c. 3000 BC: Valdivia culture is present on the coast of present-day Ecuador",
+        "start": -3000,
+        "end": -2999,
+        "lat": -2.36528,
+        "lon": -80.65361,
+        "radiusKm": 100,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Valdivia_culture&oldid=1343001907",
+            "https://www.metmuseum.org/toah/ht/02/sa",
+            "https://www.metmuseum.org/essays/real-alto",
+            "https://en.wikipedia.org/wiki/Real_Alto"
+          ],
+          "review_note": "The Metropolitan Museum places Valdivia culture around 3300–1500 BCE. The coordinate is an approximate regional anchor at the archaeological site of Real Alto; it is not a claim that the settlement had any particular later layout in 3000 BCE. The radius is a gameplay setting and does not cover or define all Valdivia sites.",
+          "date_precision": "Approximate archaeological context; 3000 BCE is a gameplay reference, not a verified exact date.",
+          "location_precision": "Regional reference point and gameplay radius; not the culture or settlement boundary.",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schema": "eternal-r2-2990bce-v1",
+  "pack": "events_wikipedia_regional.json.gz",
+  "event": {
+    "id": "r2_djer_death_estimate_c2990",
+    "name": "c. 2990–2980 BC: One estimate places the death of Egyptian ruler Djer in this period; dates are debated",
+    "start": -2990,
+    "end": -2989,
+    "lat": 26.175,
+    "lon": 31.9083,
+    "radiusKm": 100,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=30th_century_BC&oldid=1371895853",
+        "https://en.wikipedia.org/w/index.php?title=Djer&oldid=1374952723",
+        "https://en.wikipedia.org/w/index.php?title=First_Dynasty_of_Egypt&oldid=1379753537",
+        "https://en.wikipedia.org/w/index.php?title=Umm_El_Qa%27ab&oldid=1381208653",
+        "https://pharaoh.se/pharaohs/Djer/"
+      ],
+      "review_note": "The century overview places Djer's death around 2990–2980 BCE, but Djer's article dates his reign broadly around 3000 BCE and Egyptologists give widely different absolute reign dates; this is one proposed date range, not a proven death year. Djer was buried at Umm el-Qa'ab, but the location of his death is not established here. The regional point is his burial site, not a claimed death location; the radius is a gameplay setting. The -2990 slot is an approximate indexing anchor, not the only possible date or duration of a death event.",
+      "date_precision": "One proposed range c. 2990–2980 BCE, with other chronologies substantially earlier or later; -2990 is a reference slot only.",
+      "location_precision": "Regional reference at the Umm el-Qa'ab cemetery in Abydos, where Djer was buried; death location unknown.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

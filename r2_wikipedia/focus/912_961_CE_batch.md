@@ -1,0 +1,31 @@
+# 912–961 CE — preliminary research and implementation
+
+**Status:** 50 consecutive annual titles resolved and their raw revisions archived. This is a preliminary pass, not a complete collection of those years or their linked articles. Annual wikitext can contain unexpanded transclusions. The scan found 476 indexed records whose start lies in this interval, including 55 hazard-pack records; it did not include earlier-starting records that overlap the interval. Most records, links and hazards were not individually reviewed.
+
+## Implemented in indexed history
+
+26 existing records were updated in six indexed packs; no events were added and stable IDs were retained. Nine selected hazard records were moved out of the damaging hazards pack into indexed, non-damaging research notes. Examples:
+
+- The [Siege of Chandax](https://en.wikipedia.org/wiki/Siege_of_Chandax) ended in March 961. The gazetteer's exclusive end is now 962 so that 961 is covered; other readers use different end conventions. An older evidence note on this row describes the previous bounds and is superseded by this review's additional evidence.
+- The [Byzantine–Bulgarian war](https://en.wikipedia.org/wiki/Byzantine%E2%80%93Bulgarian_war_of_913%E2%80%93927) is recorded as 913–927, but is now regional context rather than a continuous local battle circle. The Constantinople battle uses a city proxy instead of a point north of the city. The second 914 Adrianople listing is flagged as a **possible**, not proven, duplicate.
+- Repeated descriptions of the [917 Achelous](https://en.wikipedia.org/wiki/Battle_of_Achelous_(917)), [938 Bạch Đằng](https://en.wikipedia.org/wiki/Battle_of_B%E1%BA%A1ch_%C4%90%E1%BA%B1ng_(938)) and [946 Baghdad](https://en.wikipedia.org/wiki/Battle_of_Baghdad_(946)) battles became notes; the other indexed battle entries remain. Baghdad's former point was in eastern Turkey. [Brunanburh](https://en.wikipedia.org/wiki/Battle_of_Brunanburh)'s precise site is disputed, despite the article infobox naming Bromborough, so its fixed battle circle became a note.
+- The [Fatimid Egyptian campaign](https://en.wikipedia.org/wiki/Fatimid_invasion_of_Egypt_(914%E2%80%93915)) and [Buyid](https://en.wikipedia.org/wiki/Buyid_dynasty) context points were moved away from incorrect countries. Alexandria and Shiraz are explicitly partial proxies, not representations of entire campaigns or territories. A separate 934 Fars event remains active at a Shiraz reference.
+- Claims of exact founding dates for [Nri](https://en.wikipedia.org/wiki/Kingdom_of_Nri), [Tuʻi Tonga](https://en.wikipedia.org/wiki/Tu%CA%BBi_Tonga_Empire), Warmadewa and Croatian kingship were qualified as contextual notes. The dated Belanjong inscription does not prove hereditary founding. The [Battle of Takkolam](https://en.wikipedia.org/wiki/Battle_of_Takkolam), dated 948–949 in its article, was likewise changed to an uncertainty note rather than an exact-year continuous military footprint.
+- The 939–944 [famine reports](https://en.wikipedia.org/w/index.php?title=List_of_famines&oldid=1382795904) concern multiple widely separated regions; the previous 500 km damaging circle around a Saudi Arabian point did not represent them. Dublin is a single reference, not the extent of the famine. Eight selected Smithsonian GVP eruptions with uncertain dates were also moved to notes: Hualālai, Ceboruco, Guagua Pichincha, Adams, Jefferson, Sete Cidades, Erebus and Northern East Pacific Rise. Their source links and date ranges are in the hazard manifest. **The 946 Paektu eruption was not moved**: its article describes tree-ring and radiocarbon evidence for late 946; its impacts and game implementation were not comprehensively reviewed.
+
+Coordinates labelled proxies do not establish exact historical locations or territorial boundaries. Reclassifying a record as a note may reduce gameplay effects; it does not prove that the event did not happen.
+
+## People and relationships
+
+`history/sources/wikipedia_912_961_ce_people_links.json` contains **47 research leads, 27 relationships and 48 event-role associations across 18 existing event IDs**. These include opposing and related figures around Bạch Đằng, Achelous, Baghdad, Brunanburh, Lechfeld, Takkolam and Chandax. Roles refer to different phases and do not imply everyone was physically present together. Traditional figures and uncertain relationships are qualified. This graph is research data, **not spawnable VIPs**, and does not implement natural VIP spawning, routines or alternate-timeline behavior.
+
+## Evidence, rollback and validation
+
+- Annual archive: `year_titles_912_961_CE.json` and `year_wikitext_912_961_CE.json.gz`; indexed-start scan: `indexed_start_scan_912_961_CE.txt.gz`.
+- Context manifest: `reviews/912_961_ce_context_2026-10.json.gz`, canonical SHA-256 `5333cffeebb930964eda7d403596cb912fcb2d42f7a9b5dcd8a95441124c002e`; installer `apply_912_961_ce_context.py`.
+- Hazard manifest: `reviews/912_961_ce_hazards_2026-10.json`, canonical SHA-256 `e560421091d1df5df5b5b7f4f5e348d46bf56dacc8a18c76d346fa1fa6a0db0c`; installer `apply_912_961_ce_hazards.py`.
+- Both layers were staged and applied with before/after guards. An earlier draft was actually rolled back in hazard-then-context order before the final manifests were regenerated and applied. Pack writes are atomic individually, not across multiple packs. For rollback, reverse later layers first, then these hazards, then this context; preserve and check their manifests.
+- 30 batch/resolver/scope/pipeline tests passed, including unique IDs, guarded after-images, dependency-aware in-memory reversal and reapplication, graph references, and annual revision checks. 71 linked Wikipedia title/revision pairs matched the API. This does not verify every factual claim, the unreviewed material, a live game, or saved-world behavior.
+- Current title inventory: **3,950 resolved chronological titles** — 2,989 BCE and 961 CE titles — not 3,950 completed histories. An additional 11 early BCE titles are recorded outside those recognized title files; they must not be silently counted as complete. Previously reported 3,168 partly worked years remain an unreconciled legacy measure. **Fully collected years established: 0.**
+
+The snapshot budget remains tight. No comprehensive game review or R1 Earth-replica work was performed in this batch.

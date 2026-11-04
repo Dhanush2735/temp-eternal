@@ -1,0 +1,220 @@
+{
+  "note": "Lossless archive gzip-to-xz with original gzip-byte and raw SHA-256; old reports may refer to gzip filenames. Top-level Python readers checked and applicable tests updated.",
+  "files": [
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_612_661_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_612_661_CE.json.xz",
+      "original_sha256": "7651ddc29368649bcdc70e230827a509cd86b958dfeb0582316076ea684fa4ca",
+      "raw_sha256": "b910ae41ae3fbad1c9e063ef8da97f77df9d27b721bc987957ef954030c4465a",
+      "original_bytes": 88099,
+      "compressed_bytes": 70108,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_562_611_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_562_611_CE.json.xz",
+      "original_sha256": "f28b2bc698652101e226c090b0867305c9bb676c00b40cb33ba9b902a88618ea",
+      "raw_sha256": "a3a4ffe9da7c7eb5969cdd6e26cf0e30bafa4bfa2aa9fb900eba9e4ca4a1e31c",
+      "original_bytes": 66358,
+      "compressed_bytes": 53260,
+      "readers": [
+        "r2_wikipedia/test_562_611_ce.py",
+        "r2_wikipedia/test_612_661_ce.py"
+      ]
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_512_561_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_512_561_CE.json.xz",
+      "original_sha256": "977312825f100cc05746833fcea47d1078c7630dd5348942e4e00875bd8e6212",
+      "raw_sha256": "f76cd0b22580d2980987b1bc447f73dd5b8df199d9f5aaed0e2779e37b1ade38",
+      "original_bytes": 74379,
+      "compressed_bytes": 59684,
+      "readers": [
+        "r2_wikipedia/test_512_561_ce.py"
+      ]
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_462_511_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_462_511_CE.json.xz",
+      "original_sha256": "0804eefbbb1df8dc3a09de98b4a277f353fa550a8ce9a95e14889c10921bb5ae",
+      "raw_sha256": "f69178b7b47c34a9a5d610179bad3e92232cf87191cf2930385f95662947360a",
+      "original_bytes": 58949,
+      "compressed_bytes": 48312,
+      "readers": [
+        "r2_wikipedia/test_462_511_ce.py"
+      ]
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_412_461_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_412_461_CE.json.xz",
+      "original_sha256": "dcaec84db4e8603ea30a51e4904b3aa25d86b89699dd63d5211453c5b64268f6",
+      "raw_sha256": "e2bd1cae834a7eca1f6a3ed4ecf7eec12b8779652046204d8aa691e6140796a1",
+      "original_bytes": 58540,
+      "compressed_bytes": 47736,
+      "readers": [
+        "r2_wikipedia/test_412_461_ce.py"
+      ]
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_362_411_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_362_411_CE.json.xz",
+      "original_sha256": "4aa38a68e4ae7e291a99134d51c90c2c55d0111bb261fb43e3cc63f39e2bd180",
+      "raw_sha256": "7cd60d5deb034f70a2f6db4f1b72ce3a58f75d5c8c9600b756cc2940477d84e1",
+      "original_bytes": 66282,
+      "compressed_bytes": 54412,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_312_361_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_312_361_CE.json.xz",
+      "original_sha256": "05229a754f047b7f1c16ca2be9d25faea4d0f5978e3daff064e09502f775fd20",
+      "raw_sha256": "5edc362504f024f0009b7eda567019885b78a8e25422499e4dc2fc4c24df8fcc",
+      "original_bytes": 50817,
+      "compressed_bytes": 42568,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_262_311_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_262_311_CE.json.xz",
+      "original_sha256": "7f95712e731cd6f4ad490c224265338b4627429e4ae14a658d8aa0eeda0a921b",
+      "raw_sha256": "85881ef0fa6a15f3a371a166e07b705fb3b1815c5137d5332f95fb0ddf67622b",
+      "original_bytes": 49531,
+      "compressed_bytes": 41580,
+      "readers": [
+        "r2_wikipedia/test_262_311_ce.py",
+        "r2_wikipedia/test_312_361_ce.py",
+        "r2_wikipedia/test_362_411_ce.py"
+      ]
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_212_261_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_212_261_CE.json.xz",
+      "original_sha256": "7bd2dc5d918a027944ff717b1d7552dd698e6abb2c4ce575664e17ae84431559",
+      "raw_sha256": "a9fa7220f4435475dcbe02fb6be0b95a276a87e09990b430c2d5b6b452ec783e",
+      "original_bytes": 45381,
+      "compressed_bytes": 37660,
+      "readers": [
+        "r2_wikipedia/test_212_261_ce.py"
+      ]
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_162_211_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_162_211_CE.json.xz",
+      "original_sha256": "80f8f4652a3f0ab12566259286db1b444f581b0c6b580272e0d9a50cdcee629b",
+      "raw_sha256": "ee0b72c803fe3f59ed57f65a1a0752b594959efbd773ad8e51ec490a9a5cdeb1",
+      "original_bytes": 40511,
+      "compressed_bytes": 33624,
+      "readers": [
+        "r2_wikipedia/test_162_211_ce.py"
+      ]
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_1362_1411_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_1362_1411_CE.txt.xz",
+      "original_sha256": "35d2ec89fe996dda1e8a0748c46f10930abb5eb2aa098da63aedb9dd71e44ef4",
+      "raw_sha256": "5a667270b91c3d78d057d983688fcb8c965f578253b870a01347945a968efd39",
+      "original_bytes": 120157,
+      "compressed_bytes": 94320,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_1312_1361_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_1312_1361_CE.txt.xz",
+      "original_sha256": "955f4a3cbea9b803369e627464f8efed84f182d509a71b4e8db31d788c9c3ed7",
+      "raw_sha256": "d6d9aa8298e32990806ae0b71c76bfdb1f99a6fa6b17c4ae24c665e02aeda656",
+      "original_bytes": 84975,
+      "compressed_bytes": 69544,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_1262_1311_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_1262_1311_CE.txt.xz",
+      "original_sha256": "90ebaa5ecdec7683ae0b1205bea986092bab26181b0fc7f9f29636f5506acca3",
+      "raw_sha256": "30f53580f12dcb1aa4845c2d163f0014c20e9d0cd8eda4dcbaf49cecabaf25b3",
+      "original_bytes": 70719,
+      "compressed_bytes": 59108,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_1162_1211_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_1162_1211_CE.txt.xz",
+      "original_sha256": "0abb337a771a169760d6b860aeaf09dff5f1a980fde0e576c7e5e91a4dd0d00d",
+      "raw_sha256": "272035ca2ab44bb47902920bfa748b99345e3f4490d5429a0f3084e79e379ff3",
+      "original_bytes": 60670,
+      "compressed_bytes": 50216,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_1112_1161_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_1112_1161_CE.txt.xz",
+      "original_sha256": "c2e2f55ee460461ac03b3dda8a999f2d801140a32669755563391866ef4e696b",
+      "raw_sha256": "bf788e5b2c52a076bf44bf5ad8a9e9b11f7404a35cd85eff36be704064f98ba6",
+      "original_bytes": 60469,
+      "compressed_bytes": 49472,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_1212_1261_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_1212_1261_CE.txt.xz",
+      "original_sha256": "2b10756436c789200602e66338683c12d260f4b08724525a12dc94f07029ce88",
+      "raw_sha256": "42f4af69fe6b4e1a6d69de164c203cba90081b9844d47f47a97453f576fa6375",
+      "original_bytes": 59244,
+      "compressed_bytes": 49084,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_1062_1111_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_1062_1111_CE.txt.xz",
+      "original_sha256": "24797763b0a8898d007d368fbbaab7a6bc3fd3b463c9a4090da646edbc30be58",
+      "raw_sha256": "a19bba1b614f5cde18b83aa7f129ee8879485a65ade5422e28e9ffb28d3fe321",
+      "original_bytes": 55213,
+      "compressed_bytes": 45556,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_1012_1061_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_1012_1061_CE.txt.xz",
+      "original_sha256": "cba76fe05559ec5db1ea78543a446c8fec6f177833726d744d2ab95c8ca622e4",
+      "raw_sha256": "d802b90060627d5434a3612f51b09055742cd00a346d01deeb8886b6ab88f059",
+      "original_bytes": 50671,
+      "compressed_bytes": 42292,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_612_661_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_612_661_CE.txt.xz",
+      "original_sha256": "4c90b47c4b5c3b2e325c78c97576d89a321b19ece450884109b937b79481c6a8",
+      "raw_sha256": "ae3df6a3122d47b20557251baea6343ebc46968e7d25ab976b8987fc8d06cf76",
+      "original_bytes": 50581,
+      "compressed_bytes": 42552,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_862_911_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_862_911_CE.txt.xz",
+      "original_sha256": "bff781a482e20b792ef8a20c7713e5c4aa5b02fc2121a84858a851b39207ed84",
+      "raw_sha256": "a51feb76d394c934f0cfbe504c1fecfe31a7de6ebf82cc82e8aad49e9ac70876",
+      "original_bytes": 47912,
+      "compressed_bytes": 40696,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_962_1011_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_962_1011_CE.txt.xz",
+      "original_sha256": "58054e66a7510cee6bdaa180cc9781c728c774070c6f5d7010b0abcc88d1cfb2",
+      "raw_sha256": "ddc4849660c1bd072427eb050ec98ea08c36591b86fe4aab85de5b363c533116",
+      "original_bytes": 46426,
+      "compressed_bytes": 39428,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/indexed_start_scan_712_761_CE.txt.gz",
+      "compressed": "r2_wikipedia/focus/indexed_start_scan_712_761_CE.txt.xz",
+      "original_sha256": "85d5fdd4ffce4b6e9619c533a24514b03c5d6af87675b19a0fa7884252afa954",
+      "raw_sha256": "29ae3c021c0e96a3dc7df3daf84915f2acc79f5c910d6ef1fac35f165e20abca",
+      "original_bytes": 43036,
+      "compressed_bytes": 36356,
+      "readers": []
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "note": "Lossless gzip, canonical validation; prior test suite verifies transforms.",
+  "files": [
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1312_1361_ce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1312_1361_ce_context_2026-10.json.gz",
+      "sha256_original": "01b5d6c73ceaaa41bccdc7a5d0f0168610407fbb8413401ddf7f393e03099612",
+      "original_bytes": 24680,
+      "compressed_bytes": 5627,
+      "installer": "r2_wikipedia/apply_1312_1361_ce_context.py"
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1312_1361_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1312_1361_ce_hazards_2026-10.json.gz",
+      "sha256_original": "1c9e4c4365ac360ac55147c1c32563bae892a87818b741282e91bcbd4a6dfae3",
+      "original_bytes": 15772,
+      "compressed_bytes": 2417,
+      "installer": "r2_wikipedia/apply_1312_1361_ce_hazards.py"
+    }
+  ]
+}

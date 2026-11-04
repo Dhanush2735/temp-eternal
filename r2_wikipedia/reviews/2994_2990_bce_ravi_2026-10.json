@@ -1,0 +1,56 @@
+{
+  "schema": "eternal-r2-2994-2990-bce-v1",
+  "updates": [
+    {
+      "pack": "events_wikipedia.json.gz",
+      "event_id": "r2_harappa_ravi_c3000",
+      "before": {
+        "id": "r2_harappa_ravi_c3000",
+        "name": "c. 3000 BC: Harappa is inhabited during the early Ravi phase",
+        "start": -3000,
+        "end": -2999,
+        "lat": 30.62889,
+        "lon": 72.86389,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_coord",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Harappa&oldid=1382238880",
+            "https://whc.unesco.org/en/tentativelists/1878/",
+            "https://www.harappa.com/category/slide-subject/ravi-phase"
+          ],
+          "review_note": "The archaeological Ravi phase is approximately 3300–2800 BCE; the later mature city dates approximately 2600–1900 BCE. This note describes early settlement, not the founding date or mature city.",
+          "date_precision": "Approximate archaeological context; 3000 BCE is a gameplay reference, not a verified exact date.",
+          "location_precision": "Archaeological site coordinates; radius is a gameplay setting, not a mapped site boundary.",
+          "reviewed_as_of": "2026-10-28"
+        }
+      },
+      "after": {
+        "id": "r2_harappa_ravi_c3000",
+        "name": "c. 3000–2800 BC: Harappa Ravi-phase archaeological context; dates approximate",
+        "start": -3000,
+        "end": -2799,
+        "lat": 30.62889,
+        "lon": 72.86389,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_coord",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Harappa&oldid=1382238880",
+            "https://whc.unesco.org/en/tentativelists/1878/",
+            "https://www.harappa.com/category/slide-subject/ravi-phase"
+          ],
+          "review_note": "UNESCO tentative-list documentation gives the Ravi aspect at Harappa c.3300–2800 BCE. This bounded game interval is only the c.3000–2800 slice; it does not prove an event or continuous occupation in each year. The Mature Harappan city is later, c.2600–1900. A broad regional Early Harappan note already exists; this one refers specifically to the Harappa site. The original one-year source and before-image remain in the manifest. NewsIndex may repeat context as news in each year.",
+          "date_precision": "Approximate archaeological phase; stored interval is a bounded game context, not exact annual occupation or an event every year; includes the reference year 2800.",
+          "location_precision": "Archaeological site coordinates; radius is a gameplay setting, not a mapped site boundary.",
+          "reviewed_as_of": "2026-10-29"
+        }
+      }
+    }
+  ],
+  "additions": []
+}

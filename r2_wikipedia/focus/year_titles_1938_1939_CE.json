@@ -1,0 +1,28 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-03T06:20:02.436211+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1938 (year)",
+      "canonical_title": "1938",
+      "redirect_chain": [
+        "1938"
+      ],
+      "status": "resolved",
+      "pageid": 19283852,
+      "lastrevid": 1380990605
+    },
+    {
+      "requested_title": "1939 (year)",
+      "canonical_title": "1939",
+      "redirect_chain": [
+        "1939"
+      ],
+      "status": "resolved",
+      "pageid": 34614,
+      "lastrevid": 1380581625
+    }
+  ]
+}

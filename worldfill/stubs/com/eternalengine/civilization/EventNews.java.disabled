@@ -1,0 +1,47 @@
+package com.eternalengine.civilization;
+
+/**
+ * Probe stub (step 61): shadows the real EventNews so TownFacts compiles without the Forge chain
+ * the real one pulls in (HistoricalPresence.Result and everything under it).
+ *
+ * <p>Step 62: {@code articleFits} is no longer a throw. TownFacts.provinceLine reaches it for real
+ * once a reading names the ruling state, and the method is pure text, so its real body is copied
+ * here verbatim (with its stop-word list). If the real one ever changes, change this copy. Every
+ * other method of the real class stays out of the stub, and nothing may be added to the reading
+ * from here.
+ */
+public final class EventNews {
+    private EventNews() {
+    }
+
+    private static final java.util.Set<String> NAME_STOP = java.util.Set.of("the", "of", "and", "empire", "kingdom",
+            "dynasty", "state", "states", "republic", "sultanate", "caliphate", "principality", "duchy", "great",
+            "first", "second", "third", "later", "early", "late", "new", "old", "united", "minor", "period", "in");
+
+    static boolean articleFits(String stateName, String article) {
+        if (stateName == null || article == null) {
+            return false;
+        }
+        java.util.Set<String> a = words(stateName);
+        java.util.Set<String> b = words(article);
+        for (String x : a) {
+            for (String y : b) {
+                if (x.equals(y) || (x.length() >= 5 && y.length() >= 5 && (x.startsWith(y) || y.startsWith(x)))) {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    private static java.util.Set<String> words(String s) {
+        java.util.Set<String> out = new java.util.HashSet<>();
+        String norm = java.text.Normalizer.normalize(s, java.text.Normalizer.Form.NFD).replaceAll("\\p{M}+", "");
+        for (String w : norm.toLowerCase(java.util.Locale.ROOT).split("[^a-z]+")) {
+            if (w.length() > 2 && !NAME_STOP.contains(w)) {
+                out.add(w);
+            }
+        }
+        return out;
+    }
+}

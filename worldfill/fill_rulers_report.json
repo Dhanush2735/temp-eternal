@@ -1,0 +1,38 @@
+{
+ "lists": {
+  "head_replaced": 918,
+  "head_added": 1435,
+  "states_given_list_rows": 91,
+  "gov_replaced": 388,
+  "gov_added": 714,
+  "split_removed_from_old_id": 283,
+  "lists_states": 70
+ },
+ "colonies": {
+  "home_british": 72,
+  "home_spanish": 35,
+  "home_portuguese": 98,
+  "home_french": 188,
+  "home_dutch": 32,
+  "home_danish": 45,
+  "home_german": 4,
+  "home_italian": 2,
+  "home_belgian": 9,
+  "head_replaced": 415,
+  "head_added": 415,
+  "colonies_filled": 27,
+  "dominions_filled": 3,
+  "governor_lists_rejected": 2,
+  "gov_replaced": 48,
+  "gov_added": 48,
+  "governor_lists_used": 1
+ },
+ "targeted": {
+  "head_replaced": 3363,
+  "head_added": 3545,
+  "head_gap_rows": 0,
+  "pages_gaps": 17,
+  "pages_replace": 100,
+  "pages_reject": 20
+ }
+}

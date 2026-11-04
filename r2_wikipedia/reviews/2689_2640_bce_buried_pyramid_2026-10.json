@@ -1,0 +1,33 @@
+{
+  "schema": "eternal-r2-2689-2640-buried-pyramid-v1",
+  "updates": [],
+  "additions": [
+    {
+      "pack": "events_wikipedia_regional.json.gz",
+      "event": {
+        "id": "r2_sekhemkhet_buried_pyramid_reference_c2645",
+        "name": "c. 2645 BC: Sekhemkhet’s unfinished pyramid at Saqqara; date approximate",
+        "start": -2645,
+        "end": -2644,
+        "lat": 29.866,
+        "lon": 31.213,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_coord",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Buried_Pyramid&oldid=1362493597",
+            "https://en.wikipedia.org/w/index.php?title=Sekhemkhet&oldid=1373367769",
+            "https://en.wikipedia.org/w/index.php?title=Third_Dynasty_of_Egypt&oldid=1377187091",
+            "https://en.wikipedia.org/w/index.php?title=Imhotep&oldid=1382264995"
+          ],
+          "review_note": "The Buried Pyramid article describes an unfinished step pyramid of Sekhemkhet at Saqqara, conventionally circa 2645 BCE. The broader dynasty chronology and reign placement vary substantially by scholar. This is a nominal contextual reference, not proof that construction began or was completed in 2645, that the building was completed at all, or that its estimated date is certain. Imhotep appears in a graffito on its enclosure wall; his exact architectural role is inferred, not established by this reference. Coordinates identify the site; radius is a game reference, not the building footprint. NewsIndex may also include the stored end year.",
+          "date_precision": "Approximate conventional reference only, no established year of beginning or ending construction.",
+          "location_precision": "Pyramid site coordinates; 20 km game radius is not the structure or worksite footprint.",
+          "reviewed_as_of": "2026-10-29"
+        }
+      }
+    }
+  ]
+}

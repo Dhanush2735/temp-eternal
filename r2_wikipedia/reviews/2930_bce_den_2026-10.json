@@ -1,0 +1,29 @@
+{
+  "schema": "eternal-r2-2930bce-v1",
+  "pack": "events_wikipedia_regional.json.gz",
+  "event": {
+    "id": "r2_den_death_estimate_c2930",
+    "name": "c. 2930 BC: One estimate for death of Egyptian ruler Den; dates are debated",
+    "start": -2930,
+    "end": -2929,
+    "lat": 26.175,
+    "lon": 31.9083,
+    "radiusKm": 100,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=30th_century_BC&oldid=1371895853",
+        "https://en.wikipedia.org/w/index.php?title=Den_(pharaoh)&oldid=1381183065",
+        "https://doi.org/10.1017/RDC.2023.15",
+        "https://www.worldhistory.org/First_Dynasty_of_Egypt/",
+        "https://en.wikipedia.org/w/index.php?title=Umm_El_Qa%27ab&oldid=1381208653"
+      ],
+      "review_note": "The century page gives c.2930 BCE as Den’s death, but gives no separate citation for that specific date and notes a general lack of citations. The biography gives c.2970 as the start of a 42-year reign; World History Encyclopedia gives c.2940 as an end of his reign, and peer-reviewed 2023 radiocarbon modeling estimates accession broadly 3104–2913 BCE (2σ), not a death date. These chronologies cannot be reconciled into a certain exact year. The -2930 one-year slot records only one proposed estimate, not proof of the date or place of death. Tomb T at Umm el-Qa’ab is a regional reference, not the death location.",
+      "date_precision": "Uncited approximate overview estimate; conflicting chronology; exact date unknown.",
+      "location_precision": "Regional reference near known tomb, not proven death or burial-event location.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

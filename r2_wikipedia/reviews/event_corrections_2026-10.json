@@ -1,0 +1,296 @@
+{
+  "schema": "eternal-r2-reviewed-event-corrections-v1",
+  "target": "events_wikipedia.json.gz",
+  "updates": [
+    {
+      "event_id": "wpy_862b1162d4",
+      "candidate_id": "391ea413e770c6a5ad06a58a",
+      "candidate_source": {
+        "title": "15th century",
+        "page_id": 34567,
+        "revision_id": 1378508381,
+        "line": 80,
+        "url": "https://en.wikipedia.org/w/index.php?title=15th_century&oldid=1378508381"
+      },
+      "before": {
+        "id": "wpy_862b1162d4",
+        "name": "The Catholics and Utraquists defeat the Taborites at the Battle of Lipany, ending the Hussite Wars",
+        "start": 1450,
+        "end": 1451,
+        "lat": 50.02861,
+        "lon": 14.93694,
+        "radiusKm": 20,
+        "kind": "battle",
+        "effect": "military_presence",
+        "confidence": "wikipedia_year_page"
+      },
+      "changes": {
+        "start": 1434,
+        "end": 1435,
+        "name": "Catholics and Utraquists defeat the Taborites at the Battle of Lipany"
+      },
+      "corroborating_sources": [
+        "https://www.britannica.com/topic/Czechoslovak-history/The-Hussite-wars",
+        "https://en.wikipedia.org/w/index.php?title=Battle_of_Lipany&oldid=1370268267"
+      ],
+      "review_note": "The century source says the battle ended the Hussite Wars; the rewritten title avoids claiming that an entire war ended immediately.",
+      "reviewed_as_of": "2026-10-28",
+      "candidate_snapshot": {
+        "schema": "eternal-r2-history-candidate-v1",
+        "id": "391ea413e770c6a5ad06a58a",
+        "status": "unreviewed_not_game_ready",
+        "source": {
+          "title": "15th century",
+          "page_id": 34567,
+          "revision_id": 1378508381,
+          "line": 80,
+          "url": "https://en.wikipedia.org/w/index.php?title=15th_century&oldid=1378508381"
+        },
+        "section_path": [
+          "Events",
+          "1430s"
+        ],
+        "section_kind": "event_or_development_section",
+        "period_context": {
+          "kind": "century",
+          "start": 1401,
+          "end": 1500,
+          "year_convention": "negative BCE; positive CE; no year zero"
+        },
+        "temporal_context": {
+          "classification": "before_present_year_context",
+          "basis": "leading_year_label",
+          "start_year": 1434,
+          "end_year": 1434,
+          "as_of": "2026-10-28",
+          "warning": "Context only: does not establish when an event occurred or whether a future claim is a projection."
+        },
+        "explicit_leading_year": {
+          "year": 1434,
+          "precision": "year",
+          "approximate": false,
+          "raw_label": "[[1434]]:",
+          "meaning": "unverified_label_at_start_of_source_bullet"
+        },
+        "parent_bullets": [],
+        "raw_wikitext": "[[1434]]: The Catholics and [[Utraquism|Utraquists]] defeat the [[Taborites]] at the [[Battle of Lipany]], ending the [[Hussite Wars]].",
+        "display_text_unverified": "1434: The Catholics and Utraquists defeat the Taborites at the Battle of Lipany, ending the Hussite Wars.",
+        "linked_articles": [
+          {
+            "title": "1434",
+            "label": "1434"
+          },
+          {
+            "title": "Utraquism",
+            "label": "Utraquists"
+          },
+          {
+            "title": "Taborites",
+            "label": "Taborites"
+          },
+          {
+            "title": "Battle of Lipany",
+            "label": "Battle of Lipany"
+          },
+          {
+            "title": "Hussite Wars",
+            "label": "Hussite Wars"
+          }
+        ],
+        "resolved_location": null,
+        "event_date_verified": false,
+        "note": "Source-derived candidate only; link names, section labels and page context are not proof of identity, date or location."
+      }
+    },
+    {
+      "event_id": "wpy_cbe4bd449d",
+      "candidate_id": "38d0ab54f1efc72d7ed27996",
+      "candidate_source": {
+        "title": "18th century",
+        "page_id": 34570,
+        "revision_id": 1378596652,
+        "line": 201,
+        "url": "https://en.wikipedia.org/w/index.php?title=18th_century&oldid=1378596652"
+      },
+      "before": {
+        "id": "wpy_cbe4bd449d",
+        "name": "The Battle of Nuuanu in the final days of King Kamehameha I's wars to unify the Hawaiian Islands",
+        "start": 1750,
+        "end": 1751,
+        "lat": 20.75,
+        "lon": -156.15,
+        "radiusKm": 20,
+        "kind": "battle",
+        "effect": "military_presence",
+        "confidence": "wikipedia_year_page"
+      },
+      "changes": {
+        "start": 1795,
+        "end": 1796,
+        "name": "Battle of Nuʻuanu on Oʻahu, in the Nuʻuanu Pali area",
+        "lat": 21.3668482,
+        "lon": -157.7933264,
+        "confidence": "wikipedia_region"
+      },
+      "corroborating_sources": [
+        "https://media.gohawaii.com/statewide/press-room/story-ideas/uncovering-royal-past-contemporary-hawaii",
+        "https://en.wikipedia.org/w/index.php?title=Nu%CA%BBuanu_Pali&oldid=1374754408",
+        "https://www.wikidata.org/w/index.php?title=Q4871927&oldid=2200555116",
+        "https://en.wikipedia.org/w/index.php?title=Battle_of_Nu%CA%BBuanu&oldid=1381556303"
+      ],
+      "review_note": "The Pali lookout is a reference point, not the exact position of the whole battle. The Wikipedia battle page lists different coordinates (21.233, -157.7877); preserve this disagreement. Mark as regional, not a local battle-scene pin.",
+      "reviewed_as_of": "2026-10-28",
+      "candidate_snapshot": {
+        "schema": "eternal-r2-history-candidate-v1",
+        "id": "38d0ab54f1efc72d7ed27996",
+        "status": "unreviewed_not_game_ready",
+        "source": {
+          "title": "18th century",
+          "page_id": 34570,
+          "revision_id": 1378596652,
+          "line": 201,
+          "url": "https://en.wikipedia.org/w/index.php?title=18th_century&oldid=1378596652"
+        },
+        "section_path": [
+          "Events",
+          "1751–1800"
+        ],
+        "section_kind": "event_or_development_section",
+        "period_context": {
+          "kind": "century",
+          "start": 1701,
+          "end": 1800,
+          "year_convention": "negative BCE; positive CE; no year zero"
+        },
+        "temporal_context": {
+          "classification": "before_present_year_context",
+          "basis": "leading_year_label",
+          "start_year": 1795,
+          "end_year": 1795,
+          "as_of": "2026-10-28",
+          "warning": "Context only: does not establish when an event occurred or whether a future claim is a projection."
+        },
+        "explicit_leading_year": {
+          "year": 1795,
+          "precision": "year",
+          "approximate": false,
+          "raw_label": "[[1795]]:",
+          "meaning": "unverified_label_at_start_of_source_bullet"
+        },
+        "parent_bullets": [],
+        "raw_wikitext": "[[1795]]: The [[Battle of Nu{{okina}}uanu]] in the final days of King [[Kamehameha I]]'s wars to [[Unification of Hawaii|unify]] the Hawaiian Islands.",
+        "display_text_unverified": "1795: The Battle of Nuuanu in the final days of King Kamehameha I's wars to unify the Hawaiian Islands.",
+        "linked_articles": [
+          {
+            "title": "1795",
+            "label": "1795"
+          },
+          {
+            "title": "Battle of Nu{{okina}}uanu",
+            "label": "Battle of Nu{{okina}}uanu"
+          },
+          {
+            "title": "Kamehameha I",
+            "label": "Kamehameha I"
+          },
+          {
+            "title": "Unification of Hawaii",
+            "label": "unify"
+          }
+        ],
+        "resolved_location": null,
+        "event_date_verified": false,
+        "note": "Source-derived candidate only; link names, section labels and page context are not proof of identity, date or location."
+      }
+    },
+    {
+      "event_id": "wpy_4c5ca5c0b7",
+      "candidate_id": "9d5628519f4d09c98b3693e2",
+      "candidate_source": {
+        "title": "19th century",
+        "page_id": 28419612,
+        "revision_id": 1379888169,
+        "line": 575,
+        "url": "https://en.wikipedia.org/w/index.php?title=19th_century&oldid=1379888169"
+      },
+      "before": {
+        "id": "wpy_4c5ca5c0b7",
+        "name": "Krakatoa volcano explosion, one of the largest in modern history",
+        "start": 1850,
+        "end": 1851,
+        "lat": -6.102,
+        "lon": 105.423,
+        "radiusKm": 20,
+        "kind": "disaster",
+        "effect": "disruption",
+        "confidence": "wikipedia_year_page"
+      },
+      "changes": {
+        "start": 1883,
+        "end": 1884
+      },
+      "corroborating_sources": [
+        "https://www.usgs.gov/news/volcano-watch-mixing-magmas-krakatau",
+        "https://volcano.si.edu/volcano.cfm?vn=262000",
+        "https://en.wikipedia.org/w/index.php?title=Krakatoa&oldid=1375256291"
+      ],
+      "review_note": "The retained position is the Krakatau caldera reference point, not a claim about every effect of the eruption.",
+      "reviewed_as_of": "2026-10-28",
+      "candidate_snapshot": {
+        "schema": "eternal-r2-history-candidate-v1",
+        "id": "9d5628519f4d09c98b3693e2",
+        "status": "unreviewed_not_game_ready",
+        "source": {
+          "title": "19th century",
+          "page_id": 28419612,
+          "revision_id": 1379888169,
+          "line": 575,
+          "url": "https://en.wikipedia.org/w/index.php?title=19th_century&oldid=1379888169"
+        },
+        "section_path": [
+          "Events",
+          "1851–1900"
+        ],
+        "section_kind": "event_or_development_section",
+        "period_context": {
+          "kind": "century",
+          "start": 1801,
+          "end": 1900,
+          "year_convention": "negative BCE; positive CE; no year zero"
+        },
+        "temporal_context": {
+          "classification": "before_present_year_context",
+          "basis": "leading_year_label",
+          "start_year": 1883,
+          "end_year": 1883,
+          "as_of": "2026-10-28",
+          "warning": "Context only: does not establish when an event occurred or whether a future claim is a projection."
+        },
+        "explicit_leading_year": {
+          "year": 1883,
+          "precision": "year",
+          "approximate": false,
+          "raw_label": "[[1883]]:",
+          "meaning": "unverified_label_at_start_of_source_bullet"
+        },
+        "parent_bullets": [],
+        "raw_wikitext": "[[1883]]: [[Krakatoa]] volcano explosion, one of the largest in modern history.",
+        "display_text_unverified": "1883: Krakatoa volcano explosion, one of the largest in modern history.",
+        "linked_articles": [
+          {
+            "title": "1883",
+            "label": "1883"
+          },
+          {
+            "title": "Krakatoa",
+            "label": "Krakatoa"
+          }
+        ],
+        "resolved_location": null,
+        "event_date_verified": false,
+        "note": "Source-derived candidate only; link names, section labels and page context are not proof of identity, date or location."
+      }
+    }
+  ],
+  "notice": "Manually reviewed corrections for three existing records, not a complete event dataset; sources may disagree and are preserved."
+}

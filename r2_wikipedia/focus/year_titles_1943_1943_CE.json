@@ -1,0 +1,18 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-03T11:57:35.418121+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1943 (year)",
+      "canonical_title": "1943",
+      "redirect_chain": [
+        "1943"
+      ],
+      "status": "resolved",
+      "pageid": 34630,
+      "lastrevid": 1383165355
+    }
+  ]
+}

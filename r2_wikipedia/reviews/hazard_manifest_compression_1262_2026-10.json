@@ -1,0 +1,203 @@
+{
+  "note": "Lossless gzip; original hashes, validation, synthetic dependency-free pack roundtrips; reports retain original paths. To undo decompress and revert installer paths.",
+  "files": [
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2089_2040_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2089_2040_bce_hazards_2026-10.json.gz",
+      "sha256_original": "04b57e765c62754daeedf0291de9ab18c737ada99056ea664056e76d5362fe6f",
+      "original_bytes": 38000,
+      "compressed_bytes": 3255,
+      "installer": "r2_wikipedia/apply_2089_2040_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2039_1990_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2039_1990_bce_hazards_2026-10.json.gz",
+      "sha256_original": "6d9ea9d47d374850fc11529bfac4a0a04797ad9bca2b8353a39a485e3a1f9f5e",
+      "original_bytes": 29728,
+      "compressed_bytes": 3193,
+      "installer": "r2_wikipedia/apply_2039_1990_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2589_2540_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2589_2540_bce_hazards_2026-10.json.gz",
+      "sha256_original": "13a0a1f04d681bf393728a30527910977a933b03861908424d755bb9c21c8ac5",
+      "original_bytes": 27146,
+      "compressed_bytes": 2506,
+      "installer": "r2_wikipedia/apply_2589_2540_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2689_2640_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2689_2640_bce_hazards_2026-10.json.gz",
+      "sha256_original": "68395f1a3989e1bbbe73729b23d4a577d08aaf74e5423f3d89cef61555d7272a",
+      "original_bytes": 24958,
+      "compressed_bytes": 2547,
+      "installer": "r2_wikipedia/apply_2689_2640_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2289_2240_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2289_2240_bce_hazards_2026-10.json.gz",
+      "sha256_original": "a79671a6aef237e6d776083e9c9c85d30b85bcfd9985da9d339b88f11641f958",
+      "original_bytes": 23687,
+      "compressed_bytes": 2445,
+      "installer": "r2_wikipedia/apply_2289_2240_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2489_2440_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2489_2440_bce_hazards_2026-10.json.gz",
+      "sha256_original": "b54d2ebf224400cb3edd720c025bf429a525820412ca0a32ed7d2289637e7e2a",
+      "original_bytes": 23362,
+      "compressed_bytes": 2426,
+      "installer": "r2_wikipedia/apply_2489_2440_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2139_2090_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2139_2090_bce_hazards_2026-10.json.gz",
+      "sha256_original": "a10952dd9f210b6da98e0e4f43020074be620bd77e886dc1ac43e6ba05c26d17",
+      "original_bytes": 20737,
+      "compressed_bytes": 2107,
+      "installer": "r2_wikipedia/apply_2139_2090_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1939_1890_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1939_1890_bce_hazards_2026-10.json.gz",
+      "sha256_original": "a9fa8ab71705c583e9c201d36fc378a289fe1d150617ea9a55047300e3a22e05",
+      "original_bytes": 19878,
+      "compressed_bytes": 2244,
+      "installer": "r2_wikipedia/apply_1939_1890_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/512_561_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/512_561_ce_hazards_2026-10.json.gz",
+      "sha256_original": "2a3506d62ddee7623d067b61b84017123c210dda97f714896bc33454412a14f5",
+      "original_bytes": 19395,
+      "compressed_bytes": 2667,
+      "installer": "r2_wikipedia/apply_512_561_ce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2239_2190_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2239_2190_bce_hazards_2026-10.json.gz",
+      "sha256_original": "9a8b249622f28c21713a0a61fa6d3fd1356adee52a99cd8dd7efcec5cd732009",
+      "original_bytes": 18244,
+      "compressed_bytes": 1985,
+      "installer": "r2_wikipedia/apply_2239_2190_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1839_1790_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1839_1790_bce_hazards_2026-10.json.gz",
+      "sha256_original": "da183c3dad5c895a3c31b03d4ec22468fe7a88e18824116ee6339a9774ec33f2",
+      "original_bytes": 18194,
+      "compressed_bytes": 2069,
+      "installer": "r2_wikipedia/apply_1839_1790_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/362_411_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/362_411_ce_hazards_2026-10.json.gz",
+      "sha256_original": "119f361e26b0219c781f8855cb3b9c41ba73f2f9b434eab279e4e64d5db53ceb",
+      "original_bytes": 18127,
+      "compressed_bytes": 2880,
+      "installer": "r2_wikipedia/apply_362_411_ce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/262_311_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/262_311_ce_hazards_2026-10.json.gz",
+      "sha256_original": "bc7a7fa74f56ab4771eab603e716ac46e09ea8c08915393a132c56e4c1c6a5c2",
+      "original_bytes": 17956,
+      "compressed_bytes": 2593,
+      "installer": "r2_wikipedia/apply_262_311_ce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1689_1640_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1689_1640_bce_hazards_2026-10.json.gz",
+      "sha256_original": "0525fd07fc4ff226fbd4f02449b16fc2d0e2cb42b9c9247476edc4b2c2818fa2",
+      "original_bytes": 17307,
+      "compressed_bytes": 2141,
+      "installer": "r2_wikipedia/apply_1689_1640_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2389_2340_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2389_2340_bce_hazards_2026-10.json.gz",
+      "sha256_original": "e25a09d352d03800d21724677fa8306ac5be7e28eaccc3025ed0f498b61a1a24",
+      "original_bytes": 16763,
+      "compressed_bytes": 2052,
+      "installer": "r2_wikipedia/apply_2389_2340_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2339_2290_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2339_2290_bce_hazards_2026-10.json.gz",
+      "sha256_original": "eae46af5cef0640e59ae4383e65d5e581136307a5417e04477a971a9d362d417",
+      "original_bytes": 16134,
+      "compressed_bytes": 2084,
+      "installer": "r2_wikipedia/apply_2339_2290_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/562_611_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/562_611_ce_hazards_2026-10.json.gz",
+      "sha256_original": "70e4ca6310d91b6e5918230d94407dbf4c81fac4e007233da619353de047d8a7",
+      "original_bytes": 16007,
+      "compressed_bytes": 2157,
+      "installer": "r2_wikipedia/apply_562_611_ce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1389_1340_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1389_1340_bce_hazards_2026-10.json.gz",
+      "sha256_original": "62548b64061f36259bae8ceb84b64f144833d12f03e98eafa87a85aa8cdb37c7",
+      "original_bytes": 15637,
+      "compressed_bytes": 2227,
+      "installer": "r2_wikipedia/apply_1389_1340_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1012_1061_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1012_1061_ce_hazards_2026-10.json.gz",
+      "sha256_original": "19f94b504446a429c20a4a1917879b1c0cd778208694d6810f9195f66476e15e",
+      "original_bytes": 15174,
+      "compressed_bytes": 2579,
+      "installer": "r2_wikipedia/apply_1012_1061_ce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2189_2140_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2189_2140_bce_hazards_2026-10.json.gz",
+      "sha256_original": "035039e99607b41be521b4b38f951a344c72a479d48bb34c479c0e51cfb39f44",
+      "original_bytes": 14227,
+      "compressed_bytes": 1645,
+      "installer": "r2_wikipedia/apply_2189_2140_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1489_1440_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1489_1440_bce_hazards_2026-10.json.gz",
+      "sha256_original": "75a44bdb731e09c4514a627f5e4e15338c042dc61db9b0d25c9c292cc36c98f8",
+      "original_bytes": 14017,
+      "compressed_bytes": 1870,
+      "installer": "r2_wikipedia/apply_1489_1440_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2539_2490_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2539_2490_bce_hazards_2026-10.json.gz",
+      "sha256_original": "62d8ea063891eda011d2de8d79173301bbb251c75dc8e0428c6f84f6843bab3f",
+      "original_bytes": 13256,
+      "compressed_bytes": 1643,
+      "installer": "r2_wikipedia/apply_2539_2490_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    }
+  ]
+}

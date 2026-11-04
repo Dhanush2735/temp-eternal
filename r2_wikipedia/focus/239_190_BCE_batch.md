@@ -1,0 +1,36 @@
+# 239–190 BCE: preliminary R2 batch
+
+**Status: partly worked, not fully collected.** All 50 English Wikipedia year titles resolved without redirects or missing pages; their revision wikitext is archived in `year_wikitext_239_190.json.gz`, with transclusions unexpanded. Five decade pages and selected linked articles were examined in part. The starting-year scan found 471 indexed rows; most were not individually reviewed and earlier-starting overlapping rows are excluded. No claim of worldwide completeness is warranted.
+
+## Indexed gameplay changes
+
+The guarded context manifest updates **29 existing rows in two indexed packs**, retaining stable IDs and exact before-images. No new effect-bearing event was added.
+
+- Twenty-five imported battle/siege starts were corrected to the linked Wikipedia article's BCE year, including Ticinus, Trebia, Lake Trasimene, Cannae, Raphia, Saguntum, New Carthage, Pengcheng, Julu and Zama. The world-pack NewsIndex treats `end` inclusively while HistoryGazetteer uses an exclusive end; an event may still display for an extra year. Location, ancient troop counts and narrative details are not certified. The Rhône-crossing article explicitly describes its site as debated.
+- The **Aous** entry now uses 198 BCE and a Tepelenë municipal reference instead of a point near the coast: its linked article describes an area between Tepelenë and Këlcyrë, but also shows the coastal point. The new reference is **not** a surveyed battlefield; the row is a note pending better sourcing. The article is a short stub and one of its citations needs scrutiny.
+- **Gaixia** is a note with a 203/202 BCE reference range. Its [battle article](https://en.wikipedia.org/w/index.php?title=Battle_of_Gaixia&oldid=1370110656) gives December 203, whereas Wikipedia's [battle list](https://en.wikipedia.org/wiki/List_of_wars_and_battles_involving_China) gives 202. Its precise location is disputed; the range is not a claim of continuous combat.
+- The broad **Second Punic War** row was changed from an uninterrupted 300 km military circle to regional context. Its campaigns moved across several theatres; separately indexed battles remain.
+- The world **Rhodes earthquake** row was changed from a 226 BCE lockdown to contextual 227/226 BCE evidence. It refers to the same historical disaster as the corresponding hazard record, not a second independently verified event.
+
+## Hazard review
+
+Seven rows were moved from the active hazard pack to regional notes. `Disasters.java` processes hazard rows regardless of their `kind` or `effect`, so a relabel within the hazard pack would not prevent damage. These moves preserve the source images and **do not establish that the underlying events did not happen**.
+
+- **Rhodes earthquake and tsunami:** [NOAA earthquake 28](https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/28) and [tsunami 3092](https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events/3092) are linked records, not independent confirmations. The [earthquake article](https://en.wikipedia.org/w/index.php?title=226_BC_Rhodes_earthquake&oldid=1366274899) discusses 226 versus 227 BCE and an uncertain epicenter. NOAA flags magnitude and effects; sources disagree about a tsunami, and some consider it improbable. The earthquake that toppled the Colossus is historically reported, but a precise-year radius is not established.
+- **South Eviokos and Maliakos:** NOAA [3471](https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events/3471) describes an abnormal ebb and [3472](https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events/3472) a reported inundation; their catalog validity and location/time/effects need checking. The connected Maliakos earthquake record draws on the same catalog source, not an independent confirmation. Neither establishes the modeled 60 km damaging tsunami circle.
+- **Cádiz earthquake and tsunami:** NOAA [earthquake 9732](https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/9732) and [tsunami 5382](https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events/5382) are linked and discuss post-medieval accounts with differing 218–216 BCE dates and disputed historicity. Scholars disagree about the interpretation; overlap with an earlier 241 BCE report is a possibility, not a proven duplicate.
+- **Hudson Mountains:** [Smithsonian GVP](https://volcano.si.edu/volcano.cfm?vn=390028&vtab=Eruptions) lists a confirmed subglacial eruption dated approximately 207 BCE **±240 years**, with uncertain VEI 4 and unknown end. Confirmation does not establish an exact-year, 40 km damage circle.
+
+Six other active hazards starting in this interval were not changed. GVP lists eruptions of [Vesuvius](https://volcano.si.edu/volcano.cfm?vn=211020&vtab=Eruptions), [Vulcano](https://volcano.si.edu/volcano.cfm?vn=211050&vtab=Eruptions), and [Santorini](https://volcano.si.edu/volcano.cfm?vn=212040&vtab=Eruptions) as confirmed; this check does not validate their modeled radii. Siwa, Liguria and Lintao earthquake modeling likewise remains for deeper review. Previously noted uncertainties and earlier hazards remain unresolved.
+
+## Connected people
+
+`history/sources/wikipedia_239_190_people_links.json` records **26 selected people, 18 qualified relationships and 37 roles across 13 indexed IDs**, from linked biographies and event articles. They include both sides of conflicts, such as Hannibal and Roman commanders, Xiang Yu, Liu Bang and Han Xin, and Ptolemy IV and Antiochus III. The graph also retains namesake distinctions and qualified family links. It is **research only**, not a completed biography crawl; no person is made spawnable and physical presence is not established merely by a role.
+
+## Verification, dependencies and limitations
+
+Context canonical SHA-256: `6ea8b7c71fe66020f4dc34fafe87a8fb0a51bf3b1756652870b9e19b029f61b2`; hazard manifest: `29d597d669418be107069d44f098cde668a872d1bd7d7b0ba6591d71db0e7bc8`. Stage succeeded; 13 context and 11 hazard tests passed before and after application. One initial hazard test expected the word “uncertain” but a qualified title used “disputed”; the assertion was corrected before application. All 36 installed after-images matched, and an in-memory dependency-ordered reverse/reapply round trip matched four affected pack objects.
+
+Reverse this batch's **hazards before its context**, then reverse earlier dependent shared-pack installers in reverse application order. Writes are atomic per pack, not across packs; interruption between pack writes needs recovery. These checks are not a live loader, save, full integrity, Java probe or Minecraft test, and the game jar remains stale. Natural VIP spawning, historical following and player-triggered branching remain unimplemented.
+
+Using the existing shared-endpoint convention, this preliminary batch adds 45 to the ledger: **3,033 partly worked, 0 fully collected**, not complete independent annual histories. Workspace snapshot headroom is approximately 248 KB before this report and ledger entry, so future work needs carefully verified lossless compaction or more durable capacity. Next chronological interval: 189–140 BCE. Earlier intervals remain incomplete.

@@ -1,0 +1,18 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-01T09:25:24.696841+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1920 (year)",
+      "canonical_title": "1920",
+      "redirect_chain": [
+        "1920"
+      ],
+      "status": "resolved",
+      "pageid": 34676,
+      "lastrevid": 1378304044
+    }
+  ]
+}

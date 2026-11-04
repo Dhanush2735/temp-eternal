@@ -1,0 +1,29 @@
+{
+  "schema": "eternal-r2-reviewed-new-event-v1",
+  "target": "events_wikipedia.json.gz",
+  "event": {
+    "id": "r2_bryn_celli_ddu_c3000",
+    "name": "c. 3000 BC: The prehistoric monument at Bryn Celli Ddu in Anglesey was built",
+    "start": -3000,
+    "end": -2999,
+    "lat": 53.2077,
+    "lon": -4.2361,
+    "radiusKm": 20,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_coord",
+    "r2SourceEvidence": {
+      "wikipedia_source": "https://en.wikipedia.org/w/index.php?title=Bryn_Celli_Ddu&oldid=1364805085",
+      "wikipedia_source_lines": [15, 20, 22, 57, 62],
+      "wikipedia_link_chain": ["3rd millennium BC", "30th century BC", "Stonehenge", "Bryn Celli Ddu"],
+      "other_sources": [
+        "https://www.cambridge.org/core/journals/proceedings-of-the-prehistoric-society/article/abs/bryn-celli-ddu-passage-tomb-anglesey-alignment-construction-date-and-ritual/6A95DFB4ED16F57FFCC6501466424DF1",
+        "https://cadw.gov.wales/visit/places-to-visit/bryn-celli-ddu-chambered-tomb"
+      ],
+      "date_precision": "approximate; the single 3000 BCE gameplay slot is a reference point, not a proven exact year",
+      "location_precision": "modern monument reference point, not site boundaries",
+      "review_note": "The Wikipedia article places a henge around 3000 BCE but describes its passage tomb as much later. A peer-reviewed 2010 study models passage-tomb construction between 3074 and 2956 calibrated BCE. The event deliberately refers only to a prehistoric monument and does not assert either phase chronology as certain. The paper's model is a date range, not proof of construction in 3000 BCE. The 20 km radius is a gameplay setting, not a mapped extent. A 2026-10-28 scan of indexed event and site names found no Bryn Celli Ddu row; differently named records can still overlap.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

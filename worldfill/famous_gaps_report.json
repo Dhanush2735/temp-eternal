@@ -1,0 +1,182 @@
+{
+ "gaps_found": 4152,
+ "wikidata_people": 823510,
+ "gaps_no_person_found": 3582,
+ "gaps_filled": 292,
+ "already_filled": 278,
+ "people_added": 439,
+ "total_people": 184193,
+ "seconds": 46,
+ "bytes": 4128775,
+ "added_by_century": {
+  "-1000": 2,
+  "-900": 2,
+  "-800": 6,
+  "-700": 3,
+  "-600": 9,
+  "-500": 3,
+  "-400": 8,
+  "-300": 5,
+  "-200": 3,
+  "-100": 5,
+  "0": 7,
+  "100": 5,
+  "200": 2,
+  "300": 5,
+  "400": 7,
+  "500": 13,
+  "600": 13,
+  "700": 7,
+  "800": 9,
+  "900": 11,
+  "1000": 11,
+  "1100": 18,
+  "1200": 16,
+  "1300": 19,
+  "1400": 17,
+  "1500": 42,
+  "1600": 56,
+  "1700": 62,
+  "1800": 64,
+  "1900": 9
+ },
+ "top_states": [
+  [
+   "Khanate of Bukhara",
+   8
+  ],
+  [
+   "Ashanti Empire",
+   8
+  ],
+  [
+   "Kingdom of Kongo",
+   7
+  ],
+  [
+   "Bijapur Sultanate",
+   6
+  ],
+  [
+   "Emirate of Bukhara",
+   6
+  ],
+  [
+   "Emirate of Nejd",
+   6
+  ],
+  [
+   "Greek City-States",
+   5
+  ],
+  [
+   "Zayyanid dynasty",
+   5
+  ],
+  [
+   "Caucasian Iberia",
+   5
+  ],
+  [
+   "Dutch Cape Colony",
+   5
+  ],
+  [
+   "Khmer Empire",
+   4
+  ],
+  [
+   "Hafsid Dynasty",
+   4
+  ],
+  [
+   "Kingdom of Bithynia",
+   4
+  ],
+  [
+   "Khanate of Kokand",
+   4
+  ],
+  [
+   "Portuguese Colonies",
+   4
+  ],
+  [
+   "Kingdom of Luang Phrabang",
+   4
+  ],
+  [
+   "Shirvan",
+   4
+  ],
+  [
+   "Cimmerian Bosporus",
+   4
+  ],
+  [
+   "Trucial States",
+   4
+  ],
+  [
+   "Wu",
+   3
+  ],
+  [
+   "Pandya Dynasty",
+   3
+  ],
+  [
+   "Hyderabad State",
+   3
+  ],
+  [
+   "Ghaznavid Empire",
+   3
+  ],
+  [
+   "Ahmadnagar Sultanate",
+   3
+  ],
+  [
+   "Etruscans",
+   3
+  ],
+  [
+   "Buyid Dynasty",
+   3
+  ],
+  [
+   "Demak Sultanate",
+   3
+  ],
+  [
+   "Scandinavian minor kingdoms",
+   3
+  ],
+  [
+   "Ayutthaya Kingdom",
+   3
+  ],
+  [
+   "Rustamid dynasty",
+   3
+  ]
+ ],
+ "examples": [
+  "Sridhara | 9th-and-10th-century Indian mathematician | 870-930",
+  "Matsyendranath | the guru of Gorakshanath, one of the eighty-four Mahasiddhas. | 901-1000",
+  "Pakubuwono I | Sultan of Mataram, 1704-1719 | 1648-1719",
+  "Satyanidhi Tirtha | Hindu guru | 1580-1660",
+  "Aflah ibn Abd al-Wahhab | Third Rustamid Imam | 810-864",
+  "Jalāl Barjas | Jordanian journalist | 1485-None",
+  "Al-Husayn I ibn Ali | Bey of Tunis | 1670-1740",
+  "Florinus of Remüs | 9th-century Christian saint | 650-856",
+  "Sayakumane | King of Champasak | 1710-1791",
+  "Nehorai Garmon | Tunisian rabbi and poet | 1682-1760",
+  "Nicholas Said | traveler, translator, soldier and author | 1836-1882",
+  "Kaléb | king of Aksum from 514 to 542 | 450-540",
+  "Peter the Iberian | Georgian saint | 400-491",
+  "Bagrat V of Imereti | King of Imereti | 1620-1681",
+  "Rajah Matanda | Rajah of Maynila | 1480-1572"
+ ]
+}

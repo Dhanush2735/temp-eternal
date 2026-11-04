@@ -1,0 +1,23 @@
+{
+  "original_bytes": 8503296,
+  "compacted_bytes": 7426048,
+  "saved_bytes": 1077248,
+  "logical_fingerprints": {
+    "subjects": {
+      "rows": 24436,
+      "sha256": "6bd37bc7713ffa0dbbad89e5a7bb7fe2cfbb3d65985a9c90b9e78502697e38df"
+    },
+    "biographies": {
+      "rows": 93,
+      "sha256": "69e10d44392abee90db38c392426f8cb2cd808c4bcdb2e8dcf5d3a69454e2114"
+    },
+    "origins": {
+      "rows": 54145,
+      "sha256": "487e0df613b0c185d30683dd1794fbabbc3441b4b0aa730da5e162490692a052"
+    }
+  },
+  "integrity": "ok",
+  "foreign_keys": "ok",
+  "backup_temporary": "/home/user/.cache/r2_compaction/people_before_origin_ids.sqlite3",
+  "warning": "Backup is in excluded .cache and will not persist."
+}

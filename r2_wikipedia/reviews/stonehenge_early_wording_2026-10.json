@@ -1,0 +1,45 @@
+{
+  "schema": "eternal-r2-wording-only-review-v1",
+  "target": "events_wikipedia.json.gz",
+  "event_id": "wpy_73ad8709b2",
+  "before": {
+    "id": "wpy_73ad8709b2",
+    "name": "c. 3000 BC: Stonehenge begins to be built. In its first version, it consists of a circular ditch and bank, with 56 wooden posts",
+    "start": -3000,
+    "end": -2999,
+    "lat": 51.17889,
+    "lon": -1.82611,
+    "radiusKm": 20,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_year_page"
+  },
+  "after": {
+    "id": "wpy_73ad8709b2",
+    "name": "c. 3000 BC: Stonehenge has an early circular earthwork and 56 pits; the pits’ original use is uncertain",
+    "start": -3000,
+    "end": -2999,
+    "lat": 51.17889,
+    "lon": -1.82611,
+    "radiusKm": 20,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_year_page",
+    "r2SourceEvidence": {
+      "wikipedia_article": "https://en.wikipedia.org/w/index.php?title=Stonehenge&oldid=1377824638",
+      "wikipedia_article_lines": [
+        16,
+        57,
+        61,
+        82,
+        85
+      ],
+      "linked_article": "https://en.wikipedia.org/w/index.php?title=Aubrey_holes&oldid=1376816188",
+      "corroborating_source": "https://www.english-heritage.org.uk/visit/places/stonehenge/history-and-stories/building-stonehenge/",
+      "review_note": "The earlier entry said 56 wooden posts; the cited research describes pits whose original contents are uncertain. The detailed Wikipedia article estimates the first phase around 3100 BCE; English Heritage says around 3000 BCE. The existing 3000 BCE one-year gameplay slot and coordinates are retained, not newly established as exact. Radius is a gameplay setting. Other Stonehenge rows require independent review.",
+      "date_precision": "approximate; 3000 BCE is the existing gameplay reference year, not a proven exact date",
+      "location_precision": "modern monument reference point",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

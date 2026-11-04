@@ -1,0 +1,41 @@
+{
+  "description": "Inactive backup files; decompress each archive to its former name without overwriting active sources.",
+  "files": [
+    {
+      "former": "eternal/src/main/java/com/eternalengine/civilization/RulerRegister.java.bak",
+      "archive": "eternal/src/main/java/com/eternalengine/civilization/RulerRegister.java.bak.xz",
+      "raw_sha256": "31b04341a385638906c3820ba49f9484adffccf2c8057290bc6e67a94d32b789",
+      "xz_sha256": "1771bbabe8f7b6dada07726012441977fea426ec5b34ef08ad63962eac25ba97"
+    },
+    {
+      "former": "worldfill/build_tiles.py.bak",
+      "archive": "worldfill/build_tiles.py.bak.xz",
+      "raw_sha256": "413fbe313854a1f59a044b701450b0e9c00cad52f4243effbe5aaebfbe70db5b",
+      "xz_sha256": "958f047c2246e0abc8fbd50f11f6ea5efe528e0f5e796125709daab4ecdbd388"
+    },
+    {
+      "former": "tools/harvest_dated.py.bak",
+      "archive": "tools/harvest_dated.py.bak.xz",
+      "raw_sha256": "7fea343839ba94ae8926ba7778272553b4eb7b432b7f008eff0564d386658b88",
+      "xz_sha256": "e3d804e3289790845c50095383c9ab22509c978975f2eb1537cf1a27cb6c68a1"
+    },
+    {
+      "former": "worldfill/probe_data_use.sh.bak",
+      "archive": "worldfill/probe_data_use.sh.bak.xz",
+      "raw_sha256": "202e6a6bd49934bfe6ae53ad4d133536f8073b795939b5462bd81f1622de13e5",
+      "xz_sha256": "e81e03061855112d07cc40710833d7cbafebc52a5d7f8d2449dcbdf88c6cc8f4"
+    },
+    {
+      "former": "worldfill/probe_step8.sh.bak",
+      "archive": "worldfill/probe_step8.sh.bak.xz",
+      "raw_sha256": "6edfb2b1c0e39e9e79196fa97b18a602621975752672f6dc5232314e9bdbf886",
+      "xz_sha256": "03c14eac1cf27814cc8c356a36540f79a028ac1f14310022d4e58ea9ca1a8e45"
+    },
+    {
+      "former": "worldfill/probe_talk.sh.bak",
+      "archive": "worldfill/probe_talk.sh.bak.xz",
+      "raw_sha256": "a474ac220ada2afa6e9f00336e8bd0895348cdf788293c3a2dc378c9e5966567",
+      "xz_sha256": "ccc1bc08eb676876af582a275c4d1e07e189409cea40c313d5ff164aab36e24e"
+    }
+  ]
+}

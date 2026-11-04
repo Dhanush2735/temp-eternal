@@ -1,0 +1,41 @@
+{
+ "states": 1544,
+ "with_wikidata_and_enwiki_article": 1399,
+ "counts": {
+  "with_infobox": 1269,
+  "languages": 1049,
+  "religion": 973,
+  "capital": 1088,
+  "leader": 811,
+  "leader_years": 803,
+  "government": 1062,
+  "no_infobox": 130
+ },
+ "leader_entries_total": 2581,
+ "examples": {
+  "languages": [
+   "Early Dynastic Period of Egypt",
+   "[[Egyptian language|Ancient Egyptian]]"
+  ],
+  "religion": [
+   "Early Dynastic Period of Egypt",
+   "[[Ancient Egyptian religion|Egyptian religion]]"
+  ],
+  "capital": [
+   "Early Dynastic Period of Egypt",
+   "[[Thinis]], then [[Memphis, Egypt|Memphis]]"
+  ],
+  "leader": [
+   "Early Dynastic Period of Egypt",
+   "[[Narmer]] (first)"
+  ],
+  "leader_years": [
+   "Early Dynastic Period of Egypt",
+   "{{circa|3150 BC}}"
+  ],
+  "government": [
+   "Early Dynastic Period of Egypt",
+   "Monarchy"
+  ]
+ }
+}

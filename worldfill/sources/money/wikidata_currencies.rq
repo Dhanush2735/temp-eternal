@@ -1,0 +1,12 @@
+PREFIX wd: <http://www.wikidata.org/entity/>
+PREFIX wdt: <http://www.wikidata.org/prop/direct/>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+SELECT ?c ?cLabel ?countryLabel ?start ?end ?replLabel WHERE {
+  ?c wdt:P31/wdt:P279* wd:Q8142 .
+  OPTIONAL { ?c wdt:P17 ?country . ?country rdfs:label ?countryLabel . FILTER(LANG(?countryLabel)="en") }
+  OPTIONAL { ?c wdt:P580 ?s1 } OPTIONAL { ?c wdt:P571 ?s2 }
+  OPTIONAL { ?c wdt:P582 ?e1 } OPTIONAL { ?c wdt:P576 ?e2 }
+  OPTIONAL { ?c wdt:P1366 ?repl . ?repl rdfs:label ?replLabel . FILTER(LANG(?replLabel)="en") }
+  BIND(COALESCE(?s1, ?s2) AS ?start) BIND(COALESCE(?e1, ?e2) AS ?end)
+  ?c rdfs:label ?cLabel . FILTER(LANG(?cLabel)="en")
+}

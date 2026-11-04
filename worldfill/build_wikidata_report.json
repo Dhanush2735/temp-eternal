@@ -1,0 +1,54 @@
+{
+ "stats": {
+  "battle_kept": 3725,
+  "battle_kept_wikidata": 11,
+  "battle_kept_wikidata_location": 3714,
+  "battle_location_too_coarse": 670,
+  "battle_locations_disagree": 6,
+  "battle_no_english_label": 61,
+  "battle_not_placeable": 645,
+  "items_queries": 51,
+  "qids_already_in_mod": 14934,
+  "siege_kept": 845,
+  "siege_kept_wikidata": 1,
+  "siege_kept_wikidata_location": 844,
+  "siege_location_too_coarse": 26,
+  "siege_no_english_label": 4,
+  "siege_not_placeable": 25,
+  "survey_new_battle": 4431,
+  "survey_new_siege": 874,
+  "survey_new_treaty": 1186,
+  "survey_new_war": 1130,
+  "treaty_kept": 907,
+  "treaty_kept_wikidata": 66,
+  "treaty_kept_wikidata_location": 841,
+  "treaty_location_too_coarse": 43,
+  "treaty_locations_disagree": 7,
+  "treaty_no_english_label": 232,
+  "treaty_not_placeable": 47,
+  "war_kept": 533,
+  "war_no_english_label": 3,
+  "war_no_located_battles": 594,
+  "war_theatres_kept": 563
+ },
+ "events": 6040,
+ "by_kind": {
+  "battle": 3725,
+  "treaty": 907,
+  "siege": 845,
+  "war": 563
+ },
+ "by_confidence": {
+  "wikidata_location": 5399,
+  "wikidata": 78,
+  "wikidata_battles": 563
+ },
+ "by_era": {
+  "1800-2026": 2736,
+  "1000-1 BC": 261,
+  "1000-1499": 1050,
+  "1500-1799": 1583,
+  "AD 1-999": 403,
+  "3000-1001 BC": 7
+ }
+}

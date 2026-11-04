@@ -1,0 +1,35 @@
+{
+  "scope": "Research only: future projections, not indexed historical gameplay events",
+  "as_of": "2026-10-29",
+  "years": [
+    {
+      "year": 2031,
+      "projections": [
+        {
+          "topic": "International Space Station controlled deorbit",
+          "status": "planned; timing may change",
+          "description": "Wikipedia's 2031 page lists the planned deorbit in 2031. Other descriptions use 2030–2031; neither timing nor outcome should be treated as completed history.",
+          "sources": ["https://en.wikipedia.org/wiki/2031", "https://en.wikipedia.org/wiki/International_Space_Station"]
+        },
+        {
+          "topic": "Men's Rugby World Cup",
+          "status": "scheduled; details may change",
+          "description": "The tournament is scheduled to be held in the United States; the exact dates were not determined in the article examined.",
+          "sources": ["https://en.wikipedia.org/wiki/2031_Men%27s_Rugby_World_Cup"]
+        },
+        {
+          "topic": "Comet Bernardinelli–Bernstein perihelion",
+          "status": "astronomical prediction; approximate",
+          "description": "The article predicts perihelion in January 2031. Orbital estimates may be revised; this is not an Earth-surface event.",
+          "sources": ["https://en.wikipedia.org/wiki/C/2014_UN271_(Bernardinelli%E2%80%93Bernstein)"]
+        }
+      ]
+    },
+    {
+      "year": 2041,
+      "projections": [],
+      "research_warning": "The 2041 redirect to Wikipedia's 3rd millennium page says the Antarctic Treaty is scheduled for review in 2041. This is not supported as an automatic 2041 event by the treaty text. Article XII allows a review conference upon request after 30 years from entry into force in 1961; the separate Environmental Protocol has a 50-year request mechanism after its 1998 entry into force. Do not install a scheduled 2041 review on this evidence.",
+      "sources": ["https://en.wikipedia.org/wiki/3rd_millennium", "https://www.ats.aq/e/antarctictreaty.html", "https://documents.ats.aq/atcm43/ww/ATCM43_ww008_e.pdf"]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-03T10:35:44.703724+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1942 (year)",
+      "canonical_title": "1942",
+      "redirect_chain": [
+        "1942"
+      ],
+      "status": "resolved",
+      "pageid": 34629,
+      "lastrevid": 1383142746
+    }
+  ]
+}

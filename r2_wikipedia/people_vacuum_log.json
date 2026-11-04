@@ -1,0 +1,146 @@
+{
+  "original_bytes": 8171520,
+  "compacted_bytes": 7733248,
+  "saved_bytes": 438272,
+  "logical_snapshot": {
+    "schema": [
+      [
+        "index",
+        "sqlite_autoindex_origin_candidates_1",
+        "origin_candidates",
+        null
+      ],
+      [
+        "index",
+        "sqlite_autoindex_origin_sources_1",
+        "origin_sources",
+        null
+      ],
+      [
+        "index",
+        "sqlite_autoindex_people_scheduler_1",
+        "people_scheduler",
+        null
+      ],
+      [
+        "index",
+        "sqlite_autoindex_subjects_1",
+        "subjects",
+        null
+      ],
+      [
+        "index",
+        "subject_canonical",
+        "subjects",
+        "CREATE INDEX subject_canonical on subjects(canonical) where canonical is not null"
+      ],
+      [
+        "index",
+        "subject_queue",
+        "subjects",
+        "CREATE INDEX subject_queue ON subjects(first_source) WHERE status='pending'"
+      ],
+      [
+        "table",
+        "biographies",
+        "biographies",
+        "CREATE TABLE biographies (\n pageid INTEGER PRIMARY KEY, title TEXT NOT NULL, wiki_revid INTEGER NOT NULL,\n wiki_timestamp TEXT NOT NULL, retrieved_at TEXT NOT NULL, qid TEXT NOT NULL,\n wikidata_revid INTEGER NOT NULL, wiki_gzip BLOB NOT NULL, wikidata_gzip BLOB NOT NULL)"
+      ],
+      [
+        "table",
+        "origin_candidates",
+        "origin_candidates",
+        "CREATE TABLE origin_candidates (\n id INTEGER PRIMARY KEY, candidate_id TEXT NOT NULL UNIQUE)"
+      ],
+      [
+        "table",
+        "origin_links",
+        "origin_links",
+        "CREATE TABLE origin_links(subject_id INTEGER NOT NULL REFERENCES subjects(id),\n    source_id INTEGER NOT NULL REFERENCES origin_sources(id),source_line INTEGER NOT NULL,\n    candidate_key INTEGER NOT NULL REFERENCES origin_candidates(id),\n    PRIMARY KEY(subject_id,source_id,source_line)) WITHOUT ROWID"
+      ],
+      [
+        "table",
+        "origin_sources",
+        "origin_sources",
+        "CREATE TABLE origin_sources (\n id INTEGER PRIMARY KEY, source_pageid INTEGER NOT NULL, source_title TEXT NOT NULL,\n source_revid INTEGER NOT NULL, UNIQUE(source_pageid, source_title, source_revid))"
+      ],
+      [
+        "table",
+        "people_scheduler",
+        "people_scheduler",
+        "CREATE TABLE people_scheduler (key TEXT PRIMARY KEY, value TEXT NOT NULL)"
+      ],
+      [
+        "table",
+        "sqlite_sequence",
+        "sqlite_sequence",
+        "CREATE TABLE sqlite_sequence(name,seq)"
+      ],
+      [
+        "table",
+        "subjects",
+        "subjects",
+        "CREATE TABLE subjects (\n id INTEGER PRIMARY KEY AUTOINCREMENT, title TEXT NOT NULL UNIQUE, first_source TEXT NOT NULL,\n status TEXT NOT NULL DEFAULT 'pending', canonical TEXT, qid TEXT, error TEXT)"
+      ],
+      [
+        "trigger",
+        "origin_links_original_key",
+        "origin_links",
+        "CREATE TRIGGER origin_links_original_key BEFORE INSERT ON origin_links BEGIN\n    SELECT CASE WHEN EXISTS (SELECT 1 FROM origin_links l\n     JOIN origin_sources existing ON existing.id=l.source_id\n     JOIN origin_sources incoming ON incoming.id=NEW.source_id\n     WHERE l.subject_id=NEW.subject_id AND l.source_line=NEW.source_line\n       AND existing.source_pageid=incoming.source_pageid AND existing.source_revid=incoming.source_revid)\n    THEN RAISE(IGNORE) END; END"
+      ],
+      [
+        "trigger",
+        "origins_insert",
+        "origins",
+        "CREATE TRIGGER origins_insert INSTEAD OF INSERT ON origins BEGIN\n    SELECT CASE WHEN NOT EXISTS(SELECT 1 FROM subjects WHERE title=NEW.title)\n                THEN RAISE(ABORT,'origin subject missing') END;\n    INSERT OR IGNORE INTO origin_sources(source_pageid,source_title,source_revid)\n     VALUES(NEW.source_pageid,NEW.source_title,NEW.source_revid);\n    INSERT OR IGNORE INTO origin_candidates(candidate_id) VALUES(NEW.candidate_id);\n    INSERT OR IGNORE INTO origin_links(subject_id,source_id,source_line,candidate_key)\n     VALUES((SELECT id FROM subjects WHERE title=NEW.title),\n       (SELECT id FROM origin_sources WHERE source_pageid=NEW.source_pageid AND source_title=NEW.source_title AND source_revid=NEW.source_revid),\n       NEW.source_line,(SELECT id FROM origin_candidates WHERE candidate_id=NEW.candidate_id)); END"
+      ],
+      [
+        "view",
+        "origins",
+        "origins",
+        "CREATE VIEW origins AS SELECT s.title AS title,p.source_pageid AS source_pageid,\n    p.source_title AS source_title,p.source_revid AS source_revid,l.source_line AS source_line,\n    c.candidate_id AS candidate_id FROM origin_links l JOIN subjects s ON s.id=l.subject_id\n    JOIN origin_sources p ON p.id=l.source_id JOIN origin_candidates c ON c.id=l.candidate_key"
+      ]
+    ],
+    "tables": {
+      "biographies": {
+        "rows": 108,
+        "sha256": "d4d7d1e658ecf6174d6c119bbbace92eaa767dc054a2b26e0859a5b450ef41d7"
+      },
+      "origin_candidates": {
+        "rows": 13682,
+        "sha256": "b7cefca64b1f81348d3507a2bd3dfd0bd20dffd85b829f8bfd5d958244dbb1d4"
+      },
+      "origin_links": {
+        "rows": 66142,
+        "sha256": "00b8085b602f8ec9c1f65d3fba2224f68b17c2c09ef52c24f52741ab35c3ecba"
+      },
+      "origin_sources": {
+        "rows": 192,
+        "sha256": "a9f6e9f47956ce25cbdb297a402916fdceee8cf38baf08f9322c54f058c67475"
+      },
+      "people_scheduler": {
+        "rows": 1,
+        "sha256": "c878f810bc45620cd173df04fe2b7a16df0bbb121fddf3d2af421dc56527c503"
+      },
+      "sqlite_sequence": {
+        "rows": 1,
+        "sha256": "e8ec46d17f341ff9aa47c209d69ccbbbf4cfccd4db9c553d42b5785ae4659d3e"
+      },
+      "subjects": {
+        "rows": 30807,
+        "sha256": "63eb02ee2f8cf4f00397241d48d49262aa3a9c6119b4422f22d6ff50beb705e7"
+      }
+    }
+  },
+  "export_sha256": "b663006deadac3fc100d7365a7f54b64339630e44d21a3276f3207d3102e4584",
+  "integrity": "ok",
+  "foreign_keys": "ok",
+  "queue_orders_checked": [
+    1,
+    5,
+    50,
+    1000
+  ],
+  "temporary_backup": "/home/user/.cache/r2_compaction/people_vacuum_2026_10_28_b.backup.sqlite3",
+  "note": "All physical tables and schema checked; temporary backup is excluded from snapshots. Stop all collectors before maintenance."
+}

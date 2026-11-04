@@ -1,0 +1,23 @@
+{
+  "original_bytes": 8830976,
+  "compacted_bytes": 6004736,
+  "saved_bytes": 2826240,
+  "logical_record_fingerprints": {
+    "subjects": {
+      "rows": 18387,
+      "sha256": "3f8d3bac38a0ad3a4375dd5cde6e7c8408cf790d006295baf87ae16a43a15a0f"
+    },
+    "biographies": {
+      "rows": 71,
+      "sha256": "c185c4e78d3b3e726273f945c73934ae7cae8a4b365993f6c7015307ef748c17"
+    },
+    "origins": {
+      "rows": 39489,
+      "sha256": "148a01a54917295d2a37b4e9d002ab57e04db28769017ccdc2386687e8d75815"
+    }
+  },
+  "backup_temporary": "/home/user/.cache/r2_compaction/people_before.sqlite3",
+  "integrity": "ok",
+  "foreign_keys": "ok",
+  "note": "All origin rows, subjects and biography blobs matched before and after. Backup is temporary and excluded from workspace snapshots."
+}

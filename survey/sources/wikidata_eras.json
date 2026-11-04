@@ -1,0 +1,410 @@
+{
+ "class_labels": {
+  "Q198": "war",
+  "Q7944": "earthquake",
+  "Q8065": "natural disaster",
+  "Q168247": "famine",
+  "Q8068": "flood",
+  "Q131361": "irony",
+  "Q44512": "epidemic",
+  "Q168983": "conflagration",
+  "Q178561": "battle",
+  "Q188055": "siege",
+  "Q3241045": "disease outbreak",
+  "Q124734": "rebellion",
+  "Q4426883": "Viktor Soyfer",
+  "Q17000908": "Australian Construction Contracts",
+  "Q131569": "treaty"
+ },
+ "battle": {
+  "counts": {
+   "items": 18642,
+   "with_own_P625": 8836,
+   "with_coord_or_P276_coord": 13455,
+   "dated": 14386,
+   "dated_in_range": 14384,
+   "dated_in_range_own_P625": 8001,
+   "dated_in_range_geocoded": 12419,
+   "dated_in_range_geocoded_already_in_mod": 7988,
+   "dated_in_range_geocoded_NEW": 4431,
+   "NEW_with_own_P625": 13,
+   "dated_outside_range": 2
+  },
+  "geocoded_by_era": {
+   "own_P625": {
+    "1000-1499": 1057,
+    "1800-2026": 4300,
+    "1000-1 BC": 304,
+    "1500-1799": 1906,
+    "AD 1-999": 428,
+    "3000-1001 BC": 6
+   },
+   "geocoded": {
+    "1000-1499": 1687,
+    "1800-2026": 6523,
+    "1000-1 BC": 500,
+    "1500-1799": 2896,
+    "AD 1-999": 798,
+    "3000-1001 BC": 15
+   },
+   "new": {
+    "1000-1499": 631,
+    "1000-1 BC": 198,
+    "1800-2026": 2231,
+    "1500-1799": 990,
+    "AD 1-999": 372,
+    "3000-1001 BC": 9
+   }
+  }
+ },
+ "siege": {
+  "counts": {
+   "items": 3916,
+   "with_own_P625": 2769,
+   "with_coord_or_P276_coord": 3684,
+   "dated": 3723,
+   "dated_in_range": 3722,
+   "dated_in_range_own_P625": 2736,
+   "dated_in_range_geocoded": 3634,
+   "dated_in_range_geocoded_already_in_mod": 2734,
+   "dated_in_range_geocoded_NEW": 900,
+   "NEW_with_own_P625": 2,
+   "dated_outside_range": 1
+  },
+  "geocoded_by_era": {
+   "own_P625": {
+    "1500-1799": 1188,
+    "1000-1499": 647,
+    "1000-1 BC": 128,
+    "1800-2026": 535,
+    "AD 1-999": 236,
+    "3000-1001 BC": 2
+   },
+   "geocoded": {
+    "1500-1799": 1540,
+    "1000-1499": 937,
+    "1000-1 BC": 190,
+    "1800-2026": 658,
+    "AD 1-999": 306,
+    "3000-1001 BC": 3
+   },
+   "new": {
+    "1500-1799": 352,
+    "1000-1499": 291,
+    "1000-1 BC": 63,
+    "AD 1-999": 70,
+    "1800-2026": 123,
+    "3000-1001 BC": 1
+   }
+  }
+ },
+ "war": {
+  "counts": {
+   "items": 1766,
+   "with_own_P625": 88,
+   "with_coord_or_P276_coord": 1136,
+   "dated": 1740,
+   "dated_in_range": 1740,
+   "dated_in_range_own_P625": 87,
+   "dated_in_range_geocoded": 1135,
+   "dated_in_range_geocoded_NEW": 1133,
+   "NEW_with_own_P625": 85,
+   "dated_in_range_geocoded_already_in_mod": 2
+  },
+  "geocoded_by_era": {
+   "own_P625": {
+    "1800-2026": 39,
+    "1000-1499": 14,
+    "1000-1 BC": 8,
+    "1500-1799": 25,
+    "AD 1-999": 1
+   },
+   "geocoded": {
+    "1800-2026": 401,
+    "1000-1499": 219,
+    "1500-1799": 299,
+    "1000-1 BC": 124,
+    "AD 1-999": 89,
+    "3000-1001 BC": 3
+   },
+   "new": {
+    "1800-2026": 400,
+    "1000-1499": 219,
+    "1500-1799": 299,
+    "1000-1 BC": 123,
+    "AD 1-999": 89,
+    "3000-1001 BC": 3
+   }
+  }
+ },
+ "survey's 'war' class Q124734": {
+  "counts": {
+   "items": 1732,
+   "with_coord_or_P276_coord": 821,
+   "dated": 1169,
+   "dated_in_range": 1169,
+   "dated_in_range_geocoded": 761,
+   "dated_in_range_geocoded_NEW": 744,
+   "with_own_P625": 123,
+   "dated_in_range_own_P625": 106,
+   "NEW_with_own_P625": 89,
+   "dated_in_range_geocoded_already_in_mod": 17
+  },
+  "geocoded_by_era": {
+   "geocoded": {
+    "1000-1499": 68,
+    "1800-2026": 498,
+    "1500-1799": 135,
+    "1000-1 BC": 8,
+    "AD 1-999": 51,
+    "3000-1001 BC": 1
+   },
+   "new": {
+    "1000-1499": 68,
+    "1800-2026": 485,
+    "1500-1799": 133,
+    "1000-1 BC": 8,
+    "AD 1-999": 49,
+    "3000-1001 BC": 1
+   },
+   "own_P625": {
+    "1800-2026": 80,
+    "1500-1799": 15,
+    "1000-1499": 7,
+    "AD 1-999": 4
+   }
+  }
+ },
+ "treaty (by label, as survey)": {
+  "counts": {
+   "items": 3612,
+   "with_coord_or_P276_coord": 1402,
+   "dated": 2063,
+   "dated_in_range": 2063,
+   "dated_in_range_geocoded": 1186,
+   "dated_in_range_geocoded_NEW": 1186,
+   "with_own_P625": 84,
+   "dated_in_range_own_P625": 69,
+   "NEW_with_own_P625": 69
+  },
+  "geocoded_by_era": {
+   "geocoded": {
+    "1800-2026": 703,
+    "1500-1799": 271,
+    "AD 1-999": 13,
+    "1000-1499": 192,
+    "1000-1 BC": 6,
+    "3000-1001 BC": 1
+   },
+   "new": {
+    "1800-2026": 703,
+    "1500-1799": 271,
+    "AD 1-999": 13,
+    "1000-1499": 192,
+    "1000-1 BC": 6,
+    "3000-1001 BC": 1
+   },
+   "own_P625": {
+    "1500-1799": 13,
+    "1800-2026": 48,
+    "1000-1499": 7,
+    "AD 1-999": 1
+   }
+  }
+ },
+ "epidemic (by label)": {
+  "counts": {
+   "items": 153,
+   "with_coord_or_P276_coord": 67,
+   "dated": 102,
+   "dated_in_range": 102,
+   "dated_in_range_geocoded": 59,
+   "dated_in_range_geocoded_NEW": 59,
+   "with_own_P625": 16,
+   "dated_in_range_own_P625": 14,
+   "NEW_with_own_P625": 14
+  },
+  "geocoded_by_era": {
+   "geocoded": {
+    "1800-2026": 45,
+    "1000-1499": 1,
+    "1500-1799": 12,
+    "1000-1 BC": 1
+   },
+   "new": {
+    "1800-2026": 45,
+    "1000-1499": 1,
+    "1500-1799": 12,
+    "1000-1 BC": 1
+   },
+   "own_P625": {
+    "1800-2026": 13,
+    "1500-1799": 1
+   }
+  }
+ },
+ "pandemic (by label)": {
+  "counts": {
+   "items": 29,
+   "with_coord_or_P276_coord": 11,
+   "dated": 23,
+   "dated_in_range": 23,
+   "dated_in_range_geocoded": 11,
+   "dated_in_range_geocoded_NEW": 11
+  },
+  "geocoded_by_era": {
+   "geocoded": {
+    "AD 1-999": 2,
+    "1800-2026": 6,
+    "1500-1799": 2,
+    "1000-1499": 1
+   },
+   "new": {
+    "AD 1-999": 2,
+    "1800-2026": 6,
+    "1500-1799": 2,
+    "1000-1499": 1
+   }
+  }
+ },
+ "disease outbreak Q3241045": {
+  "counts": {
+   "items": 6205,
+   "with_coord_or_P276_coord": 5925,
+   "dated": 2051,
+   "dated_in_range": 2051,
+   "dated_in_range_geocoded": 1901,
+   "dated_in_range_geocoded_NEW": 1901,
+   "with_own_P625": 388,
+   "dated_in_range_own_P625": 336,
+   "NEW_with_own_P625": 336
+  },
+  "geocoded_by_era": {
+   "geocoded": {
+    "1800-2026": 1894,
+    "1500-1799": 5,
+    "AD 1-999": 1,
+    "1000-1499": 1
+   },
+   "new": {
+    "1800-2026": 1894,
+    "1500-1799": 5,
+    "AD 1-999": 1,
+    "1000-1499": 1
+   },
+   "own_P625": {
+    "1800-2026": 336
+   }
+  }
+ },
+ "earthquake Q7944": {
+  "counts": {
+   "items": 2675,
+   "with_own_P625": 2344,
+   "with_coord_or_P276_coord": 2380,
+   "dated": 2492,
+   "dated_in_range": 2492,
+   "dated_in_range_own_P625": 2240,
+   "dated_in_range_geocoded": 2274,
+   "dated_in_range_geocoded_already_in_mod": 2237,
+   "dated_in_range_geocoded_NEW": 37,
+   "NEW_with_own_P625": 3
+  },
+  "geocoded_by_era": {
+   "own_P625": {
+    "1800-2026": 2014,
+    "1500-1799": 132,
+    "1000-1499": 43,
+    "AD 1-999": 44,
+    "1000-1 BC": 6,
+    "3000-1001 BC": 1
+   },
+   "geocoded": {
+    "1800-2026": 2032,
+    "1500-1799": 142,
+    "1000-1499": 43,
+    "AD 1-999": 48,
+    "1000-1 BC": 8,
+    "3000-1001 BC": 1
+   },
+   "new": {
+    "1800-2026": 21,
+    "1500-1799": 10,
+    "AD 1-999": 4,
+    "1000-1 BC": 2
+   }
+  }
+ },
+ "flood Q8068": {
+  "counts": {
+   "items": 1038,
+   "with_coord_or_P276_coord": 407,
+   "dated": 799,
+   "dated_in_range": 795,
+   "dated_in_range_geocoded": 361,
+   "dated_in_range_geocoded_NEW": 361,
+   "dated_outside_range": 4,
+   "with_own_P625": 140,
+   "dated_in_range_own_P625": 110,
+   "NEW_with_own_P625": 110
+  },
+  "geocoded_by_era": {
+   "geocoded": {
+    "1800-2026": 344,
+    "1500-1799": 11,
+    "1000-1499": 4,
+    "1000-1 BC": 2
+   },
+   "new": {
+    "1800-2026": 344,
+    "1500-1799": 11,
+    "1000-1499": 4,
+    "1000-1 BC": 2
+   },
+   "own_P625": {
+    "1800-2026": 108,
+    "1500-1799": 2
+   }
+  }
+ },
+ "famine Q168247": {
+  "counts": {
+   "items": 122,
+   "with_coord_or_P276_coord": 29,
+   "dated": 91,
+   "dated_in_range": 91,
+   "dated_in_range_geocoded": 27,
+   "dated_in_range_geocoded_NEW": 27,
+   "with_own_P625": 10,
+   "dated_in_range_own_P625": 10,
+   "NEW_with_own_P625": 10
+  },
+  "geocoded_by_era": {
+   "geocoded": {
+    "1800-2026": 18,
+    "1000-1499": 4,
+    "1500-1799": 5
+   },
+   "new": {
+    "1800-2026": 18,
+    "1000-1499": 4,
+    "1500-1799": 5
+   },
+   "own_P625": {
+    "1800-2026": 6,
+    "1000-1499": 3,
+    "1500-1799": 1
+   }
+  }
+ },
+ "mod_qids": {
+  "total": 14934,
+  "by_kind": {
+   "battle": 7989,
+   "siege": 2398,
+   "incident": 2199,
+   "disaster": 2292,
+   "political": 56
+  }
+ }
+}

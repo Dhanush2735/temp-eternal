@@ -1,0 +1,2445 @@
+{
+"british": [
+[
+"Alfred",
+886,
+899
+],
+[
+"Edward the Elder",
+899,
+924
+],
+[
+"Ælfweard",
+924,
+924
+],
+[
+"Æthelstan",
+924,
+927
+],
+[
+"Edmund I",
+939,
+946
+],
+[
+"Eadred",
+946,
+955
+],
+[
+"Eadwig",
+955,
+959
+],
+[
+"Edgar the Peaceful",
+959,
+975
+],
+[
+"Edward the Martyr",
+975,
+978
+],
+[
+"Æthelred the Unready",
+978,
+1013
+],
+[
+"Sweyn",
+1013,
+1014
+],
+[
+"Æthelred the Unready",
+1014,
+1016
+],
+[
+"Edmund Ironside",
+1016,
+1016
+],
+[
+"Cnut",
+1016,
+1035
+],
+[
+"Harold Harefoot",
+1035,
+1040
+],
+[
+"Harthacnut",
+1040,
+1042
+],
+[
+"Edward the Confessor",
+1042,
+1066
+],
+[
+"Harold II",
+1066,
+1066
+],
+[
+"Edgar Ætheling",
+1066,
+1066
+],
+[
+"William I",
+1066,
+1087
+],
+[
+"William II",
+1087,
+1100
+],
+[
+"Henry I",
+1100,
+1135
+],
+[
+"Stephen",
+1135,
+1154
+],
+[
+"Matilda",
+1141,
+1141
+],
+[
+"Henry II",
+1154,
+1189
+],
+[
+"Henry the Young King",
+1155,
+1183
+],
+[
+"Richard I",
+1189,
+1199
+],
+[
+"John",
+1199,
+1216
+],
+[
+"Louis",
+1216,
+1217
+],
+[
+"Henry III",
+1216,
+1272
+],
+[
+"Edward I",
+1272,
+1307
+],
+[
+"Edward II",
+1307,
+1327
+],
+[
+"Edward III",
+1327,
+1377
+],
+[
+"Richard II",
+1377,
+1399
+],
+[
+"Henry IV",
+1399,
+1413
+],
+[
+"Henry V",
+1413,
+1422
+],
+[
+"Henry VI",
+1422,
+1461
+],
+[
+"Edward IV",
+1461,
+1470
+],
+[
+"Henry VI",
+1470,
+1471
+],
+[
+"Edward IV",
+1471,
+1483
+],
+[
+"Edward V",
+1483,
+1483
+],
+[
+"Richard III",
+1483,
+1485
+],
+[
+"Henry VII",
+1485,
+1509
+],
+[
+"Henry VIII",
+1509,
+1547
+],
+[
+"Edward VI",
+1547,
+1553
+],
+[
+"Jane",
+1553,
+1553
+],
+[
+"Mary I",
+1553,
+1558
+],
+[
+"Jure uxoris",
+1554,
+1558
+],
+[
+"Philip I of Naples",
+1556,
+1558
+],
+[
+"Elizabeth I",
+1558,
+1603
+],
+[
+"James I",
+1603,
+1625
+],
+[
+"Charles I",
+1625,
+1649
+],
+[
+"Oliver Cromwell",
+1653,
+1658
+],
+[
+"Richard Cromwell",
+1658,
+1659
+],
+[
+"Charles II",
+1660,
+1685
+],
+[
+"James II",
+1685,
+1688
+],
+[
+"Mary II",
+1689,
+1694
+],
+[
+"William III",
+1689,
+1702
+],
+[
+"Anne",
+1702,
+1707
+],
+[
+"Anne",
+1707,
+1714
+],
+[
+"George I",
+1714,
+1727
+],
+[
+"George II",
+1727,
+1760
+],
+[
+"George III",
+1760,
+1820
+],
+[
+"George IV",
+1820,
+1830
+],
+[
+"William IV",
+1830,
+1837
+],
+[
+"Victoria",
+1837,
+1901
+],
+[
+"Edward VII",
+1901,
+1910
+],
+[
+"George V",
+1910,
+1936
+],
+[
+"Edward VIII",
+1936,
+1936
+],
+[
+"George VI",
+1936,
+1952
+],
+[
+"Elizabeth II",
+1952,
+2022
+],
+[
+"Charles III",
+2022,
+2026
+]
+],
+"spanish": [
+[
+"Isabella I",
+1474,
+1504
+],
+[
+"Ferdinand V & II",
+1475,
+1504
+],
+[
+"Joanna",
+1504,
+1555
+],
+[
+"Philip I",
+1506,
+1506
+],
+[
+"Charles I",
+1516,
+1556
+],
+[
+"Philip II",
+1556,
+1598
+],
+[
+"Philip III",
+1598,
+1621
+],
+[
+"Philip IV",
+1621,
+1665
+],
+[
+"Charles II",
+1665,
+1700
+],
+[
+"Philip V",
+1700,
+1724
+],
+[
+"Archduke Charles of Austria",
+1703,
+1715
+],
+[
+"Louis I",
+1724,
+1724
+],
+[
+"Philip V",
+1724,
+1746
+],
+[
+"Ferdinand VI",
+1746,
+1759
+],
+[
+"Charles III",
+1759,
+1788
+],
+[
+"Charles IV",
+1788,
+1808
+],
+[
+"Ferdinand VII",
+1808,
+1808
+],
+[
+"Joseph I",
+1808,
+1813
+],
+[
+"Ferdinand VII",
+1813,
+1833
+],
+[
+"Isabella II",
+1833,
+1868
+],
+[
+"Amadeo I",
+1870,
+1873
+],
+[
+"Federal Democratic Republican Party",
+1873,
+1874
+],
+[
+"Alfonso XII",
+1874,
+1885
+],
+[
+"Alfonso XIII",
+1886,
+1931
+],
+[
+"Liberal Republican Right",
+1931,
+1936
+],
+[
+"Republican Left",
+1936,
+1939
+],
+[
+"FET y de las JONS",
+1936,
+1975
+],
+[
+"Francisco Franco",
+1936,
+1975
+],
+[
+"Republican Army",
+1939,
+1939
+],
+[
+"Independent",
+1940,
+1962
+],
+[
+"Spanish Socialist Workers' Party",
+1962,
+1970
+],
+[
+"Republican Left",
+1970,
+1970
+],
+[
+"National Movement",
+1975,
+1975
+],
+[
+"Juan Carlos I",
+1975,
+2014
+],
+[
+"Felipe VI",
+2014,
+2026
+]
+],
+"portuguese": [
+[
+"Afonso I",
+1139,
+1185
+],
+[
+"Sancho I",
+1185,
+1211
+],
+[
+"Afonso II",
+1211,
+1223
+],
+[
+"Sancho II",
+1223,
+1247
+],
+[
+"Afonso III",
+1248,
+1279
+],
+[
+"Denis I",
+1279,
+1325
+],
+[
+"Afonso IV",
+1325,
+1357
+],
+[
+"Peter I",
+1357,
+1367
+],
+[
+"Ferdinand I",
+1367,
+1383
+],
+[
+"Beatrice",
+1383,
+1385
+],
+[
+"John I",
+1385,
+1433
+],
+[
+"Edward",
+1433,
+1438
+],
+[
+"Afonso V",
+1438,
+1477
+],
+[
+"John II",
+1477,
+1495
+],
+[
+"Manuel I",
+1495,
+1521
+],
+[
+"John III",
+1521,
+1557
+],
+[
+"Sebastian I",
+1557,
+1578
+],
+[
+"Henry I",
+1578,
+1580
+],
+[
+"Anthony I",
+1580,
+1583
+],
+[
+"Philip I",
+1580,
+1598
+],
+[
+"Philip II",
+1598,
+1621
+],
+[
+"Philip III",
+1621,
+1640
+],
+[
+"John IV",
+1640,
+1656
+],
+[
+"Afonso VI",
+1656,
+1683
+],
+[
+"Peter II",
+1683,
+1706
+],
+[
+"John V",
+1706,
+1750
+],
+[
+"Joseph I",
+1750,
+1777
+],
+[
+"Peter III",
+1777,
+1786
+],
+[
+"Maria I",
+1777,
+1816
+],
+[
+"John VI",
+1816,
+1826
+],
+[
+"Peter IV",
+1826,
+1826
+],
+[
+"Maria II",
+1826,
+1828
+],
+[
+"Miguel I",
+1828,
+1834
+],
+[
+"Miguelist",
+1834,
+1834
+],
+[
+"Maria II",
+1834,
+1853
+],
+[
+"Ferdinand II",
+1837,
+1853
+],
+[
+"Peter V",
+1853,
+1861
+],
+[
+"Luís I",
+1861,
+1889
+],
+[
+"Carlos I",
+1889,
+1908
+],
+[
+"Manuel II",
+1908,
+1910
+],
+[
+"Antónia of Braganza",
+1910,
+1910
+],
+[
+"Teófilo Braga",
+1910,
+1911
+],
+[
+"João Chagas",
+1911,
+1911
+],
+[
+"Augusto de Vasconcelos",
+1911,
+1912
+],
+[
+"Manuel de Arriaga",
+1911,
+1915
+],
+[
+"Duarte Leite",
+1912,
+1912
+],
+[
+"Afonso Costa",
+1913,
+1914
+],
+[
+"Bernardino Machado",
+1914,
+1914
+],
+[
+"Vítor Hugo de Azevedo Coutinho",
+1914,
+1915
+],
+[
+"Joaquim Pimenta de Castro",
+1915,
+1915
+],
+[
+"João Chagas",
+1915,
+1915
+],
+[
+"Teófilo Braga",
+1915,
+1915
+],
+[
+"Afonso Costa",
+1915,
+1916
+],
+[
+"António José de Almeida",
+1916,
+1916
+],
+[
+"Afonso Costa",
+1917,
+1917
+],
+[
+"José Norton de Matos",
+1917,
+1917
+],
+[
+"Sidónio Pais",
+1917,
+1918
+],
+[
+"João do Canto e Castro",
+1918,
+1918
+],
+[
+"João Tamagnini Barbosa",
+1918,
+1919
+],
+[
+"Domingos Pereira",
+1919,
+1919
+],
+[
+"José Relvas",
+1919,
+1919
+],
+[
+"Alfredo de Sá Cardoso",
+1919,
+1920
+],
+[
+"António José de Almeida",
+1919,
+1923
+],
+[
+"António Granjo",
+1920,
+1920
+],
+[
+"António Maria Baptista",
+1920,
+1920
+],
+[
+"António Maria da Silva",
+1920,
+1920
+],
+[
+"Francisco Fernandes Costa",
+1920,
+1920
+],
+[
+"Álvaro de Castro",
+1920,
+1920
+],
+[
+"Liberato Pinto",
+1920,
+1921
+],
+[
+"Bernardino Machado",
+1921,
+1921
+],
+[
+"Carlos Maia Pinto",
+1921,
+1921
+],
+[
+"Manuel Maria Coelho",
+1921,
+1921
+],
+[
+"Tomé de Barros Queirós",
+1921,
+1921
+],
+[
+"Francisco Cunha Leal",
+1921,
+1922
+],
+[
+"António Maria da Silva",
+1922,
+1923
+],
+[
+"António Ginestal Machado",
+1923,
+1923
+],
+[
+"Álvaro de Castro",
+1923,
+1924
+],
+[
+"Manuel Teixeira Gomes",
+1923,
+1925
+],
+[
+"Alfredo Rodrigues Gaspar",
+1924,
+1924
+],
+[
+"José Domingues dos Santos",
+1924,
+1925
+],
+[
+"António Maria da Silva",
+1925,
+1925
+],
+[
+"Domingos Pereira",
+1925,
+1925
+],
+[
+"Vitorino Guimarães",
+1925,
+1925
+],
+[
+"Bernardino Machado",
+1925,
+1926
+],
+[
+"António de Oliveira Salazar",
+1933,
+1968
+],
+[
+"Óscar Carmona",
+1935,
+1951
+],
+[
+"António de Oliveira Salazar",
+1951,
+1951
+],
+[
+"Francisco Craveiro Lopes",
+1951,
+1958
+],
+[
+"Américo Thomaz",
+1958,
+1974
+],
+[
+"Marcello Caetano",
+1968,
+1974
+],
+[
+"António de Spínola",
+1974,
+1974
+],
+[
+"Francisco da Costa Gomes",
+1974,
+1976
+],
+[
+"António Ramalho Eanes",
+1976,
+1986
+],
+[
+"Mário Soares",
+1986,
+1996
+],
+[
+"Jorge Sampaio",
+1996,
+2006
+],
+[
+"Aníbal Cavaco Silva",
+2006,
+2016
+],
+[
+"Marcelo Rebelo de Sousa",
+2016,
+2026
+],
+[
+"António José Seguro",
+2026,
+2026
+]
+],
+"french": [
+[
+"Charles II \"the Bald\"",
+843,
+877
+],
+[
+"Pepin II",
+845,
+852
+],
+[
+"Charles the Child",
+848,
+863
+],
+[
+"Louis the German",
+858,
+860
+],
+[
+"Carloman",
+870,
+873
+],
+[
+"Louis II \"the Stammerer\"",
+877,
+879
+],
+[
+"Louis III",
+879,
+882
+],
+[
+"Carloman II",
+879,
+884
+],
+[
+"Boso",
+879,
+887
+],
+[
+"Charles (III) \"the Fat\"",
+884,
+887
+],
+[
+"Guy",
+888,
+888
+],
+[
+"Ranulf",
+888,
+890
+],
+[
+"Odo",
+888,
+898
+],
+[
+"Charles III \"the Simple\"",
+898,
+922
+],
+[
+"Robert I",
+922,
+923
+],
+[
+"Rudolph",
+923,
+936
+],
+[
+"Louis IV \"from Overseas\"",
+936,
+954
+],
+[
+"Lothair",
+954,
+986
+],
+[
+"Charles",
+978,
+980
+],
+[
+"Louis V \"the Do-Nothing\"",
+986,
+987
+],
+[
+"Charles",
+987,
+991
+],
+[
+"Hugh \"Capet\"",
+987,
+996
+],
+[
+"Robert II \"the Pious\"",
+996,
+1031
+],
+[
+"Hugh",
+1017,
+1025
+],
+[
+"Henry I",
+1031,
+1060
+],
+[
+"Philip I \"the Amorous\"",
+1060,
+1108
+],
+[
+"Louis VI \"the Fat\"",
+1108,
+1137
+],
+[
+"Philippe",
+1129,
+1131
+],
+[
+"Louis VII \"the Young\"",
+1137,
+1180
+],
+[
+"Philip II \"Augustus\"",
+1180,
+1223
+],
+[
+"Louis VIII \"the Lion\"",
+1223,
+1226
+],
+[
+"Louis IX \"the Saint\"",
+1226,
+1270
+],
+[
+"Philip III \"the Bold\"",
+1270,
+1285
+],
+[
+"Philip IV \"the Fair\"",
+1285,
+1314
+],
+[
+"Louis X \"the Quarreller\"",
+1314,
+1316
+],
+[
+"Philip V \"the Tall\"",
+1316,
+1322
+],
+[
+"Charles IV \"the Fair\"",
+1322,
+1328
+],
+[
+"Philip VI \"the Fortunate\"",
+1328,
+1350
+],
+[
+"John II \"the Good\"",
+1350,
+1364
+],
+[
+"Charles V \"the Wise\"",
+1364,
+1380
+],
+[
+"Charles VI \"the Mad\" \"the Beloved\"",
+1380,
+1422
+],
+[
+"Henry",
+1422,
+1453
+],
+[
+"Charles VII \"the Victorious\" \"the Well-Served\"",
+1422,
+1461
+],
+[
+"Louis XI \"the Prudent\" \"the Universal Spider\"",
+1461,
+1483
+],
+[
+"Charles VIII \"the Affable\"",
+1483,
+1498
+],
+[
+"Louis XII \"Father of the People\"",
+1498,
+1515
+],
+[
+"Francis I \"the Father of Letters\"",
+1515,
+1547
+],
+[
+"Henry II",
+1547,
+1559
+],
+[
+"Francis II",
+1559,
+1560
+],
+[
+"Charles IX",
+1560,
+1574
+],
+[
+"Henry III",
+1574,
+1589
+],
+[
+"Charles X",
+1589,
+1590
+],
+[
+"Henry IV \"the Great\" \"the Good King\"",
+1589,
+1610
+],
+[
+"Louis XIII \"the Just\"",
+1610,
+1643
+],
+[
+"Louis XIV \"the Great\" \"the Sun King\"",
+1643,
+1715
+],
+[
+"Louis XV \"the Beloved\"",
+1715,
+1774
+],
+[
+"Louis XVI",
+1774,
+1792
+],
+[
+"Jean-Marie Roland de la Platière",
+1792,
+1793
+],
+[
+"Louis XVII",
+1793,
+1795
+],
+[
+"Lazare Carnot",
+1795,
+1797
+],
+[
+"Paul Barras",
+1797,
+1799
+],
+[
+"Emmanuel Joseph Sieyès",
+1799,
+1799
+],
+[
+"Napoleon Bonaparte",
+1799,
+1804
+],
+[
+"Napoleon I",
+1799,
+1804
+],
+[
+"English claimants to the throne of France",
+1800,
+1815
+],
+[
+"Napoleon I",
+1804,
+1814
+],
+[
+"Louis XVIII \"the Desired\"",
+1814,
+1815
+],
+[
+"Bonapartist claimants to the throne of France",
+1815,
+1848
+],
+[
+"Charles X",
+1824,
+1830
+],
+[
+"Louis XIX",
+1830,
+1830
+],
+[
+"Louis Philippe I \"the Citizen King\"",
+1830,
+1848
+],
+[
+"Orléanist claimants to the throne of France",
+1848,
+1870
+],
+[
+"Napoleon III",
+1852,
+1870
+],
+[
+"Louis Jules Trochu",
+1870,
+1871
+],
+[
+"Adolphe Thiers",
+1871,
+1873
+],
+[
+"Jules Armand Dufaure",
+1871,
+1873
+],
+[
+"Albert, duc de Broglie",
+1873,
+1874
+],
+[
+"Patrice de Mac-Mahon",
+1873,
+1879
+],
+[
+"Ernest Courtot de Cissey",
+1874,
+1875
+],
+[
+"Louis Buffet",
+1875,
+1876
+],
+[
+"Jules Armand Dufaure",
+1876,
+1876
+],
+[
+"Jules Simon",
+1876,
+1877
+],
+[
+"Albert, duc de Broglie",
+1877,
+1877
+],
+[
+"Gaëtan de Rochebouët",
+1877,
+1877
+],
+[
+"Jules Armand Dufaure",
+1879,
+1879
+],
+[
+"William Waddington",
+1879,
+1879
+],
+[
+"Charles de Freycinet",
+1879,
+1880
+],
+[
+"Jules Grévy",
+1879,
+1887
+],
+[
+"Jules Ferry",
+1880,
+1881
+],
+[
+"Léon Gambetta",
+1881,
+1882
+],
+[
+"Charles de Freycinet",
+1882,
+1882
+],
+[
+"Charles Duclerc",
+1882,
+1883
+],
+[
+"Armand Fallières",
+1883,
+1883
+],
+[
+"Jules Ferry",
+1883,
+1885
+],
+[
+"Henri Brisson",
+1885,
+1886
+],
+[
+"Charles de Freycinet",
+1886,
+1886
+],
+[
+"René Goblet",
+1886,
+1887
+],
+[
+"Maurice Rouvier",
+1887,
+1887
+],
+[
+"Pierre Tirard",
+1887,
+1888
+],
+[
+"Marie François Sadi Carnot",
+1887,
+1894
+],
+[
+"Charles Floquet",
+1888,
+1889
+],
+[
+"Pierre Tirard",
+1889,
+1890
+],
+[
+"Charles de Freycinet",
+1890,
+1892
+],
+[
+"Émile Loubet",
+1892,
+1892
+],
+[
+"Alexandre Ribot",
+1892,
+1893
+],
+[
+"Charles Dupuy",
+1893,
+1893
+],
+[
+"Jean Casimir-Perier",
+1893,
+1894
+],
+[
+"Alexandre Ribot",
+1895,
+1895
+],
+[
+"Charles Dupuy",
+1895,
+1895
+],
+[
+"Léon Bourgeois",
+1895,
+1896
+],
+[
+"Félix Faure",
+1895,
+1899
+],
+[
+"Jules Méline",
+1896,
+1898
+],
+[
+"Henri Brisson",
+1898,
+1898
+],
+[
+"Charles Dupuy",
+1898,
+1899
+],
+[
+"Pierre Waldeck-Rousseau",
+1899,
+1902
+],
+[
+"Émile Loubet",
+1899,
+1906
+],
+[
+"Émile Combes",
+1902,
+1905
+],
+[
+"Maurice Rouvier",
+1905,
+1906
+],
+[
+"Ferdinand Sarrien",
+1906,
+1906
+],
+[
+"Georges Clemenceau",
+1906,
+1909
+],
+[
+"Armand Fallières",
+1906,
+1913
+],
+[
+"Aristide Briand",
+1909,
+1911
+],
+[
+"Ernest Monis",
+1911,
+1911
+],
+[
+"Joseph Caillaux",
+1911,
+1912
+],
+[
+"Raymond Poincaré",
+1912,
+1913
+],
+[
+"Aristide Briand",
+1913,
+1913
+],
+[
+"Louis Barthou",
+1913,
+1913
+],
+[
+"Gaston Doumergue",
+1913,
+1914
+],
+[
+"Alexandre Ribot",
+1914,
+1914
+],
+[
+"René Viviani",
+1914,
+1915
+],
+[
+"Aristide Briand",
+1915,
+1917
+],
+[
+"Alexandre Ribot",
+1917,
+1917
+],
+[
+"Paul Painlevé",
+1917,
+1917
+],
+[
+"Georges Clemenceau",
+1917,
+1920
+],
+[
+"Alexandre Millerand",
+1920,
+1920
+],
+[
+"Paul Deschanel",
+1920,
+1920
+],
+[
+"Georges Leygues",
+1920,
+1921
+],
+[
+"Aristide Briand",
+1921,
+1922
+],
+[
+"Raymond Poincaré",
+1922,
+1924
+],
+[
+"Frédéric François-Marsal",
+1924,
+1924
+],
+[
+"Édouard Herriot",
+1924,
+1925
+],
+[
+"Gaston Doumergue",
+1924,
+1931
+],
+[
+"Paul Painlevé",
+1925,
+1925
+],
+[
+"Aristide Briand",
+1925,
+1926
+],
+[
+"Édouard Herriot",
+1926,
+1926
+],
+[
+"Raymond Poincaré",
+1926,
+1929
+],
+[
+"Aristide Briand",
+1929,
+1929
+],
+[
+"André Tardieu",
+1929,
+1930
+],
+[
+"Camille Chautemps",
+1930,
+1930
+],
+[
+"Théodore Steeg",
+1930,
+1931
+],
+[
+"Paul Doumer",
+1931,
+1932
+],
+[
+"Pierre Laval",
+1931,
+1932
+],
+[
+"André Tardieu",
+1932,
+1932
+],
+[
+"Édouard Herriot",
+1932,
+1932
+],
+[
+"Joseph Paul-Boncour",
+1932,
+1933
+],
+[
+"Albert François Lebrun",
+1932,
+1940
+],
+[
+"Albert Sarraut",
+1933,
+1933
+],
+[
+"Édouard Daladier",
+1933,
+1933
+],
+[
+"Camille Chautemps",
+1933,
+1934
+],
+[
+"Gaston Doumergue",
+1934,
+1934
+],
+[
+"Pierre-Étienne Flandin",
+1934,
+1935
+],
+[
+"Fernand Bouisson",
+1935,
+1935
+],
+[
+"Pierre Laval",
+1935,
+1936
+],
+[
+"Albert Sarraut",
+1936,
+1936
+],
+[
+"Léon Blum",
+1936,
+1937
+],
+[
+"Camille Chautemps",
+1937,
+1938
+],
+[
+"Léon Blum",
+1938,
+1938
+],
+[
+"Édouard Daladier",
+1938,
+1940
+],
+[
+"Paul Reynaud",
+1940,
+1940
+],
+[
+"Philippe Pétain",
+1940,
+1940
+],
+[
+"Charles de Gaulle",
+1940,
+1944
+],
+[
+"Vincent Auriol",
+1947,
+1954
+],
+[
+"René Coty",
+1954,
+1959
+],
+[
+"Charles de Gaulle",
+1959,
+1969
+],
+[
+"Maurice Yaméogo",
+1960,
+1966
+],
+[
+"Sangoulé Lamizana",
+1966,
+1980
+],
+[
+"Alain Poher",
+1969,
+1969
+],
+[
+"Georges Pompidou",
+1969,
+1974
+],
+[
+"Alain Poher",
+1974,
+1974
+],
+[
+"Valéry Giscard d'Estaing",
+1974,
+1981
+],
+[
+"Saye Zerbo",
+1980,
+1982
+],
+[
+"François Mitterrand",
+1981,
+1995
+],
+[
+"Jean-Baptiste Ouédraogo",
+1982,
+1983
+],
+[
+"Thomas Sankara",
+1983,
+1984
+],
+[
+"Jacques Chirac",
+1995,
+2007
+],
+[
+"Nicolas Sarkozy",
+2007,
+2012
+],
+[
+"François Hollande",
+2012,
+2017
+],
+[
+"Emmanuel Macron",
+2017,
+2026
+]
+],
+"dutch": [
+[
+"Maurice",
+1585,
+1625
+],
+[
+"Johan van Oldenbarnevelt",
+1586,
+1619
+],
+[
+"Andries de Witt",
+1619,
+1621
+],
+[
+"Anthonie Duyck",
+1621,
+1629
+],
+[
+"Frederick Henry",
+1625,
+1647
+],
+[
+"Jacob Cats",
+1629,
+1631
+],
+[
+"Adriaan Pauw",
+1631,
+1636
+],
+[
+"Jacob Cats",
+1636,
+1651
+],
+[
+"William II",
+1647,
+1650
+],
+[
+"Adriaan Pauw",
+1651,
+1653
+],
+[
+"Johan de Witt",
+1653,
+1672
+],
+[
+"Gaspar Fagel",
+1672,
+1688
+],
+[
+"William III",
+1672,
+1702
+],
+[
+"Michiel ten Hove",
+1688,
+1689
+],
+[
+"Anthonie Heinsius",
+1689,
+1720
+],
+[
+"Isaac van Hoornbeek",
+1720,
+1727
+],
+[
+"Simon van Slingelandt",
+1727,
+1736
+],
+[
+"Anthonie van der Heim",
+1737,
+1746
+],
+[
+"Willem Buys",
+1746,
+1746
+],
+[
+"Jacob Gilles",
+1747,
+1749
+],
+[
+"William IV",
+1747,
+1751
+],
+[
+"Pieter Steyn",
+1749,
+1772
+],
+[
+"William V",
+1751,
+1795
+],
+[
+"Pieter van Bleiswijk",
+1772,
+1787
+],
+[
+"Laurens Pieter van de Spiegel",
+1787,
+1795
+],
+[
+"William I",
+1813,
+1815
+],
+[
+"William I",
+1815,
+1840
+],
+[
+"William II",
+1840,
+1849
+],
+[
+"William III",
+1849,
+1890
+],
+[
+"Wilhelmina",
+1890,
+1948
+],
+[
+"Juliana",
+1948,
+1980
+],
+[
+"Willem-Alexander",
+2013,
+2026
+]
+],
+"danish": [
+[
+"Chochilaicus",
+538,
+594
+],
+[
+"Ongendus",
+710,
+754
+],
+[
+"Harald Wartooth",
+754,
+770
+],
+[
+"Sigfred",
+770,
+804
+],
+[
+"Gudfred",
+804,
+810
+],
+[
+"Hemming",
+810,
+812
+],
+[
+"Sigfred",
+812,
+812
+],
+[
+"Harald Klak",
+812,
+813
+],
+[
+"Sons of Gudfred",
+814,
+820
+],
+[
+"Horik II",
+854,
+860
+],
+[
+"Harthacnut I",
+909,
+909
+],
+[
+"Gorm the Old",
+936,
+958
+],
+[
+"Harald I Bluetooth",
+958,
+985
+],
+[
+"Sweyn I Forkbeard",
+986,
+1014
+],
+[
+"Harald II Svendsen",
+1014,
+1018
+],
+[
+"Cnut II the Great",
+1019,
+1035
+],
+[
+"Cnut III",
+1035,
+1042
+],
+[
+"Magnus the Good",
+1042,
+1047
+],
+[
+"Sweyn II Estridsson",
+1047,
+1076
+],
+[
+"Harald III the Soft",
+1076,
+1080
+],
+[
+"Cnut IV the Holy",
+1080,
+1086
+],
+[
+"Olaf I Hunger",
+1086,
+1095
+],
+[
+"Eric I Evergood",
+1095,
+1103
+],
+[
+"Niels",
+1104,
+1134
+],
+[
+"Eric II the Memorable",
+1134,
+1137
+],
+[
+"Eric III Lamb",
+1137,
+1146
+],
+[
+"Sweyn III Grathe",
+1146,
+1157
+],
+[
+"Cnut V",
+1146,
+1157
+],
+[
+"Valdemar I the Great",
+1154,
+1182
+],
+[
+"Cnut VI",
+1170,
+1202
+],
+[
+"Valdemar II the Victorious",
+1202,
+1241
+],
+[
+"Valdemar the Young",
+1215,
+1231
+],
+[
+"Eric IV Ploughpenny",
+1232,
+1250
+],
+[
+"Abel",
+1250,
+1252
+],
+[
+"Christopher I",
+1252,
+1259
+],
+[
+"Eric V Klipping",
+1259,
+1286
+],
+[
+"Eric VI Menved",
+1286,
+1319
+],
+[
+"Christopher II",
+1320,
+1326
+],
+[
+"Eric",
+1321,
+1326
+],
+[
+"Valdemar III",
+1326,
+1329
+],
+[
+"Eric",
+1329,
+1331
+],
+[
+"Christopher II",
+1329,
+1332
+],
+[
+"Valdemar IV Atterdag",
+1340,
+1375
+],
+[
+"Olaf II",
+1376,
+1387
+],
+[
+"Margaret I",
+1387,
+1412
+]
+],
+"german": [
+[
+"William I",
+1861,
+1888
+],
+[
+"Frederick III",
+1888,
+1888
+],
+[
+"Wilhelm II",
+1888,
+1918
+],
+[
+"Friedrich Ebert",
+1919,
+1925
+]
+],
+"italian": [
+[
+"Victor Emmanuel II",
+1820,
+1878
+],
+[
+"Umberto I",
+1844,
+1900
+]
+],
+"belgian": [
+[
+"Érasme-Louis, Baron Surlet de Chokier",
+1831,
+1831
+],
+[
+"Leopold I",
+1831,
+1865
+],
+[
+"Leopold II",
+1865,
+1909
+],
+[
+"Albert I",
+1909,
+1934
+],
+[
+"Leopold III",
+1934,
+1944
+],
+[
+"Charles / Karel",
+1944,
+1951
+],
+[
+"Baudouin / Boudewijn",
+1951,
+1993
+],
+[
+"Albert II",
+1993,
+2013
+],
+[
+"Philippe / Filip",
+2013,
+2026
+]
+]
+}

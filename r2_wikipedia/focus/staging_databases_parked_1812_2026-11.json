@@ -1,0 +1,26 @@
+{
+  "records": [
+    {
+      "name": "crawl.sqlite3",
+      "archive": "crawl.sqlite3.xz",
+      "raw_bytes": 8155136,
+      "raw_sha256": "35cd32e28b461695987bc0e53162e612c9b6bf34db95f6fb7e5be15ff13c9e96",
+      "archive_bytes": 3973552,
+      "archive_sha256": "e46e491b4446049a7d7794654495feb58f1a8687ee788950d2a51cd815c49ab2",
+      "integrity": "ok",
+      "foreign_keys": "ok",
+      "status": "parked"
+    },
+    {
+      "name": "people.sqlite3",
+      "archive": "people.sqlite3.xz",
+      "raw_bytes": 7249920,
+      "raw_sha256": "4f930862468db568f24b6d850531d07450d3393518290fe14fd8bd36bd1566d6",
+      "archive_bytes": 3772400,
+      "archive_sha256": "7a2446067a242beed51da73f2bc336180bdc731ddfa817f25f169f341ee0f02d",
+      "integrity": "ok",
+      "foreign_keys": "ok",
+      "status": "parked"
+    }
+  ]
+}

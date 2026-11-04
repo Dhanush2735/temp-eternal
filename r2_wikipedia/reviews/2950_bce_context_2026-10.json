@@ -1,0 +1,62 @@
+{
+  "schema": "eternal-r2-2950bce-v1",
+  "pack": "events_wikipedia.json.gz",
+  "before": {
+    "id": "wpy_96a91ec2ba",
+    "name": "3000–2000 BC – Settled villages are widespread in Mesoamerica",
+    "start": -2950,
+    "end": -2949,
+    "lat": 16.0,
+    "lon": -93.0,
+    "radiusKm": 20,
+    "kind": "political",
+    "effect": "political",
+    "confidence": "wikipedia_year_page"
+  },
+  "after": {
+    "id": "wpy_96a91ec2ba",
+    "name": "Mesoamerican Archaic: sedentism increases in some regions over centuries (timing varies)",
+    "start": -2950,
+    "end": -2949,
+    "lat": 16.0,
+    "lon": -93.0,
+    "radiusKm": 400,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=Archaic_period_in_Mesoamerica&oldid=1376700979",
+        "https://en.wikipedia.org/w/index.php?title=Zohapilco&oldid=1324528292",
+        "https://doi.org/10.1007/s10814-014-9080-x"
+      ],
+      "review_note": "Replaces an overbroad claim that settled villages were widespread and removes a political effect. The archaeological review describes increased sedentism near water sources during the fourth and third millennia BCE, while mobility persisted elsewhere. Wikipedia gives differing regional chronologies. The Zohapilco article says permanent sedentism is not conclusive, contrary to the broader Archaic article; no site-specific claim is made. 2950 BCE remains an approximate reference slot, not evidence of a discrete change that year. Coordinates and radius are regional gameplay references, not site locations or boundaries.",
+      "date_precision": "Approximate reference year for a long, regionally varied process.",
+      "location_precision": "Gameplay reference in Mesoamerica, not a site or geographic boundary.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  },
+  "event": {
+    "id": "r2_merneith_regency_reference_c2950",
+    "name": "c. 2950 BC: Merneith may have served as regent; dates and role debated",
+    "start": -2950,
+    "end": -2949,
+    "lat": 26.175,
+    "lon": 31.9083,
+    "radiusKm": 100,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=Merneith&oldid=1375290597",
+        "https://en.wikipedia.org/w/index.php?title=Den_(pharaoh)&oldid=1381183065",
+        "https://en.wikipedia.org/w/index.php?title=Umm_El_Qa%27ab&oldid=1381208653"
+      ],
+      "review_note": "Merneith article associates her rule with around 2950 BCE, but also gives an approximate regency of c.2965 in the infobox. Egyptian First Dynasty chronologies differ substantially; her precise title and whether she ruled independently are debated. The one-year slot is an approximate reference, not a precise reign interval, accession or proven presence in that year. Tomb Y at Umm el-Qa’ab provides the regional reference; it is not evidence of her location in life, or place of death.",
+      "date_precision": "Approximate, competing chronologies; no exact year or duration established.",
+      "location_precision": "Regional tomb-site reference, not location during her life.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

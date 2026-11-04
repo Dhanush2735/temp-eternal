@@ -1,0 +1,42 @@
+{
+  "original_bytes": 8306688,
+  "compacted_bytes": 7544832,
+  "saved_bytes": 761856,
+  "logical_fingerprints": {
+    "subjects": {
+      "rows": 29973,
+      "sha256": "92291b0f03a812f9e11dee0c99f3276d16b839133672ff82b7344d43779d1227"
+    },
+    "biographies": {
+      "rows": 105,
+      "sha256": "4e476dbc91217981d7ac6d5ac284a936527e74f5205405569b39074fd1af1154"
+    },
+    "origins": {
+      "rows": 63870,
+      "sha256": "e6d2cdcf764b208044c68d0ec1d28cefe39f529d607225211b3068729bd71d3d"
+    },
+    "origin_sources": {
+      "rows": 182,
+      "sha256": "6b095e6d9196e6b0774ff35bb882f2ada42dbcfce94b8dcf0d8e78b2bcf9602d"
+    },
+    "origin_candidates": {
+      "rows": 13379,
+      "sha256": "2aa18defd9c0cefade9b36f353b64712aebcc4ac92c60350ec550b65a1ad0010"
+    },
+    "sqlite_sequence": {
+      "rows": 1,
+      "sha256": "2a1e71b4469aa6bd694b5b6414aff4a219fd49082bac47848b92338c39c94540"
+    }
+  },
+  "export_sha256": "31f94cd7fd5d96af1b32a0a6efa5f34ef6c25efc352b0dd75c81388dc4e6c73f",
+  "integrity": "ok",
+  "foreign_keys": "ok",
+  "queue_orders_checked": [
+    1,
+    5,
+    50,
+    1000
+  ],
+  "temporary_backup": "/home/user/.cache/r2_compaction/people_before_queue.sqlite3",
+  "note": "Backup and test exports are excluded from persisted snapshots; stop all collectors before maintenance."
+}

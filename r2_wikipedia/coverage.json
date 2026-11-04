@@ -1,0 +1,74 @@
+{
+  "pages_read": 79,
+  "edges_recorded": 43427,
+  "frontier": {
+    "millennium": {
+      "done": 6,
+      "pending": 0,
+      "error": 0,
+      "missing": 0
+    },
+    "century": {
+      "done": 60,
+      "pending": 0,
+      "error": 0,
+      "missing": 0
+    },
+    "decade": {
+      "done": 26,
+      "pending": 478,
+      "error": 0,
+      "missing": 0
+    },
+    "year": {
+      "done": 1,
+      "pending": 6318,
+      "error": 0,
+      "missing": 0
+    },
+    "other": {
+      "done": 6,
+      "pending": 21461,
+      "error": 0,
+      "missing": 0
+    }
+  },
+  "index_direct_period_links": {
+    "decade": 390,
+    "century": 51,
+    "millennium": 6
+  },
+  "index_direct_millennia": [
+    {
+      "title": "1st millennium",
+      "start": 1,
+      "end": 1000
+    },
+    {
+      "title": "1st millennium BC",
+      "start": -1000,
+      "end": -1
+    },
+    {
+      "title": "2nd millennium",
+      "start": 1001,
+      "end": 2000
+    },
+    {
+      "title": "2nd millennium BC",
+      "start": -2000,
+      "end": -1001
+    },
+    {
+      "title": "3rd millennium",
+      "start": 2001,
+      "end": 3000
+    },
+    {
+      "title": "3rd millennium BC",
+      "start": -3000,
+      "end": -2001
+    }
+  ],
+  "warning": "Counts describe titles and page visits only, not verified facts or complete history. Plain year titles are candidates until their page is checked."
+}

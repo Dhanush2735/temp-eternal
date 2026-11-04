@@ -1,0 +1,41 @@
+{
+  "note": "Lossless gzip to xz; original uncompressed bytes/hash preserved; old gzip-byte hashes retained, older reports still point at old names. Changed only relevant tests. Recompression to gzip does not guarantee byte-identical gzip header; raw provenance is unchanged.",
+  "files": [
+    {
+      "old": "r2_wikipedia/focus/year_wikitext_962_1011_CE.json.gz",
+      "new": "r2_wikipedia/focus/year_wikitext_962_1011_CE.json.xz",
+      "old_gzip_sha256": "7043efae6a99185459bd77a4642c86dbe052224a302cf5c503b37ff2dd28a494",
+      "uncompressed_sha256": "1c3682f36129592ab4e1c2df436ef8892f128e1ee66c54e37710512147109898",
+      "old_bytes": 107844,
+      "new_bytes": 82884,
+      "test_updated": "r2_wikipedia/test_962_1011_ce.py"
+    },
+    {
+      "old": "r2_wikipedia/focus/year_wikitext_1012_1061_CE.json.gz",
+      "new": "r2_wikipedia/focus/year_wikitext_1012_1061_CE.json.xz",
+      "old_gzip_sha256": "3cb8859649b2ac0fb12ad22939f5853bf99bdde14b57162f54f4d6103bf4d5c6",
+      "uncompressed_sha256": "06cfb4586e8d8f7f5bd788097a0591110fe493e1f04a86bd8b7607fdc090289f",
+      "old_bytes": 137019,
+      "new_bytes": 104960,
+      "test_updated": "r2_wikipedia/test_1012_1061_ce.py"
+    },
+    {
+      "old": "r2_wikipedia/focus/year_wikitext_1062_1111_CE.json.gz",
+      "new": "r2_wikipedia/focus/year_wikitext_1062_1111_CE.json.xz",
+      "old_gzip_sha256": "464ea9eca71f9845570ab0133191e4c3ba2b5e164aa56656daad1fb4e9f25cd6",
+      "uncompressed_sha256": "a571fbb8fa1df0bb6b94cd3c7a1b3e2f778437168d64a9372f4b3410fc287bcc",
+      "old_bytes": 122449,
+      "new_bytes": 92280,
+      "test_updated": "r2_wikipedia/test_1062_1111_ce.py"
+    },
+    {
+      "old": "r2_wikipedia/focus/year_wikitext_1112_1161_CE.json.gz",
+      "new": "r2_wikipedia/focus/year_wikitext_1112_1161_CE.json.xz",
+      "old_gzip_sha256": "9ce028720a16937cfc45c0cd3c22757d139c27cc3ffb5a987dee2bf0bc98016d",
+      "uncompressed_sha256": "983be49e1bf20f70a012b463e95e01b5610ab8a8c3600c338c414aacf3b6ec53",
+      "old_bytes": 170897,
+      "new_bytes": 127784,
+      "test_updated": "r2_wikipedia/test_1112_1161_ce.py"
+    }
+  ]
+}

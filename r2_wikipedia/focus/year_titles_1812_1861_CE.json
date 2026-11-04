@@ -1,0 +1,508 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-01T06:09:55.615215+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1812 (year)",
+      "canonical_title": "1812",
+      "redirect_chain": [
+        "1812"
+      ],
+      "status": "resolved",
+      "pageid": 34949,
+      "lastrevid": 1381252171
+    },
+    {
+      "requested_title": "1813 (year)",
+      "canonical_title": "1813",
+      "redirect_chain": [
+        "1813"
+      ],
+      "status": "resolved",
+      "pageid": 34965,
+      "lastrevid": 1357692833
+    },
+    {
+      "requested_title": "1814 (year)",
+      "canonical_title": "1814",
+      "redirect_chain": [
+        "1814"
+      ],
+      "status": "resolved",
+      "pageid": 34948,
+      "lastrevid": 1383084146
+    },
+    {
+      "requested_title": "1815 (year)",
+      "canonical_title": "1815",
+      "redirect_chain": [
+        "1815"
+      ],
+      "status": "resolved",
+      "pageid": 34931,
+      "lastrevid": 1374831165
+    },
+    {
+      "requested_title": "1816 (year)",
+      "canonical_title": "1816",
+      "redirect_chain": [
+        "1816"
+      ],
+      "status": "resolved",
+      "pageid": 35531,
+      "lastrevid": 1374363883
+    },
+    {
+      "requested_title": "1817 (year)",
+      "canonical_title": "1817",
+      "redirect_chain": [
+        "1817"
+      ],
+      "status": "resolved",
+      "pageid": 35552,
+      "lastrevid": 1381756064
+    },
+    {
+      "requested_title": "1818 (year)",
+      "canonical_title": "1818",
+      "redirect_chain": [
+        "1818"
+      ],
+      "status": "resolved",
+      "pageid": 34592,
+      "lastrevid": 1382879139
+    },
+    {
+      "requested_title": "1819 (year)",
+      "canonical_title": "1819",
+      "redirect_chain": [
+        "1819"
+      ],
+      "status": "resolved",
+      "pageid": 34966,
+      "lastrevid": 1375574868
+    },
+    {
+      "requested_title": "1820 (year)",
+      "canonical_title": "1820",
+      "redirect_chain": [
+        "1820"
+      ],
+      "status": "resolved",
+      "pageid": 35522,
+      "lastrevid": 1380425273
+    },
+    {
+      "requested_title": "1821 (year)",
+      "canonical_title": "1821",
+      "redirect_chain": [
+        "1821"
+      ],
+      "status": "resolved",
+      "pageid": 34967,
+      "lastrevid": 1381611564
+    },
+    {
+      "requested_title": "1822 (year)",
+      "canonical_title": "1822",
+      "redirect_chain": [
+        "1822"
+      ],
+      "status": "resolved",
+      "pageid": 35020,
+      "lastrevid": 1367154222
+    },
+    {
+      "requested_title": "1823 (year)",
+      "canonical_title": "1823",
+      "redirect_chain": [
+        "1823"
+      ],
+      "status": "resolved",
+      "pageid": 34905,
+      "lastrevid": 1382576671
+    },
+    {
+      "requested_title": "1824 (year)",
+      "canonical_title": "1824",
+      "redirect_chain": [
+        "1824"
+      ],
+      "status": "resolved",
+      "pageid": 35521,
+      "lastrevid": 1379677960
+    },
+    {
+      "requested_title": "1825 (year)",
+      "canonical_title": "1825",
+      "redirect_chain": [
+        "1825"
+      ],
+      "status": "resolved",
+      "pageid": 35520,
+      "lastrevid": 1341744335
+    },
+    {
+      "requested_title": "1826 (year)",
+      "canonical_title": "1826",
+      "redirect_chain": [
+        "1826"
+      ],
+      "status": "resolved",
+      "pageid": 34597,
+      "lastrevid": 1382290314
+    },
+    {
+      "requested_title": "1827 (year)",
+      "canonical_title": "1827",
+      "redirect_chain": [
+        "1827"
+      ],
+      "status": "resolved",
+      "pageid": 35018,
+      "lastrevid": 1362794712
+    },
+    {
+      "requested_title": "1828 (year)",
+      "canonical_title": "1828",
+      "redirect_chain": [
+        "1828"
+      ],
+      "status": "resolved",
+      "pageid": 34620,
+      "lastrevid": 1371323922
+    },
+    {
+      "requested_title": "1829 (year)",
+      "canonical_title": "1829",
+      "redirect_chain": [
+        "1829"
+      ],
+      "status": "resolved",
+      "pageid": 34800,
+      "lastrevid": 1375202265
+    },
+    {
+      "requested_title": "1830 (year)",
+      "canonical_title": "1830",
+      "redirect_chain": [
+        "1830"
+      ],
+      "status": "resolved",
+      "pageid": 35071,
+      "lastrevid": 1352223718
+    },
+    {
+      "requested_title": "1831 (year)",
+      "canonical_title": "1831",
+      "redirect_chain": [
+        "1831"
+      ],
+      "status": "resolved",
+      "pageid": 35021,
+      "lastrevid": 1381773400
+    },
+    {
+      "requested_title": "1832 (year)",
+      "canonical_title": "1832",
+      "redirect_chain": [
+        "1832"
+      ],
+      "status": "resolved",
+      "pageid": 35518,
+      "lastrevid": 1370617764
+    },
+    {
+      "requested_title": "1833 (year)",
+      "canonical_title": "1833",
+      "redirect_chain": [
+        "1833"
+      ],
+      "status": "resolved",
+      "pageid": 34706,
+      "lastrevid": 1369983797
+    },
+    {
+      "requested_title": "1834 (year)",
+      "canonical_title": "1834",
+      "redirect_chain": [
+        "1834"
+      ],
+      "status": "resolved",
+      "pageid": 35517,
+      "lastrevid": 1360367111
+    },
+    {
+      "requested_title": "1835 (year)",
+      "canonical_title": "1835",
+      "redirect_chain": [
+        "1835"
+      ],
+      "status": "resolved",
+      "pageid": 35516,
+      "lastrevid": 1381773361
+    },
+    {
+      "requested_title": "1836 (year)",
+      "canonical_title": "1836",
+      "redirect_chain": [
+        "1836"
+      ],
+      "status": "resolved",
+      "pageid": 35515,
+      "lastrevid": 1368342504
+    },
+    {
+      "requested_title": "1837 (year)",
+      "canonical_title": "1837",
+      "redirect_chain": [
+        "1837"
+      ],
+      "status": "resolved",
+      "pageid": 34950,
+      "lastrevid": 1360323585
+    },
+    {
+      "requested_title": "1838 (year)",
+      "canonical_title": "1838",
+      "redirect_chain": [
+        "1838"
+      ],
+      "status": "resolved",
+      "pageid": 35514,
+      "lastrevid": 1378711780
+    },
+    {
+      "requested_title": "1839 (year)",
+      "canonical_title": "1839",
+      "redirect_chain": [
+        "1839"
+      ],
+      "status": "resolved",
+      "pageid": 34903,
+      "lastrevid": 1382045951
+    },
+    {
+      "requested_title": "1840 (year)",
+      "canonical_title": "1840",
+      "redirect_chain": [
+        "1840"
+      ],
+      "status": "resolved",
+      "pageid": 34699,
+      "lastrevid": 1360387586
+    },
+    {
+      "requested_title": "1841 (year)",
+      "canonical_title": "1841",
+      "redirect_chain": [
+        "1841"
+      ],
+      "status": "resolved",
+      "pageid": 34921,
+      "lastrevid": 1376490257
+    },
+    {
+      "requested_title": "1842 (year)",
+      "canonical_title": "1842",
+      "redirect_chain": [
+        "1842"
+      ],
+      "status": "resolved",
+      "pageid": 34922,
+      "lastrevid": 1365455258
+    },
+    {
+      "requested_title": "1843 (year)",
+      "canonical_title": "1843",
+      "redirect_chain": [
+        "1843"
+      ],
+      "status": "resolved",
+      "pageid": 34951,
+      "lastrevid": 1381951207
+    },
+    {
+      "requested_title": "1844 (year)",
+      "canonical_title": "1844",
+      "redirect_chain": [
+        "1844"
+      ],
+      "status": "resolved",
+      "pageid": 34955,
+      "lastrevid": 1372570203
+    },
+    {
+      "requested_title": "1845 (year)",
+      "canonical_title": "1845",
+      "redirect_chain": [
+        "1845"
+      ],
+      "status": "resolved",
+      "pageid": 35242,
+      "lastrevid": 1381959653
+    },
+    {
+      "requested_title": "1846 (year)",
+      "canonical_title": "1846",
+      "redirect_chain": [
+        "1846"
+      ],
+      "status": "resolved",
+      "pageid": 35068,
+      "lastrevid": 1375633412
+    },
+    {
+      "requested_title": "1847 (year)",
+      "canonical_title": "1847",
+      "redirect_chain": [
+        "1847"
+      ],
+      "status": "resolved",
+      "pageid": 34954,
+      "lastrevid": 1362575777
+    },
+    {
+      "requested_title": "1848 (year)",
+      "canonical_title": "1848",
+      "redirect_chain": [
+        "1848"
+      ],
+      "status": "resolved",
+      "pageid": 34666,
+      "lastrevid": 1380426416
+    },
+    {
+      "requested_title": "1849 (year)",
+      "canonical_title": "1849",
+      "redirect_chain": [
+        "1849"
+      ],
+      "status": "resolved",
+      "pageid": 35243,
+      "lastrevid": 1382451498
+    },
+    {
+      "requested_title": "1850 (year)",
+      "canonical_title": "1850",
+      "redirect_chain": [
+        "1850"
+      ],
+      "status": "resolved",
+      "pageid": 34983,
+      "lastrevid": 1376060774
+    },
+    {
+      "requested_title": "1851 (year)",
+      "canonical_title": "1851",
+      "redirect_chain": [
+        "1851"
+      ],
+      "status": "resolved",
+      "pageid": 35014,
+      "lastrevid": 1374281825
+    },
+    {
+      "requested_title": "1852 (year)",
+      "canonical_title": "1852",
+      "redirect_chain": [
+        "1852"
+      ],
+      "status": "resolved",
+      "pageid": 34952,
+      "lastrevid": 1354165010
+    },
+    {
+      "requested_title": "1853 (year)",
+      "canonical_title": "1853",
+      "redirect_chain": [
+        "1853"
+      ],
+      "status": "resolved",
+      "pageid": 35015,
+      "lastrevid": 1352708271
+    },
+    {
+      "requested_title": "1854 (year)",
+      "canonical_title": "1854",
+      "redirect_chain": [
+        "1854"
+      ],
+      "status": "resolved",
+      "pageid": 34781,
+      "lastrevid": 1379233779
+    },
+    {
+      "requested_title": "1855 (year)",
+      "canonical_title": "1855",
+      "redirect_chain": [
+        "1855"
+      ],
+      "status": "resolved",
+      "pageid": 35075,
+      "lastrevid": 1379164563
+    },
+    {
+      "requested_title": "1856 (year)",
+      "canonical_title": "1856",
+      "redirect_chain": [
+        "1856"
+      ],
+      "status": "resolved",
+      "pageid": 35491,
+      "lastrevid": 1371140008
+    },
+    {
+      "requested_title": "1857 (year)",
+      "canonical_title": "1857",
+      "redirect_chain": [
+        "1857"
+      ],
+      "status": "resolved",
+      "pageid": 34762,
+      "lastrevid": 1366379985
+    },
+    {
+      "requested_title": "1858 (year)",
+      "canonical_title": "1858",
+      "redirect_chain": [
+        "1858"
+      ],
+      "status": "resolved",
+      "pageid": 34937,
+      "lastrevid": 1371625769
+    },
+    {
+      "requested_title": "1859 (year)",
+      "canonical_title": "1859",
+      "redirect_chain": [
+        "1859"
+      ],
+      "status": "resolved",
+      "pageid": 34646,
+      "lastrevid": 1371179353
+    },
+    {
+      "requested_title": "1860 (year)",
+      "canonical_title": "1860",
+      "redirect_chain": [
+        "1860"
+      ],
+      "status": "resolved",
+      "pageid": 34784,
+      "lastrevid": 1375437380
+    },
+    {
+      "requested_title": "1861 (year)",
+      "canonical_title": "1861",
+      "redirect_chain": [
+        "1861"
+      ],
+      "status": "resolved",
+      "pageid": 34680,
+      "lastrevid": 1382831075
+    }
+  ]
+}

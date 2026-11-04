@@ -1,0 +1,44 @@
+{
+  "schema": "eternal-r2-2539-2490-boat-v1",
+  "updates": [
+    {
+      "pack": "events_wikipedia_regional.json.gz",
+      "event_id": "wpr_5598bb46c7",
+      "before": {
+        "id": "wpr_5598bb46c7",
+        "name": "The earliest known example of a sewn boat is constructed in Egypt",
+        "start": -2500,
+        "end": -2499,
+        "lat": 29.638,
+        "lon": 31.2209,
+        "radiusKm": 269,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region"
+      },
+      "after": {
+        "id": "wpr_5598bb46c7",
+        "name": "c. 2500 BC: Khufu ship, early Egyptian sewn boat; earlier examples exist",
+        "start": -2500,
+        "end": -2499,
+        "lat": 29.638,
+        "lon": 31.2209,
+        "radiusKm": 269,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=25th_century_BC&oldid=1371895857",
+            "https://en.wikipedia.org/w/index.php?title=Sewn_boat&oldid=1374360444",
+            "https://en.wikipedia.org/w/index.php?title=Abydos_boats&oldid=1380649443",
+            "https://en.wikipedia.org/w/index.php?title=Khufu_ship&oldid=1378081970"
+          ],
+          "review_note": "The century page calls an Egyptian boat the earliest, but the Sewn boat article describes earlier Abydos sewn plank boats dated approximately 3050 BCE. Khufu’s ship at Giza is an early surviving example, not demonstrated as the earliest sewn boat or constructed in precisely 2500. The inherited regional pin and 269 km radius are broad game references, not the ship’s burial location or construction site. No claim about the earliest worldwide boat is made.",
+          "reviewed_as_of": "2026-10-29"
+        }
+      }
+    }
+  ],
+  "additions": []
+}

@@ -1,0 +1,58 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-03T13:16:32.679957+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1956 (year)",
+      "canonical_title": "1956",
+      "redirect_chain": [
+        "1956"
+      ],
+      "status": "resolved",
+      "pageid": 34672,
+      "lastrevid": 1383125075
+    },
+    {
+      "requested_title": "1957 (year)",
+      "canonical_title": "1957",
+      "redirect_chain": [
+        "1957"
+      ],
+      "status": "resolved",
+      "pageid": 34606,
+      "lastrevid": 1383484887
+    },
+    {
+      "requested_title": "1958 (year)",
+      "canonical_title": "1958",
+      "redirect_chain": [
+        "1958"
+      ],
+      "status": "resolved",
+      "pageid": 34953,
+      "lastrevid": 1377130030
+    },
+    {
+      "requested_title": "1959 (year)",
+      "canonical_title": "1959",
+      "redirect_chain": [
+        "1959"
+      ],
+      "status": "resolved",
+      "pageid": 34662,
+      "lastrevid": 1382846495
+    },
+    {
+      "requested_title": "1960 (year)",
+      "canonical_title": "1960",
+      "redirect_chain": [
+        "1960"
+      ],
+      "status": "resolved",
+      "pageid": 34664,
+      "lastrevid": 1382846740
+    }
+  ]
+}

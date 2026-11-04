@@ -1,0 +1,766 @@
+{
+  "date": "2026-10-31",
+  "note": "Research-only graph JSON; gzip decompresses to byte-identical original. Existing uncompressed file takes precedence. See people_graph_archive.py.",
+  "files": [
+    {
+      "former": "wikipedia_1012_1061_ce_people_links.json",
+      "gzip": "wikipedia_1012_1061_ce_people_links.json.gz",
+      "raw_sha256": "c818bc6bfc7e90c636684c93dca1182f177c2bd41f520926032b280a9afb1932",
+      "gzip_sha256": "5f32b7be9dd876f089bb630b3a816998567860e58191794360bc6a0636d32a51",
+      "raw_bytes": 31928,
+      "gzip_bytes": 3926
+    },
+    {
+      "former": "wikipedia_1039_990_people_links.json",
+      "gzip": "wikipedia_1039_990_people_links.json.gz",
+      "raw_sha256": "df0f4b8f984c510b5af9ed7ea769d0ff7bdfad050bae21b2d1995183b0624d49",
+      "gzip_sha256": "b0a1402e87fd4810d8535257eba58d59a36d19b227b1d2e54e709558ca35d80e",
+      "raw_bytes": 13486,
+      "gzip_bytes": 3074
+    },
+    {
+      "former": "wikipedia_1062_1111_ce_people_links.json",
+      "gzip": "wikipedia_1062_1111_ce_people_links.json.gz",
+      "raw_sha256": "a9b3d5b29157a510e738e12169161d324f42a1e20e53ee5123fd22892cbff650",
+      "gzip_sha256": "0d84fea37408a11c1cc66354c034d5aef760a2c2615ba3ffc9cfdb41bec4361f",
+      "raw_bytes": 34071,
+      "gzip_bytes": 4327
+    },
+    {
+      "former": "wikipedia_1089_1040_people_links.json",
+      "gzip": "wikipedia_1089_1040_people_links.json.gz",
+      "raw_sha256": "40f78ff9485e73e05916c84d23d9ec5d5b205d7d828090cddda92a0a43857483",
+      "gzip_sha256": "a6c04d6ef6acef3f3f41dff0bed6b2d70e4d46c78e08709e657161c2cf555c90",
+      "raw_bytes": 14695,
+      "gzip_bytes": 3076
+    },
+    {
+      "former": "wikipedia_1112_1161_ce_people_links.json",
+      "gzip": "wikipedia_1112_1161_ce_people_links.json.gz",
+      "raw_sha256": "c223d8fc4b97794a7d2be5f2f4d2e17a3666e768384d311f2e28637413f1b3bd",
+      "gzip_sha256": "efd24d14f648d38deaea95f9c6e08f8824c9d74171d206106fa4875032228745",
+      "raw_bytes": 43374,
+      "gzip_bytes": 5196
+    },
+    {
+      "former": "wikipedia_112_161_ce_people_links.json",
+      "gzip": "wikipedia_112_161_ce_people_links.json.gz",
+      "raw_sha256": "707f40d9191a350c1cc9c276d804da4b7e5d905b3bd822339a08b2a17509c30a",
+      "gzip_sha256": "463c11145a2ec2d16b217db89babe18ea7f66a52bd160c618de2e6d4f2a17705",
+      "raw_bytes": 20804,
+      "gzip_bytes": 2920
+    },
+    {
+      "former": "wikipedia_1139_1090_people_links.json",
+      "gzip": "wikipedia_1139_1090_people_links.json.gz",
+      "raw_sha256": "d6c1e2ec55b79884cc440f8e3bfb344e62acbc2dececb80da3dd532d6f3298f4",
+      "gzip_sha256": "1dbe357fb6b1d20362c86b30fde6f736dda7b34d610110661823cf687ace537f",
+      "raw_bytes": 12418,
+      "gzip_bytes": 2999
+    },
+    {
+      "former": "wikipedia_1162_1211_ce_people_links.json",
+      "gzip": "wikipedia_1162_1211_ce_people_links.json.gz",
+      "raw_sha256": "2098395c00dd79db0e381b1b49de5b6dd1fba50dab5f852ffa1aff156edd054d",
+      "gzip_sha256": "43747bd788afa1ed4aafe422ae1988a1420e52d0f23e90ca3ea3ddaec75561b4",
+      "raw_bytes": 29583,
+      "gzip_bytes": 3692
+    },
+    {
+      "former": "wikipedia_1189_1140_people_links.json",
+      "gzip": "wikipedia_1189_1140_people_links.json.gz",
+      "raw_sha256": "ab387081b14214e67d2a607ffd1b48b2c470e4858f1cc9234baae907f8024f4d",
+      "gzip_sha256": "eec9afa6f7cbff8910f93a3b6b16587bb4134d365ddaad473047a2d5979856c5",
+      "raw_bytes": 18282,
+      "gzip_bytes": 3395
+    },
+    {
+      "former": "wikipedia_1212_1261_ce_people_links.json",
+      "gzip": "wikipedia_1212_1261_ce_people_links.json.gz",
+      "raw_sha256": "4130fc7e523ae1613dd41240a5f338f386795730ad2916e5e5fdd78725eaa96a",
+      "gzip_sha256": "4c713160c17406b2b598550cff77a3c305633a96c6111b11413fcb56a60f06fd",
+      "raw_bytes": 29819,
+      "gzip_bytes": 3748
+    },
+    {
+      "former": "wikipedia_1239_1190_people_links.json",
+      "gzip": "wikipedia_1239_1190_people_links.json.gz",
+      "raw_sha256": "5da9ae5085ad36b33525a62868b8c79f92d7bb0625b16979ad7bb0d498a9f4a4",
+      "gzip_sha256": "e747f03e9dababf52408ab37533befe4b20f41606b4e2c8c134828468bad8a04",
+      "raw_bytes": 15472,
+      "gzip_bytes": 3609
+    },
+    {
+      "former": "wikipedia_1262_1311_ce_people_links.json",
+      "gzip": "wikipedia_1262_1311_ce_people_links.json.gz",
+      "raw_sha256": "f618a080c8f1e80a69b20b5b88f7cd7ff1a90e6523aa09bfd26e32c20c6a61e8",
+      "gzip_sha256": "141b458aafbe9b8657d0cbf0d278af514744a7eda10be3383202cbdaef5429dc",
+      "raw_bytes": 28820,
+      "gzip_bytes": 3971
+    },
+    {
+      "former": "wikipedia_1289_1240_people_links.json",
+      "gzip": "wikipedia_1289_1240_people_links.json.gz",
+      "raw_sha256": "b654305109dda15d6baf4ed0472ffb4a7bcfea992b9885c5621e12a6b975bb72",
+      "gzip_sha256": "f7a9b737077309f116a4398607f28436e7ff156b73c2512093887b7a3d09d843",
+      "raw_bytes": 12306,
+      "gzip_bytes": 2865
+    },
+    {
+      "former": "wikipedia_12_61_ce_people_links.json",
+      "gzip": "wikipedia_12_61_ce_people_links.json.gz",
+      "raw_sha256": "ec0a0096a17735f5a25fc0f119cc2b2ecefed6e545dec0090ca6cbc91f5bc6f1",
+      "gzip_sha256": "06b8bf122e53ead640da349ad2a6894ec611bc353179f6c1a99676154990bf3f",
+      "raw_bytes": 19306,
+      "gzip_bytes": 2610
+    },
+    {
+      "former": "wikipedia_1312_1361_ce_people_links.json",
+      "gzip": "wikipedia_1312_1361_ce_people_links.json.gz",
+      "raw_sha256": "1a588fadcddd687ab12165c934e4582947622df8d38e31b12c103eabb25dca22",
+      "gzip_sha256": "6ac167718b3b3d530573dcc9470d15e08c93d262191ebc38c363e79b6c12143d",
+      "raw_bytes": 24104,
+      "gzip_bytes": 2953
+    },
+    {
+      "former": "wikipedia_1339_1290_people_links.json",
+      "gzip": "wikipedia_1339_1290_people_links.json.gz",
+      "raw_sha256": "0798de804838f4dd24b05a0d60d36cc09bc425c6535bcd57d550978fd8440209",
+      "gzip_sha256": "e49c43ac0e825d1275658a7805407f33186cc33aa88d40cef8185ccdd8dc8412",
+      "raw_bytes": 12397,
+      "gzip_bytes": 2800
+    },
+    {
+      "former": "wikipedia_1362_1411_ce_people_links.json",
+      "gzip": "wikipedia_1362_1411_ce_people_links.json.gz",
+      "raw_sha256": "f7fa398edb32d35545155351cbbc250875e7a647e86ef045e8354a8ff707118e",
+      "gzip_sha256": "d8dac65a7a23184fe22bdcb353684cc79b20e7a1614bab24aec4fdafa09a9e2e",
+      "raw_bytes": 29297,
+      "gzip_bytes": 3164
+    },
+    {
+      "former": "wikipedia_1389_1340_people_links.json",
+      "gzip": "wikipedia_1389_1340_people_links.json.gz",
+      "raw_sha256": "b2c29f666ac39ec62eb316d76ff93b0140cea7be43f000a86686cf84eaed78f7",
+      "gzip_sha256": "c2e7f197d501d2e9408a0456e46ebc65e5eb9b6b18b1aa6cc830bf4030ce5311",
+      "raw_bytes": 12283,
+      "gzip_bytes": 2504
+    },
+    {
+      "former": "wikipedia_139_90_people_links.json",
+      "gzip": "wikipedia_139_90_people_links.json.gz",
+      "raw_sha256": "187a006f0ad91afceb072f6a36622a221fa886a62b598bcb03fa3ab384b63f11",
+      "gzip_sha256": "538f798f7e86f22990f729296315dcca23383c68d471febf965056b3fefb437a",
+      "raw_bytes": 21674,
+      "gzip_bytes": 2994
+    },
+    {
+      "former": "wikipedia_1412_1461_ce_people_links.json",
+      "gzip": "wikipedia_1412_1461_ce_people_links.json.gz",
+      "raw_sha256": "49e1124ae27f5869904594d36e869673736e9086f5802c2484e2d796da627f1a",
+      "gzip_sha256": "108d3d529112c216a22ed8412927febae970782f1548658be278413d61be2b55",
+      "raw_bytes": 28812,
+      "gzip_bytes": 3281
+    },
+    {
+      "former": "wikipedia_1439_1390_people_links.json",
+      "gzip": "wikipedia_1439_1390_people_links.json.gz",
+      "raw_sha256": "9a2d1ba0b0afa9e95fc5d5e9d2deb22be14cc921a5abaa531453f76e2c165f05",
+      "gzip_sha256": "2d06c26ea8a6717861d6e7401409d3b96e1f9f20b7af3edaae63df209cd04c06",
+      "raw_bytes": 10305,
+      "gzip_bytes": 2249
+    },
+    {
+      "former": "wikipedia_1462_1511_ce_people_links.json",
+      "gzip": "wikipedia_1462_1511_ce_people_links.json.gz",
+      "raw_sha256": "dc10693d33c7af52a8f75824977c2838f388906e443167591f6e6cb64cccb940",
+      "gzip_sha256": "75496e006ec219ef7072a0976f599112557b696ad16e9e3a72c56abda29e2c8d",
+      "raw_bytes": 24938,
+      "gzip_bytes": 3206
+    },
+    {
+      "former": "wikipedia_1489_1440_people_links.json",
+      "gzip": "wikipedia_1489_1440_people_links.json.gz",
+      "raw_sha256": "3e6101b8f612e8e26ebef0ce4a13e83f84ccb91af1a474bc8f8ba78ede462306",
+      "gzip_sha256": "01865731d9194a10153912acdc154232746b274be4107f7dca61c8405ce7c28c",
+      "raw_bytes": 15241,
+      "gzip_bytes": 3083
+    },
+    {
+      "former": "wikipedia_1512_1561_ce_people_links.json",
+      "gzip": "wikipedia_1512_1561_ce_people_links.json.gz",
+      "raw_sha256": "4f87c4da0c593c650391730bee29334664b70e25a6dbc60dc35961b29c06a8f8",
+      "gzip_sha256": "aa915f700f53880dba94d35f659c2ad34f1068860f91c00b87dd074f33627517",
+      "raw_bytes": 22464,
+      "gzip_bytes": 2756
+    },
+    {
+      "former": "wikipedia_1539_1490_people_links.json",
+      "gzip": "wikipedia_1539_1490_people_links.json.gz",
+      "raw_sha256": "5ae2340bbb34021ab3477bf6d9e0b9356791feacef1e2e9602775332c7de46b4",
+      "gzip_sha256": "768164fb105ade0460da9eeac4b1c085a8ade826a4e400f532a3b2bdbb9300ec",
+      "raw_bytes": 13588,
+      "gzip_bytes": 2669
+    },
+    {
+      "former": "wikipedia_1562_1611_ce_people_links.json",
+      "gzip": "wikipedia_1562_1611_ce_people_links.json.gz",
+      "raw_sha256": "e1ebbcfee85d8b13a8bab5e62bdedf3a297765e9c184a026192effb42c87a93c",
+      "gzip_sha256": "7b7d434ee300284d5166d94f0ac7a49012bdb5f15407cc2fd08d1c849f66a1c0",
+      "raw_bytes": 26129,
+      "gzip_bytes": 3051
+    },
+    {
+      "former": "wikipedia_1589_1540_people_links.json",
+      "gzip": "wikipedia_1589_1540_people_links.json.gz",
+      "raw_sha256": "5dd8807f185b37103d6b42e6f44fd74f214c4a0ccb9a59b0915fd99d9aa04664",
+      "gzip_sha256": "beed4d843928857a3206d5f4809ef3728241c672bfcb33aa8020e23a5745dfe2",
+      "raw_bytes": 12966,
+      "gzip_bytes": 2575
+    },
+    {
+      "former": "wikipedia_1612_1661_ce_people_links.json",
+      "gzip": "wikipedia_1612_1661_ce_people_links.json.gz",
+      "raw_sha256": "b90792c96d8328221b1f0a1f887a43dc47213c09ec57769f966f779e0cf0a9b0",
+      "gzip_sha256": "2f4d509b681dabaf2ee0e506ad18376bc27674a2796b9ead7098f66e58b152d4",
+      "raw_bytes": 25752,
+      "gzip_bytes": 3135
+    },
+    {
+      "former": "wikipedia_162_211_ce_people_links.json",
+      "gzip": "wikipedia_162_211_ce_people_links.json.gz",
+      "raw_sha256": "358f4b71b4a7eca7bac618f523508bd1fe2a8ce3fb56f1bc51594a64b1007841",
+      "gzip_sha256": "c38eef8b59583fd0c895a3ce5fbbfff0edb44ca17005d706af27b268dcf19e43",
+      "raw_bytes": 20645,
+      "gzip_bytes": 2668
+    },
+    {
+      "former": "wikipedia_1639_1590_people_links.json",
+      "gzip": "wikipedia_1639_1590_people_links.json.gz",
+      "raw_sha256": "c7cb7c8afae472fbd8437ded9612569084fe6644037ab4511eaea54ed3c327b5",
+      "gzip_sha256": "ea5ba755d39d45f9b331bbde0dcc1aea988ab8ce93aa5b0c383661abf419b96a",
+      "raw_bytes": 12993,
+      "gzip_bytes": 2637
+    },
+    {
+      "former": "wikipedia_1662_1711_ce_people_links.json",
+      "gzip": "wikipedia_1662_1711_ce_people_links.json.gz",
+      "raw_sha256": "40ff38a12069ba731bff58167eabc11411bbf9cdc8bb9db210d06456044d1c23",
+      "gzip_sha256": "166dba672e5f2d141cdcf56b3175dab52f4951de260962abd3726e7465f8d59e",
+      "raw_bytes": 38882,
+      "gzip_bytes": 4100
+    },
+    {
+      "former": "wikipedia_1689_1640_people_links.json",
+      "gzip": "wikipedia_1689_1640_people_links.json.gz",
+      "raw_sha256": "7565b3f6fba618835e2032d919d17dadfafef44c3d94ec053d55b33a265f8785",
+      "gzip_sha256": "51f3c269d77a485ce9ae4bfd580c1d733d30213aa57a74a9dc8aee4e2c4e4556",
+      "raw_bytes": 14484,
+      "gzip_bytes": 3094
+    },
+    {
+      "former": "wikipedia_1712_1761_ce_people_links.json",
+      "gzip": "wikipedia_1712_1761_ce_people_links.json.gz",
+      "raw_sha256": "5e1cd49e777a3a63ee29ad8ba1d2a2ca958cb5176a9c8a9e9a3708c580a36ba6",
+      "gzip_sha256": "0948c4090e2e006790e7fca9801b6e113bf1c7494bc38c9ea2c4484e07e3601f",
+      "raw_bytes": 32600,
+      "gzip_bytes": 4325
+    },
+    {
+      "former": "wikipedia_1739_1690_people_links.json",
+      "gzip": "wikipedia_1739_1690_people_links.json.gz",
+      "raw_sha256": "ccd5ccbefe62cfcd55b2f9f65b8bf4727f11c185ae7eaf0119d59bd355c2afa7",
+      "gzip_sha256": "faccdcb1c3a6b63aaad5d37c5cbdcc54c0d513d72e27db291f68b95a972f458f",
+      "raw_bytes": 11239,
+      "gzip_bytes": 2589
+    },
+    {
+      "former": "wikipedia_1762_1811_ce_people_links.json",
+      "gzip": "wikipedia_1762_1811_ce_people_links.json.gz",
+      "raw_sha256": "197db26cc48fa7eff666e0b716181fc35df26c401a7cdeafe87729835501d353",
+      "gzip_sha256": "2ef18bc077b8cb59c4c966036dcea209bf4bbcec3aaa5c294528c1bd9f88a6e2",
+      "raw_bytes": 34367,
+      "gzip_bytes": 4438
+    },
+    {
+      "former": "wikipedia_1789_1740_people_links.json",
+      "gzip": "wikipedia_1789_1740_people_links.json.gz",
+      "raw_sha256": "1839eb3066b6be8030653b07f466132c57eb2a633ef56b53592b4cb00335c510",
+      "gzip_sha256": "2627b07f9c97320c8c9d46e26a25d617e50449b8b6ab2ce5d06c003108ea9bdf",
+      "raw_bytes": 11709,
+      "gzip_bytes": 2507
+    },
+    {
+      "former": "wikipedia_1839_1790_people_links.json",
+      "gzip": "wikipedia_1839_1790_people_links.json.gz",
+      "raw_sha256": "47eaf48b72a550e3df5da0f67a40a9346a955ed90e9577f6918829f550a49593",
+      "gzip_sha256": "63077c5b433af501716c99e6df34b21dd3f6757eadaa8dfe397fd6227d8fbc49",
+      "raw_bytes": 10629,
+      "gzip_bytes": 2388
+    },
+    {
+      "former": "wikipedia_1889_1840_people_links.json",
+      "gzip": "wikipedia_1889_1840_people_links.json.gz",
+      "raw_sha256": "519038a895d9f710281a6dc3c74550f7ee6e7028953a3256603c528e3c7c7767",
+      "gzip_sha256": "4f8e2cb030e625e07b43b222d2ea1b094da15ab3c81b95d1f5a2a7c9a1119ca1",
+      "raw_bytes": 11340,
+      "gzip_bytes": 2547
+    },
+    {
+      "former": "wikipedia_189_140_people_links.json",
+      "gzip": "wikipedia_189_140_people_links.json.gz",
+      "raw_sha256": "1f5644a6f4b33746e11821ff5b0e3b83431c097bbe6bb163f0f8899d6a2f06e8",
+      "gzip_sha256": "078844f994e1529208698fc9f51e08bda8d7dfb029f3b46fbfad659c8a320cfc",
+      "raw_bytes": 20243,
+      "gzip_bytes": 3320
+    },
+    {
+      "former": "wikipedia_1939_1890_people_links.json",
+      "gzip": "wikipedia_1939_1890_people_links.json.gz",
+      "raw_sha256": "8f250631c97c34bf5fc476493cbbd05dfbe4a06ba8619fd9f23d920c3625a79b",
+      "gzip_sha256": "fb0fd8768943c6bb84007017513d7b0eb6a4453177488e658edb4ffee6de22ee",
+      "raw_bytes": 12959,
+      "gzip_bytes": 2766
+    },
+    {
+      "former": "wikipedia_1989_1940_people_links.json",
+      "gzip": "wikipedia_1989_1940_people_links.json.gz",
+      "raw_sha256": "0aab74f8e2495c0932b5ddb4490c3212b9bf2fc35659c869927e6c4841b8277c",
+      "gzip_sha256": "6daf1c860567e7dd0834bd656fad5dc15ec8213ed15edffe6be9e1c905917fe4",
+      "raw_bytes": 8239,
+      "gzip_bytes": 2007
+    },
+    {
+      "former": "wikipedia_2039_1990_people_links.json",
+      "gzip": "wikipedia_2039_1990_people_links.json.gz",
+      "raw_sha256": "a6102df4de8741fe626c350a5251027e9062b23a18dca4501025bdbc0e884c76",
+      "gzip_sha256": "2965d096de8e9e151eca4737fb787df86f52e92ffe38847af86a5620552a204f",
+      "raw_bytes": 7391,
+      "gzip_bytes": 1977
+    },
+    {
+      "former": "wikipedia_2089_2040_people_links.json",
+      "gzip": "wikipedia_2089_2040_people_links.json.gz",
+      "raw_sha256": "b42695a0899f7001aa85c5d2e756023a5703a98622e750e9c371b27f394bac93",
+      "gzip_sha256": "010200d7005ddfe009bf6f1f4cf30d5cfcc26e4aa77a958cc90bbf11bc7f4a5a",
+      "raw_bytes": 7785,
+      "gzip_bytes": 1930
+    },
+    {
+      "former": "wikipedia_212_261_ce_people_links.json",
+      "gzip": "wikipedia_212_261_ce_people_links.json.gz",
+      "raw_sha256": "8cd48d93126fbdcedaaeb82b42188916c1817a44e6740ec9f6175638b8530309",
+      "gzip_sha256": "e905f482c364deea0ba66958e274c9a4806158a324d0b83fe1c514830ffdf7d9",
+      "raw_bytes": 23963,
+      "gzip_bytes": 3045
+    },
+    {
+      "former": "wikipedia_2139_2090_people_links.json",
+      "gzip": "wikipedia_2139_2090_people_links.json.gz",
+      "raw_sha256": "c7dce0d47c00d2e1cf846607a67a1c28b8f31f8d276b71ad6af8790c20032e91",
+      "gzip_sha256": "631b73e8cd8137b12fce0b42b8f2a8f527cc388c04c1cb298c5d2a409ed9ff26",
+      "raw_bytes": 9148,
+      "gzip_bytes": 2237
+    },
+    {
+      "former": "wikipedia_2189_2140_people_links.json",
+      "gzip": "wikipedia_2189_2140_people_links.json.gz",
+      "raw_sha256": "8c720becd2676dc616fc2e0fceb46cbd5d6d1ad402b87edbe2f43729700a8d81",
+      "gzip_sha256": "79372286dbde9c72e8bfd14dfda1da81d7489aaeb34f7be8fceab067d14d1893",
+      "raw_bytes": 9613,
+      "gzip_bytes": 2396
+    },
+    {
+      "former": "wikipedia_2239_2190_people_links.json",
+      "gzip": "wikipedia_2239_2190_people_links.json.gz",
+      "raw_sha256": "754b5687a9796c35a76f257ec7005d2f1eb7b72c19b81513c3213b6fbf22cfe2",
+      "gzip_sha256": "76c25bc16ed62518c7c3a6e25829f3fc62921367883293624c74b4989b91a2ba",
+      "raw_bytes": 10487,
+      "gzip_bytes": 2362
+    },
+    {
+      "former": "wikipedia_2289_2240_people_links.json",
+      "gzip": "wikipedia_2289_2240_people_links.json.gz",
+      "raw_sha256": "ffbd41e5983d1a3401775f5d5892490ce1f3340447d177500a9ce05dc88486d1",
+      "gzip_sha256": "3b4ee57932b983cc6342d2b56ddf1c16b7dc914adbaeef854a5b8e804225cdda",
+      "raw_bytes": 12101,
+      "gzip_bytes": 2853
+    },
+    {
+      "former": "wikipedia_2339_2290_people_links.json",
+      "gzip": "wikipedia_2339_2290_people_links.json.gz",
+      "raw_sha256": "8912b71c33d56610cef72807af9821416f19e19337abb3664af78eed271818d6",
+      "gzip_sha256": "ff4407d2d73220fb6242dbb739e902e0adfc30ccb5b32ac1b079bdb20715d409",
+      "raw_bytes": 7663,
+      "gzip_bytes": 2035
+    },
+    {
+      "former": "wikipedia_2389_2340_people_links.json",
+      "gzip": "wikipedia_2389_2340_people_links.json.gz",
+      "raw_sha256": "0a40567eb8c9cba5390cdde2cc886c0b9f0e7855488fd4cc5db837287c98c397",
+      "gzip_sha256": "886b02778e91d7c6d2fe3369b943f56bb9c352be7d1f21f2754559892d162abb",
+      "raw_bytes": 15416,
+      "gzip_bytes": 3057
+    },
+    {
+      "former": "wikipedia_239_190_people_links.json",
+      "gzip": "wikipedia_239_190_people_links.json.gz",
+      "raw_sha256": "4a30f1a77089974e1d59d96599c5c8f60800251a97af679dfb86cc566806d3b3",
+      "gzip_sha256": "8bdba2d37badfbf0531ad73ff878e0b4f57210ab72fed308cf6b586cce537250",
+      "raw_bytes": 19360,
+      "gzip_bytes": 3051
+    },
+    {
+      "former": "wikipedia_2439_2390_people_links.json",
+      "gzip": "wikipedia_2439_2390_people_links.json.gz",
+      "raw_sha256": "0823a05c14e22f6ac3335df6d6fdce568ca3f9a78dd96c9832da7ea922331b8b",
+      "gzip_sha256": "caf7d7ba800263cd5290b319c74c0099180c99571f0008cea65cb852fb2c620a",
+      "raw_bytes": 15786,
+      "gzip_bytes": 3555
+    },
+    {
+      "former": "wikipedia_2489_2440_people_links.json",
+      "gzip": "wikipedia_2489_2440_people_links.json.gz",
+      "raw_sha256": "0b7c64bbdb3b3c6c703b638e02c3100c0399469a0364c5a781bee9846e6bd9b4",
+      "gzip_sha256": "efaa83c7f87154c62304d66c472d4bbdbecc503d781ef52ad76a7fd926f7d1c2",
+      "raw_bytes": 17418,
+      "gzip_bytes": 3748
+    },
+    {
+      "former": "wikipedia_2539_2490_people_links.json",
+      "gzip": "wikipedia_2539_2490_people_links.json.gz",
+      "raw_sha256": "c8301801f2fd7fe4af56c1b670684b6436b798f47a92eb83b755dd034f94a439",
+      "gzip_sha256": "ff654cc1229e23e5efd6b39baf276674f750bceb5a9d447dcf6787915d2045a7",
+      "raw_bytes": 11322,
+      "gzip_bytes": 2799
+    },
+    {
+      "former": "wikipedia_2589_2540_people_links.json",
+      "gzip": "wikipedia_2589_2540_people_links.json.gz",
+      "raw_sha256": "6958ae31e9451c3636fe844f289b01be11e6658062990aec9a07b4f5e1ec849f",
+      "gzip_sha256": "2dd6d11024fa4317bb75e4eed18c7af7426922688df18c257348b749a710e33a",
+      "raw_bytes": 9478,
+      "gzip_bytes": 2560
+    },
+    {
+      "former": "wikipedia_262_311_ce_people_links.json",
+      "gzip": "wikipedia_262_311_ce_people_links.json.gz",
+      "raw_sha256": "48fef5c12563763665d841da0a9a0957c0a11e5dc3c828e2800016d435e0ef54",
+      "gzip_sha256": "4be96af0bfbf3dda992a113452783f50e0de48ac1493e89a943e27387ac65f68",
+      "raw_bytes": 27670,
+      "gzip_bytes": 3195
+    },
+    {
+      "former": "wikipedia_2639_2590_people_links.json",
+      "gzip": "wikipedia_2639_2590_people_links.json.gz",
+      "raw_sha256": "77ebffd1d6b44a2243d40bbcd411988e0f3fd5c9d3bbd109f7c9041e2eaaf4c3",
+      "gzip_sha256": "2645269889fef3ed1c03033b5bd546877c499bce0db6a87db38c7252edbaa897",
+      "raw_bytes": 7004,
+      "gzip_bytes": 1895
+    },
+    {
+      "former": "wikipedia_2689_2640_people_links.json",
+      "gzip": "wikipedia_2689_2640_people_links.json.gz",
+      "raw_sha256": "3d713ef29568017d134a4ef546ec3a925c3387e7e937e427800c5423ee576404",
+      "gzip_sha256": "77044a469dbb1267e701fb20c34521f41571f2d116fe01eb9a405ba03295b688",
+      "raw_bytes": 7679,
+      "gzip_bytes": 1908
+    },
+    {
+      "former": "wikipedia_2739_2690_people_links.json",
+      "gzip": "wikipedia_2739_2690_people_links.json.gz",
+      "raw_sha256": "e2327eae384ecd18ba5a7c54e43245eaad2b949b2faa0826a4ba57fb47454a0c",
+      "gzip_sha256": "a145557615436897ec5c55b38adec7a1badc476e2943ae9e04a3abc8ef351f83",
+      "raw_bytes": 5907,
+      "gzip_bytes": 1703
+    },
+    {
+      "former": "wikipedia_2789_2740_people_links.json",
+      "gzip": "wikipedia_2789_2740_people_links.json.gz",
+      "raw_sha256": "3097a7cf1507ca9ebe0f4416ee0fca7015a89a0f03a6c79d469f32340ea4b2e2",
+      "gzip_sha256": "8d7a1722fc93f6b55effcb9b4e7cc2db07805a19bacfa362c780703271e3b74f",
+      "raw_bytes": 4156,
+      "gzip_bytes": 1307
+    },
+    {
+      "former": "wikipedia_2839_2790_people_links.json",
+      "gzip": "wikipedia_2839_2790_people_links.json.gz",
+      "raw_sha256": "7323ec7caa32ea8b22856fa55e14d775337ebc1f716310a493dda2b6435d44af",
+      "gzip_sha256": "79038f9cea1adba494f328d85dc1705c4968d5493af01bb7032abdde25d85383",
+      "raw_bytes": 4590,
+      "gzip_bytes": 1229
+    },
+    {
+      "former": "wikipedia_2889_2840_people_links.json",
+      "gzip": "wikipedia_2889_2840_people_links.json.gz",
+      "raw_sha256": "1f5207c1989d7496bdaa1d7ac558c1de55df1393e33ab27106dcf793b50dd1a5",
+      "gzip_sha256": "00dcda6fb0796affdcc8d6699f63e0a1c97b094ed3a21c508f07fbd169daf76f",
+      "raw_bytes": 3590,
+      "gzip_bytes": 1096
+    },
+    {
+      "former": "wikipedia_289_240_people_links.json",
+      "gzip": "wikipedia_289_240_people_links.json.gz",
+      "raw_sha256": "bab0ec9f2950f3b534c48ae03484d588c38a193e0089126541bf53408c8559d4",
+      "gzip_sha256": "22cfb3a5f14a11117eef1bac39185cc777c0151cec74259154cae01afa1a57b7",
+      "raw_bytes": 14887,
+      "gzip_bytes": 2495
+    },
+    {
+      "former": "wikipedia_2939_2890_people_links.json",
+      "gzip": "wikipedia_2939_2890_people_links.json.gz",
+      "raw_sha256": "e7a0ee2f1bae0bf2cf721757ce48a107eea98273a64fb1cc99b435d511cceeff",
+      "gzip_sha256": "3e120c987422d8f5bd2f38f63603cae7742662f84701fe51b495b37654433882",
+      "raw_bytes": 3860,
+      "gzip_bytes": 1084
+    },
+    {
+      "former": "wikipedia_312_361_ce_people_links.json",
+      "gzip": "wikipedia_312_361_ce_people_links.json.gz",
+      "raw_sha256": "310d98d2c65a0a2269f5eed4a29c68687b11821b54f1499c2f4cb383bc56cebe",
+      "gzip_sha256": "121d73eafb9eeb8095ad5ed671e9a7df2e2be1c1c12a224b64e7996316a6af3c",
+      "raw_bytes": 18733,
+      "gzip_bytes": 2647
+    },
+    {
+      "former": "wikipedia_339_290_people_links.json",
+      "gzip": "wikipedia_339_290_people_links.json.gz",
+      "raw_sha256": "b4b2a26fd4720f2ad44eecbecb54517df21ed3a7fcd1f8c8f18f867c42b3279c",
+      "gzip_sha256": "6351398e96ad7d6e2a006d7df51c7d432c5eb0f5e4a7c5df207b0bdf7ea98ea3",
+      "raw_bytes": 32065,
+      "gzip_bytes": 3731
+    },
+    {
+      "former": "wikipedia_362_411_ce_people_links.json",
+      "gzip": "wikipedia_362_411_ce_people_links.json.gz",
+      "raw_sha256": "0bb273c64872cbed9f135ea56c8be8fe64d0cfd26295893ec7cda18a232517c1",
+      "gzip_sha256": "946b59f10e6eb325d5c4a500f07e83562a530a7efa653cef2bc7e7cebe5d4106",
+      "raw_bytes": 27868,
+      "gzip_bytes": 3342
+    },
+    {
+      "former": "wikipedia_389_340_people_links.json",
+      "gzip": "wikipedia_389_340_people_links.json.gz",
+      "raw_sha256": "acfd2d850bc4506d1148505f5e06ab4f62f975697b6768f05c67dc28db8ae88e",
+      "gzip_sha256": "255997d3037dda2cd04710768e4f970485af165bf78f292cb56ba24b9fe2a2c2",
+      "raw_bytes": 29337,
+      "gzip_bytes": 4001
+    },
+    {
+      "former": "wikipedia_39_bce_11_ce_people_links.json",
+      "gzip": "wikipedia_39_bce_11_ce_people_links.json.gz",
+      "raw_sha256": "7aebeaf4177072be2609e368f51edd597bd1a27c4b3a752c1f63de9e4cc82bf6",
+      "gzip_sha256": "473b23a2e97a1ae1c2183dbf765bf5e52037db52b4b594262105312b2e88d398",
+      "raw_bytes": 13945,
+      "gzip_bytes": 2113
+    },
+    {
+      "former": "wikipedia_412_461_ce_people_links.json",
+      "gzip": "wikipedia_412_461_ce_people_links.json.gz",
+      "raw_sha256": "0dc27e5f32ad39da199fd0cb33672eb3fc420fcd728531f872da5037a516a9d3",
+      "gzip_sha256": "a3580ca708ab451fe72e0d1a100e6a63397ba7b4a2d1dcc29210b241410bacfc",
+      "raw_bytes": 30436,
+      "gzip_bytes": 3548
+    },
+    {
+      "former": "wikipedia_439_390_people_links.json",
+      "gzip": "wikipedia_439_390_people_links.json.gz",
+      "raw_sha256": "2ee5fed4188a7c71e337da43b98b443d86a6cbbec7d49bb7edc820d5b50ceef0",
+      "gzip_sha256": "1d627dd9f1ac5744e29c6ca0382df65f482a04bf42a1f868a0e312ed0d859faa",
+      "raw_bytes": 24013,
+      "gzip_bytes": 3364
+    },
+    {
+      "former": "wikipedia_462_511_ce_people_links.json",
+      "gzip": "wikipedia_462_511_ce_people_links.json.gz",
+      "raw_sha256": "900b2759d85af91ea8c92efc593ac0de75d6029d4343bf0ca8e48c7b4ecad74c",
+      "gzip_sha256": "0fbdbe3fbb616943c13507a2159e9daa640b1b9242ede09417ec60c8aa600d8c",
+      "raw_bytes": 32672,
+      "gzip_bytes": 3948
+    },
+    {
+      "former": "wikipedia_489_440_people_links.json",
+      "gzip": "wikipedia_489_440_people_links.json.gz",
+      "raw_sha256": "c4b6fa7ea206fc39908a066bcdfeaafd19199e55a62067905efe30b317accf20",
+      "gzip_sha256": "ca6cdf51bfdf1f1cbf21693d0ef934d219306937cb81370ff2d005f6efd34e82",
+      "raw_bytes": 20034,
+      "gzip_bytes": 3168
+    },
+    {
+      "former": "wikipedia_512_561_ce_people_links.json",
+      "gzip": "wikipedia_512_561_ce_people_links.json.gz",
+      "raw_sha256": "128f6421375d265f230fdf7c791c292f6800eb775e083ee1615dd593ee016b37",
+      "gzip_sha256": "51080a0dd9b531479903f78edc114d5c715e855c34cc28e780c80a5648706983",
+      "raw_bytes": 33318,
+      "gzip_bytes": 4003
+    },
+    {
+      "former": "wikipedia_539_490_people_links.json",
+      "gzip": "wikipedia_539_490_people_links.json.gz",
+      "raw_sha256": "e1021a852fbbeca29289dc99ea192e905902c830e18138931f3d66f4c906fa71",
+      "gzip_sha256": "39999e7928c3756444bb5721b92bc5e9555fe47dff3a2883dedd068867b164dc",
+      "raw_bytes": 23344,
+      "gzip_bytes": 4440
+    },
+    {
+      "former": "wikipedia_562_611_ce_people_links.json",
+      "gzip": "wikipedia_562_611_ce_people_links.json.gz",
+      "raw_sha256": "c0b1bffdd202efc7d6900ab7d570ac62addfdad014402b101297997c3f68785b",
+      "gzip_sha256": "0c8bb1c6c8ef043b2a557e23b17d7c5ab2523ad67c08b10236df79716f7680f7",
+      "raw_bytes": 36752,
+      "gzip_bytes": 4553
+    },
+    {
+      "former": "wikipedia_589_540_people_links.json",
+      "gzip": "wikipedia_589_540_people_links.json.gz",
+      "raw_sha256": "ac3414d3a3f973d29421b9864455645fb91a70a6ae37b838cdf7c984daace0c5",
+      "gzip_sha256": "5f9b6d418e239b02a1c90b63c4154114bd2c2a1a875fb31961899be07f991dcc",
+      "raw_bytes": 16920,
+      "gzip_bytes": 3191
+    },
+    {
+      "former": "wikipedia_612_661_ce_people_links.json",
+      "gzip": "wikipedia_612_661_ce_people_links.json.gz",
+      "raw_sha256": "c14006e08662d56e3ca7f9bcd78bb331b78ce2237e8126965fd5647f40880393",
+      "gzip_sha256": "0f24749d076316fdaa193a1d3544b748a43cfc31c70e31bf149dda4d1cd81b05",
+      "raw_bytes": 17815,
+      "gzip_bytes": 2371
+    },
+    {
+      "former": "wikipedia_62_111_ce_people_links.json",
+      "gzip": "wikipedia_62_111_ce_people_links.json.gz",
+      "raw_sha256": "61d75b5938499bf875bfeefc0e19fcf285dd72112f82eef1f8b48dfc31e04324",
+      "gzip_sha256": "61a7b7f70c44016d5937772b0cd406d3bca64acf3d92fc07938e3ede21980ac0",
+      "raw_bytes": 26571,
+      "gzip_bytes": 3301
+    },
+    {
+      "former": "wikipedia_639_590_people_links.json",
+      "gzip": "wikipedia_639_590_people_links.json.gz",
+      "raw_sha256": "625206eda06c69c88898cc818d0504f084f80f79c7e95f85e0e6a76017e1d786",
+      "gzip_sha256": "f6116b08055d16686f60fcc559480f6b95b9afaba63d61966fd1398131e14395",
+      "raw_bytes": 16431,
+      "gzip_bytes": 3132
+    },
+    {
+      "former": "wikipedia_662_711_ce_people_links.json",
+      "gzip": "wikipedia_662_711_ce_people_links.json.gz",
+      "raw_sha256": "e1878bdd875ce0c685567bffcb8c2f681e64bdc371a7420c375dea76d5bf781b",
+      "gzip_sha256": "58cf26b5c69f15ed65e0e9656810cf8ee0b8b7eaf92d6619dc3cdeaf1abf64a7",
+      "raw_bytes": 26860,
+      "gzip_bytes": 3376
+    },
+    {
+      "former": "wikipedia_689_640_people_links.json",
+      "gzip": "wikipedia_689_640_people_links.json.gz",
+      "raw_sha256": "e78005f7483fcff0167d4f2cae8b21cc879a74e6e761b0dd975a5d4a7d08468f",
+      "gzip_sha256": "9a7e2e78bb7842965807104eaf952d0465109417e477f8e87fb628088107e092",
+      "raw_bytes": 15694,
+      "gzip_bytes": 2978
+    },
+    {
+      "former": "wikipedia_712_761_ce_people_links.json",
+      "gzip": "wikipedia_712_761_ce_people_links.json.gz",
+      "raw_sha256": "1a6d663a9616b5e6593b6bbfc8c4ede9ecea00f077014bd4f7da284652e7259b",
+      "gzip_sha256": "5851cee501b3aa8e6d7dd4d917238fd493552ec1eec400959ba220099b88e677",
+      "raw_bytes": 27937,
+      "gzip_bytes": 3710
+    },
+    {
+      "former": "wikipedia_739_690_people_links.json",
+      "gzip": "wikipedia_739_690_people_links.json.gz",
+      "raw_sha256": "df1522127f0032125a986710a09a9580e7e6da189d82258aa2b235c701b2bcbc",
+      "gzip_sha256": "ab44e060a4156a543677608e21dcc42fa65dfdfe3f98bc4f769e307b3160acac",
+      "raw_bytes": 15649,
+      "gzip_bytes": 3163
+    },
+    {
+      "former": "wikipedia_762_811_ce_people_links.json",
+      "gzip": "wikipedia_762_811_ce_people_links.json.gz",
+      "raw_sha256": "ba41eb3fcfffc9b61e7ab6a0702b82a0767fe881cb8251c6f717058dc5e413a5",
+      "gzip_sha256": "cd78be9914646335c3fdc41f600b98709609d7e3e595565d225e9f4765cfb538",
+      "raw_bytes": 30311,
+      "gzip_bytes": 3863
+    },
+    {
+      "former": "wikipedia_789_740_people_links.json",
+      "gzip": "wikipedia_789_740_people_links.json.gz",
+      "raw_sha256": "1906811f8467bbb618bdb14bbfaca7cd16123f14aea7fb94b80844c88fc65255",
+      "gzip_sha256": "160ca8f8250538188d98a408f1ba67ebde1825d32b70e0841800017215a69f9f",
+      "raw_bytes": 14657,
+      "gzip_bytes": 3177
+    },
+    {
+      "former": "wikipedia_812_861_ce_people_links.json",
+      "gzip": "wikipedia_812_861_ce_people_links.json.gz",
+      "raw_sha256": "b19473d482ba80efdc8dfb95f2eacc561ccd9eee7aea61954569640eab3856a2",
+      "gzip_sha256": "dc3107faf905719e69ba46fec7bb9d4b7bcbaa0d234c9f22093059b2b48d5ba0",
+      "raw_bytes": 27715,
+      "gzip_bytes": 3684
+    },
+    {
+      "former": "wikipedia_839_790_people_links.json",
+      "gzip": "wikipedia_839_790_people_links.json.gz",
+      "raw_sha256": "1824c452fc54f2c3e02fdd3e45d47c4390eb54923d46d0e8ae9d47b1cf007ca3",
+      "gzip_sha256": "7fadd9ec2d61e521ad51c1aa4a1c00c0433f63323be268c797cada57fa3bb75e",
+      "raw_bytes": 13251,
+      "gzip_bytes": 2952
+    },
+    {
+      "former": "wikipedia_862_911_ce_people_links.json",
+      "gzip": "wikipedia_862_911_ce_people_links.json.gz",
+      "raw_sha256": "66fa6ebbb90dcbd7b3dccaa147ca870b3e49a551d0eb98ad604b4130dfd0cfe3",
+      "gzip_sha256": "1fcee327b0caba73270a015037cbf7e35978c9eb7c7756e69bf8f818645b2453",
+      "raw_bytes": 30986,
+      "gzip_bytes": 3958
+    },
+    {
+      "former": "wikipedia_889_840_people_links.json",
+      "gzip": "wikipedia_889_840_people_links.json.gz",
+      "raw_sha256": "bfc64ad631bb3a93054b7d8959610c889f2fdc0d1579db3048d3c7e1896a4df2",
+      "gzip_sha256": "7000afb51b6254718cb4d0ad07d6c1a77114faa3912ea15d076799f00b0aa311",
+      "raw_bytes": 17212,
+      "gzip_bytes": 3072
+    },
+    {
+      "former": "wikipedia_89_40_people_links.json",
+      "gzip": "wikipedia_89_40_people_links.json.gz",
+      "raw_sha256": "7d380d9a57bfd7cd67778d97868a74c0892ce82c8f9a1dbbb3f70a15cbc9dbe6",
+      "gzip_sha256": "38175e4a243653e33a331eaa5ae92ba025cb2763094ab7edcbcb1194bf19651b",
+      "raw_bytes": 33264,
+      "gzip_bytes": 4073
+    },
+    {
+      "former": "wikipedia_912_961_ce_people_links.json",
+      "gzip": "wikipedia_912_961_ce_people_links.json.gz",
+      "raw_sha256": "d0d84797ea015abcc29b2dc9ed8f7a30b360a3d1b0f3ffb62d4eeecfd73fbef8",
+      "gzip_sha256": "72f2e4a12e1eb36393e3d84de5ea8595c14946f519de1c1d6a13f473e45f7de2",
+      "raw_bytes": 31292,
+      "gzip_bytes": 4114
+    },
+    {
+      "former": "wikipedia_939_890_people_links.json",
+      "gzip": "wikipedia_939_890_people_links.json.gz",
+      "raw_sha256": "e490998f7a6fb9635d287f05e526bbe172f97e170844ac9ad600611d6c9eed69",
+      "gzip_sha256": "af39546c0dfd463865f526905b3b5c917694e07572ea0f57acb2320b6800dd96",
+      "raw_bytes": 14987,
+      "gzip_bytes": 3056
+    },
+    {
+      "former": "wikipedia_962_1011_ce_people_links.json",
+      "gzip": "wikipedia_962_1011_ce_people_links.json.gz",
+      "raw_sha256": "dbd40472987125497c94f2598c83dbba1c115fa570ca8aa32bd0a4fdcae5424d",
+      "gzip_sha256": "1f3db3ab322738122d1a2f1c7ebab2fa0a37004c2f6dbfcaf498822a666afaa0",
+      "raw_bytes": 27939,
+      "gzip_bytes": 3639
+    },
+    {
+      "former": "wikipedia_989_940_people_links.json",
+      "gzip": "wikipedia_989_940_people_links.json.gz",
+      "raw_sha256": "7041ca138cc1bd7b3d356051daffd36c88e99cdbcf4a372e90fcdac42b4f72d3",
+      "gzip_sha256": "7e409e7cc7f3c149b00560d87758e6d9371766ae4d27007f883af95e4b1d7720",
+      "raw_bytes": 14032,
+      "gzip_bytes": 2508
+    }
+  ]
+}

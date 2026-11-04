@@ -1,0 +1,43 @@
+# Preliminary batch: 39 BCE–11 CE
+
+**Status: partly worked, not fully collected.** This interval contains 50 historical years: 39 BCE years and 11 CE years. There is no historical year zero. Not every year section or linked article was read. The prior ledger count of 3,168 partly worked years is left **unreconciled**, rather than adding 50 or an assumed 45: previous batches already counted sampled years 30, 20 and 10 BCE and 1 and 11 CE, while the later shared-endpoint accounting is not an exact set of distinct worked years. A reliable new aggregate requires a year-by-year coverage inventory. **Fully collected years: 0.**
+
+## Wikipedia coverage
+
+- All 39 BCE year titles resolved: ten are individual pages and 29 redirect, yielding 13 distinct canonical pages. All 11 chronological CE year titles resolve to the decade pages `0s` (1–9 CE) and `10s` (10–11 CE). Redirect resolution is not complete annual collection.
+- `year_titles_39_1_BCE.json` and `year_titles_1_11_CE_chronological.json` record these resolutions. `year_wikitext_39_BCE_11_CE.json.gz` preserves 19 distinct raw Wikipedia revisions, including all 15 canonical chronological pages, plus four exploratory `AD n` titles. Raw wikitext does not expand transclusions. The four exploratory titles must not be treated as annual historical pages; in particular `AD 1` is a disambiguation page. An earlier exploratory file remains explicitly labeled as such.
+- The 30s, 20s, 10s and 0s BCE decade pages, first-century page and selected linked articles were consulted only in part. CE year sections, citations, transclusions and most linked articles still need work.
+- `indexed_start_scan_39_BCE_11_CE.txt.gz` records a scan of 291 indexed rows whose stored start is -39 through 11, including game year 0. It excludes records starting earlier and continuing into the period. Most were not individually verified. Numerous annual rows appear to have been assigned to a decade's first year; many questionable hazards remain active.
+
+## Gameplay JSON changes
+
+Fifteen existing indexed records were updated with guarded before/after images in four packs. Among other changes:
+
+- Mount Gindarus, Vellica, Cilician Gates, Amanus Pass and Aracillum were shifted to the years stated in their linked articles. Battlefield locations and footprints remain unverified. World-pack NewsIndex may include an extra end year although HistoryGazetteer uses an exclusive end.
+- Herod's Jerusalem siege is a regional note dated **37 or 36 BCE**, not a claim the siege lasted throughout both years. Zhizhi remains context because the exact site is uncertain. The 6–9 CE Illyrian revolt is context rather than a continuous military circle. Teutoburg remains an active event at a probable, not certain, site; its article requests fuller citations.
+- The Secular Games were moved to 17 BCE, the Ara Pacis commission to 13 BCE, and the Lupia and Arbalo accounts to 11 BCE. The two battlefield rows had Rome coordinates; they are non-military notes pending site review. Emperor Cheng's accession was moved from 7 to 33 BCE, the year given by his biography; 7 BCE is the end of his reign.
+- A Vietnam War row erroneously starting in 1 CE was shifted to c. 1955–1975 as regional context; the source describes alternative start dates. This does not validate its whole geographic footprint or prove there are no duplicates.
+
+Four damaging hazards incorrectly placed in early CE were moved to non-damaging regional notes at the better-supported historical dates: the **1811–1812 New Madrid earthquakes**, **1881 Chios earthquake** (reported minor tsunami; casualty attribution qualified), **1934 Tafjord wave** (sources give different death totals) and **1963 Vajont reservoir wave**. This removes these four erroneous ancient damaging entries; it does not assert that these later disasters were harmless or automatically create their full gameplay effects.
+
+Two more hazardous entries were removed from the indexed hazards pack and retained, with original before-images and linked evidence, as non-indexed research quarantine: the possible East Molokai collapse around **1.4 million years ago** and the hypothesized Zanclean flood around **5.33 million years ago**, wrongly placed in 1 and 5 CE. Their geological dates and mechanisms have uncertainty and lie outside the requested game-history interval. The quarantine is `history/sources/geologic_misdates_39_bce_11_ce.json`; it is not an active event pack. Other early-CE hazard entries, including additional likely misdates, remain active and need individual source checking.
+
+## Connected people
+
+`history/sources/wikipedia_39_bce_11_ce_people_links.json` holds **25 research references, 10 qualified relationships and 22 event roles across nine indexed event IDs**. It includes opposing and associated figures for Gindarus, Jerusalem, Zhizhi, Teutoburg and the Illyrian revolt. Some biographies are only leads; campaign association does not establish continuous or simultaneous presence. These are not certified biographies and are **not spawnable VIPs**.
+
+## BCE/CE code risk
+
+Data and many game labels use `-1` for 1 BCE and `1` for 1 CE. This convention does not by itself eliminate year 0 in the running clock: `KnowledgeDate.fromTerraDay` performs ordinary integer progression, and `nextDay` uses Java `LocalDate`, whose numbering includes year zero. Some sky code uses an astronomical-style conversion. The actual transition and save behavior have not been tested and representations are inconsistent; no clock fix was attempted. One-year rows at this boundary and other consumers need dedicated tests before a mapping change. Historical title resolution above never treats 0 as a historical year.
+
+## Verification and rollback
+
+- Context manifest SHA-256 `8d3ad088b87b96ff24145fb59c573935b505a2093a6c26f06b2e48105731756d`; four hazard moves `c5a1bfb64bfb78569cabf794a788c56258014ae565c8af180afcf9c2059e04d2`; geological quarantine `7e6f7ec8df678ed06671ac64253c06edc3c32cc5a29df1524699cc67f0058e12`. These are canonical JSON hashes.
+- All three installers were staged before application. Eleven Python tests passed after application, including hash guards, 19 unique indexed after-images, quarantine evidence, graph references and dependency-ordered logical reversal/reapplication of complete affected pack objects. No live rollback write or saved-world test was performed. Writes are atomic per pack, not as a multi-pack transaction.
+- Reverse the geological quarantine first, then the four hazard moves, then context, then any earlier dependent shared-pack installers. The quarantine research file remains an audit record.
+- To preserve workspace capacity, the complete pre-batch ledger was archived byte-for-byte (later recompressed as XZ) as `focus/progress_before_39_1_BCE.md.xz` and older inline sections were removed from `PROGRESS.md`; original SHA-256 `7a0b1d5d5b1aa7c5372771ffa8af737ea29a8ad3391b91ceb2d84cc67491ef69`, former gzip SHA-256 `cac3ec53cf8e82cb3b1de298f3c037c7d0e67574767c5c80f4917d4db12db04e`, XZ SHA-256 `718dc4b5b94f83d783424f2043cdf0465bead4db7910effe7dc70294174eed29`. Restore with `xz -dc r2_wikipedia/focus/progress_before_39_1_BCE.md.xz > PROGRESS_before_39_1.md`. External readers of the old inline sections were not exhaustively checked. Individual reports remain.
+- No game, loader, save, Java probe, full integrity check or rebuilt jar was tested. The jar is stale. Natural VIP spawning, historical NPC behavior and player-triggered alternate timelines are still unimplemented.
+
+Key sources include [Mount Gindarus](https://en.wikipedia.org/wiki/Battle_of_Mount_Gindarus), [Herod's siege of Jerusalem](https://en.wikipedia.org/wiki/Herod%27s_siege_of_Jerusalem), [Zhizhi](https://en.wikipedia.org/wiki/Battle_of_Zhizhi), [Teutoburg](https://en.wikipedia.org/wiki/Battle_of_the_Teutoburg_Forest), [Illyrian revolt](https://en.wikipedia.org/wiki/Bellum_Batonianum), [Ara Pacis](https://en.wikipedia.org/wiki/Ara_Pacis), [Emperor Cheng](https://en.wikipedia.org/wiki/Emperor_Cheng_of_Han), [New Madrid](https://en.wikipedia.org/wiki/1811%E2%80%931812_New_Madrid_earthquakes), [Chios](https://en.wikipedia.org/wiki/1881_Chios_earthquake), [Tafjord](https://en.wikipedia.org/wiki/Tafjord), [Vajont](https://en.wikipedia.org/wiki/Vajont_Dam) and [the revision-pinned tsunami list](https://en.wikipedia.org/w/index.php?title=List_of_tsunamis&oldid=1380994779). Manifest notes carry more precise evidence and caveats.
+
+**Next:** Continue the chronological CE backfill, revisiting already sampled years without double-counting; first reconcile the year coverage ledger and investigate remaining incorrectly dated early-CE hazards. Earlier years and their links remain incomplete.

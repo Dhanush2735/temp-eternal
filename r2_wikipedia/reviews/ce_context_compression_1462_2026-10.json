@@ -1,0 +1,8 @@
+{
+  "original": "/home/user/r2_wikipedia/reviews/1412_1461_ce_context_2026-10.json",
+  "compressed": "/home/user/r2_wikipedia/reviews/1412_1461_ce_context_2026-10.json.gz",
+  "original_sha256": "90693904ad2427e900936f3a5e0a96eb8f03a1569f2a8275de7ae1bfac41bcda",
+  "original_bytes": 25951,
+  "compressed_bytes": 5536,
+  "installer": "r2_wikipedia/apply_1412_1461_ce_context.py"
+}

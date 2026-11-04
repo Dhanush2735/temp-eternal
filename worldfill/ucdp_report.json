@@ -1,0 +1,37 @@
+{
+ "source": "UCDP GED Global v25.1 (CC BY 4.0), GEDEvent_v25_1.csv",
+ "rows": 385918,
+ "rows_left_out_country_or_sea_only": 5132,
+ "deaths_all": 3957143,
+ "deaths_in_pins": 3659346,
+ "pins": 28639,
+ "pins_by_type": {
+  "state-based": 13244,
+  "one-sided": 10529,
+  "non-state": 4866
+ },
+ "pins_by_decade": {
+  "1980s": 522,
+  "1990s": 6809,
+  "2000s": 7106,
+  "2010s": 8620,
+  "2020s": 5582
+ },
+ "radius_km_median": 50,
+ "radius_km_p90": 140,
+ "examples": [
+  "Fighting in Ağrı province, Turkey: Government of Turkey against PKK, about 4 killed this year",
+  "Fighting in Tunceli province, Turkey: Government of Turkey against TKP-ML, about 8 killed this year",
+  "Attacks on civilians in Tesanjka village, Bosnia-Herzegovina by Serbian irregulars, Serbian Republic of Bosnia-Herzegovina",
+  "Clashes in Rift Valley province, Kenya: Samburu against Turkana, about 11 killed this year",
+  "Fighting in Western Ethiopia, Ethiopia: Government of Ethiopia against OLF",
+  "Attacks on civilians in Chad-Sudan Border, Chad by Janjaweed, about 27 killed this year",
+  "Fighting in Sila region, Chad: Government of Chad against UFR, about 130 killed this year",
+  "Clashes in Jonglei state, South Sudan: Anuak against Nuer, about 28 killed this year",
+  "Fighting in Batna province, Algeria: Government of Algeria against AQIM, about 5 killed this year",
+  "Fighting in Kidal region, Mali: Government of Mali against JNIM, about 35 killed this year",
+  "Attacks on civilians in Paktika province, Afghanistan by Government of Afghanistan, 1 killed this year",
+  "Attacks on civilians in Sistan and Baluchestan province, Iran by Government of Iran, about 45 killed this year"
+ ],
+ "pack_bytes": 1088447
+}

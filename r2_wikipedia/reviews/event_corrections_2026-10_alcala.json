@@ -1,0 +1,96 @@
+{
+  "schema": "eternal-r2-reviewed-event-corrections-v1",
+  "target": "events_wikipedia_decades.json.gz",
+  "updates": [
+    {
+      "event_id": "wpd_8de2b0f5d2",
+      "candidate_id": "57cd65fc4dadb5d8823650e9",
+      "candidate_source": {
+        "title": "15th century",
+        "page_id": 34567,
+        "revision_id": 1378508381,
+        "line": 194,
+        "url": "https://en.wikipedia.org/w/index.php?title=15th_century&oldid=1378508381"
+      },
+      "before": {
+        "id": "wpd_8de2b0f5d2",
+        "name": "University \"Alcalá de Henares\" in Madrid, Spain is built",
+        "start": 1499,
+        "end": 1500,
+        "lat": 42.7415,
+        "lon": 2.0069,
+        "radiusKm": 800,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region"
+      },
+      "changes": {
+        "start": 1499,
+        "end": 1500,
+        "name": "Cardinal Cisneros founds a university in Alcalá de Henares with papal authorization",
+        "lat": 40.467,
+        "lon": -3.367,
+        "radiusKm": 20,
+        "confidence": "wikipedia_region"
+      },
+      "corroborating_sources": [
+        "https://www.ucm.es/english/History",
+        "https://en.wikipedia.org/w/index.php?title=University_of_Alcal%C3%A1_(1499%E2%80%931836)&oldid=1370664193",
+        "https://en.wikipedia.org/w/index.php?title=Alcal%C3%A1_de_Henares&oldid=1378437050",
+        "https://www.cultura.gob.es/cultura/areas/patrimonio/mc/patrimoniomundial/bienes-declarados/por-ano-de-inscripcion/1998/alcalahenares.html"
+      ],
+      "review_note": "The 15th-century source loosely says the university was built in 1499. Complutense University describes papal authorization to found the college in 1499 and construction completion in 1508; university sources and Spain’s Ministry of Culture identify the university foundation as 1499. Wording no longer asserts the buildings were completed in 1499. A Studium Generale existed in Alcalá from 1293, and the historic institution moved to Madrid in the 19th century. The point is the modern municipality of Alcalá de Henares, a reference for the institution, not the precise site of issuance of the bull or a building footprint. The 20 km radius is gameplay only. The old point is in northeastern Spain, far from Alcalá. A targeted scan of all indexed 1499 names found no duplicate university event, but differently worded duplicates cannot be ruled out. Other historical college foundation-stone dates are presented inconsistently, so no day is asserted.",
+      "reviewed_as_of": "2026-10-28",
+      "candidate_snapshot": {
+        "schema": "eternal-r2-history-candidate-v1",
+        "id": "57cd65fc4dadb5d8823650e9",
+        "status": "unreviewed_not_game_ready",
+        "source": {
+          "title": "15th century",
+          "page_id": 34567,
+          "revision_id": 1378508381,
+          "line": 194,
+          "url": "https://en.wikipedia.org/w/index.php?title=15th_century&oldid=1378508381"
+        },
+        "section_path": [
+          "Events",
+          "1490–1500"
+        ],
+        "section_kind": "event_or_development_section",
+        "period_context": {
+          "kind": "century",
+          "start": 1401,
+          "end": 1500,
+          "year_convention": "negative BCE; positive CE; no year zero"
+        },
+        "temporal_context": {
+          "classification": "before_present_year_context",
+          "basis": "leading_year_label",
+          "start_year": 1499,
+          "end_year": 1499,
+          "as_of": "2026-10-28",
+          "warning": "Context only: does not establish when an event occurred or whether a future claim is a projection."
+        },
+        "explicit_leading_year": {
+          "year": 1499,
+          "precision": "year",
+          "approximate": false,
+          "raw_label": "[[1499]]:",
+          "meaning": "unverified_label_at_start_of_source_bullet"
+        },
+        "parent_bullets": [],
+        "raw_wikitext": "[[1499]]: University \"Alcalá de Henares\" in Madrid, Spain is built.",
+        "display_text_unverified": "1499: University \"Alcalá de Henares\" in Madrid, Spain is built.",
+        "linked_articles": [
+          {
+            "title": "1499",
+            "label": "1499"
+          }
+        ],
+        "resolved_location": null,
+        "event_date_verified": false,
+        "note": "Source-derived candidate only; link names, section labels and page context are not proof of identity, date or location."
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "schema": "eternal-r2-future-year-audit-v1",
+  "as_of": "2026-10-28",
+  "indexed_packs": 26,
+  "counts": {
+    "rows": 129163,
+    "earlier_start_year": 128650,
+    "current_start_year_day_unknown": 513
+  },
+  "per_pack": {
+    "indus.json": {},
+    "mesopotamia.json": {
+      "rows": 1,
+      "earlier_start_year": 1
+    },
+    "egypt.json": {
+      "rows": 1,
+      "earlier_start_year": 1
+    },
+    "china.json": {
+      "rows": 1,
+      "earlier_start_year": 1
+    },
+    "mediterranean.json": {
+      "rows": 2,
+      "earlier_start_year": 2
+    },
+    "south_asia.json": {
+      "rows": 2,
+      "earlier_start_year": 2
+    },
+    "americas.json": {
+      "rows": 1,
+      "earlier_start_year": 1
+    },
+    "afro_islamic.json": {
+      "rows": 2,
+      "earlier_start_year": 2
+    },
+    "places_pleiades.json.gz": {},
+    "places_chgis.json.gz": {},
+    "places_reba.json.gz": {},
+    "present_kamareddy.json.gz": {},
+    "present_hyderabad_metro.json.gz": {},
+    "present_telangana.json.gz": {},
+    "events.json": {
+      "rows": 83,
+      "earlier_start_year": 83
+    },
+    "events_world.json.gz": {
+      "rows": 13987,
+      "earlier_start_year": 13949,
+      "current_start_year_day_unknown": 38
+    },
+    "events_wikidata_more.json.gz": {
+      "rows": 6040,
+      "earlier_start_year": 6028,
+      "current_start_year_day_unknown": 12
+    },
+    "events_wars.json.gz": {
+      "rows": 2397,
+      "earlier_start_year": 2394,
+      "current_start_year_day_unknown": 3
+    },
+    "events_ucdp.json.gz": {
+      "rows": 28639,
+      "earlier_start_year": 28639
+    },
+    "events_wikipedia.json.gz": {
+      "rows": 19364,
+      "earlier_start_year": 19288,
+      "current_start_year_day_unknown": 76
+    },
+    "events_wikipedia_regional.json.gz": {
+      "rows": 21907,
+      "earlier_start_year": 21814,
+      "current_start_year_day_unknown": 93
+    },
+    "events_wikipedia_decades.json.gz": {
+      "rows": 1763,
+      "earlier_start_year": 1763
+    },
+    "events_hazards.json.gz": {
+      "rows": 26997,
+      "earlier_start_year": 26787,
+      "current_start_year_day_unknown": 210
+    },
+    "events_storms.json.gz": {
+      "rows": 5884,
+      "earlier_start_year": 5858,
+      "current_start_year_day_unknown": 26
+    },
+    "events_nature.json.gz": {
+      "rows": 1844,
+      "earlier_start_year": 1789,
+      "current_start_year_day_unknown": 55
+    },
+    "deccan_events.json.gz": {
+      "rows": 248,
+      "earlier_start_year": 248
+    }
+  },
+  "warning": "Year-only audit, not verified history or a projection classifier. Current-year events may be past or future; earlier-start events may continue or describe plans. Pack-specific end-year conventions are not interpreted. Other resources are not scanned."
+}

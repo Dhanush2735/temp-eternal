@@ -1,0 +1,29 @@
+{
+  "schema": "eternal-r2-2910bce-v1",
+  "pack": "events_wikipedia_regional.json.gz",
+  "event": {
+    "id": "r2_semerkhet_death_estimate_c2910",
+    "name": "c. 2910 BC: One estimate for death of Egyptian ruler Semerkhet; dates are debated",
+    "start": -2910,
+    "end": -2909,
+    "lat": 26.175,
+    "lon": 31.9083,
+    "radiusKm": 100,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=30th_century_BC&oldid=1371895853",
+        "https://en.wikipedia.org/w/index.php?title=Semerkhet&oldid=1381183568",
+        "https://en.wikipedia.org/w/index.php?title=Qa%27a&oldid=1381183472",
+        "https://www.worldhistory.org/First_Dynasty_of_Egypt/",
+        "https://en.wikipedia.org/w/index.php?title=Umm_El_Qa%27ab&oldid=1381208653"
+      ],
+      "review_note": "The 30th-century overview gives c.2910 BCE as Semerkhet’s death without an individual citation, and the page carries a citation warning. Semerkhet’s biography gives an approximate reign of 8½ years around c.2920; another chronology places his reign c.2930–2920. The calendar position and duration are uncertain. The one-year -2910 slot records one proposed death estimate, not a precise historical date. Tomb U at Umm el-Qa’ab is a regional marker; it does not establish the place of death.",
+      "date_precision": "One approximate, disputed estimate; exact death year remains unknown.",
+      "location_precision": "Regional tomb-site reference, not death location.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "schema": "eternal-r2-2970bce-v1",
+  "pack": "events_wikipedia_regional.json.gz",
+  "event": {
+    "id": "r2_djet_death_estimate_c2970",
+    "name": "c. 2970 BC: One estimate places the death of Egyptian ruler Djet around this time; dates are debated",
+    "start": -2970,
+    "end": -2969,
+    "lat": 26.175,
+    "lon": 31.9083,
+    "radiusKm": 100,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=30th_century_BC&oldid=1371895853",
+        "https://en.wikipedia.org/w/index.php?title=Djet&oldid=1376673981",
+        "https://en.wikipedia.org/w/index.php?title=First_Dynasty_of_Egypt&oldid=1379753537",
+        "https://en.wikipedia.org/w/index.php?title=Umm_El_Qa%27ab&oldid=1381208653"
+      ],
+      "review_note": "The century overview places Djet's death around 2970 BCE. His article gives his reign roughly c. 2980 BCE, with contested length, while scholarly reconstructions of early First Dynasty chronology differ substantially. The date is one approximate proposal, not a verified year. Djet's tomb is at Umm el-Qa'ab, Abydos; the location of his death is not established here. The map point is a regional reference for his burial, not his death place. This death estimate is distinct from the existing approximate 2980 BCE Djet reign context, and does not determine the date of his succession or Den's accession.",
+      "date_precision": "Approximate disputed death estimate; -2970 is a reference slot only.",
+      "location_precision": "Regional reference at his tomb in Umm el-Qa'ab, not a claimed place of death.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

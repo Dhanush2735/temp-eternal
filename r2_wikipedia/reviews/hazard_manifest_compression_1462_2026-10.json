@@ -1,0 +1,50 @@
+{
+  "note": "Lossless gzip; original hashes, validation, synthetic dependency-free pack roundtrips; reports retain original paths. To undo decompress and revert installer paths.",
+  "files": [
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1412_1461_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1412_1461_ce_hazards_2026-10.json.gz",
+      "sha256_original": "d7b004cfd78a84b6c234c26bfa5ad82514ae5aafd452b14634601edf8b91a5dc",
+      "original_bytes": 9311,
+      "compressed_bytes": 1890,
+      "installer": "r2_wikipedia/apply_1412_1461_ce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1589_1540_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1589_1540_bce_hazards_2026-10.json.gz",
+      "sha256_original": "4429d99308976202bd39a5037a602dc8999b6c702105065b8cb755ee76bb3dc0",
+      "original_bytes": 1500,
+      "compressed_bytes": 793,
+      "installer": "r2_wikipedia/apply_1589_1540_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1189_1140_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1189_1140_bce_hazards_2026-10.json.gz",
+      "sha256_original": "2e1f6afcd718baf42d0eaebcccb82d54b07fb795fc7c4cd16823f141667978c2",
+      "original_bytes": 1431,
+      "compressed_bytes": 770,
+      "installer": "r2_wikipedia/apply_1189_1140_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/389_340_bce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/389_340_bce_hazards_2026-10.json.gz",
+      "sha256_original": "f2e72d646a289cf2b7da90c786d8af9af28f12a513f5e143b40d304e32351234",
+      "original_bytes": 1386,
+      "compressed_bytes": 750,
+      "installer": "r2_wikipedia/apply_389_340_bce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/612_661_ce_hazards_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/612_661_ce_hazards_2026-10.json.gz",
+      "sha256_original": "0d905e2c711a27843322e694b9ecef3b2b9c82e0f194e19c105d9fd299c7d3f9",
+      "original_bytes": 1211,
+      "compressed_bytes": 704,
+      "installer": "r2_wikipedia/apply_612_661_ce_hazards.py",
+      "synthetic_pack_roundtrips": 2
+    }
+  ]
+}

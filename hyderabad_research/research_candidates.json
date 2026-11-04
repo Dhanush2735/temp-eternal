@@ -1,0 +1,371 @@
+{
+  "scope": "Hyderabad-area research only; not a complete history or gameplay data",
+  "articles_archived_unique": 43,
+  "excluded_unrelated_article": "Mahbub Ali Khan (Bangladeshi naval officer), distinct from Mahboob Ali Khan (Asaf Jah VI)",
+  "year_title_check": "3000–2951 BCE: 50 titles resolve to same century article; zero fully researched years",
+  "claims": [
+    {
+      "id": "city_foundation",
+      "type": "event",
+      "claim": "Wikipedia describes Hyderabad as founded in 1591 by Muhammad Quli Qutb Shah.",
+      "sources": [
+        {
+          "pageid": 40473139,
+          "revision": 1376916956,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1376916956"
+        },
+        {
+          "pageid": 1392662,
+          "revision": 1373146972,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1373146972"
+        }
+      ],
+      "uncertainty_or_limit": "Review against other references and existing 1589/1591 records; city is distinct from earlier regional settlements.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "hasmathpet",
+      "type": "place",
+      "claim": "Wikipedia describes Hasmathpet cairns near Secunderabad and assigns them to the second century BCE.",
+      "sources": [
+        {
+          "pageid": 40030932,
+          "revision": 1376761069,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1376761069"
+        }
+      ],
+      "uncertainty_or_limit": "That is a broad article claim, not proof of activity in any individual year; further archaeological review needed.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "hussain_sagar",
+      "type": "place",
+      "claim": "Wikipedia dates the construction of Hussain Sagar to 1562 and associates it with Ibrahim Quli Qutb Shah and Hussain Shah Wali.",
+      "sources": [
+        {
+          "pageid": 30874598,
+          "revision": 1376754474,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1376754474"
+        },
+        {
+          "pageid": 14125126,
+          "revision": 1359353593,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1359353593"
+        }
+      ],
+      "uncertainty_or_limit": "The sources credit the figures differently; check primary and independent references; lake outline and water levels at any date unknown.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "flood_1908",
+      "type": "event",
+      "claim": "Wikipedia reports a major Musi flood in Hyderabad on 28 September 1908.",
+      "sources": [
+        {
+          "pageid": 39932955,
+          "revision": 1376429967,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1376429967"
+        }
+      ],
+      "uncertainty_or_limit": "The article gives inconsistent fatality estimates, including 15,000 and 50,000; local flood extent and trigger not yet validated.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "blasts_2013",
+      "type": "event",
+      "claim": "Wikipedia reports two blasts in Dilsukhnagar on 21 February 2013.",
+      "sources": [
+        {
+          "pageid": 38594693,
+          "revision": 1383059195,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1383059195"
+        },
+        {
+          "pageid": 10655742,
+          "revision": 1374303689,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1374303689"
+        }
+      ],
+      "uncertainty_or_limit": "Source infobox coordinates appear near Charminar, not Dilsukhnagar; timings and injury totals also vary within article. Do not use coordinates or simulation behavior without independent review.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "founder",
+      "type": "person",
+      "claim": "Muhammad Quli Qutb Shah is identified as Hyderabad founder.",
+      "sources": [
+        {
+          "pageid": 1392662,
+          "revision": 1373146972,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1373146972"
+        },
+        {
+          "pageid": 40473139,
+          "revision": 1376916956,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1376916956"
+        }
+      ],
+      "uncertainty_or_limit": "Article has sourcing warning; no day-by-day location or behavior established.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "hayat",
+      "type": "person",
+      "claim": "Hayat Bakshi Begum is described as a Qutb Shahi figure who acted as regent after 1626.",
+      "sources": [
+        {
+          "pageid": 68129797,
+          "revision": 1356985385,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1356985385"
+        }
+      ],
+      "uncertainty_or_limit": "Article has internal disagreement about her father’s death year; verify.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "sultan_muhammad",
+      "type": "person",
+      "claim": "Sultan Muhammad Qutb Shah ruled Golconda from 1612 to 1626 according to Wikipedia.",
+      "sources": [
+        {
+          "pageid": 1705501,
+          "revision": 1381371387,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1381371387"
+        }
+      ],
+      "uncertainty_or_limit": "Article has citation warning and questionable text; succession dates require review.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "abdullah",
+      "type": "person",
+      "claim": "Abdullah Qutb Shah is described as a Golconda ruler from 1626 to 1672.",
+      "sources": [
+        {
+          "pageid": 1705521,
+          "revision": 1381371317,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1381371317"
+        }
+      ],
+      "uncertainty_or_limit": "Details of marriage alliances are internally inconsistent; check further.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "kshetrayya",
+      "type": "person",
+      "claim": "Kshetrayya was a Telugu poet whose approximate lifespan is given as c.1600–1680.",
+      "sources": [
+        {
+          "pageid": 2740390,
+          "revision": 1376208984,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1376208984"
+        }
+      ],
+      "uncertainty_or_limit": "Article needs additional citations; precise dates and local presence uncertain.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "hussain",
+      "type": "person",
+      "claim": "Hussain Shah Wali is described as a Sufi figure associated with Hussain Sagar.",
+      "sources": [
+        {
+          "pageid": 14125126,
+          "revision": 1359353593,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1359353593"
+        },
+        {
+          "pageid": 30874598,
+          "revision": 1376754474,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1376754474"
+        }
+      ],
+      "uncertainty_or_limit": "Biography is a stub and flags overreliance on primary sources; verify attribution and dates.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "sarojini",
+      "type": "person",
+      "claim": "Sarojini Naidu, poet and political activist, was born in Hyderabad in 1879.",
+      "sources": [
+        {
+          "pageid": 133117,
+          "revision": 1382034811,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1382034811"
+        }
+      ],
+      "uncertainty_or_limit": "Birthplace alone does not establish residence or behavior on every date.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "amjad",
+      "type": "person",
+      "claim": "Amjad Hyderabadi is identified as an Urdu and Persian poet and survivor of the 1908 flood.",
+      "sources": [
+        {
+          "pageid": 31494643,
+          "revision": 1380752773,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1380752773"
+        },
+        {
+          "pageid": 39932955,
+          "revision": 1376429967,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1376429967"
+        }
+      ],
+      "uncertainty_or_limit": "His biography says 1878 in infobox and 1888 in lead; flood article gives age 22; do not choose an exact birth year yet.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "makhdoom",
+      "type": "person",
+      "claim": "Makhdoom Mohiuddin was an Urdu poet and activist associated with Hyderabad.",
+      "sources": [
+        {
+          "pageid": 8246812,
+          "revision": 1371365914,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1371365914"
+        }
+      ],
+      "uncertainty_or_limit": "Article flags insufficient citations; verify dated local activities.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "bhagmati",
+      "type": "person",
+      "claim": "Bhagmati appears in narratives connected to Muhammad Quli Qutb Shah and Hyderabad.",
+      "sources": [
+        {
+          "pageid": 33577932,
+          "revision": 1360405197,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1360405197"
+        }
+      ],
+      "uncertainty_or_limit": "Her historicity and the naming story are debated; do not assert existence as established or make spawnable.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "asaf_jah_vi",
+      "type": "person",
+      "claim": "Mahboob Ali Khan, Asaf Jah VI, ruled Hyderabad State during the 1908 flood.",
+      "sources": [
+        {
+          "pageid": 2118878,
+          "revision": 1382505409,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1382505409"
+        },
+        {
+          "pageid": 39932955,
+          "revision": 1376429967,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1376429967"
+        }
+      ],
+      "uncertainty_or_limit": "Distinct from unrelated Bangladeshi naval officer Mahbub Ali Khan; resolve article-internal succession inconsistencies.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "family_1",
+      "type": "relationship",
+      "claim": "Hayat Bakshi Begum was the daughter of Muhammad Quli Qutb Shah.",
+      "sources": [
+        {
+          "pageid": 1705501,
+          "revision": 1381371387,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1381371387"
+        },
+        {
+          "pageid": 68129797,
+          "revision": 1356985385,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1356985385"
+        }
+      ],
+      "uncertainty_or_limit": "Research candidate; corroborate the biographical details.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "family_2",
+      "type": "relationship",
+      "claim": "Sultan Muhammad Qutb Shah married Hayat Bakshi Begum in 1607, according to Wikipedia.",
+      "sources": [
+        {
+          "pageid": 1705501,
+          "revision": 1381371387,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1381371387"
+        }
+      ],
+      "uncertainty_or_limit": "Article needs citations; confirm precise year.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "family_3",
+      "type": "relationship",
+      "claim": "Abdullah Qutb Shah is described as the son of Sultan Muhammad Qutb Shah and Hayat Bakshi Begum.",
+      "sources": [
+        {
+          "pageid": 1705521,
+          "revision": 1381371317,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1381371317"
+        }
+      ],
+      "uncertainty_or_limit": "Research candidate; no inferred interaction schedule.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "court_poet",
+      "type": "relationship",
+      "claim": "Wikipedia says Abdullah Qutb Shah invited the poet Kshetrayya to his court.",
+      "sources": [
+        {
+          "pageid": 1705521,
+          "revision": 1381371317,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1381371317"
+        },
+        {
+          "pageid": 2740390,
+          "revision": 1376208984,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1376208984"
+        }
+      ],
+      "uncertainty_or_limit": "Exact time and locality not stated here; independent corroboration required.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "father_daughter_naidu",
+      "type": "relationship",
+      "claim": "Wikipedia identifies Padmaja Naidu as Sarojini Naidu’s daughter.",
+      "sources": [
+        {
+          "pageid": 133117,
+          "revision": 1382034811,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1382034811"
+        },
+        {
+          "pageid": 11055040,
+          "revision": 1382776551,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1382776551"
+        }
+      ],
+      "uncertainty_or_limit": "A family link is not evidence of a specific encounter at a given time or place.",
+      "status": "research_candidate_not_gameplay"
+    },
+    {
+      "id": "naidu_father",
+      "type": "relationship",
+      "claim": "Wikipedia identifies Aghorenath Chattopadhyay as Sarojini Naidu’s father.",
+      "sources": [
+        {
+          "pageid": 133117,
+          "revision": 1382034811,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1382034811"
+        },
+        {
+          "pageid": 65207821,
+          "revision": 1329960712,
+          "url": "https://en.wikipedia.org/w/index.php?oldid=1329960712"
+        }
+      ],
+      "uncertainty_or_limit": "Further biographical and temporal review required.",
+      "status": "research_candidate_not_gameplay"
+    }
+  ]
+}

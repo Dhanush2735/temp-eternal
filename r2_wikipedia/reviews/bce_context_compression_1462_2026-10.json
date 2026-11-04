@@ -1,0 +1,137 @@
+{
+  "note": "Lossless gzip with original hashes, manifest validation, and synthetic pack roundtrips. Historical reports may reference older paths.",
+  "files": [
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2450_2410_bce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2450_2410_bce_context_2026-10.json.gz",
+      "sha256_original": "3940c3efaa6b36c9f5e5f7d9116f82fd0a9dd28b6b1bb1413d1b2159b6ad62aa",
+      "original_bytes": 11923,
+      "compressed_bytes": 3602,
+      "installer": "r2_wikipedia/apply_2450_2410_context.py",
+      "test_readers": [
+        "r2_wikipedia/test_apply_2450_2410_context.py"
+      ],
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2400_2360_bce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2400_2360_bce_context_2026-10.json.gz",
+      "sha256_original": "528ae0d7e3c6dbc8eb9f341d4378f2a49d0d7633038a89c11100e6c96ad7eaab",
+      "original_bytes": 11655,
+      "compressed_bytes": 3487,
+      "installer": "r2_wikipedia/apply_2400_2360_context.py",
+      "test_readers": [
+        "r2_wikipedia/test_apply_2400_2360_context.py"
+      ],
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2500_2460_bce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2500_2460_bce_context_2026-10.json.gz",
+      "sha256_original": "bfb9794e3c65111824b45d6428d292f4e5473135e4d1ec70bdebf5e833d2a775",
+      "original_bytes": 11402,
+      "compressed_bytes": 3683,
+      "installer": "r2_wikipedia/apply_2500_2460_context.py",
+      "test_readers": [
+        "r2_wikipedia/test_apply_2500_2460_context.py"
+      ],
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2250_2210_bce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2250_2210_bce_context_2026-10.json.gz",
+      "sha256_original": "97f358ffa178d05f061a8452067c809aaeb5ec3fa4eda15360bb667fc8c08654",
+      "original_bytes": 11350,
+      "compressed_bytes": 3443,
+      "installer": "r2_wikipedia/apply_2250_2210_context.py",
+      "test_readers": [
+        "r2_wikipedia/test_apply_2250_2210_context.py"
+      ],
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1350_1310_bce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1350_1310_bce_context_2026-10.json.gz",
+      "sha256_original": "68a59de830b173b96abc9f30887fd7bd2a5f7f08ae6a6172b47b39b1afe105ec",
+      "original_bytes": 11065,
+      "compressed_bytes": 2888,
+      "installer": "r2_wikipedia/apply_1350_1310_context.py",
+      "test_readers": [
+        "r2_wikipedia/test_apply_1350_1310_context.py"
+      ],
+      "synthetic_pack_roundtrips": 3
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2600_2560_bce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2600_2560_bce_context_2026-10.json.gz",
+      "sha256_original": "13dcf3c0c9a8db2de334ee60a3a6800548420e97992f224ce91f19da309611bb",
+      "original_bytes": 10946,
+      "compressed_bytes": 3173,
+      "installer": "r2_wikipedia/apply_2600_2560_context.py",
+      "test_readers": [
+        "r2_wikipedia/test_apply_2600_2560_context.py"
+      ],
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1400_1360_bce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1400_1360_bce_context_2026-10.json.gz",
+      "sha256_original": "8f4d493f9b118a408b3cf57d4407d2a344a8bc5be6c87e85cea63629ef68854e",
+      "original_bytes": 9858,
+      "compressed_bytes": 2552,
+      "installer": "r2_wikipedia/apply_1400_1360_context.py",
+      "test_readers": [
+        "r2_wikipedia/test_apply_1400_1360_context.py"
+      ],
+      "synthetic_pack_roundtrips": 3
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2550_2510_bce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2550_2510_bce_context_2026-10.json.gz",
+      "sha256_original": "41915630b489f31a87b8fa6f80a97c60b58c05233d712e53d6aea91b4dbeed32",
+      "original_bytes": 9836,
+      "compressed_bytes": 3199,
+      "installer": "r2_wikipedia/apply_2550_2510_context.py",
+      "test_readers": [
+        "r2_wikipedia/test_apply_2550_2510_context.py"
+      ],
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2300_2260_bce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2300_2260_bce_context_2026-10.json.gz",
+      "sha256_original": "f6ba9628e9290d8fefba7bff8407097c4086d95a19a9d6bd05a74b22e4ced8cb",
+      "original_bytes": 8930,
+      "compressed_bytes": 2877,
+      "installer": "r2_wikipedia/apply_2300_2260_context.py",
+      "test_readers": [
+        "r2_wikipedia/test_apply_2300_2260_context.py"
+      ],
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/1450_1410_bce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/1450_1410_bce_context_2026-10.json.gz",
+      "sha256_original": "2a5aeb240853b182a0634d7b61b831eeb05eecffaf0d57eb8870bcb8b3ecc138",
+      "original_bytes": 8763,
+      "compressed_bytes": 2681,
+      "installer": "r2_wikipedia/apply_1450_1410_context.py",
+      "test_readers": [
+        "r2_wikipedia/test_apply_1450_1410_context.py"
+      ],
+      "synthetic_pack_roundtrips": 2
+    },
+    {
+      "original": "/home/user/r2_wikipedia/reviews/2850_2810_bce_context_2026-10.json",
+      "compressed": "/home/user/r2_wikipedia/reviews/2850_2810_bce_context_2026-10.json.gz",
+      "sha256_original": "ad340b2bc5e22f405afdffd944efbdfa295d0c501c2740f3cd2ab1a9753d73aa",
+      "original_bytes": 6027,
+      "compressed_bytes": 2123,
+      "installer": "r2_wikipedia/apply_2850_2810_context.py",
+      "test_readers": [
+        "r2_wikipedia/test_apply_2850_2810_context.py"
+      ],
+      "synthetic_pack_roundtrips": 2
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "schema": "eternal-r2-reviewed-event-corrections-v1",
+  "target": "events_wikipedia.json.gz",
+  "updates": [
+    {
+      "event_id": "wpy_327ae6b1c8",
+      "candidate_id": "16b5c6fad694b8d0bf15d5d4",
+      "candidate_source": {
+        "title": "12th century",
+        "page_id": 34644,
+        "revision_id": 1378517147,
+        "line": 96,
+        "url": "https://en.wikipedia.org/w/index.php?title=12th_century&oldid=1378517147"
+      },
+      "before": {
+        "id": "wpy_327ae6b1c8",
+        "name": "The First Treaty of Constance is signed between Emperor Frederick I and Pope Eugene III, by the terms of which, the emperor is to prevent any action by Manuel I Comnenus to reestablish the Byzantine Empire on Italian soil and to assist the pope against his enemies in revolt in Rome",
+        "start": 1150,
+        "end": 1151,
+        "lat": 47.6633,
+        "lon": 9.1753,
+        "radiusKm": 20,
+        "kind": "treaty",
+        "effect": "political",
+        "confidence": "wikipedia_year_page"
+      },
+      "changes": {
+        "start": 1153,
+        "end": 1154,
+        "name": "Frederick I and Pope Eugene III agree the First Treaty of Constance",
+        "confidence": "wikipedia_region"
+      },
+      "corroborating_sources": [
+        "https://www.britannica.com/biography/Frederick-I-Holy-Roman-emperor",
+        "https://www.britannica.com/place/Italy/Frederick-I-Frederick-Barbarossa",
+        "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Frederick_I.,_Roman_Emperor",
+        "https://en.wikipedia.org/w/index.php?title=Treaty_of_Constance_(1153)&oldid=1332416894",
+        "https://en.wikipedia.org/w/index.php?title=Konstanz&oldid=1380746682"
+      ],
+      "review_note": "Britannica dates the agreement to 1153 and Frederick was crowned emperor in 1155; the original wording wrongly called him emperor in 1153. Constance city coordinates are a regional reference, not an exact signing site or proof both principals were physically present. The 20 km radius is a gameplay search setting, not historical extent. A 1183 Peace of Constance is a different treaty, and is not merged.",
+      "reviewed_as_of": "2026-10-28",
+      "candidate_snapshot": {
+        "schema": "eternal-r2-history-candidate-v1",
+        "id": "16b5c6fad694b8d0bf15d5d4",
+        "status": "unreviewed_not_game_ready",
+        "source": {
+          "title": "12th century",
+          "page_id": 34644,
+          "revision_id": 1378517147,
+          "line": 96,
+          "url": "https://en.wikipedia.org/w/index.php?title=12th_century&oldid=1378517147"
+        },
+        "section_path": [
+          "Events",
+          "1150s"
+        ],
+        "section_kind": "event_or_development_section",
+        "period_context": {
+          "kind": "century",
+          "start": 1101,
+          "end": 1200,
+          "year_convention": "negative BCE; positive CE; no year zero"
+        },
+        "temporal_context": {
+          "classification": "before_present_year_context",
+          "basis": "leading_year_label",
+          "start_year": 1153,
+          "end_year": 1153,
+          "as_of": "2026-10-28",
+          "warning": "Context only: does not establish when an event occurred or whether a future claim is a projection."
+        },
+        "explicit_leading_year": {
+          "year": 1153,
+          "precision": "year",
+          "approximate": false,
+          "raw_label": "[[1153]]:",
+          "meaning": "unverified_label_at_start_of_source_bullet"
+        },
+        "parent_bullets": [],
+        "raw_wikitext": "[[1153]]: The First Treaty of Constance is signed between [[Emperor Frederick I]] and [[Pope Eugene III]], by the terms of which, the emperor is to prevent any action by [[Manuel I Comnenus]] to reestablish the Byzantine Empire on Italian soil and to assist the pope against his enemies in revolt in Rome.",
+        "display_text_unverified": "1153: The First Treaty of Constance is signed between Emperor Frederick I and Pope Eugene III, by the terms of which, the emperor is to prevent any action by Manuel I Comnenus to reestablish the Byzantine Empire on Italian soil and to assist the pope against his enemies in revolt in Rome.",
+        "linked_articles": [
+          {
+            "title": "1153",
+            "label": "1153"
+          },
+          {
+            "title": "Emperor Frederick I",
+            "label": "Emperor Frederick I"
+          },
+          {
+            "title": "Pope Eugene III",
+            "label": "Pope Eugene III"
+          },
+          {
+            "title": "Manuel I Comnenus",
+            "label": "Manuel I Comnenus"
+          }
+        ],
+        "resolved_location": null,
+        "event_date_verified": false,
+        "note": "Source-derived candidate only; link names, section labels and page context are not proof of identity, date or location."
+      }
+    }
+  ],
+  "notice": "Reviewed standalone year correction. Exact text and thematic search across indexed packs found no same-year match; semantic duplicates cannot be ruled out."
+}

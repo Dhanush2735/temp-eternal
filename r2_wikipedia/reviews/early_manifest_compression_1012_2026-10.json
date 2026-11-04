@@ -1,0 +1,205 @@
+{
+  "note": "Lossless gzip; original bytes, manifest guards, synthetic transforms verified. No game data changed. Reverse by decompressing and updating installer path.",
+  "files": [
+    {
+      "original": "r2_wikipedia/reviews/1639_1590_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/1639_1590_bce_context_2026-10.json.gz",
+      "bytes": 21278,
+      "compressed_bytes": 4558,
+      "sha256_original": "33883445559fe0c24d13a44213c3c76a030badd2ff7201303e9063b16050dda1",
+      "installer": "r2_wikipedia/apply_1639_1590_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/1689_1640_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/1689_1640_bce_context_2026-10.json.gz",
+      "bytes": 19236,
+      "compressed_bytes": 3846,
+      "sha256_original": "d5c64b4183dd18013017e86f545872fc0a40eb29bbfb34d78fe09ab78e1f737b",
+      "installer": "r2_wikipedia/apply_1689_1640_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/1739_1690_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/1739_1690_bce_context_2026-10.json.gz",
+      "bytes": 17339,
+      "compressed_bytes": 3652,
+      "sha256_original": "416902a9cfc1349c00a82100308f52196cea9d8fd12f7d1730f7f13db7a7e25e",
+      "installer": "r2_wikipedia/apply_1739_1690_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/1789_1740_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/1789_1740_bce_context_2026-10.json.gz",
+      "bytes": 13656,
+      "compressed_bytes": 3050,
+      "sha256_original": "6c592d8f0234c046d5015a4fcf3e5fd2ccf218121e1ff2b0c303af94a30ceab5",
+      "installer": "r2_wikipedia/apply_1789_1740_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/1989_1940_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/1989_1940_bce_context_2026-10.json.gz",
+      "bytes": 12596,
+      "compressed_bytes": 2650,
+      "sha256_original": "088078da7a3e203bba4b70f0f762df8ad28f05788a42a7c6be9af501b2370c3f",
+      "installer": "r2_wikipedia/apply_1989_1940_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/1939_1890_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/1939_1890_bce_context_2026-10.json.gz",
+      "bytes": 9611,
+      "compressed_bytes": 2676,
+      "sha256_original": "1a3c5e2508c7b5d41b447d1530817866ccab9a72c01980ec17363d0d0a81e865",
+      "installer": "r2_wikipedia/apply_1939_1890_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/1839_1790_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/1839_1790_bce_context_2026-10.json.gz",
+      "bytes": 7324,
+      "compressed_bytes": 1947,
+      "sha256_original": "416ca61d49377dd7486108fc8cd9f8aaf95ee9628218a6c9cab4f3f4da6f2bcb",
+      "installer": "r2_wikipedia/apply_1839_1790_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/1889_1840_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/1889_1840_bce_context_2026-10.json.gz",
+      "bytes": 7862,
+      "compressed_bytes": 1907,
+      "sha256_original": "575fc66dae8ef66d21125a0f2f38238c94f1e4b28b33b8fa065a4e527e75e622",
+      "installer": "r2_wikipedia/apply_1889_1840_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2039_1990_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2039_1990_bce_context_2026-10.json.gz",
+      "bytes": 8053,
+      "compressed_bytes": 2244,
+      "sha256_original": "12bedca4e4b0d689641c24f8efddbf42ebd26483d06c1e53e734a4ca642de623",
+      "installer": "r2_wikipedia/apply_2039_1990_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2089_2040_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2089_2040_bce_context_2026-10.json.gz",
+      "bytes": 6820,
+      "compressed_bytes": 1826,
+      "sha256_original": "687d6327f723a009196cd8214ac6899b5c07fc7804e55bbd0411374cbbd70f45",
+      "installer": "r2_wikipedia/apply_2089_2040_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2139_2090_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2139_2090_bce_context_2026-10.json.gz",
+      "bytes": 5004,
+      "compressed_bytes": 1444,
+      "sha256_original": "9c58d557554a6a5a30993c2df7cf6ded347574be3f6c5fb1b2d0042e3b883eea",
+      "installer": "r2_wikipedia/apply_2139_2090_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2189_2140_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2189_2140_bce_context_2026-10.json.gz",
+      "bytes": 7416,
+      "compressed_bytes": 1936,
+      "sha256_original": "18082b97030e1758a991e38f5c8384c94d23611d99c4611350daae6f4bddc2c6",
+      "installer": "r2_wikipedia/apply_2189_2140_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2239_2190_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2239_2190_bce_context_2026-10.json.gz",
+      "bytes": 4828,
+      "compressed_bytes": 1379,
+      "sha256_original": "234132a737e10a99c87d0dce004d4ee277a5927c54fa6437e0e0ed46de34bea8",
+      "installer": "r2_wikipedia/apply_2239_2190_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2289_2240_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2289_2240_bce_context_2026-10.json.gz",
+      "bytes": 9621,
+      "compressed_bytes": 2425,
+      "sha256_original": "92ea159df6ecf32097f189a0ffbf59f555a6e687d5ae2c4843ca4b62f4347dca",
+      "installer": "r2_wikipedia/apply_2289_2240_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2339_2290_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2339_2290_bce_context_2026-10.json.gz",
+      "bytes": 5619,
+      "compressed_bytes": 1718,
+      "sha256_original": "dd0c486589c14a16cee8b29e58aef76c7225636f7aaf48f4a91a1e2a0b20265d",
+      "installer": "r2_wikipedia/apply_2339_2290_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2389_2340_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2389_2340_bce_context_2026-10.json.gz",
+      "bytes": 6634,
+      "compressed_bytes": 1837,
+      "sha256_original": "04e087968013739315a92bc1080c1bafca454725c5f191433d744898ea97d29f",
+      "installer": "r2_wikipedia/apply_2389_2340_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2439_2390_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2439_2390_bce_context_2026-10.json.gz",
+      "bytes": 5159,
+      "compressed_bytes": 1473,
+      "sha256_original": "ffd13df596bb43c53f727b0a2920c8f59b12365fbfda287773d2874877493b3f",
+      "installer": "r2_wikipedia/apply_2439_2390_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2489_2440_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2489_2440_bce_context_2026-10.json.gz",
+      "bytes": 4067,
+      "compressed_bytes": 1421,
+      "sha256_original": "ace5e450a70429374facf25d3596f28e234a93682fd1bf928e18bb04548d14b0",
+      "installer": "r2_wikipedia/apply_2489_2440_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2539_2490_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2539_2490_bce_context_2026-10.json.gz",
+      "bytes": 5571,
+      "compressed_bytes": 2120,
+      "sha256_original": "c126c1de1da72dcc863eb3c78e20ffa8fcc37b6e684f4d0765cfa5714a8a2f31",
+      "installer": "r2_wikipedia/apply_2539_2490_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2589_2540_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2589_2540_bce_context_2026-10.json.gz",
+      "bytes": 4406,
+      "compressed_bytes": 1536,
+      "sha256_original": "db27432cccfd53ab73011d7f5d9f3b7d351be9dd5af31898e8bd78c9212acade",
+      "installer": "r2_wikipedia/apply_2589_2540_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2639_2590_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2639_2590_bce_context_2026-10.json.gz",
+      "bytes": 3262,
+      "compressed_bytes": 1184,
+      "sha256_original": "9b83e7f498c864d495313f22634aaca29edefb7d4f8b8f97c591e44a21775c9e",
+      "installer": "r2_wikipedia/apply_2639_2590_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2689_2640_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2689_2640_bce_context_2026-10.json.gz",
+      "bytes": 3131,
+      "compressed_bytes": 999,
+      "sha256_original": "7f8223f1a107646f49288e6dcf46644c45425c33338d3d0d274e012c752cdb69",
+      "installer": "r2_wikipedia/apply_2689_2640_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2839_2790_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2839_2790_bce_context_2026-10.json.gz",
+      "bytes": 8244,
+      "compressed_bytes": 2055,
+      "sha256_original": "8081aef9fdd246d7feb1088e2fd2d0b0d465d60f1a52749b4c3c7fe5135d2e8f",
+      "installer": "r2_wikipedia/apply_2839_2790_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2939_2890_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2939_2890_bce_context_2026-10.json.gz",
+      "bytes": 5355,
+      "compressed_bytes": 1275,
+      "sha256_original": "8a0fa432625dc9689d28ed6c165f2cb1c4d0fe33b582c991d77260fc7ae1cbb2",
+      "installer": "r2_wikipedia/apply_2939_2890_bce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/2989_2940_bce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/2989_2940_bce_context_2026-10.json.gz",
+      "bytes": 4674,
+      "compressed_bytes": 1433,
+      "sha256_original": "605e1aa0760796694cd08eb878271995a8ce0c3b0856f1ad3270e9dbdeb7b01a",
+      "installer": "r2_wikipedia/apply_2989_2940_bce_context.py"
+    }
+  ]
+}

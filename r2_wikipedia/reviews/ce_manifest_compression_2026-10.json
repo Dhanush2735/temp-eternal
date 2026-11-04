@@ -1,0 +1,269 @@
+{
+  "note": "Lossless gzip per prior CE review manifest. Installers use their existing gzip-aware load(). Original bytes and canonical manifest validation verified before removal. Tests read installer M via load(). Restore with gzip -dc on the archive and adjust installer M if plain JSON is required. No active data edited.",
+  "files": [
+    {
+      "original": "1001_1041_ce_context_2026-10.json",
+      "compressed": "1001_1041_ce_context_2026-10.json.gz",
+      "bytes": 38674,
+      "compressed_bytes": 8591,
+      "sha256_original": "a514cc98c4ef0463d39776bedd8f2f20e21dc0be780b90bd0a9324234941e82e",
+      "installer": "apply_1001_1041_ce_context.py"
+    },
+    {
+      "original": "1051_1091_ce_context_2026-10.json",
+      "compressed": "1051_1091_ce_context_2026-10.json.gz",
+      "bytes": 34950,
+      "compressed_bytes": 8335,
+      "sha256_original": "b065a83592b5d31daa1cadedf8026c55de6728d3be6ca2c4cdf91a2599d499ab",
+      "installer": "apply_1051_1091_ce_context.py"
+    },
+    {
+      "original": "1101_1141_ce_context_2026-10.json",
+      "compressed": "1101_1141_ce_context_2026-10.json.gz",
+      "bytes": 36218,
+      "compressed_bytes": 8247,
+      "sha256_original": "a677c10496a411edc7778fb9300983681495e6d82535ae27974524757ccb24df",
+      "installer": "apply_1101_1141_ce_context.py"
+    },
+    {
+      "original": "1151_1191_ce_context_2026-10.json",
+      "compressed": "1151_1191_ce_context_2026-10.json.gz",
+      "bytes": 40733,
+      "compressed_bytes": 9489,
+      "sha256_original": "dd5356666e5ba3668498556d2744c6e58836601e5cf103095a8dc7ca331b2a97",
+      "installer": "apply_1151_1191_ce_context.py"
+    },
+    {
+      "original": "1201_1241_ce_context_2026-10.json",
+      "compressed": "1201_1241_ce_context_2026-10.json.gz",
+      "bytes": 28518,
+      "compressed_bytes": 6664,
+      "sha256_original": "ea8d75226ac6a53f54ae93741865267fe3be37b56241399d60a382acb66ef46d",
+      "installer": "apply_1201_1241_ce_context.py"
+    },
+    {
+      "original": "1251_1291_ce_context_2026-10.json",
+      "compressed": "1251_1291_ce_context_2026-10.json.gz",
+      "bytes": 37202,
+      "compressed_bytes": 9035,
+      "sha256_original": "d055cab3ffc6205abe13428c65cb57c7238d54aba442e08da29ded796120e24c",
+      "installer": "apply_1251_1291_ce_context.py"
+    },
+    {
+      "original": "1301_1341_ce_context_2026-10.json",
+      "compressed": "1301_1341_ce_context_2026-10.json.gz",
+      "bytes": 41362,
+      "compressed_bytes": 10153,
+      "sha256_original": "80878aa6b54ba311fdb928bb61f2f2d028ae105c6892a3278e895b0d6c6da38a",
+      "installer": "apply_1301_1341_ce_context.py"
+    },
+    {
+      "original": "1351_1391_ce_context_2026-10.json",
+      "compressed": "1351_1391_ce_context_2026-10.json.gz",
+      "bytes": 38738,
+      "compressed_bytes": 8814,
+      "sha256_original": "ff207e0122e9c1fe7aa8c2225ec7c785e93e5c495f0793084488f29238d59019",
+      "installer": "apply_1351_1391_ce_context.py"
+    },
+    {
+      "original": "1401_1441_ce_context_2026-10.json",
+      "compressed": "1401_1441_ce_context_2026-10.json.gz",
+      "bytes": 55586,
+      "compressed_bytes": 12829,
+      "sha256_original": "f1947bbf53e11ceae108c9eef37658e2a4a4cd2fff9f99a3a747063dd3f6b430",
+      "installer": "apply_1401_1441_ce_context.py"
+    },
+    {
+      "original": "1451_1491_ce_context_2026-10.json",
+      "compressed": "1451_1491_ce_context_2026-10.json.gz",
+      "bytes": 33990,
+      "compressed_bytes": 8280,
+      "sha256_original": "bb0de7ea4ed178cdbcd0c44c6809fb815a4cf9a3934367f3ecf78fce55ff05fe",
+      "installer": "apply_1451_1491_ce_context.py"
+    },
+    {
+      "original": "1501_1541_ce_context_2026-10.json",
+      "compressed": "1501_1541_ce_context_2026-10.json.gz",
+      "bytes": 23667,
+      "compressed_bytes": 5721,
+      "sha256_original": "1fbadf3e856df0596e88a75d475ea8f83b8b82726b21cd1326366f17595b9131",
+      "installer": "apply_1501_1541_ce_context.py"
+    },
+    {
+      "original": "1551_1591_ce_context_2026-10.json",
+      "compressed": "1551_1591_ce_context_2026-10.json.gz",
+      "bytes": 28064,
+      "compressed_bytes": 7006,
+      "sha256_original": "27815fca0972909fb4f8fa9b56f5c9cbdff4a1c0d3bd4b5aa78794cadc3fddc1",
+      "installer": "apply_1551_1591_ce_context.py"
+    },
+    {
+      "original": "1601_1641_ce_context_2026-10.json",
+      "compressed": "1601_1641_ce_context_2026-10.json.gz",
+      "bytes": 34467,
+      "compressed_bytes": 7778,
+      "sha256_original": "4932fde789438a56d1e7cb895c191a894ef0d8a5c9e871c32420b11adc67a40c",
+      "installer": "apply_1601_1641_ce_context.py"
+    },
+    {
+      "original": "1651_1691_ce_context_2026-10.json",
+      "compressed": "1651_1691_ce_context_2026-10.json.gz",
+      "bytes": 29996,
+      "compressed_bytes": 7350,
+      "sha256_original": "4049c3be8eb0b53606cd4252dc695bd7618ca7e052b23743ed386d3c4c7d21ab",
+      "installer": "apply_1651_1691_ce_context.py"
+    },
+    {
+      "original": "1701_1741_ce_context_2026-10.json",
+      "compressed": "1701_1741_ce_context_2026-10.json.gz",
+      "bytes": 23615,
+      "compressed_bytes": 6271,
+      "sha256_original": "667b0ec4b4bb654cfd1004446e8b777f11734e527f7fbe17601ace2e3506464d",
+      "installer": "apply_1701_1741_ce_context.py"
+    },
+    {
+      "original": "1751_1791_ce_context_2026-10.json",
+      "compressed": "1751_1791_ce_context_2026-10.json.gz",
+      "bytes": 30202,
+      "compressed_bytes": 7339,
+      "sha256_original": "f410c5ab6835e76bff71d077c307af01c89e4b2e80ba067c4d74b71a8f6373c8",
+      "installer": "apply_1751_1791_ce_context.py"
+    },
+    {
+      "original": "1801_1841_ce_context_2026-10.json",
+      "compressed": "1801_1841_ce_context_2026-10.json.gz",
+      "bytes": 33717,
+      "compressed_bytes": 8091,
+      "sha256_original": "f73f32fbb8b3b227c265f1e9735173fd400dbf4e222feb49b81072dd34ab99c2",
+      "installer": "apply_1801_1841_ce_context.py"
+    },
+    {
+      "original": "1851_1891_ce_context_2026-10.json",
+      "compressed": "1851_1891_ce_context_2026-10.json.gz",
+      "bytes": 28458,
+      "compressed_bytes": 7157,
+      "sha256_original": "76fbc819844a9ff57e3c0d1c0ad00250c442b5c974741a3beef9a0a05d18b637",
+      "installer": "apply_1851_1891_ce_context.py"
+    },
+    {
+      "original": "1901_1941_ce_context_2026-10.json",
+      "compressed": "1901_1941_ce_context_2026-10.json.gz",
+      "bytes": 23293,
+      "compressed_bytes": 5870,
+      "sha256_original": "3e9a436688e636ee7f4366d58e6be452b3a9b847dfec79d583aff8f0379f9718",
+      "installer": "apply_1901_1941_ce_context.py"
+    },
+    {
+      "original": "1951_1991_ce_context_2026-10.json",
+      "compressed": "1951_1991_ce_context_2026-10.json.gz",
+      "bytes": 16279,
+      "compressed_bytes": 4318,
+      "sha256_original": "7659dea5c84a4192c301e1b9b6226c43eaa85ca5b3ab4a404f0322c4f6a30a05",
+      "installer": "apply_1951_1991_ce_context.py"
+    },
+    {
+      "original": "351_391_ce_context_2026-10.json",
+      "compressed": "351_391_ce_context_2026-10.json.gz",
+      "bytes": 23804,
+      "compressed_bytes": 6194,
+      "sha256_original": "75388b081b463428bca6eb3b1738f7e4d410e3c1c9a9b5990d22291438ba7e88",
+      "installer": "apply_351_391_ce_context.py"
+    },
+    {
+      "original": "401_441_ce_context_2026-10.json",
+      "compressed": "401_441_ce_context_2026-10.json.gz",
+      "bytes": 23915,
+      "compressed_bytes": 6169,
+      "sha256_original": "4738c3595f524f8f1a2f3189287a41ed97dc5a9fb46e274efd366a53bec85cea",
+      "installer": "apply_401_441_ce_context.py"
+    },
+    {
+      "original": "451_491_ce_context_2026-10.json",
+      "compressed": "451_491_ce_context_2026-10.json.gz",
+      "bytes": 27499,
+      "compressed_bytes": 6793,
+      "sha256_original": "d48087276f8ff8f61f82ce2caaf26d9eaa62f75c5dcfb124b2b2bf5a49e6c3fd",
+      "installer": "apply_451_491_ce_context.py"
+    },
+    {
+      "original": "501_541_ce_context_2026-10.json",
+      "compressed": "501_541_ce_context_2026-10.json.gz",
+      "bytes": 30268,
+      "compressed_bytes": 7409,
+      "sha256_original": "5f945f380cb7b88f187c63af2ea9f4c6637540d0c0842907f4f6281dfc2cfe7f",
+      "installer": "apply_501_541_ce_context.py"
+    },
+    {
+      "original": "551_591_ce_context_2026-10.json",
+      "compressed": "551_591_ce_context_2026-10.json.gz",
+      "bytes": 33421,
+      "compressed_bytes": 7826,
+      "sha256_original": "55d3d4b766a2dd1840948182fa9a8047f7ad32f30a34f32f8f072357f20ea45e",
+      "installer": "apply_551_591_ce_context.py"
+    },
+    {
+      "original": "601_641_ce_context_2026-10.json",
+      "compressed": "601_641_ce_context_2026-10.json.gz",
+      "bytes": 30548,
+      "compressed_bytes": 7619,
+      "sha256_original": "a869c4a21be399724f01ee43ffd8f385a5c1853c5a04972aaaf766b22d5b339f",
+      "installer": "apply_601_641_ce_context.py"
+    },
+    {
+      "original": "651_691_ce_context_2026-10.json",
+      "compressed": "651_691_ce_context_2026-10.json.gz",
+      "bytes": 39905,
+      "compressed_bytes": 9765,
+      "sha256_original": "8d30f81850d5f8f6642b5775102666defc20b2fa2771b0de51d36bd33b7c47d6",
+      "installer": "apply_651_691_ce_context.py"
+    },
+    {
+      "original": "701_741_ce_context_2026-10.json",
+      "compressed": "701_741_ce_context_2026-10.json.gz",
+      "bytes": 32836,
+      "compressed_bytes": 8235,
+      "sha256_original": "6ec57e8868db576b72a279c6108c97da4083a37a987754aaaa1a948461fc3d5f",
+      "installer": "apply_701_741_ce_context.py"
+    },
+    {
+      "original": "751_791_ce_context_2026-10.json",
+      "compressed": "751_791_ce_context_2026-10.json.gz",
+      "bytes": 27692,
+      "compressed_bytes": 7082,
+      "sha256_original": "4b774b92ae912b7e55ed859dda2e314d1c2f14781bbdb93a1a75e59f340571ec",
+      "installer": "apply_751_791_ce_context.py"
+    },
+    {
+      "original": "801_841_ce_context_2026-10.json",
+      "compressed": "801_841_ce_context_2026-10.json.gz",
+      "bytes": 32291,
+      "compressed_bytes": 7737,
+      "sha256_original": "6c927ae387f7dde44d0337be97bcad1118ecf76a0b1573c57c48fbc56c17a5d6",
+      "installer": "apply_801_841_ce_context.py"
+    },
+    {
+      "original": "851_891_ce_context_2026-10.json",
+      "compressed": "851_891_ce_context_2026-10.json.gz",
+      "bytes": 32961,
+      "compressed_bytes": 7591,
+      "sha256_original": "3bad3734148dba63eb33a374abc73a8718d1da36ade6b4bafd30e2cd93e490d1",
+      "installer": "apply_851_891_ce_context.py"
+    },
+    {
+      "original": "901_941_ce_context_2026-10.json",
+      "compressed": "901_941_ce_context_2026-10.json.gz",
+      "bytes": 40016,
+      "compressed_bytes": 9936,
+      "sha256_original": "ee1703dceca62b1750bee547c4388fce420dea2c2c8ad72f6f91bec3c0170a5c",
+      "installer": "apply_901_941_ce_context.py"
+    },
+    {
+      "original": "951_991_ce_context_2026-10.json",
+      "compressed": "951_991_ce_context_2026-10.json.gz",
+      "bytes": 29801,
+      "compressed_bytes": 7610,
+      "sha256_original": "59802e09908714e84d192a0d71b4a5047003bbe060f40019ccb4d0885b7c2126",
+      "installer": "apply_951_991_ce_context.py"
+    }
+  ]
+}

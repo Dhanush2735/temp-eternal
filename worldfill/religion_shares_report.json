@@ -1,0 +1,34 @@
+{
+ "country_years": 1952,
+ "country_years_without_state": 43,
+ "states_with_shares": 225,
+ "example_india": [
+  [
+   2005,
+   [
+    [
+     "Hinduism",
+     80.2
+    ],
+    [
+     "Sunni Islam",
+     13.4
+    ]
+   ]
+  ],
+  [
+   2010,
+   [
+    [
+     "Hinduism",
+     80.5
+    ],
+    [
+     "Sunni Islam",
+     13.4
+    ]
+   ]
+  ]
+ ],
+ "bytes": 343452
+}

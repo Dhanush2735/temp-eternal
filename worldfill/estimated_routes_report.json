@@ -1,0 +1,83 @@
+{
+ "stats": {
+  "towns_found": 68,
+  "strays_dropped": 1,
+  "route:Dakshinapatha": 4,
+  "route:Uttarapatha": 14,
+  "route:Amber Road": 28,
+  "route:Indian Ocean trade": 21,
+  "dropped:Dakshinapatha": 1,
+  "dropped:Uttarapatha": 4,
+  "dropped:Amber Road": 13,
+  "dropped:Indian Ocean trade": 2
+ },
+ "routes": {
+  "Dakshinapatha": [
+   3,
+   -500,
+   1300,
+   [
+    "Paithan",
+    "Ujjain",
+    "Varanasi"
+   ]
+  ],
+  "Uttarapatha": [
+   10,
+   -500,
+   1200,
+   [
+    "Taxila",
+    "Balkh",
+    "Tamluk",
+    "Varanasi",
+    "Pataliputra",
+    "Bharuch",
+    "Nallasopara",
+    "Pushkalavati",
+    "Ujjain",
+    "Paithan"
+   ]
+  ],
+  "Amber Road": [
+   15,
+   -1600,
+   400,
+   [
+    "Mycenae",
+    "Biskupin",
+    "Pula",
+    "Bad Deutsch-Altenburg",
+    "Brindisi",
+    "Ambracia",
+    "Milicz",
+    "Wrocław",
+    "Ptuj",
+    "Celje",
+    "Emona",
+    "Padua"
+   ]
+  ],
+  "Indian Ocean trade": [
+   19,
+   -2600,
+   1800,
+   [
+    "Kozhikode",
+    "Sokhta Koh",
+    "Pasni",
+    "Aswan",
+    "Berenice Troglodytica",
+    "Alexandria",
+    "Suez",
+    "Qift",
+    "Arikamedu",
+    "Karachi",
+    "Bharuch",
+    "Korkai"
+   ]
+  ]
+ },
+ "routes_total": 14,
+ "towns_total": 411
+}

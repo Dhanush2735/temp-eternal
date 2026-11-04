@@ -1,0 +1,35 @@
+{
+  "original_bytes": 8695808,
+  "compacted_bytes": 7680000,
+  "saved_bytes": 1015808,
+  "fingerprints": {
+    "subjects": {
+      "rows": 29324,
+      "sha256": "944193ab8f590a47a2d133439b767ffc6266b770326fa9d702ae7e1cf6c280fa"
+    },
+    "biographies": {
+      "rows": 100,
+      "sha256": "1135c70d0c29b783600ab6e0e409a34718b4dc1fee76926813187f02e9f398c7"
+    },
+    "origins": {
+      "rows": 61872,
+      "sha256": "be0ef77a3c4e2d252dc83cf7df0004b8543df6636c89570296a196c2e1549394"
+    },
+    "origin_sources": {
+      "rows": 175,
+      "sha256": "cdc2d837ba5de0b14f59e192685a5c3f4abb4a7099d642e2ef47f3e0298de0ac"
+    },
+    "origin_candidates": {
+      "rows": 13010,
+      "sha256": "ddca82fd6ece1b410356b18127343d27206678a54dacf9e7bc6f5f1bc66b42bd"
+    },
+    "sqlite_sequence": {
+      "rows": 1,
+      "sha256": "133be1df042d09a79ab09dfa17cade03e015a676f7998a02c8e6e1254df27a96"
+    }
+  },
+  "integrity": "ok",
+  "foreign_keys": "ok",
+  "temporary_backup": "/home/user/.cache/r2_compaction/people_before_links_v3.sqlite3",
+  "note": "The backup is excluded from persisted workspace snapshots."
+}

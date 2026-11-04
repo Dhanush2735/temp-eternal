@@ -1,0 +1,18 @@
+"""Create the small source-reviewed before/after site manifest."""
+import copy,gzip,json
+from pathlib import Path
+R=Path(__file__).resolve().parent.parent
+H=R/'eternal/src/main/resources/data/eternalengine/eternal/history'
+items=[
+ ('places_pleiades.json.gz','pl_377547413',{'civHint':'','occupiedStart':-3550,'occupiedEnd':-1799,'r2SourceEvidence':{'sources':['https://en.wikipedia.org/w/index.php?title=Shahr-e_Sukhteh&oldid=1379197586','https://whc.unesco.org/en/list/1456/','https://pleiades.stoa.org/places/377547413'],'review_note':'This settlement in southeastern Iran was not a Sumerian polity. The prior 5000–1000 BCE numbers reflect the date span attached to a Pleiades representative location, not a verified continuous occupation. Wikipedia gives c. 3550–2300 BCE while UNESCO gives c. 3200–1800 BCE. The revised game interval is the broad outer envelope of those estimates; the game cannot express endpoint uncertainty or gaps. End is exclusive; -1799 includes the approximate 1800 BCE endpoint. Blank civHint means no asserted civilization ID, not that the site was uninhabited.','reviewed_as_of':'2026-10-28'}}),
+ ('americas.json','caral',{'civHint':'','note':'Caral-Supe/Norte Chico, not Inca. No civilization id is asserted; dates are a gameplay approximation.','r2SourceEvidence':{'sources':['https://en.wikipedia.org/w/index.php?title=Caral&oldid=1379214244','https://whc.unesco.org/en/list/1269/','https://whc.unesco.org/document/152221'],'review_note':'Caral is a Late Archaic Andean site and not Inca; the old Inca id was marked as a placeholder. No replacement civilization id is inferred. The existing 2600–2000 BCE reference interval is retained; sources disagree on earlier and later limits, so it should not be treated as precisely dated. The related 3000 BCE Supe Valley event is regional and does not assert a city at that date.','reviewed_as_of':'2026-10-28'}}),
+ ('places_pleiades.json.gz','pl_229296321',{'civHint':'','r2SourceEvidence':{'sources':['https://en.wikipedia.org/w/index.php?title=Knossos&oldid=1374770779','https://www.britishmuseum.org/collection/galleries/greece-minoans-and-mycenaeans'],'review_note':'Neolithic Knossos is on Crete, not Sumer. A blank civilization hint preserves the uncertainty; no Bronze Age or palace-era polity is assigned to the Neolithic site. Existing approximate span and coordinates are unchanged; this span ends before the game’s -3000 time floor. A separate Minoan-tagged Knossos site overlaps and needs its own chronology review.','reviewed_as_of':'2026-10-28'}})
+]
+updates=[]
+for pack,id,patch in items:
+ with (gzip.open(H/pack,'rt',encoding='utf8') if pack.endswith('.gz') else open(H/pack,encoding='utf8')) as f:doc=json.load(f)
+ hits=[r for r in doc['sites'] if r.get('id')==id]
+ if len(hits)!=1:raise ValueError(id)
+ before=hits[0];after=copy.deepcopy(before);after.update(patch)
+ updates.append({'pack':pack,'site_id':id,'before':before,'after':after})
+(R/'r2_wikipedia/reviews/early_site_attribution_2026-10.json').write_text(json.dumps({'schema':'eternal-r2-early-sites-v1','updates':updates},ensure_ascii=False,indent=2)+'\n',encoding='utf8')

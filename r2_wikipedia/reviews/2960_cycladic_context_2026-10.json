@@ -1,0 +1,51 @@
+{
+  "schema": "eternal-r2-2960-cycladic-v1",
+  "pack": "events_wikipedia.json.gz",
+  "event_id": "wpy_df3135a5e0",
+  "before": {
+    "id": "wpy_df3135a5e0",
+    "name": "c. 3000 BC: Early Cycladic culture develops across the Aegean islands",
+    "start": -3000,
+    "end": -2999,
+    "lat": 37.0,
+    "lon": 25.16667,
+    "radiusKm": 100,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=Cycladic_culture&oldid=1365970712",
+        "https://cycladic.gr/en/essay/i-arxaiologia-ton-kykladon-tin-proimi-epoxi-tou-xalkoy/"
+      ],
+      "review_note": "The detailed Wikipedia article dates Early Cycladic culture approximately 3100–2300 BCE, while the museum gives 3200–2000 BCE. The earlier text implied that the culture started in 3000 BCE. This is a long cultural development, not a discrete founding event. The retained coordinate is a gameplay reference in the island region and the 100 km radius is a gameplay setting, not an archaeological boundary.",
+      "date_precision": "approximate; the existing 3000 BCE slot is a gameplay reference, not a proven exact year",
+      "location_precision": "regional gameplay reference, not a historical boundary or specific event site",
+      "reviewed_as_of": "2026-10-28"
+    }
+  },
+  "after": {
+    "id": "wpy_df3135a5e0",
+    "name": "c. 3100–2900 BC: Early Cycladic I (Grotta–Pelos); dates vary",
+    "start": -3100,
+    "end": -2899,
+    "lat": 37.0,
+    "lon": 25.16667,
+    "radiusKm": 100,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=Cycladic_culture&oldid=1365970712",
+        "https://en.wikipedia.org/w/index.php?title=Grotta-Pelos_culture&oldid=1254491258",
+        "https://www.metmuseum.org/essays/early-cycladic-art-and-culture",
+        "https://cycladic.gr/en/essay/i-arxaiologia-ton-kykladon-tin-proimi-epoxi-tou-xalkoy/"
+      ],
+      "review_note": "The previous regional early Cycladic note covered only -3000 as an approximate reference. The more specific Early Cycladic I / Grotta–Pelos framework is c.3100–2900 BCE in the linked Cycladic chronology, but the Grotta–Pelos article gives ca.3300–2700 BCE and the Met gives ca.3200?–2700. The indexed -3100..-2899 range uses the shorter Wikipedia scheme as a gameplay reference, not certain start/end or proof it did not extend beyond them. The broader early Cycladic culture continued after this phase. This is a regional cultural period, not a founding or discrete event; 100 km is a gameplay radius, not a boundary. NewsIndex may offer this period as news in any active year. Existing prior source evidence is preserved in the before snapshot.",
+      "date_precision": "One approximate chronology, not proof of exact endpoints or date of a specific action.",
+      "location_precision": "Regional Cycladic reference point and gameplay radius, not exact site or cultural boundary.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

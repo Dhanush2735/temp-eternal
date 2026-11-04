@@ -1,0 +1,27 @@
+{
+ "roads": {
+  "parts": 14769,
+  "points_in": 1015723,
+  "points_out": 50092,
+  "roman_era": 11478,
+  "secondary": 9071,
+  "main": 5698,
+  "construction": 3142,
+  "dated": 149
+ },
+ "routes": {
+  "towns_found": 369,
+  "strays_dropped": 5,
+  "route:Silk Road": 57,
+  "route:Maritime Silk Road": 6,
+  "route:Incense trade route": 19,
+  "route:Trans-Saharan trade": 22,
+  "route:Grand Trunk Road": 49,
+  "route:Royal Road": 2,
+  "route:Hanseatic League": 163,
+  "route:Via Maris": 13,
+  "route:King's Highway (ancient)": 20,
+  "route:Tea Horse Road": 13
+ },
+ "bytes": 307124
+}

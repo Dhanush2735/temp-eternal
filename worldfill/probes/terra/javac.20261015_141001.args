@@ -1,0 +1,13 @@
+-encoding
+UTF-8
+-nowarn
+-cp
+/home/user/libs/gson-2.10.1.jar
+-sourcepath
+stubs:/home/user/terra3/src/main/java
+-d
+/tmp/tout
+/home/user/terra3/src/main/java/net/buildtheearth/terraplusplus/generator/osm/OsmStructureIndex.java
+/home/user/terra3/src/main/java/net/buildtheearth/terraplusplus/generator/historical/OsmDateInferencer.java
+/home/user/terra3/src/main/java/net/buildtheearth/terraplusplus/generator/historical/StructureDateEstimator.java
+/home/user/terra3/src/main/java/net/buildtheearth/terraplusplus/generator/historical/HistoricalDateParser.java

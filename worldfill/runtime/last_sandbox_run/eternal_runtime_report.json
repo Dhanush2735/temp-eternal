@@ -1,0 +1,186 @@
+{
+  "started": "2026-10-22T14:38:41.285522680Z",
+  "year": "3000 BC",
+  "where": "console (no player position)",
+  "worldFile": "./world/./eternalengine",
+  "items": [
+    {
+      "id": "check-all",
+      "aspect": "engines",
+      "verdict": "PASS",
+      "detail": "58 passed, 0 failed, 0 known limits"
+    },
+    {
+      "id": "command-smoke",
+      "aspect": "commands",
+      "verdict": "LIMIT",
+      "detail": "ran /ee test all: its summary line above is the verdict (this suite does not read chat)"
+    },
+    {
+      "id": "place-hyderabad-1500",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 1500. Golconda, under Vijayanagara Empire."
+    },
+    {
+      "id": "place-hyderabad-1948",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 1948. Hyderabad, under Hyderabad State."
+    },
+    {
+      "id": "place-hyderabad-3000",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 3000. Hyderabad, under Republic of India (an estimate)."
+    },
+    {
+      "id": "place-hyderabad-outskirts-3000-bc",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 3000 BC. Here, where only the population grid counts a few people, with no ruler the register names."
+    },
+    {
+      "id": "place-delhi-1650",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 1650. Shahjahanabad, under Mughal Empire."
+    },
+    {
+      "id": "place-rome-ad-100",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is AD 100. Rome, under Roman Empire (an estimate)."
+    },
+    {
+      "id": "place-london-1700",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 1700. London, under Kingdom of England."
+    },
+    {
+      "id": "place-beijing-1500",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 1500. Beijing, under Ming Dynasty."
+    },
+    {
+      "id": "place-cusco-1500",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 1500. Cusco, under Inca Empire."
+    },
+    {
+      "id": "place-ur-2500-bc",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 2500 BC. Ur, under Sumerian City-States."
+    },
+    {
+      "id": "place-mohenjo-daro-2500-bc",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 2500 BC. Mohenjo Daro, under Indus Valley Civilization."
+    },
+    {
+      "id": "place-mid-sahara-1000",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 1000. Here, where nobody the data records lives, with no ruler the register names."
+    },
+    {
+      "id": "place-siberia-1000",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 1000. Here, where nobody the data records lives, with no ruler the register names."
+    },
+    {
+      "id": "place-ohio-valley-1200",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "It is 1200. Here, where nobody the data records lives, with no ruler the register names."
+    },
+    {
+      "id": "registers",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "46864 sites, 129163 events; towns 30151 towns, 15849 provinces, 3724 offices with 30206 holders (loaded in 261 ms); ruler register: 78495 places, 9612 timelines, 244393 spans from /data/eternalengine/eternal/history/deccan_rulers.json.gz + /data/eternalengine/eternal/history/world_rulers.json.gz; grid 28 slices"
+    },
+    {
+      "id": "route-claims",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "every route stop\u0027s claim holds at query level (34 stops checked without moving)"
+    },
+    {
+      "id": "world-sampling",
+      "aspect": "places",
+      "verdict": "PASS",
+      "detail": "120 random ordinary looks across 10 land regions and 12 years; the rank never contradicted the evidence"
+    },
+    {
+      "id": "economy-day-hyderabad-1948",
+      "aspect": "economy",
+      "verdict": "PASS",
+      "detail": "100 loads of wheat sold in 1 days for 275 (the merchant\u0027s budget was 1536, 1261 left; busiest day 100 against a want of 64; the pace: all soldtrade words: 4 annas 5 pai for 16 sheaves of wheat)"
+    },
+    {
+      "id": "economy-day-london-1800",
+      "aspect": "economy",
+      "verdict": "PASS",
+      "detail": "100 loads of wheat sold in 1 days for 114 (the merchant\u0027s budget was 640, 526 left; busiest day 100 against a want of 64; the pace: all soldtrade words: 5 pence 2 farthings for 16 sheaves of wheat)"
+    },
+    {
+      "id": "walking-state",
+      "aspect": "living",
+      "verdict": "LIMIT",
+      "detail": "needs a player position: run /ee test everything in game"
+    },
+    {
+      "id": "day-pass",
+      "aspect": "living",
+      "verdict": "LIMIT",
+      "detail": "needs a player in game: the day-pass borrows time at the player\u0027s place"
+    },
+    {
+      "id": "era-route",
+      "aspect": "screen",
+      "verdict": "LIMIT",
+      "detail": "the 31 place-years of buildings and dress: this run\u0027s camera pass walks them now (about five minutes; the pilot walks a loop through each stop so the frames catch the world mid-stride, and each stop also reads the wheat price, credit terms and ruler systems there). Verdict becomes PASS or FAIL when the folder arrives and the frames are judged against the packs"
+    },
+    {
+      "id": "view-and-sky",
+      "aspect": "screen",
+      "verdict": "LIMIT",
+      "detail": "this exact view and the sky day and night at the current year: the camera pass shoots them first (etest_now_*.png, etest_sky_day.png, etest_sky_night.png; the clock is put back). For any other century: set the date and run the test again"
+    },
+    {
+      "id": "screens-gui",
+      "aspect": "screen",
+      "verdict": "LIMIT",
+      "detail": "accents, wrapping and GUI scale: the camera pass ends by photographing a test book page (etest_book_accents.png); the frame settles Findings 11 and 30"
+    },
+    {
+      "id": "frame-numbers",
+      "aspect": "screen",
+      "verdict": "PASS",
+      "detail": "the run measures its own smoothness instead of asking: every shot\u0027s fps and client tick ms land in etest_perf.txt beside the frames, and every era-stop line carries server tick ms; only how it looks in motion to a human is left, and that is the folder\u0027s judgement"
+    },
+    {
+      "id": "multiplayer",
+      "aspect": "screen",
+      "verdict": "LIMIT",
+      "detail": "true multiplayer (a second human): the run exercises talk and trade with NPCs as the counterparty, and one player\u0027s session can be photographed; a real second player is the one thing no in-run alternative can fake"
+    },
+    {
+      "id": "performance",
+      "aspect": "screen",
+      "verdict": "LIMIT",
+      "detail": "hours of play feel: the day-pass borrows one full day round and gives it back (see day-pass in the living phase); what is left is the feel of many real hours, which no compression can honestly fake"
+    }
+  ],
+  "pass": 21,
+  "fail": 0,
+  "known": 0,
+  "limit": 8
+}

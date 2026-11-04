@@ -1,0 +1,48 @@
+{
+  "schema": "eternal-r2-2739-2690-bce-v1",
+  "updates": [
+    {
+      "pack": "events_wikidata_more.json.gz",
+      "event_id": "q3204978",
+      "before": {
+        "id": "q3204978",
+        "name": "Siege of Uruk",
+        "start": -2701,
+        "end": -2700,
+        "lat": 31.3259,
+        "lon": 45.6374,
+        "radiusKm": 20,
+        "kind": "siege",
+        "effect": "military_presence",
+        "confidence": "wikidata_location"
+      },
+      "after": {
+        "id": "q3204978",
+        "name": "Uruk siege in Gilgamesh and Aga poem: historical basis and date uncertain",
+        "start": -2701,
+        "end": -2700,
+        "lat": 31.3259,
+        "lon": 45.6374,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://www.wikidata.org/w/index.php?title=Q3204978&oldid=2511581905",
+            "https://en.wikipedia.org/w/index.php?title=Gilgamesh_and_Aga&oldid=1370621357",
+            "https://en.wikipedia.org/w/index.php?title=Aga_of_Kish&oldid=1342422232",
+            "https://en.wikipedia.org/w/index.php?title=Gilgamesh&oldid=1376349542",
+            "https://etcsl.orinst.ox.ac.uk/section1/tr1811.htm",
+            "https://www.metmuseum.org/essays/gilgamesh"
+          ],
+          "review_note": "Wikidata Q3204978 calls this Siege of Uruk and lists 27th-century start and end with zero references, not a specific year. The Old Babylonian poem Gilgamesh and Aga portrays a Kishite siege, yet the linked article says the war’s historicity remains open and notes a proposed c.2600 date. The Met says no contemporary information is known about Gilgamesh, who may have been a historical figure. The inherited -2701 slot is an arbitrary game reference: neither the siege, composition nor the poem’s recorded events are verified in that year. Existing latitude marks the archaeological Uruk site; the radius is a game reference, not a battlefield footprint. A literary narrative is not proof of individual actions or casualty counts. The wikidata-more pack may use a different end convention in NewsIndex; this note may also appear at the stored end year. No troop or political effect is supported.",
+          "date_precision": "One inherited reference slot, not a verified historical date; the literary text is preserved later.",
+          "location_precision": "Inherited Uruk site reference, not verified siege position or battlefield extent.",
+          "reviewed_as_of": "2026-10-29"
+        }
+      }
+    }
+  ],
+  "additions": []
+}

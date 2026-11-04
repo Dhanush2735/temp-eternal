@@ -1,0 +1,107 @@
+{
+  "schema": "eternal-r2-reviewed-event-corrections-v1",
+  "target": "events_wikipedia_decades.json.gz",
+  "updates": [
+    {
+      "event_id": "wpd_2a4ff24090",
+      "candidate_id": "25a3d048a4f0d1f9604a1ee1",
+      "candidate_source": {
+        "title": "12th century",
+        "page_id": 34644,
+        "revision_id": 1378517147,
+        "line": 48,
+        "url": "https://en.wikipedia.org/w/index.php?title=12th_century&oldid=1378517147"
+      },
+      "before": {
+        "id": "wpd_2a4ff24090",
+        "name": "King David the Builder captures Tbilisi and declares it the capital city of Georgia, ending 400 years of Arab rule",
+        "start": 1122,
+        "end": 1123,
+        "lat": 36.1096,
+        "lon": 52.6095,
+        "radiusKm": 800,
+        "kind": "political",
+        "effect": "political",
+        "confidence": "wikipedia_region"
+      },
+      "changes": {
+        "start": 1122,
+        "end": 1123,
+        "name": "David IV captures Tbilisi and makes it the capital of the Kingdom of Georgia",
+        "lat": 41.7225,
+        "lon": 44.7925,
+        "radiusKm": 20,
+        "confidence": "wikipedia_region"
+      },
+      "corroborating_sources": [
+        "https://www.worldhistory.org/David_IV_the_Builder/",
+        "https://en.wikipedia.org/w/index.php?title=Siege_of_Tbilisi_(1122)&oldid=1370745709",
+        "https://en.wikipedia.org/w/index.php?title=Tbilisi&oldid=1382282631"
+      ],
+      "review_note": "The pinned century source and World History Encyclopedia date the capture and establishment as Georgian capital to 1122. Tbilisi coordinates are a modern city reference, not a specific siege site, medieval city extent, or troop location; 20 km is a gameplay search radius only. The previous decade location was in Iran, roughly 920 km from Tbilisi. Source simplification about 400 years of Arab rule is omitted given changes in control before 1122. The same-text century record wpy_c45c110597 remains at the wrong year 1150; no ID was deleted or merged. No semantic 1122 duplicate was found in a targeted title scan, but that cannot rule out differently worded duplicates.",
+      "reviewed_as_of": "2026-10-28",
+      "candidate_snapshot": {
+        "schema": "eternal-r2-history-candidate-v1",
+        "id": "25a3d048a4f0d1f9604a1ee1",
+        "status": "unreviewed_not_game_ready",
+        "source": {
+          "title": "12th century",
+          "page_id": 34644,
+          "revision_id": 1378517147,
+          "line": 48,
+          "url": "https://en.wikipedia.org/w/index.php?title=12th_century&oldid=1378517147"
+        },
+        "section_path": [
+          "Events",
+          "1120s"
+        ],
+        "section_kind": "event_or_development_section",
+        "period_context": {
+          "kind": "century",
+          "start": 1101,
+          "end": 1200,
+          "year_convention": "negative BCE; positive CE; no year zero"
+        },
+        "temporal_context": {
+          "classification": "before_present_year_context",
+          "basis": "leading_year_label",
+          "start_year": 1122,
+          "end_year": 1122,
+          "as_of": "2026-10-28",
+          "warning": "Context only: does not establish when an event occurred or whether a future claim is a projection."
+        },
+        "explicit_leading_year": {
+          "year": 1122,
+          "precision": "year",
+          "approximate": false,
+          "raw_label": "[[1122]]:",
+          "meaning": "unverified_label_at_start_of_source_bullet"
+        },
+        "parent_bullets": [],
+        "raw_wikitext": "[[1122]]: King [[David the Builder]] captures [[Tbilisi]] and declares it the capital city of [[Kingdom of Georgia|Georgia]], ending 400 years of Arab rule.",
+        "display_text_unverified": "1122: King David the Builder captures Tbilisi and declares it the capital city of Georgia, ending 400 years of Arab rule.",
+        "linked_articles": [
+          {
+            "title": "1122",
+            "label": "1122"
+          },
+          {
+            "title": "David the Builder",
+            "label": "David the Builder"
+          },
+          {
+            "title": "Tbilisi",
+            "label": "Tbilisi"
+          },
+          {
+            "title": "Kingdom of Georgia",
+            "label": "Georgia"
+          }
+        ],
+        "resolved_location": null,
+        "event_date_verified": false,
+        "note": "Source-derived candidate only; link names, section labels and page context are not proof of identity, date or location."
+      }
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schema": "r2-review-snapshots-xz-v1",
+  "note": "Inactive review snapshots, not indexed gameplay. Decompress without overwriting former paths.",
+  "files": [
+    {
+      "former": "1939_1890_bce_context_superseded_2026-10.json",
+      "archive": "1939_1890_bce_context_superseded_2026-10.json.xz",
+      "sha256": "a78dc1c01d41bb6b9ac18a73cf7ef8a7133337167ce6fbfe34d315cb99684d14",
+      "archive_sha256": "0367cf1978e779b026764ddfac26c41d1fd2753893673e54b5091da96fb62376"
+    },
+    {
+      "former": "1939_1890_bce_context_superseded2_2026-10.json",
+      "archive": "1939_1890_bce_context_superseded2_2026-10.json.xz",
+      "sha256": "4afbc63f4d0fbc17d4f6bc284d351b030f56ecc7e2c9e43261e83105b342b127",
+      "archive_sha256": "d5c0d1df861713a3aa423e8616a91d0e0fcc1e0ad6f746924c06b5db3bfb44fc"
+    },
+    {
+      "former": "50_10_exact_start_before.json",
+      "archive": "50_10_exact_start_before.json.xz",
+      "sha256": "ce59932e17f4dc1d183e90c417a67c19d281db09853409f1a240d8507f7b15d8",
+      "archive_sha256": "fe96c1a65cdbc5ad5617695f85b53b85d1f9b48fc31f84813c12728c6e8bcb96"
+    },
+    {
+      "former": "100_60_exact_start_before.json",
+      "archive": "100_60_exact_start_before.json.xz",
+      "sha256": "2b8bcc780571f0f54f762ece447ac40d2ec8e886ddca9d293213c513b2124ad5",
+      "archive_sha256": "ff25e33a7e5cbad9412b165e8b35eb2c2666520756988f9cbc4df71e3be2fbf4"
+    },
+    {
+      "former": "50_10_overlap_before.json",
+      "archive": "50_10_overlap_before.json.xz",
+      "sha256": "de5e4c0d7d70864132334bae75da4bfd91cc5ce411e55497fc39514268aba5e0",
+      "archive_sha256": "59686fc3f9d6add597816eb91f24cda9c2714439b63f60c81d630a1422e575f7"
+    },
+    {
+      "former": "100_60_overlap_before.json",
+      "archive": "100_60_overlap_before.json.xz",
+      "sha256": "47a749998b610d3e253c26e8e885a72fe4c5804c3c6b17fbbe4d601dc02aed91",
+      "archive_sha256": "a0e972ee0fe4c4e6f88c80d83f1518a97091f74a7e376ca880fbbb69a46bbe3c"
+    },
+    {
+      "former": "event_deferred_2026-10_batch2.json",
+      "archive": "event_deferred_2026-10_batch2.json.xz",
+      "sha256": "6242aa9b9b738b56a9b6f74dbdebd9f3408883c2130f0645ca18378a34facc62",
+      "archive_sha256": "c74b251415780b80f6cb3406b1d1191a037e611913c6879f64a640d94897a2bc"
+    },
+    {
+      "former": "150_110_exact_start_before.json",
+      "archive": "150_110_exact_start_before.json.xz",
+      "sha256": "329b6a7057fbf796eb86957a125d39276818e236f956ba081a50d610c4c7fb62",
+      "archive_sha256": "878b30bf1e6b02225c0cc2e24d00f854947d3ebf76dc5d9a1cffacb4ef1620f4"
+    },
+    {
+      "former": "100_60_overlap_scan.json",
+      "archive": "100_60_overlap_scan.json.xz",
+      "sha256": "289183b1ecc1a4b99eb63386e0caa486134b334c56853c1dd7dc918a91c70a67",
+      "archive_sha256": "1be0e9ee3bdb930adf179bf9b4fd4d1767aff4ad1dced3d90c877e3a0f96a518"
+    },
+    {
+      "former": "150_110_overlap_scan.json",
+      "archive": "150_110_overlap_scan.json.xz",
+      "sha256": "f03dffcbc8178cb022fe4b915b9115ddf1bee5cac296bae557498e9fd1c4d40e",
+      "archive_sha256": "bc8970820b9fbf44214ee62fd59d17d59f407aa867398072ed671944a5123f45"
+    },
+    {
+      "former": "200_160_overlap_scan.json",
+      "archive": "200_160_overlap_scan.json.xz",
+      "sha256": "b6b3e5f02ef057e67ba847f3e0c96988bf522cdbf3bcf3b8888a296d7a0020d2",
+      "archive_sha256": "7092ef819b5499d51b06fd8de3f684883d6da4ab3c9948ff79aabc2b0f136506"
+    },
+    {
+      "former": "50_10_overlap_scan.json",
+      "archive": "50_10_overlap_scan.json.xz",
+      "sha256": "c536deb0b55d49c82a994b283d87b6f121a0f6257e0ac4e14974f18aa001d6a1",
+      "archive_sha256": "869f016b10cc78493cd7194fe5759681b464ad1f09d2cee40a3c028e5b81ca8f"
+    }
+  ]
+}

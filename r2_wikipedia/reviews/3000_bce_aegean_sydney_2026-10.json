@@ -1,0 +1,186 @@
+{
+  "schema": "eternal-r2-3000bce-aegean-sydney-v1",
+  "updates": [
+    {
+      "pack": "events_wikipedia.json.gz",
+      "event_id": "wpy_df3135a5e0",
+      "before": {
+        "id": "wpy_df3135a5e0",
+        "name": "c. 3000 BC: Cycladic civilization in the Aegean Sea starts",
+        "start": -3000,
+        "end": -2999,
+        "lat": 37.0,
+        "lon": 25.16667,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_year_page"
+      },
+      "after": {
+        "id": "wpy_df3135a5e0",
+        "name": "c. 3000 BC: Early Cycladic culture develops across the Aegean islands",
+        "start": -3000,
+        "end": -2999,
+        "lat": 37.0,
+        "lon": 25.16667,
+        "radiusKm": 100,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Cycladic_culture&oldid=1365970712",
+            "https://cycladic.gr/en/essay/i-arxaiologia-ton-kykladon-tin-proimi-epoxi-tou-xalkoy/"
+          ],
+          "review_note": "The detailed Wikipedia article dates Early Cycladic culture approximately 3100–2300 BCE, while the museum gives 3200–2000 BCE. The earlier text implied that the culture started in 3000 BCE. This is a long cultural development, not a discrete founding event. The retained coordinate is a gameplay reference in the island region and the 100 km radius is a gameplay setting, not an archaeological boundary.",
+          "date_precision": "approximate; the existing 3000 BCE slot is a gameplay reference, not a proven exact year",
+          "location_precision": "regional gameplay reference, not a historical boundary or specific event site",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    },
+    {
+      "pack": "events_wikipedia.json.gz",
+      "event_id": "wpy_edef47079c",
+      "before": {
+        "id": "wpy_edef47079c",
+        "name": "c. 3000 BC: Helladic period starts",
+        "start": -3000,
+        "end": -2999,
+        "lat": 37.4,
+        "lon": 22.3,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_year_page"
+      },
+      "after": {
+        "id": "wpy_edef47079c",
+        "name": "c. 3000 BC: Early Helladic cultures develop on the Greek mainland",
+        "start": -3000,
+        "end": -2999,
+        "lat": 37.4,
+        "lon": 22.3,
+        "radiusKm": 100,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Helladic_chronology&oldid=1380683880",
+            "https://www.metmuseum.org/toah/ht/02/eus.html"
+          ],
+          "review_note": "Wikipedia chronology places Early Helladic I around 3200–2650 BCE. The previous text implied an exact beginning in 3000 BCE; this is a cultural period, not one founding event. The retained Peloponnese point and 100 km search radius are an incomplete gameplay reference, not a map of all mainland Greece.",
+          "date_precision": "approximate; the existing 3000 BCE slot is a gameplay reference, not a proven exact year",
+          "location_precision": "regional gameplay reference, not a historical boundary or specific event site",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    },
+    {
+      "pack": "events_wikipedia_regional.json.gz",
+      "event_id": "wpr_b37a490265",
+      "before": {
+        "id": "wpr_b37a490265",
+        "name": "c. 3000 BC: Aegean Bronze Age starts",
+        "start": -3000,
+        "end": -2999,
+        "lat": 39.0,
+        "lon": 25.0,
+        "radiusKm": 250,
+        "kind": "incident",
+        "effect": "note",
+        "confidence": "wikipedia_region"
+      },
+      "after": {
+        "id": "wpr_b37a490265",
+        "name": "c. 3000 BC: Early Bronze Age cultures develop across the Aegean region",
+        "start": -3000,
+        "end": -2999,
+        "lat": 39.0,
+        "lon": 25.0,
+        "radiusKm": 250,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Helladic_chronology&oldid=1380683880",
+            "https://en.wikipedia.org/w/index.php?title=Cycladic_culture&oldid=1365970712",
+            "https://www.metmuseum.org/toah/ht/02/eus.html"
+          ],
+          "review_note": "Sources place the beginnings of Aegean Bronze Age cultures before or around 3000 BCE, not as a single region-wide event in one year. The prior starts wording and incident kind were misleading. The existing regional reference point and 250 km radius are gameplay settings, not a boundary covering the entire Aegean. This regional context overlaps thematically with the more specific Helladic and Cycladic entries and the new Knossos note; they are not merged.",
+          "date_precision": "approximate; the existing 3000 BCE slot is a gameplay reference, not a proven exact year",
+          "location_precision": "regional gameplay reference, not a historical boundary or specific event site",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    },
+    {
+      "pack": "events_wikipedia_regional.json.gz",
+      "event_id": "wpr_de1403e5a5",
+      "before": {
+        "id": "wpr_de1403e5a5",
+        "name": "The Sydney rock engravings date from around 3000 BC (modern Sydney, Australia)",
+        "start": -3000,
+        "end": -2999,
+        "lat": -33.86778,
+        "lon": 151.21,
+        "radiusKm": 20,
+        "kind": "incident",
+        "effect": "note",
+        "confidence": "wikipedia_coord"
+      },
+      "after": {
+        "id": "wpr_de1403e5a5",
+        "name": "c. 3000 BC: Some Aboriginal rock engravings in the Sydney region may be ancient; their dates are uncertain",
+        "start": -3000,
+        "end": -2999,
+        "lat": -33.86778,
+        "lon": 151.21,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Sydney_rock_engravings&oldid=1316216953",
+            "https://australian.museum/learn/collections/natural-science/australian-archaeology/indigenous-rock-engraving-of-an-echidna/"
+          ],
+          "review_note": "The Wikipedia article notes that Sydney engravings cannot be dated straightforwardly and differ widely in age; the Australian Museum notes dating difficulty and re-grooving for a particular engraving. The previous text treated all the Sydney engravings as dating to around 3000 BCE. The city-center coordinates are only a regional gameplay reference, not an identified engraving location. No restricted cultural site location has been inferred. The 20 km radius is not a geographic boundary.",
+          "date_precision": "approximate; the existing 3000 BCE slot is a gameplay reference, not a proven exact year",
+          "location_precision": "regional gameplay reference, not a historical boundary or specific event site",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    }
+  ],
+  "additions": [
+    {
+      "pack": "events_wikipedia.json.gz",
+      "event": {
+        "id": "r2_knossos_early_minoan_c3000",
+        "name": "c. 3000 BC: Knossos on Crete is inhabited during the early Minoan period",
+        "start": -3000,
+        "end": -2999,
+        "lat": 35.29806,
+        "lon": 25.16306,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_coord",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Knossos&oldid=1374770779",
+            "https://en.wikipedia.org/w/index.php?title=Minoan_civilization&oldid=1382375713",
+            "https://www.metmuseum.org/toah/ht/02/eus.html"
+          ],
+          "review_note": "Wikipedia describes a prepalatial settlement at Knossos during approximately 3000–1900 BCE, and an Early Minoan I phase around 3100–2650 BCE; the Met gives Minoan Crete c. 3000–1100 BCE. This record describes an existing settlement, not its foundation, the construction of a palace, or an exact year. The coordinate is a modern reference point and the 20 km radius is a gameplay setting. Existing overlapping place entries and their misclassification need separate review.",
+          "date_precision": "approximate; the 3000 BCE one-year slot is a gameplay reference, not proof of an exact date",
+          "location_precision": "modern archaeological-site reference point",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    }
+  ]
+}

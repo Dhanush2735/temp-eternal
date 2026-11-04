@@ -1,0 +1,133 @@
+{
+  "note": "Lossless gzip for 16 chronological CE context manifests; installer load() accepts gzip. Original bytes, canonical hash guard and gzip content verified. No indexed game data changed. Restore by decompressing and changing installer path.",
+  "files": [
+    {
+      "original": "r2_wikipedia/reviews/112_161_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/112_161_ce_context_2026-10.json.gz",
+      "bytes": 17495,
+      "compressed_bytes": 4481,
+      "sha256_original": "126da68b84c2735b156072716b4a4ef57122c7c8e55555890aca736e0cbfcdbd",
+      "installer": "r2_wikipedia/apply_112_161_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/162_211_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/162_211_ce_context_2026-10.json.gz",
+      "bytes": 14862,
+      "compressed_bytes": 3920,
+      "sha256_original": "a19bed75cab375da5a1c7199a519af7b29803e84ad8f4c0a5246348d58faaada",
+      "installer": "r2_wikipedia/apply_162_211_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/212_261_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/212_261_ce_context_2026-10.json.gz",
+      "bytes": 17444,
+      "compressed_bytes": 4683,
+      "sha256_original": "4015ec3945638c6a5f1811663d2f73a559d1f3abf0230f4924b0ea2841b7e6bd",
+      "installer": "r2_wikipedia/apply_212_261_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/262_311_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/262_311_ce_context_2026-10.json.gz",
+      "bytes": 26427,
+      "compressed_bytes": 6379,
+      "sha256_original": "23365d4c7fab8457b148043ad6d7c64c18716054bdd240316bef0f74ba5f217a",
+      "installer": "r2_wikipedia/apply_262_311_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/312_361_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/312_361_ce_context_2026-10.json.gz",
+      "bytes": 15525,
+      "compressed_bytes": 4091,
+      "sha256_original": "0396a05935cafce0a49a908f242fc2af1408e1a54b02df094b0be8aa4283ce4f",
+      "installer": "r2_wikipedia/apply_312_361_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/362_411_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/362_411_ce_context_2026-10.json.gz",
+      "bytes": 16099,
+      "compressed_bytes": 4379,
+      "sha256_original": "3a954ec8e8fe3ecbee28dae39724cefcc0dffc373c4a92cccd024d134669ce05",
+      "installer": "r2_wikipedia/apply_362_411_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/412_461_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/412_461_ce_context_2026-10.json.gz",
+      "bytes": 14112,
+      "compressed_bytes": 3803,
+      "sha256_original": "8e0fbdca293ac0f00688cf54f267c0aa000ec2fe33c9df39445c94ce5e0638ad",
+      "installer": "r2_wikipedia/apply_412_461_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/462_511_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/462_511_ce_context_2026-10.json.gz",
+      "bytes": 17647,
+      "compressed_bytes": 4402,
+      "sha256_original": "15e92b7e8d725816ac14ef5ab807947195d726e6398ad946cd6fb08e1c3aca81",
+      "installer": "r2_wikipedia/apply_462_511_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/512_561_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/512_561_ce_context_2026-10.json.gz",
+      "bytes": 18911,
+      "compressed_bytes": 4891,
+      "sha256_original": "f05b3fcf8d074db5688665248dc0ab6d5fde9523d7e8008dbedde75a5f7d9a54",
+      "installer": "r2_wikipedia/apply_512_561_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/562_611_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/562_611_ce_context_2026-10.json.gz",
+      "bytes": 20529,
+      "compressed_bytes": 5097,
+      "sha256_original": "f0c4754dcb82ecc5aebc73b505c14d450ce230a03b7b076d85658a8d548da4b8",
+      "installer": "r2_wikipedia/apply_562_611_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/612_661_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/612_661_ce_context_2026-10.json.gz",
+      "bytes": 8099,
+      "compressed_bytes": 2295,
+      "sha256_original": "d70766698eabbbf8620c6f88391d06c506de84926100d14496ad9eeaae2e710a",
+      "installer": "r2_wikipedia/apply_612_661_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/662_711_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/662_711_ce_context_2026-10.json.gz",
+      "bytes": 9927,
+      "compressed_bytes": 2981,
+      "sha256_original": "5333c25830c49e19792c670a470ed4b9f5b141a95ded9d4b45799bbad2d937e7",
+      "installer": "r2_wikipedia/apply_662_711_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/712_761_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/712_761_ce_context_2026-10.json.gz",
+      "bytes": 19625,
+      "compressed_bytes": 5126,
+      "sha256_original": "2bca3871600749e45759f8b14394ccc000644c9ca957b70a441ab690ceb33730",
+      "installer": "r2_wikipedia/apply_712_761_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/762_811_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/762_811_ce_context_2026-10.json.gz",
+      "bytes": 22467,
+      "compressed_bytes": 5992,
+      "sha256_original": "1e6434ce06e6da9f25e8fc129ca1cb46f62d9f8c423258a53f1cd5878c081d13",
+      "installer": "r2_wikipedia/apply_762_811_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/812_861_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/812_861_ce_context_2026-10.json.gz",
+      "bytes": 23881,
+      "compressed_bytes": 5882,
+      "sha256_original": "4aca73c9deae87a1b52f5949aaa6b2e97404dc43eb22786e936348d496fd55a2",
+      "installer": "r2_wikipedia/apply_812_861_ce_context.py"
+    },
+    {
+      "original": "r2_wikipedia/reviews/862_911_ce_context_2026-10.json",
+      "compressed": "r2_wikipedia/reviews/862_911_ce_context_2026-10.json.gz",
+      "bytes": 27615,
+      "compressed_bytes": 6212,
+      "sha256_original": "6ad07c10c7258eb764f69c24ff27577f1995d1034afb07c6bbf9d0591dc2076a",
+      "installer": "r2_wikipedia/apply_862_911_ce_context.py"
+    }
+  ]
+}

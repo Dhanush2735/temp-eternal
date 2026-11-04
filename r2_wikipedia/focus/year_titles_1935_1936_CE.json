@@ -1,0 +1,28 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-02T18:47:28.492797+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1935 (year)",
+      "canonical_title": "1935",
+      "redirect_chain": [
+        "1935"
+      ],
+      "status": "resolved",
+      "pageid": 34980,
+      "lastrevid": 1382339062
+    },
+    {
+      "requested_title": "1936 (year)",
+      "canonical_title": "1936",
+      "redirect_chain": [
+        "1936"
+      ],
+      "status": "resolved",
+      "pageid": 34673,
+      "lastrevid": 1383193638
+    }
+  ]
+}

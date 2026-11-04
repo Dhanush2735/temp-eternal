@@ -1,0 +1,217 @@
+{
+  "schema": "eternal-r2-reviewed-event-corrections-v1",
+  "target": "events_wikipedia_decades.json.gz",
+  "updates": [
+    {
+      "event_id": "wpd_aaa30cdc8e",
+      "candidate_id": "a7ea60c1f33733fabcc734c8",
+      "candidate_source": {
+        "title": "13th century",
+        "page_id": 34633,
+        "revision_id": 1378508446,
+        "line": 60,
+        "url": "https://en.wikipedia.org/w/index.php?title=13th_century&oldid=1378508446"
+      },
+      "before": {
+        "id": "wpd_aaa30cdc8e",
+        "name": "Trần dynasty of Vietnam was established by Emperor Trần Thái Tông's ascension to the throne after his uncle Trần Thủ Độ orchestrated the overthrow of the Lý dynasty",
+        "start": 1225,
+        "end": 1226,
+        "lat": 13.7242,
+        "lon": 103.5584,
+        "radiusKm": 501,
+        "kind": "political",
+        "effect": "political",
+        "confidence": "wikipedia_region"
+      },
+      "changes": {
+        "start": 1225,
+        "end": 1226,
+        "name": "Trần dynasty begins in Đại Việt",
+        "confidence": "wikipedia_region",
+        "lat": 21.0375,
+        "lon": 105.83861,
+        "radiusKm": 20
+      },
+      "corroborating_sources": [
+        "https://www.britannica.com/topic/Tran-dynasty",
+        "https://en.wikipedia.org/w/index.php?title=Tr%E1%BA%A7n_dynasty&oldid=1379063876"
+      ],
+      "review_note": "Correct-year decade row was placed near 13.7242,103.5584 in present-day Cambodia. Hanoi is a regional reference for the dynastic capital, not a verified point of succession or full extent. Radius 20 km is only a limited gameplay search radius, not a historical boundary. A separate old century row wpy_154f8d9236 still exists at the wrong year 1250; it has not been removed or changed.",
+      "reviewed_as_of": "2026-10-28",
+      "candidate_snapshot": {
+        "schema": "eternal-r2-history-candidate-v1",
+        "id": "a7ea60c1f33733fabcc734c8",
+        "status": "unreviewed_not_game_ready",
+        "source": {
+          "title": "13th century",
+          "page_id": 34633,
+          "revision_id": 1378508446,
+          "line": 60,
+          "url": "https://en.wikipedia.org/w/index.php?title=13th_century&oldid=1378508446"
+        },
+        "section_path": [
+          "Events",
+          "1220s"
+        ],
+        "section_kind": "event_or_development_section",
+        "period_context": {
+          "kind": "century",
+          "start": 1201,
+          "end": 1300,
+          "year_convention": "negative BCE; positive CE; no year zero"
+        },
+        "temporal_context": {
+          "classification": "before_present_year_context",
+          "basis": "leading_year_label",
+          "start_year": 1225,
+          "end_year": 1225,
+          "as_of": "2026-10-28",
+          "warning": "Context only: does not establish when an event occurred or whether a future claim is a projection."
+        },
+        "explicit_leading_year": {
+          "year": 1225,
+          "precision": "year",
+          "approximate": false,
+          "raw_label": "[[1225]]:",
+          "meaning": "unverified_label_at_start_of_source_bullet"
+        },
+        "parent_bullets": [],
+        "raw_wikitext": "[[1225]]: [[Trần dynasty]] of Vietnam was established by Emperor [[Trần Thái Tông]]'s ascension to the throne after his uncle [[Trần Thủ Độ]] orchestrated the overthrow of the [[Lý dynasty]].",
+        "display_text_unverified": "1225: Trần dynasty of Vietnam was established by Emperor Trần Thái Tông's ascension to the throne after his uncle Trần Thủ Độ orchestrated the overthrow of the Lý dynasty.",
+        "linked_articles": [
+          {
+            "title": "1225",
+            "label": "1225"
+          },
+          {
+            "title": "Trần dynasty",
+            "label": "Trần dynasty"
+          },
+          {
+            "title": "Trần Thái Tông",
+            "label": "Trần Thái Tông"
+          },
+          {
+            "title": "Trần Thủ Độ",
+            "label": "Trần Thủ Độ"
+          },
+          {
+            "title": "Lý dynasty",
+            "label": "Lý dynasty"
+          }
+        ],
+        "resolved_location": null,
+        "event_date_verified": false,
+        "note": "Source-derived candidate only; link names, section labels and page context are not proof of identity, date or location."
+      }
+    },
+    {
+      "event_id": "wpd_f55ff873e0",
+      "candidate_id": "b2bc24c794dd325f556dfdbf",
+      "candidate_source": {
+        "title": "16th century",
+        "page_id": 34568,
+        "revision_id": 1368535514,
+        "line": 95,
+        "url": "https://en.wikipedia.org/w/index.php?title=16th_century&oldid=1368535514"
+      },
+      "before": {
+        "id": "wpd_f55ff873e0",
+        "name": "Vijayanagara Empire forces under Krishnadevaraya defeat the Adil Shahi under at the Battle of Raichur",
+        "start": 1520,
+        "end": 1521,
+        "lat": 12.4849,
+        "lon": 77.9165,
+        "radiusKm": 397,
+        "kind": "battle",
+        "effect": "note",
+        "confidence": "wikipedia_region"
+      },
+      "changes": {
+        "start": 1520,
+        "end": 1521,
+        "name": "Vijayanagara forces defeat the Bijapur Sultanate at the Battle of Raichur",
+        "confidence": "wikipedia_region",
+        "lat": 16.2,
+        "lon": 77.35056,
+        "radiusKm": 20
+      },
+      "corroborating_sources": [
+        "https://raichur.nic.in/en/history/",
+        "https://www.ebsco.com/research-starters/history/vijayanagar-wars/",
+        "https://en.wikipedia.org/w/index.php?title=Battle_of_Raichur&oldid=1370587084",
+        "https://www.kvkraichur.org/district-profile/"
+      ],
+      "review_note": "Correct-year decade row was placed near 12.4849,77.9165, far from Raichur. The new city reference is approximate, not the precise position of all battle movements. Radius 20 km is only a limited gameplay search radius, not a historical boundary. A separate old century row wpy_b7ff364e40 still exists at the wrong year 1550; it has not been removed or changed.",
+      "reviewed_as_of": "2026-10-28",
+      "candidate_snapshot": {
+        "schema": "eternal-r2-history-candidate-v1",
+        "id": "b2bc24c794dd325f556dfdbf",
+        "status": "unreviewed_not_game_ready",
+        "source": {
+          "title": "16th century",
+          "page_id": 34568,
+          "revision_id": 1368535514,
+          "line": 95,
+          "url": "https://en.wikipedia.org/w/index.php?title=16th_century&oldid=1368535514"
+        },
+        "section_path": [
+          "Events",
+          "1520s"
+        ],
+        "section_kind": "event_or_development_section",
+        "period_context": {
+          "kind": "century",
+          "start": 1501,
+          "end": 1600,
+          "year_convention": "negative BCE; positive CE; no year zero"
+        },
+        "temporal_context": {
+          "classification": "before_present_year_context",
+          "basis": "leading_year_label",
+          "start_year": 1520,
+          "end_year": 1520,
+          "as_of": "2026-10-28",
+          "warning": "Context only: does not establish when an event occurred or whether a future claim is a projection."
+        },
+        "explicit_leading_year": {
+          "year": 1520,
+          "precision": "year",
+          "approximate": false,
+          "raw_label": "[[1520]]:",
+          "meaning": "unverified_label_at_start_of_source_bullet"
+        },
+        "parent_bullets": [],
+        "raw_wikitext": "[[1520]]: [[Vijayanagara Empire]] forces under [[Krishnadevaraya]] defeat the [[Adil Shahi dynasty|Adil Shahi]] under at the [[Battle of Raichur]]",
+        "display_text_unverified": "1520: Vijayanagara Empire forces under Krishnadevaraya defeat the Adil Shahi under at the Battle of Raichur",
+        "linked_articles": [
+          {
+            "title": "1520",
+            "label": "1520"
+          },
+          {
+            "title": "Vijayanagara Empire",
+            "label": "Vijayanagara Empire"
+          },
+          {
+            "title": "Krishnadevaraya",
+            "label": "Krishnadevaraya"
+          },
+          {
+            "title": "Adil Shahi dynasty",
+            "label": "Adil Shahi"
+          },
+          {
+            "title": "Battle of Raichur",
+            "label": "Battle of Raichur"
+          }
+        ],
+        "resolved_location": null,
+        "event_date_verified": false,
+        "note": "Source-derived candidate only; link names, section labels and page context are not proof of identity, date or location."
+      }
+    }
+  ],
+  "notice": "Two correct-year decade rows relocated and worded conservatively; cross-year duplicates remain unresolved. Radius is gameplay search distance, not geographic extent."
+}

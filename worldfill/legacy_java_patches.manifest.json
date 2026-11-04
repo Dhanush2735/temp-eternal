@@ -1,0 +1,268 @@
+{
+  "schema": "legacy-patches-archive-v1",
+  "archive": "legacy_java_patches.tar.xz",
+  "archive_sha256": "25fadcf7ed6912ddd491a4bfff5670915a6b916bc8ec154349c14ab7db0b2073",
+  "files": [
+    {
+      "name": "java_changes.patch",
+      "size": 55043,
+      "sha256": "18a6b5927c180d2ef386a44acb9720ec1fb972a6989d424fdcff956168804c77",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_atlas_part_b.patch",
+      "size": 51823,
+      "sha256": "2e8bde92442c10ca7e533f85eddeb317bf093fe8a28e831536921f3c2df630c5",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step10.patch",
+      "size": 39073,
+      "sha256": "3b94d6fa1cc9b7bf881dec4487a4e2ed9c33c5fa0acb1b45ba7af99cb069b74b",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step11.patch",
+      "size": 9718,
+      "sha256": "83987b828dd523c6e4acec69d371704f6f3347c014e95b82c0dcbb743dad78f7",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step15.patch",
+      "size": 30427,
+      "sha256": "031863a701fb366406b3dc1a1d2d7b20ddb15e3f79afbb595db6159e886a6eb5",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step16.patch",
+      "size": 13916,
+      "sha256": "cb8239b15e5753c68bd649e0e9eab7d0d6f8534ddd2904cdcdb87665291fd9c8",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step17.patch",
+      "size": 23044,
+      "sha256": "4c7cfaece095e69e18959cfcd04ecb384a21ba29f1c7fed5935f0429edbe9d70",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step18.patch",
+      "size": 156992,
+      "sha256": "1b305e17c112a096f37da76c49fcb280aa7a5e3040f35783e15c81b77aa54c87",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step18b.patch",
+      "size": 50078,
+      "sha256": "04707c2fe1af1b9d5934afd9ff938ce982013af1a70db65d0c9a0818169ef626",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step18c.patch",
+      "size": 61080,
+      "sha256": "5100e0c22d53823a003e1713e56117fd61bb53d26caff23564841ef7ac775cfb",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step18d.patch",
+      "size": 58789,
+      "sha256": "163a136af95306a585ae8fd0773c615a334aa271a7b89cbffd1a447d106f5c09",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step18e.patch",
+      "size": 26625,
+      "sha256": "064650fdd4454193ab6fe02ea6009aa9d404b7eed130f86dfe70f43f66ff59c7",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step18f.patch",
+      "size": 15812,
+      "sha256": "c4193e886a0d85a79111928c86c19a7b7fc276a94e88cc64a8060fc706dc5417",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step19a.patch",
+      "size": 118781,
+      "sha256": "c3c7e4773fc2759fdc84f96f2d4580f26f1fd78693f7c499e18fef3c81bacd4d",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step19b.patch",
+      "size": 100860,
+      "sha256": "4c21ea08fc6c2ac60cb5d11ce336f2f7b11507d811596dfa942efb087be59038",
+      "mode": 420,
+      "mtime_ns": 1793177773209474842
+    },
+    {
+      "name": "java_changes_step19c_to_19f.patch",
+      "size": 216570,
+      "sha256": "353cb0989cdf9582ee74769a6a453e17ada74b565d0fc15bb92c516dff27a8a5",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step19g.patch",
+      "size": 65535,
+      "sha256": "327042082245177d7a7ded6fdf1135e60e5d1d6f2dc874334c704063b270fd0e",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step20.patch",
+      "size": 94887,
+      "sha256": "076d7e424781fb26f8f7ecc37c09d05f6dca60f914e6fb60a9bb2e9beec32c5a",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step21.patch",
+      "size": 111109,
+      "sha256": "a75454dd88d27ec7ec007735bb87ab5d5ac30c0fd5c8554b7940fe60c5ee5940",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step22.patch",
+      "size": 75149,
+      "sha256": "bc86294918cb1a43e1d5ed848812dcbba81cd06b7f3abf4ea9304f5e06833dca",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step23a.patch",
+      "size": 516651,
+      "sha256": "939facab852b68fce101e4cda504d545ea9ded3245ba8a1fc232940a70cf8a66",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step23b.patch",
+      "size": 72654,
+      "sha256": "1717f7813ed5d0a9249910b0e3e3f940ec718faea332f9ec7d4ca875134ce9a1",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step24.patch",
+      "size": 201167,
+      "sha256": "8a4d9e1df5962dfd8eb22b90d6ad6178a2b26fb06fd56b3deafef5c9be9e290b",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step25.patch",
+      "size": 31974,
+      "sha256": "368f75f287d03ba20f6946e5b6dd2507f547f98d28bf8d95aa55c7d2fd97123e",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step26.patch",
+      "size": 87988,
+      "sha256": "95f1fb18018de1f5e5ef65d66422fc2aedef25e0568745388703cd10abfade11",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step27.patch",
+      "size": 73060,
+      "sha256": "ab0d0e9820acc7ffd33187c9fef49f008aa2ddae46a01dbc74e799f66bffd625",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step28.patch",
+      "size": 50816,
+      "sha256": "1d90573a92ef32318ee101c25fd8b0e1cbb228c05dbcfa7723e12cbc0ebae710",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step29.patch",
+      "size": 57640,
+      "sha256": "e6e7cd55b49c93020ffd896c8af1dcc958786deafb671206a0279e9b44b3eadb",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step30a.patch",
+      "size": 57120,
+      "sha256": "4ac3a81876660c3532c6a0be2727e04832f3872beb7d8e584671976ba0163b0d",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step30b.patch",
+      "size": 52974,
+      "sha256": "6793aa9d9f8065656da9c5c593008597404703e684a8d6fb9634a185773d78a3",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step33.patch",
+      "size": 47877,
+      "sha256": "f81c824277023387cbde19c7fe9d18655d46afe7407274c7d263f37559c3bf8d",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step5.patch",
+      "size": 5750,
+      "sha256": "4319f655a4aabff539534b01d599e21f2fb384154f927561a6265a90ea264ebf",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step6.patch",
+      "size": 33622,
+      "sha256": "c6da1c5aba5094a77ff98a7b4784a841c984a5acbbee7a2305a1a6d73a8033d4",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step7.patch",
+      "size": 48379,
+      "sha256": "9e23269ac3686d78aa06011cda9777357ee2965d4776f5ae14ab53edc0574ed5",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step8.patch",
+      "size": 2438,
+      "sha256": "3b526e5f79f77bed2df229ba034a12db7f5449d5fafb4566f7509a1c407432f5",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_step9.patch",
+      "size": 92598,
+      "sha256": "b3d674712b537c39c94863100d84b5179c269ea67483c5106c60b717a5792d08",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    },
+    {
+      "name": "java_changes_turn89_freeze.patch",
+      "size": 11688,
+      "sha256": "30b14eb60a21ccb9569606b61eaeba3a71362558d9541025591f8150d5ddc171",
+      "mode": 420,
+      "mtime_ns": 1793177773213474842
+    }
+  ],
+  "restore_command": "python r2_wikipedia/archive_legacy_patches.py restore",
+  "note": "Only legacy Java patch artifacts are archived; current source files and game assets are unchanged."
+}

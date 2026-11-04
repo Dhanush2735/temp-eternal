@@ -1,0 +1,16 @@
+{
+  "note": "Lossless raw JSONL archive; all known default input readers use staged_exports fallback. A freshly generated gzip takes precedence. Original gzip recreatable with gzip mtime 0 and compression level 9; verify SHA before use.",
+  "original": "r2_wikipedia/candidates.jsonl.gz",
+  "new": "r2_wikipedia/candidates.jsonl.xz",
+  "original_sha256": "bf32a301258dafd62b4ebb8f6fa5964e81bafa1f8cf9dd6cc360f009e7eddf17",
+  "raw_sha256": "ee42b2fba0bb9edfe20c8a8cadbaa8328f9cbbfdb1a713c2fcd190f7e6a08e1b",
+  "xz_sha256": "cabae5602afc34f451cce0791f95216b4ec74ef05662c39da7a48b45a68d3e1b",
+  "original_bytes": 938223,
+  "xz_bytes": 718784,
+  "readers": [
+    "audit_candidate_origins.py",
+    "people.py",
+    "prepare_history.py",
+    "progress.py"
+  ]
+}

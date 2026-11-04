@@ -1,0 +1,158 @@
+{
+  "note": "Lossless archive gzip-to-xz with original gzip-byte and raw SHA-256; old reports may refer to gzip filenames. Top-level Python readers checked and applicable tests updated.",
+  "files": [
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_339_290.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_339_290.json.xz",
+      "original_sha256": "8ec1fa798b56882a223537612a92c2b71d0ae535acad1bf18b69d81cfd033e53",
+      "raw_sha256": "9dd1c7d2f1cc51622b941ac8d8f17c7c25e87816a3923f11083b6dc2e1e4fa2e",
+      "original_bytes": 61801,
+      "compressed_bytes": 51548,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_39_BCE_11_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_39_BCE_11_CE.json.xz",
+      "original_sha256": "a82023b4c149526cebf3ec36cac00e9238374e30605c1f814bd5cb3bf35c99ce",
+      "raw_sha256": "d33a9a6010d3526d3ef51839566d43e244a88a7a0c01f09c29f00fcebc95c290",
+      "original_bytes": 61290,
+      "compressed_bytes": 51492,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_239_190.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_239_190.json.xz",
+      "original_sha256": "3e5126f8bbb57f635c4b83c87a70654e22cad8617394e1d722983cb80f62f61e",
+      "raw_sha256": "b0dbb7e9a27b8d8da97282159f58496715de96c8162cd6e894a6940660b285ce",
+      "original_bytes": 58146,
+      "compressed_bytes": 48764,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_12_61_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_12_61_CE.json.xz",
+      "original_sha256": "594b9e0852b4306ca40bd17ad7ff6dcd3bca6d089ea8d370ed9c4c7f15130eea",
+      "raw_sha256": "1c17510ee9732184df71527dcbc6700645b0d021db086ba40833e6ec5dda96e0",
+      "original_bytes": 50437,
+      "compressed_bytes": 42436,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_89_40.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_89_40.json.xz",
+      "original_sha256": "374c9ac5d8f6722e488029b6cd56f7dfddac7b92064256073c962524af9d1105",
+      "raw_sha256": "656406386a138be0aef881af64cae9853aeee474cacf69457c2d326dea4d9b6d",
+      "original_bytes": 49351,
+      "compressed_bytes": 41452,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_62_111_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_62_111_CE.json.xz",
+      "original_sha256": "75faf0f895a9bd2d186b83b34796dfd0345ed36c4cd0851eb662cd5e3ae1c652",
+      "raw_sha256": "f1879c8e30dfe85ca3b776a51dfc989a394e6f61db24f70c81b851b27efc6139",
+      "original_bytes": 47734,
+      "compressed_bytes": 40460,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_439_390.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_439_390.json.xz",
+      "original_sha256": "a578f71fe228ff8101958a2ccb9b0161a24c58b4b46c34e1d536bd45fb821a6a",
+      "raw_sha256": "943ba14742bbed39c80768370408b5af8baa3fcc875eef6fa7a86852fe759fff",
+      "original_bytes": 44132,
+      "compressed_bytes": 37608,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_289_240.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_289_240.json.xz",
+      "original_sha256": "d9fd55bacbdaf50d5e1991110a18259a12bc02d4e11d2c423bb5685320f27a1f",
+      "raw_sha256": "69597d2de3ad119ee957b80156ed5fdfac818ea2c1ff6173aeb3b45a5743ab85",
+      "original_bytes": 43086,
+      "compressed_bytes": 36468,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_389_340.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_389_340.json.xz",
+      "original_sha256": "fe32685376aea75ad98d1690d80c2bf76cf7cc6b977c674819c6fcdf18e3dd7c",
+      "raw_sha256": "45835c451f05ab754dbcbd1851cd11e475eab0df9009bb1e26404dd7e33f949d",
+      "original_bytes": 42068,
+      "compressed_bytes": 35980,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_489_440.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_489_440.json.xz",
+      "original_sha256": "d929cde242359b05a9771406d5d63e2578bf62bb679f87a372d3494b32bb2b4c",
+      "raw_sha256": "9d5b96cdba0954bfa166b3afb4cd10c7e9a22bd7b27adda79112ee8de5a8bcd9",
+      "original_bytes": 40735,
+      "compressed_bytes": 34644,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_189_140.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_189_140.json.xz",
+      "original_sha256": "3d003e6fadf44624fb2876a626c61a4ef760f785ee2cd4f582f07387e3b9c9cc",
+      "raw_sha256": "e5b9fb935751cdc691c5f7abc4c8248556943f8b814c0976a31f061a59ad7898",
+      "original_bytes": 36612,
+      "compressed_bytes": 31340,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_139_90.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_139_90.json.xz",
+      "original_sha256": "ed2e6270544e6e35b7e6aad9d8aeb836441730a902c82e667301b987c0af0d4a",
+      "raw_sha256": "6c1f20f342cfe99dc6e38a689f01d92a0f40b5f019b958e76d74efc16cbe2bbb",
+      "original_bytes": 36513,
+      "compressed_bytes": 31300,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_112_161_CE.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_112_161_CE.json.xz",
+      "original_sha256": "cee8c590c8bce8ed5073618121d9b404f87ae8f22b23e618b88d5a46e438cc44",
+      "raw_sha256": "9485f2ad95fb90e1fa811ce122da065db31d54abc83a9125c142deefd497861c",
+      "original_bytes": 34748,
+      "compressed_bytes": 29336,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_539_490.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_539_490.json.xz",
+      "original_sha256": "d0ca71f33f9b0729381831b98c125ec30f658e0cc343575d11d7485f5c73fe73",
+      "raw_sha256": "2a6cf19ebeec87a05d04257c213088d09c693e571e9b7be47260c2e652cfec2c",
+      "original_bytes": 27959,
+      "compressed_bytes": 24756,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_589_540.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_589_540.json.xz",
+      "original_sha256": "970c74052a9cd794487b398457d730bd35e965e1707a2a59a8608ebaab3cf01f",
+      "raw_sha256": "413b9ec3126ec4f0929cce33ab57b59e94b6e3cc63812c8efb1e5749bb9914b2",
+      "original_bytes": 15002,
+      "compressed_bytes": 13408,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_689_640.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_689_640.json.xz",
+      "original_sha256": "51a1ea7a6c426b910f9c30defe2ae43185d153d87904d5da0f76dc3327ff6ff1",
+      "raw_sha256": "5b38b15e8c68ab75cb7bbb87e9661cf041125afbcab0dc8df439b9117232aca7",
+      "original_bytes": 9848,
+      "compressed_bytes": 9176,
+      "readers": []
+    },
+    {
+      "original": "r2_wikipedia/focus/year_wikitext_639_590.json.gz",
+      "compressed": "r2_wikipedia/focus/year_wikitext_639_590.json.xz",
+      "original_sha256": "078db5ae2fa4c804e9f169372a1c1a713ef71846747bb3e58580cbebced53986",
+      "raw_sha256": "97ea4b754571ad5ea30dcbe3dd38f73d20ac3a3d2e76f8769d6b20180141e3d6",
+      "original_bytes": 7874,
+      "compressed_bytes": 7284,
+      "readers": []
+    }
+  ]
+}

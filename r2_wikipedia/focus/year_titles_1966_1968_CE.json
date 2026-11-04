@@ -1,0 +1,38 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-03T13:39:42.891553+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1966 (year)",
+      "canonical_title": "1966",
+      "redirect_chain": [
+        "1966"
+      ],
+      "status": "resolved",
+      "pageid": 34691,
+      "lastrevid": 1381690891
+    },
+    {
+      "requested_title": "1967 (year)",
+      "canonical_title": "1967",
+      "redirect_chain": [
+        "1967"
+      ],
+      "status": "resolved",
+      "pageid": 34749,
+      "lastrevid": 1383409542
+    },
+    {
+      "requested_title": "1968 (year)",
+      "canonical_title": "1968",
+      "redirect_chain": [
+        "1968"
+      ],
+      "status": "resolved",
+      "pageid": 34655,
+      "lastrevid": 1383553685
+    }
+  ]
+}

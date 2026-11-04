@@ -1,0 +1,25 @@
+{
+  "original_bytes": 4947968,
+  "compacted_bytes": 4042752,
+  "saved_bytes": 905216,
+  "logical_record_fingerprints": {
+    "frontier": {
+      "rows": 16482,
+      "sha256": "4e55e881c0776cd6ed8e2eb0adff0a7b7aa37f66410e22c2bcfea59b69aa6426"
+    },
+    "pages": {
+      "rows": 49,
+      "sha256": "6e388bb7e4e447da2422ef4ce817b48bf4cadf2660b6fd30fcc3e63e5f673bf8"
+    },
+    "edges": {
+      "rows": 24477,
+      "sha256": "fcf6e130d82786060d51a45de9815571457437921fa30b210badb13218d4d63f"
+    },
+    "resolutions": {
+      "rows": 24,
+      "sha256": "478e247276f73950cd330a28e0f9e6e222c52af48f1673d101206163a8713ebb"
+    }
+  },
+  "integrity": "ok",
+  "foreign_keys": "ok"
+}

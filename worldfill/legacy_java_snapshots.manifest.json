@@ -1,0 +1,270 @@
+{
+  "schema": "legacy-java-snapshot-archive-v1",
+  "archive": "legacy_java_snapshots.tar.xz",
+  "archive_sha256": "8cfef6e19749cabd981ee20d51322755f2025a98940755c4c135857b003a3daf",
+  "files": [
+    {
+      "name": "atlasB_java_after.tar.gz",
+      "gzip_size": 84544,
+      "gzip_sha256": "71d13683ed02b41149bd8d7e12624c09c69cc275e96e5b4652a604d56b027bc6",
+      "tar_size": 460800,
+      "tar_sha256": "0e76bd6ae571ead20512196a065ffbaaef1efd5b99c2e0a2701c5ffefa5f23cc",
+      "mode": 420,
+      "mtime_ns": 1793214160267726808
+    },
+    {
+      "name": "step14_java_after.tar.gz",
+      "gzip_size": 123538,
+      "gzip_sha256": "1cd44907fff372f6309fadd49c8399d749d499313c5d714ea8f9b2c6b7e50759",
+      "tar_size": 655360,
+      "tar_sha256": "2083570752f1563b8bd1b45685151e4e5769868ea7ce411db8e3755bfc718d70",
+      "mode": 420,
+      "mtime_ns": 1793214160323726808
+    },
+    {
+      "name": "step15_java_after.tar.gz",
+      "gzip_size": 72318,
+      "gzip_sha256": "b51c7a304ec7f6b27264186a29a152cd85c09c77a77acb22a103021c88a9a24d",
+      "tar_size": 399360,
+      "tar_sha256": "c053c29ace6396e0a7aeac2621eb1730d71783e317398e61390a41e179093bbd",
+      "mode": 420,
+      "mtime_ns": 1793214160323726808
+    },
+    {
+      "name": "step16_java_after.tar.gz",
+      "gzip_size": 26072,
+      "gzip_sha256": "2ead80c2748556d71a154b6c71fbdbcbf25b9d220b0097f0d68412d3e274dba5",
+      "tar_size": 102400,
+      "tar_sha256": "b42303e5af4f345b1864a3320a72f49d8e46b47ba254c5e8770b5f065f182de7",
+      "mode": 420,
+      "mtime_ns": 1793214160323726808
+    },
+    {
+      "name": "step17_java_after.tar.gz",
+      "gzip_size": 73907,
+      "gzip_sha256": "9811bbd1ef53997b4dde3e14fb59d571fdac046889c76ebdc86ebb14d495f519",
+      "tar_size": 296960,
+      "tar_sha256": "74d11c89f05f61913b3c5a3ceca063f8c46ebef0716086249072e0f5149bc365",
+      "mode": 420,
+      "mtime_ns": 1793214160323726808
+    },
+    {
+      "name": "step18_java_after.tar.gz",
+      "gzip_size": 95771,
+      "gzip_sha256": "d9507915a1fe2f31fdabcd7a1bf6b246e7f5b240b88fc730fde511b5bed0f83a",
+      "tar_size": 522240,
+      "tar_sha256": "715e3921f866bcf17592fa777851cffbeab3652a26a8057c8e132e3f896eb659",
+      "mode": 420,
+      "mtime_ns": 1793214160323726808
+    },
+    {
+      "name": "step18b_java_after.tar.gz",
+      "gzip_size": 84321,
+      "gzip_sha256": "1525d4396c47a3e0e8265651bd69db2949a06828bb51137fd1699c208afc4767",
+      "tar_size": 471040,
+      "tar_sha256": "75c9a2bf35aad9a343e0d1adc2ce7ec7efebaec8929e00bbf709a6bf9484efb0",
+      "mode": 420,
+      "mtime_ns": 1793214160323726808
+    },
+    {
+      "name": "step18c_java_after.tar.gz",
+      "gzip_size": 53632,
+      "gzip_sha256": "7911e88b9d70f0a7f03fdfda83914536bbbe9ffa6c81f8409c1ab544b7085e9b",
+      "tar_size": 327680,
+      "tar_sha256": "345e970e62ea56ef5cce67de6c5dee528aadd394554ae79b6a222a41a855e17e",
+      "mode": 420,
+      "mtime_ns": 1793214160323726808
+    },
+    {
+      "name": "step18d_java_after.tar.gz",
+      "gzip_size": 100862,
+      "gzip_sha256": "dfbcdb4457d4cd36ecccaf8f55169bf254dfe3650fb2f0528a63a5cae4ec1bdf",
+      "tar_size": 532480,
+      "tar_sha256": "d4dc7c5b5ca7541131e3d1d99a4bcbb47483db71f76c90150581fcccc6f783d4",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step18e_java_after.tar.gz",
+      "gzip_size": 47442,
+      "gzip_sha256": "a8274a4ef01a68ff9df11666ca82b2059af5dd150e496cb8ce75e865deac3673",
+      "tar_size": 204800,
+      "tar_sha256": "44a4271be94f0d83df37f215aacb9feb98b4cd7f8eec048d9e8c7f345cdbf960",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step18f_java_after.tar.gz",
+      "gzip_size": 39442,
+      "gzip_sha256": "d1225cdb431e497b8697b1428947cb97a924cf0f164c3898409f89a2caab8bda",
+      "tar_size": 276480,
+      "tar_sha256": "11806e123de5f279cb0ef75481d6818d516f7db1fd6f22615afa47b2e9e18223",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step19a_java_after.tar.gz",
+      "gzip_size": 78894,
+      "gzip_sha256": "c4441e8977c2ee3e580c656e25e46235d8dfa9a0f9ec4b1c20db13298f18411e",
+      "tar_size": 450560,
+      "tar_sha256": "b6de70d5e67ebe367d2e1a9ca1f956df95c501985d902e39a2e2e1b7f99ade81",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step19b_java_after.tar.gz",
+      "gzip_size": 171819,
+      "gzip_sha256": "173f4aad1530a917647ad2816f87afe08531edb0e025e2e1f0b50e22ed1728c9",
+      "tar_size": 839680,
+      "tar_sha256": "7e74d52dbb4c8733a8837d14b14b9be801372c2c72817cbe2579aea4a84eda23",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step19f_java_after.tar.gz",
+      "gzip_size": 176427,
+      "gzip_sha256": "136641d9f77ed6d7a19f590a27734f91597ecc04ade7d93920f39328e7c3e1bd",
+      "tar_size": 860160,
+      "tar_sha256": "e6b798d433d93d46f710963efeaf3d90d7d13c237996d244f0a79a83aaf19e7f",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step19g_java_after.tar.gz",
+      "gzip_size": 160384,
+      "gzip_sha256": "db6ea802731bead52e7a49684fecea859d9dc80c21b93e63604f2ccb9616c2d2",
+      "tar_size": 778240,
+      "tar_sha256": "fc392169ea00498ca1ba190b97e77af16f6096e8b91f86808921331841657e6b",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step20_java_after.tar.gz",
+      "gzip_size": 142627,
+      "gzip_sha256": "01270083131798ab8769df33cddf41e3d6e1f5d3206dc3a2366bf6db09b58f62",
+      "tar_size": 716800,
+      "tar_sha256": "b0eb5a0d570cccfbe19ba294597a34d2f9d41d414e1e9ab1ff625e856f866645",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step21_java_after.tar.gz",
+      "gzip_size": 157392,
+      "gzip_sha256": "825de16613c1ecb6771b80cd7d75fdc7ab649f5f420fd0c429f4b44d61d0b2f2",
+      "tar_size": 778240,
+      "tar_sha256": "ea9b9c916006fbfcd2d586c87ee4781912989ff937e27e906116e467d912f20d",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step22_java_after.tar.gz",
+      "gzip_size": 90610,
+      "gzip_sha256": "e98b82b1e5f43cdbfb0ff52dff574f512907b81453cde3f234fbe6af46d541a4",
+      "tar_size": 430080,
+      "tar_sha256": "61055f2227394811ae12bc012bf4b78ce76038a1c30fb8e708d3976e8f7bac5a",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step23a_java_after.tar.gz",
+      "gzip_size": 100759,
+      "gzip_sha256": "f58b8c1cdc4e3c86c09d49e2ecdc4076dcc5dcd75437e2c8c5799a3cdcb64489",
+      "tar_size": 634880,
+      "tar_sha256": "a2ec9fead027da844b7ee6bc35790eb38e23479405e4a0f4149ab83f9f2bf568",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step23b_java_after.tar.gz",
+      "gzip_size": 118016,
+      "gzip_sha256": "d3fd77fb17b320f6120169a0aedb6ea9dfd5ef12039a07653d885a70a4c0e759",
+      "tar_size": 604160,
+      "tar_sha256": "18e16adff1669708cebe349fe74ef6eba1e69813f95ce28f01167979b34396ec",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step24_java_after.tar.gz",
+      "gzip_size": 100785,
+      "gzip_sha256": "0d7419c1a870b91da2e5f4b7fcd73aaff2a1f560ce77b2eb762de7b7f0851e6c",
+      "tar_size": 430080,
+      "tar_sha256": "4c32e0f66d9e85aded0392f311f8b4b4e1be749b0b10fa3a83c284838f367d1d",
+      "mode": 420,
+      "mtime_ns": 1793214160327726808
+    },
+    {
+      "name": "step25_java_after.tar.gz",
+      "gzip_size": 159680,
+      "gzip_sha256": "301b9ddc61e62e6de97aafb2753aeaa47f12df2fda4eebc8844bbeb7c0e169be",
+      "tar_size": 471040,
+      "tar_sha256": "3e3b4cadd3f3f6c4ce8fe81b20ec26e742119a06aabef7d23ee24d1bb436f402",
+      "mode": 420,
+      "mtime_ns": 1793214160331726808
+    },
+    {
+      "name": "step26_java_after.tar.gz",
+      "gzip_size": 184552,
+      "gzip_sha256": "d4743f773cd717cb6cb01d6a1c82291659a9c5eb328bffa510b51ad571a0c6f0",
+      "tar_size": 870400,
+      "tar_sha256": "b32c2be30f08060c797af54de37f9e8d9111d9c4dcd5df18a8b664f8e2da7b47",
+      "mode": 420,
+      "mtime_ns": 1793214160331726808
+    },
+    {
+      "name": "step27_java_after.tar.gz",
+      "gzip_size": 59737,
+      "gzip_sha256": "1666b2e3ff6cba0932ff815bf39d682d61ea9a88e5549c4a2e66f5576b37b3fd",
+      "tar_size": 245760,
+      "tar_sha256": "e23ee15dbb57ee9df92168bbb687029af669804d90a0e0c15a58c04d11bf0265",
+      "mode": 420,
+      "mtime_ns": 1793214160331726808
+    },
+    {
+      "name": "step28_java_after.tar.gz",
+      "gzip_size": 60088,
+      "gzip_sha256": "2dca7d5d70cfb3a3d36a5f76d2b98b5ed47a56531e071abaf6f1dab23d207981",
+      "tar_size": 245760,
+      "tar_sha256": "676e25024c1292be2330a582d3025610b3012acbf5765cd70d3c140155949baa",
+      "mode": 420,
+      "mtime_ns": 1793214160331726808
+    },
+    {
+      "name": "step29_java_after.tar.gz",
+      "gzip_size": 46834,
+      "gzip_sha256": "dfd628e4ccd69dc1224dbd47b9f268081afb59a8484753273aea78bdc47fef5b",
+      "tar_size": 184320,
+      "tar_sha256": "87e96ac177d0b869f5dcb612fa95b3cbc53d8ece13445c3dd69d3c1a94a6dbe3",
+      "mode": 420,
+      "mtime_ns": 1793214160331726808
+    },
+    {
+      "name": "step30a_java_after.tar.gz",
+      "gzip_size": 99179,
+      "gzip_sha256": "18ce849c5614e9ecab4f0df79a1de3b99e1a56825d867bdb7a576788054e65db",
+      "tar_size": 512000,
+      "tar_sha256": "a6cb46d919a05312b47d74088ba736dc4d0f3c6362c926a9e1c1064206560554",
+      "mode": 420,
+      "mtime_ns": 1793214160331726808
+    },
+    {
+      "name": "step30b_java_after.tar.gz",
+      "gzip_size": 52397,
+      "gzip_sha256": "c71a78b5956277aa4ac1e18cd29637943cd772620aadb2c517a53b78f7828f2b",
+      "tar_size": 204800,
+      "tar_sha256": "1a25ebf5089a132bf9e3b4f15f849da64d84e5636f6546eba64adaadacf261fe",
+      "mode": 420,
+      "mtime_ns": 1793214160331726808
+    },
+    {
+      "name": "turn89_java_after.tar.gz",
+      "gzip_size": 20619,
+      "gzip_sha256": "0c80832849a4748f966b0c250099f2e35c8636f6a4428443dec94be572b9aee8",
+      "tar_size": 92160,
+      "tar_sha256": "f282cdb1d68bbf6a16f1faa7858a72f5828eacd26b67f682ddc6b8ee5cd8ff0d",
+      "mode": 420,
+      "mtime_ns": 1793214160335726808
+    }
+  ],
+  "restore_command": "python r2_wikipedia/archive_java_snapshots.py restore",
+  "note": "Archive stores exact uncompressed tar streams; restore requires gzip -n -6 capable of reproducing the recorded original gzip bytes. Both hashes are checked."
+}

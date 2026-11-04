@@ -1,0 +1,23 @@
+{
+  "schema": "eternal-r2-early-harappan-context-v1",
+  "pack": "events_wikipedia_regional.json.gz",
+  "event": {
+    "id": "r2_early_harappan_regional_context",
+    "name": "c. 3300–2600 BC: Early Harappan cultures in the Indus region",
+    "start": -3300,
+    "end": -2599,
+    "lat": 29.0,
+    "lon": 70.5,
+    "radiusKm": 400,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": ["https://en.wikipedia.org/w/index.php?title=30th_century_BC&oldid=1371895853", "https://en.wikipedia.org/w/index.php?title=Indus_Valley_Civilisation&oldid=1375705806", "https://www.jstor.org/stable/42936617", "https://whc.unesco.org/en/tentativelists/1878/"],
+      "review_note": "The Wikipedia century page lists the Early Harappan period as c.3300–2600 BCE; the linked civilization article explains multiple chronology schemes and the separate mature urban phase. This entry is a broad regional period note, not a single event, a claimed political state, an exact boundary date, or proof that every site was occupied in every year. The existing c.3000 Harappa Ravi-phase note describes the specific site and remains separate. The point and radius are game references, not archaeological boundaries. NewsIndex can surface a long-duration note in each indexed year; it should be interpreted as context, not new news each year.",
+      "date_precision": "Approximate centuries-long archaeological period. Encoded -3300..-2599 exclusive to include the year called 2600 BCE; boundaries are not exact.",
+      "location_precision": "Reference point and gameplay radius for parts of the Indus region, not the full extent or a mapped boundary.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

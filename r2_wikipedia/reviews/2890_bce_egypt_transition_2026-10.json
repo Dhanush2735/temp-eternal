@@ -1,0 +1,43 @@
+{
+  "schema": "eternal-r2-2890bce-v1",
+  "pack": "events_wikipedia_regional.json.gz",
+  "event_id": "wpr_4328bf556a",
+  "before": {
+    "id": "wpr_4328bf556a",
+    "name": "2890 BC: Ancient Egypt: Pharaoh Qa'a died. End of First Dynasty, start of Second Dynasty. Pharaoh Hotepsekhemwy started to rule",
+    "start": -2890,
+    "end": -2889,
+    "lat": 29.638,
+    "lon": 31.2209,
+    "radiusKm": 269,
+    "kind": "political",
+    "effect": "political",
+    "confidence": "wikipedia_region"
+  },
+  "after": {
+    "id": "wpr_4328bf556a",
+    "name": "c. 2890 BC: Egypt's dynastic transition; Qa'a and Hotepsekhemwy; dates debated",
+    "start": -2890,
+    "end": -2889,
+    "lat": 29.638,
+    "lon": 31.2209,
+    "radiusKm": 269,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=29th_century_BC&oldid=1371895849",
+        "https://en.wikipedia.org/w/index.php?title=Qa%27a&oldid=1381183472",
+        "https://en.wikipedia.org/w/index.php?title=Hotepsekhemwy&oldid=1361247478",
+        "https://en.wikipedia.org/w/index.php?title=Second_Dynasty_of_Egypt&oldid=1374675562",
+        "https://en.wikipedia.org/w/index.php?title=Sneferka&oldid=1328020422",
+        "https://en.wikipedia.org/w/index.php?title=Horus_Bird_(pharaoh)&oldid=1376071168"
+      ],
+      "review_note": "The century page assigns Qa'a's death, the dynastic change, and Hotepsekhemwy's accession all to exactly 2890 without a separate citation. The Second Dynasty article uses c.2890, the linked biographies show other chronological possibilities and competing accounts of the succession, including possible intervening rulers. Qa'a's and Hotepsekhemwy's biographies cite a seal at Qa'a's tomb interpreted as indicating succession, but it does not give an exact accession or death year. This one-year slot is a reference for one approximate chronology, not proof any of these things happened in this year, an immediate succession, a continuous war, or a royal person's precise location. A broad Egyptian map point and radius are gameplay settings, not boundaries.",
+      "date_precision": "One proposed approximate period transition; date and sequence debated.",
+      "location_precision": "Regional reference, not an attested location of individuals or transition.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

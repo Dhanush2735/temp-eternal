@@ -1,0 +1,934 @@
+{
+  "date": "2026-11-01",
+  "note": "Non-indexed research-only Wikipedia files; exact raw-byte restoration is available in research_source_archive.py.",
+  "files": [
+    {
+      "former": "wikipedia_1000_960_bce.json",
+      "gzip": "wikipedia_1000_960_bce.json.gz",
+      "raw_sha256": "82540a36988d8d5561a71d15e238b6f11b48117f02e01fa4c8d8ea35c16ff262",
+      "gzip_sha256": "1c48eb5105b5699c14ffffa953931ede94e7316be67b1e5eac7958ca20f37213",
+      "raw_bytes": 5076,
+      "gzip_bytes": 1639
+    },
+    {
+      "former": "wikipedia_1001_1041_ce.json",
+      "gzip": "wikipedia_1001_1041_ce.json.gz",
+      "raw_sha256": "d371313cf82ee5028ba59c17b3dfd5bf2251a3516fd1d7b31a1a367b43d85516",
+      "gzip_sha256": "a923b2dbc112cd0cb5b2d5b0a938efd0e51d731c4f6e8b6c34da73058696736e",
+      "raw_bytes": 7190,
+      "gzip_bytes": 2295
+    },
+    {
+      "former": "wikipedia_100_60_bce.json",
+      "gzip": "wikipedia_100_60_bce.json.gz",
+      "raw_sha256": "2083136ceb0ba2fdc958480f6973d20f4cf0eb9c06703c59465998f41947986f",
+      "gzip_sha256": "19ec77ddbef55097b0333f9dd2fc7a8627eb6ed4170033bfbac4eebe9c946c41",
+      "raw_bytes": 4538,
+      "gzip_bytes": 1672
+    },
+    {
+      "former": "wikipedia_101_141_ce.json",
+      "gzip": "wikipedia_101_141_ce.json.gz",
+      "raw_sha256": "59e3819a231611abeb6431012721e66423cdddd597ee67300ec7d56d3b034b25",
+      "gzip_sha256": "92e8018cbb4bf82adbdea05a1e105d0377b7c72bf44c5875c2aa0a5e6b0c7fa1",
+      "raw_bytes": 3328,
+      "gzip_bytes": 1094
+    },
+    {
+      "former": "wikipedia_1050_1010_bce.json",
+      "gzip": "wikipedia_1050_1010_bce.json.gz",
+      "raw_sha256": "1c30abf2feed6a9bee6015fcb5487653d6aaf64b4c565c357bf25df3387604de",
+      "gzip_sha256": "52ef678ff8bbf73238d1cb3eae444d85aea502005c8bfb2e8582cbffff4b501a",
+      "raw_bytes": 3733,
+      "gzip_bytes": 1210
+    },
+    {
+      "former": "wikipedia_1051_1091_ce.json",
+      "gzip": "wikipedia_1051_1091_ce.json.gz",
+      "raw_sha256": "70ede7f355e03507c459cb494c3e7fc46a35b9a9683f8476063e10da7ab8d88d",
+      "gzip_sha256": "b971c361a1bf08211e9ef61d800417b6e368d46e7a50c75fd8b632219ba59ceb",
+      "raw_bytes": 7253,
+      "gzip_bytes": 2299
+    },
+    {
+      "former": "wikipedia_1100_1060_bce.json",
+      "gzip": "wikipedia_1100_1060_bce.json.gz",
+      "raw_sha256": "3833b3506ccaba860cc558d899a19c9bd78e1707a9712212aa0f43cbb4deb863",
+      "gzip_sha256": "e4d5635820ba760d52888911a7de27366f870cb1226d53457cbd323a2dbde29c",
+      "raw_bytes": 4951,
+      "gzip_bytes": 1576
+    },
+    {
+      "former": "wikipedia_1101_1141_ce.json",
+      "gzip": "wikipedia_1101_1141_ce.json.gz",
+      "raw_sha256": "e5e77865608c06597965852451fc50c4e61a65469dea882c11d93c3e5b12c123",
+      "gzip_sha256": "7fcab141a2e4b334f2cb225c76a4bb8b49e223ed192eadbe66736095dbad22b0",
+      "raw_bytes": 8101,
+      "gzip_bytes": 2487
+    },
+    {
+      "former": "wikipedia_1150_1110_bce.json",
+      "gzip": "wikipedia_1150_1110_bce.json.gz",
+      "raw_sha256": "825850c85dc81f4c0cac97373377678cfbea6f21a2f97a226fa8104667d9db15",
+      "gzip_sha256": "cd62ab9793e3f4d3f21b19b65d7a39917cd8927717df5720f6e506052e1a3dfd",
+      "raw_bytes": 3642,
+      "gzip_bytes": 1219
+    },
+    {
+      "former": "wikipedia_1151_1191_ce.json",
+      "gzip": "wikipedia_1151_1191_ce.json.gz",
+      "raw_sha256": "0f24c52bd527ae271d022bf5cf0bf26bfdca350f3139e8c9e1b2aea71ba3f5dd",
+      "gzip_sha256": "bd7973cb8d99f5ce5b39a572391136cf24cdd9554d60876051438bcc693df7eb",
+      "raw_bytes": 8171,
+      "gzip_bytes": 2469
+    },
+    {
+      "former": "wikipedia_1200_1160_bce.json",
+      "gzip": "wikipedia_1200_1160_bce.json.gz",
+      "raw_sha256": "5f836a6a1fa98eefa37a49b07e6b031c6b57ca9c1deef7ca66ff64bd9711006b",
+      "gzip_sha256": "dbe163ba9c221b3af915e08d5c44ec46a91e6018315c3a8a8a1da97c7bee0204",
+      "raw_bytes": 3212,
+      "gzip_bytes": 1119
+    },
+    {
+      "former": "wikipedia_1201_1241_ce.json",
+      "gzip": "wikipedia_1201_1241_ce.json.gz",
+      "raw_sha256": "e488fa1ff064a211d05d796389b23836859ea23876fb5563a79a1525437e0be8",
+      "gzip_sha256": "9fd4a0fc89fc0c3bd7abf1e34a0af9b92c2abc9147a8b69acd332837c21c7bee",
+      "raw_bytes": 6606,
+      "gzip_bytes": 2063
+    },
+    {
+      "former": "wikipedia_1250_1210_bce.json",
+      "gzip": "wikipedia_1250_1210_bce.json.gz",
+      "raw_sha256": "65cd290ffe0e9a1608c4ebbfa3dcdd50fca7f0084e400e936ae1ef88f4f4007d",
+      "gzip_sha256": "e7c80c578eddbd4fa8a846fb3f28e57c3a6cd5f2271ab18001f5de12d0166296",
+      "raw_bytes": 3365,
+      "gzip_bytes": 1227
+    },
+    {
+      "former": "wikipedia_1251_1291_ce.json",
+      "gzip": "wikipedia_1251_1291_ce.json.gz",
+      "raw_sha256": "edcf6e7605738ea969fc813949bcfe154e751bb1fdb5a3fb8fce1936c6cd274e",
+      "gzip_sha256": "9c3ef386659787b1a561515ecaf58773ed0f1202f6f5265e937a1daddc5000c5",
+      "raw_bytes": 6698,
+      "gzip_bytes": 2106
+    },
+    {
+      "former": "wikipedia_1300_1260_bce.json",
+      "gzip": "wikipedia_1300_1260_bce.json.gz",
+      "raw_sha256": "3c89d87ccb9e6525267e4d53a65070ef535a4f83e66fbd0ee2d0d9f3bed128fb",
+      "gzip_sha256": "02cfabb2be5ea92a1734aade6d0c465311bcf7ea2478dd60a85b11e56f096602",
+      "raw_bytes": 2836,
+      "gzip_bytes": 954
+    },
+    {
+      "former": "wikipedia_1301_1341_ce.json",
+      "gzip": "wikipedia_1301_1341_ce.json.gz",
+      "raw_sha256": "23831299ba4dfef3c438f386f65126e88f2ff229da2bbe130a91751c2f8a764e",
+      "gzip_sha256": "049db93dd4e9fd7818ee0f7b8b838898a566a953083b9d1648b1fad0035e6405",
+      "raw_bytes": 9334,
+      "gzip_bytes": 2841
+    },
+    {
+      "former": "wikipedia_1350_1310_bce.json",
+      "gzip": "wikipedia_1350_1310_bce.json.gz",
+      "raw_sha256": "6a2289596f475002de8e6a946aa0cf387e152f282b5362ed0665a80c5f927725",
+      "gzip_sha256": "7b47d2b1a1dec4cf17a8c6795fa9f465d1f5be1e927039f391b8af514526328f",
+      "raw_bytes": 3250,
+      "gzip_bytes": 1068
+    },
+    {
+      "former": "wikipedia_1351_1391_ce.json",
+      "gzip": "wikipedia_1351_1391_ce.json.gz",
+      "raw_sha256": "18504dc9c97d84a7e0032bad6163c804b717d268da556c8031708a1d354bf097",
+      "gzip_sha256": "d0dd79eac153355eac1300d31beb574ff96ca68748726ffcdb182ca05b613d1c",
+      "raw_bytes": 8393,
+      "gzip_bytes": 2298
+    },
+    {
+      "former": "wikipedia_1400_1360_bce.json",
+      "gzip": "wikipedia_1400_1360_bce.json.gz",
+      "raw_sha256": "ce7b47bba0df61e4e657ad948460bb88d7fc7e74b8b853b00136abd27b59a755",
+      "gzip_sha256": "e35caf296d746c49ec4c755d2064ee15fa397781e836b77c9e3758774728ecd4",
+      "raw_bytes": 1962,
+      "gzip_bytes": 800
+    },
+    {
+      "former": "wikipedia_1401_1441_ce.json",
+      "gzip": "wikipedia_1401_1441_ce.json.gz",
+      "raw_sha256": "5c288508d2d147a43e53e3e21abbdbf84b7487d6097c1d725fe58593f12c7145",
+      "gzip_sha256": "624c2c8503a352c324e4f0c484c88a918f021053cd0e4fedd90b107dbbecd4d8",
+      "raw_bytes": 8865,
+      "gzip_bytes": 2675
+    },
+    {
+      "former": "wikipedia_1450_1410_bce.json",
+      "gzip": "wikipedia_1450_1410_bce.json.gz",
+      "raw_sha256": "651a2773f06b657d47ab3c7ca63b0b86d802c367c4d59252bbd413c7cc99f206",
+      "gzip_sha256": "d84f26e10abeed9ed96ee863f93f55dab46722cd5c433ec1f6b8b07d1dd9064e",
+      "raw_bytes": 1796,
+      "gzip_bytes": 701
+    },
+    {
+      "former": "wikipedia_1451_1491_ce.json",
+      "gzip": "wikipedia_1451_1491_ce.json.gz",
+      "raw_sha256": "2e111c4f3640c9592707385f22e45d9028002cb188f4fc8cfab72ea10a6e5748",
+      "gzip_sha256": "d552638e469a715ab3589453768fffceaa6741a4b739d1cde0b7f349802c7d8a",
+      "raw_bytes": 7161,
+      "gzip_bytes": 2146
+    },
+    {
+      "former": "wikipedia_1500_1460_bce.json",
+      "gzip": "wikipedia_1500_1460_bce.json.gz",
+      "raw_sha256": "d3c785e97ff22ec014b00d79b81306a445ad1eaae986f8bbb87aa346c81aabce",
+      "gzip_sha256": "7b05438ee94e4baddcb24aa68408d288c8b5cf81786e766b55aada1ab5cca25b",
+      "raw_bytes": 1941,
+      "gzip_bytes": 681
+    },
+    {
+      "former": "wikipedia_1501_1541_ce.json",
+      "gzip": "wikipedia_1501_1541_ce.json.gz",
+      "raw_sha256": "66454325de9f3443103144752cfc5951f425ec8adb3547bfb1f820da80cbf5dd",
+      "gzip_sha256": "ebad5e65a509805e04a2e2539668546cb8ce2bd712dc08e8c71ff6e24c4b7fa5",
+      "raw_bytes": 5613,
+      "gzip_bytes": 1770
+    },
+    {
+      "former": "wikipedia_150_110_bce.json",
+      "gzip": "wikipedia_150_110_bce.json.gz",
+      "raw_sha256": "d1d23f5047796eaa4b95f2521738934dc766f55cd90aec97e8c1686a3082d3cd",
+      "gzip_sha256": "582278a10db175b5eee0e0a6e5e3aed8070b7b8d859f7463a89d6a6dc8ce53b7",
+      "raw_bytes": 4969,
+      "gzip_bytes": 1739
+    },
+    {
+      "former": "wikipedia_151_191_ce.json",
+      "gzip": "wikipedia_151_191_ce.json.gz",
+      "raw_sha256": "2832df4b59fa9997479e32fb215a297870cc9bc1b3c723041fbafd2e0a25c2b6",
+      "gzip_sha256": "0514cefd7a6c33e4e010c688a263f80ba2f9d1dc617d186723de5e16bcd7b7a5",
+      "raw_bytes": 3189,
+      "gzip_bytes": 1073
+    },
+    {
+      "former": "wikipedia_1550_1510_bce.json",
+      "gzip": "wikipedia_1550_1510_bce.json.gz",
+      "raw_sha256": "a48b6ae0d5bb9786d6298c12d46760a62504df865424c171bd0ffdebc156b5c6",
+      "gzip_sha256": "a37bbd6bcf786115c8c70c3e01885d7888a9210a88d974a88af98dba0cd3bc95",
+      "raw_bytes": 17366,
+      "gzip_bytes": 3521
+    },
+    {
+      "former": "wikipedia_1551_1591_ce.json",
+      "gzip": "wikipedia_1551_1591_ce.json.gz",
+      "raw_sha256": "d8b764c3d392a806332631296593c7cd4ce5d4338fbbe1a8828dcf9c446e9a22",
+      "gzip_sha256": "74f46a778f475137b1e41ebe608c06c5b69faf2d36b6ba7ee2180f61ca62fb4e",
+      "raw_bytes": 6172,
+      "gzip_bytes": 1930
+    },
+    {
+      "former": "wikipedia_1600_1560_bce.json",
+      "gzip": "wikipedia_1600_1560_bce.json.gz",
+      "raw_sha256": "c1fe348dd229bd1494e5b5be90acbaec62bf81346996e1885470098a6b92dede",
+      "gzip_sha256": "a1e8169ec34de57b53ac1fef5fd2ea4e599773a3b9d95b1d125866493753a100",
+      "raw_bytes": 11648,
+      "gzip_bytes": 3119
+    },
+    {
+      "former": "wikipedia_1601_1641_ce.json",
+      "gzip": "wikipedia_1601_1641_ce.json.gz",
+      "raw_sha256": "18301bc0a5924a6b636bbd7f00568c1ae5e494ab356d118119c6d4e2c62258cd",
+      "gzip_sha256": "412d9d4763440f34e8055f26bc3ef4e86709aefd8b545118bf3000cff3def43b",
+      "raw_bytes": 5335,
+      "gzip_bytes": 1783
+    },
+    {
+      "former": "wikipedia_1650_1610_bce.json",
+      "gzip": "wikipedia_1650_1610_bce.json.gz",
+      "raw_sha256": "b50dfbad185a29753b721bedb6929b3d9ff729fc30c96de6ce5202e48abe997d",
+      "gzip_sha256": "63b375729000d8a1cbefe8ce026cd9079c658001e31d8987c5545974c6cc9075",
+      "raw_bytes": 5550,
+      "gzip_bytes": 2058
+    },
+    {
+      "former": "wikipedia_1651_1691_ce.json",
+      "gzip": "wikipedia_1651_1691_ce.json.gz",
+      "raw_sha256": "6bdc92a17238ddea316d8aa0cc4e63ab0e1025486dfba83b7dc16d8b03ed02b6",
+      "gzip_sha256": "dfb53814fb9f176b4f54583bd7f494ff6c4abd02a27ac865272005cdb34d6d9f",
+      "raw_bytes": 4591,
+      "gzip_bytes": 1572
+    },
+    {
+      "former": "wikipedia_1700_1660_bce.json",
+      "gzip": "wikipedia_1700_1660_bce.json.gz",
+      "raw_sha256": "8db00e7616c3bf8f31c22bbd7d47c8d544b7a155b788c2183715e360815d8ec7",
+      "gzip_sha256": "6ff470c141c59f56011b298ea3c62e9489cef2e6e983c298044d88395828d07a",
+      "raw_bytes": 3533,
+      "gzip_bytes": 1387
+    },
+    {
+      "former": "wikipedia_1701_1741_ce.json",
+      "gzip": "wikipedia_1701_1741_ce.json.gz",
+      "raw_sha256": "8eac4019413c3d9ad6d420b91418e52db4d30767a3ed1680644ad5cef6fd5aad",
+      "gzip_sha256": "b38c25e9bf40503daf36df76d69343b749b4beb33a17a579c34eb405d3dd6e78",
+      "raw_bytes": 5213,
+      "gzip_bytes": 1827
+    },
+    {
+      "former": "wikipedia_1750_1710_bce.json",
+      "gzip": "wikipedia_1750_1710_bce.json.gz",
+      "raw_sha256": "1db3b3ec34791e7cf950ff6d5eb00834a7dca0de6e473c2f4156a47c47bfc792",
+      "gzip_sha256": "b3a77a2e8afcbcb30d06451a49772f599daa39f5ff8bb42f2864c8dbf678ffd9",
+      "raw_bytes": 6129,
+      "gzip_bytes": 2401
+    },
+    {
+      "former": "wikipedia_1751_1791_ce.json",
+      "gzip": "wikipedia_1751_1791_ce.json.gz",
+      "raw_sha256": "8c59bcad99c719114d44e9a2287e50bb0abdbd572947f28beb4320315d6a0772",
+      "gzip_sha256": "45e2f0fad66934af77f61dda3ea36922f565a57497bbb39e0bd46c54d7408dff",
+      "raw_bytes": 6139,
+      "gzip_bytes": 1955
+    },
+    {
+      "former": "wikipedia_1800_1760_bce.json",
+      "gzip": "wikipedia_1800_1760_bce.json.gz",
+      "raw_sha256": "bb49d87beadb9a39e9a4ea8b986cec3d2f67d61bcc6307088dda1b63ef2866d9",
+      "gzip_sha256": "00741ce3352aa429e681c5d300ccd42445a9bde91e237095332cf5f954c5a8fb",
+      "raw_bytes": 6136,
+      "gzip_bytes": 2134
+    },
+    {
+      "former": "wikipedia_1801_1841_ce.json",
+      "gzip": "wikipedia_1801_1841_ce.json.gz",
+      "raw_sha256": "17566153a0cc5f0d5baa9efb7d7e82ab333c822fe2bd1ae54eea6232e21c5680",
+      "gzip_sha256": "7b66c26ceec4b4387035bc2989b7f9fa090eba9560ee8509f0e34c2c79eabf37",
+      "raw_bytes": 6243,
+      "gzip_bytes": 2073
+    },
+    {
+      "former": "wikipedia_1850_1810_bce.json",
+      "gzip": "wikipedia_1850_1810_bce.json.gz",
+      "raw_sha256": "91165aa5411d63babba654dc749da38d1c0deef2a97cd5e453554700d401a447",
+      "gzip_sha256": "dd9b05bb1d92adcba4a34569a8479639a3bcac9468de331fe08576430663fd5e",
+      "raw_bytes": 8807,
+      "gzip_bytes": 2143
+    },
+    {
+      "former": "wikipedia_1851_1891_ce.json",
+      "gzip": "wikipedia_1851_1891_ce.json.gz",
+      "raw_sha256": "8c3e1cd6b4f81e582f33b7fa7ac71690a054b63f9863961cf2aba0d811dfe605",
+      "gzip_sha256": "b886dc16b38e6d808fdd06b7912572140f6cd7cd3c383587a6f35a866996b1a4",
+      "raw_bytes": 5462,
+      "gzip_bytes": 1950
+    },
+    {
+      "former": "wikipedia_1900_1860_bce.json",
+      "gzip": "wikipedia_1900_1860_bce.json.gz",
+      "raw_sha256": "7db6286875f05545fe5ebf178c08f4f5a38ce4e6a18712bf6988ded42c2bd059",
+      "gzip_sha256": "7469f9bad797d7309775b5be19598d2d9027a96b93d46dad33a978b315a30abb",
+      "raw_bytes": 5955,
+      "gzip_bytes": 2147
+    },
+    {
+      "former": "wikipedia_1901_1941_ce.json",
+      "gzip": "wikipedia_1901_1941_ce.json.gz",
+      "raw_sha256": "33fc5728eb14b0706b74f2093992d0989a4d814a29306755ed36361055a236d9",
+      "gzip_sha256": "cab1b3563d8f06bdea0c6f8521988f949fe87b525595d9f91a59fe8bc8ebe962",
+      "raw_bytes": 5574,
+      "gzip_bytes": 1659
+    },
+    {
+      "former": "wikipedia_1950_1910_bce.json",
+      "gzip": "wikipedia_1950_1910_bce.json.gz",
+      "raw_sha256": "3fda9b2085dbb8b2fb448684abbc08db16b2643a61b9943dd0d04f1b63e4f6a5",
+      "gzip_sha256": "926029c1e1c24cd32dcaa3611d7095c3941334cdee6bee0d79528419af27fee2",
+      "raw_bytes": 5199,
+      "gzip_bytes": 1933
+    },
+    {
+      "former": "wikipedia_1951_1991_ce.json",
+      "gzip": "wikipedia_1951_1991_ce.json.gz",
+      "raw_sha256": "a58b685d5fc20becb032ed44137e147134384b64290229f0c351f13c61be48ff",
+      "gzip_sha256": "b776890c79d4b8461ab90fc4621283ccd0dfbdb564a6acaec23044964267d3f2",
+      "raw_bytes": 6201,
+      "gzip_bytes": 1843
+    },
+    {
+      "former": "wikipedia_1_41_ce.json",
+      "gzip": "wikipedia_1_41_ce.json.gz",
+      "raw_sha256": "ea8b6e2f0bcf296a6f5670328d15bf99c20f5a1f15aa7d17771fdf96acffdd56",
+      "gzip_sha256": "0c59e17f3ff2c84c91765fe3e6d31abf8cf550bd7776c12905c65f4395750ecc",
+      "raw_bytes": 1980,
+      "gzip_bytes": 743
+    },
+    {
+      "former": "wikipedia_2000_1960_bce.json",
+      "gzip": "wikipedia_2000_1960_bce.json.gz",
+      "raw_sha256": "dcb44e656e8493902a8f9eac71e3172fc2aacc6d3b62971056cdc4e4e934e503",
+      "gzip_sha256": "4adcf7f55ccfc8233c1eb2a4a56bf35f49774d8012131ab6e8be75fed93cad09",
+      "raw_bytes": 4431,
+      "gzip_bytes": 1681
+    },
+    {
+      "former": "wikipedia_2001_2021_ce.json",
+      "gzip": "wikipedia_2001_2021_ce.json.gz",
+      "raw_sha256": "ac7537ad6bab8ae2b84a0b1027dde67e7fd0feddeab2221366f1d5399f27eed2",
+      "gzip_sha256": "4e87e9df3c90b708b2e35f335d8c4f375526fdd67b962480088f2941f3c909d9",
+      "raw_bytes": 3931,
+      "gzip_bytes": 1077
+    },
+    {
+      "former": "wikipedia_200_160_bce.json",
+      "gzip": "wikipedia_200_160_bce.json.gz",
+      "raw_sha256": "e7266cb2ef0bafef2f41f1990190696d3d010f0ca4918bbff9c992eee9770ac2",
+      "gzip_sha256": "caf3c3673fdc34a2c8c17484c0efe752229acd9ff615b469631291c680bc02f6",
+      "raw_bytes": 4804,
+      "gzip_bytes": 1687
+    },
+    {
+      "former": "wikipedia_201_241_ce.json",
+      "gzip": "wikipedia_201_241_ce.json.gz",
+      "raw_sha256": "03b0eb22aa9555d13c61c315b87031f1c7f5498d9d156a8c6c61c48908ffa110",
+      "gzip_sha256": "693b5c6e9b9b7b3668a19bbd1ef41fca3fd0752e6ff92bdefa0eb0399b574070",
+      "raw_bytes": 3618,
+      "gzip_bytes": 1202
+    },
+    {
+      "former": "wikipedia_2050_2010_bce.json",
+      "gzip": "wikipedia_2050_2010_bce.json.gz",
+      "raw_sha256": "8cb28526707403c36e6acc10351060e9cbc756073974197dd9ceac199ddadd56",
+      "gzip_sha256": "f9f36dc568770d18fd39a9aa93580248c2e42a2610b896e058c4b14d8edf6529",
+      "raw_bytes": 6369,
+      "gzip_bytes": 2339
+    },
+    {
+      "former": "wikipedia_2100_2060_bce.json",
+      "gzip": "wikipedia_2100_2060_bce.json.gz",
+      "raw_sha256": "ca876e5e7afb4a001496c2b979cea383fc3945b9df62894a42f4e28e12539def",
+      "gzip_sha256": "5bcf9730faaddc2c6393d69cda95746b31093f7ab25449fc9a2e66fd10d03157",
+      "raw_bytes": 5951,
+      "gzip_bytes": 2390
+    },
+    {
+      "former": "wikipedia_2150_2110_bce.json",
+      "gzip": "wikipedia_2150_2110_bce.json.gz",
+      "raw_sha256": "48c2d3e93eadc121d410bc6a52b21f3b10fa20d1c906f099c61791f5fd984808",
+      "gzip_sha256": "4ddbc9d431f4ffadcba63c3d05b8921c4a1ee4e06954b7ebbea6f5b723992d76",
+      "raw_bytes": 7618,
+      "gzip_bytes": 3049
+    },
+    {
+      "former": "wikipedia_2200_2160_bce.json",
+      "gzip": "wikipedia_2200_2160_bce.json.gz",
+      "raw_sha256": "f51b3ada6e34a446a9c3d272e00aec469f07d6741017cbad0d309b0534edeb44",
+      "gzip_sha256": "9f11958be96afcb6c70d093c304c50a431c8113b683e87c6d8a697d4939fea46",
+      "raw_bytes": 6809,
+      "gzip_bytes": 2763
+    },
+    {
+      "former": "wikipedia_2250_2210_bce.json",
+      "gzip": "wikipedia_2250_2210_bce.json.gz",
+      "raw_sha256": "daa387c7160c3ee60f36e707123686c5fb562e391dff811c474ba7d896cce120",
+      "gzip_sha256": "d66b92ada7077f36a71d36ef19e8f7a51ae80456f776a3681d4d783f929dc23d",
+      "raw_bytes": 9340,
+      "gzip_bytes": 3331
+    },
+    {
+      "former": "wikipedia_2300_2260_bce.json",
+      "gzip": "wikipedia_2300_2260_bce.json.gz",
+      "raw_sha256": "80fd4872bd6ef47cd84d949b00a508106402b0d6390f44bb9af6d5900d4c7748",
+      "gzip_sha256": "88892e95f9c27ff4876b79b17ea7c8ed1f7bef16ac30607867f8ccf8573e7098",
+      "raw_bytes": 5054,
+      "gzip_bytes": 2140
+    },
+    {
+      "former": "wikipedia_2350_2310_bce.json",
+      "gzip": "wikipedia_2350_2310_bce.json.gz",
+      "raw_sha256": "9e54b90d80107e52b48b7b887e001064d314faa1bb7cb0ebc9678e96138bfd94",
+      "gzip_sha256": "f121078d0d598f4c21d570ce90f917bff90c26c6eaba147eb91d85fcb9b9dfab",
+      "raw_bytes": 7087,
+      "gzip_bytes": 2762
+    },
+    {
+      "former": "wikipedia_2400_2360_bce.json",
+      "gzip": "wikipedia_2400_2360_bce.json.gz",
+      "raw_sha256": "0447afa06b5fc9fbe6c25f5bc506fb5ef3a5d2e6be99895e6ae1f34e88e1237f",
+      "gzip_sha256": "0704445d8c232254ee318a85db1626ed3bec38c3690ddd166bf1b65e81eb6c16",
+      "raw_bytes": 5545,
+      "gzip_bytes": 2055
+    },
+    {
+      "former": "wikipedia_2450_2410_bce.json",
+      "gzip": "wikipedia_2450_2410_bce.json.gz",
+      "raw_sha256": "c6609d77b1d722f7c82024538a1c5bcf9a77a7d101458b9c6fd030563a16264d",
+      "gzip_sha256": "30dc30e92a19e02a8878a332d923382df1391ef80c971cbad4d35fd8f33edb22",
+      "raw_bytes": 7288,
+      "gzip_bytes": 2060
+    },
+    {
+      "former": "wikipedia_2500_2460_bce.json",
+      "gzip": "wikipedia_2500_2460_bce.json.gz",
+      "raw_sha256": "7aa513b1f68a10e4f52621d5c716a8ce38eb52746d3cd9be5d8b651c72915c6e",
+      "gzip_sha256": "d96ee4a5f052219a7eb2c219dbe0c27691bd47eb29d131839ab4ae1bd6fc5943",
+      "raw_bytes": 5606,
+      "gzip_bytes": 1737
+    },
+    {
+      "former": "wikipedia_250_210_bce.json",
+      "gzip": "wikipedia_250_210_bce.json.gz",
+      "raw_sha256": "d58fdfd96dbbb89881778e975490b4cf7627cf0065e261142150727230238120",
+      "gzip_sha256": "973f7fa41dbab325cb4762deac01f0b9b217caa148e1409b2ffc1404ba7eb393",
+      "raw_bytes": 4939,
+      "gzip_bytes": 1803
+    },
+    {
+      "former": "wikipedia_251_291_ce.json",
+      "gzip": "wikipedia_251_291_ce.json.gz",
+      "raw_sha256": "626159989328b5ad1d3c04780e82e833a500d6a54e587cff57f94bbb7f4ca5f4",
+      "gzip_sha256": "27f6cdc235f157f08ed523cba3b10e8fbb662187fe51b170c13a3a1a242de3f2",
+      "raw_bytes": 3300,
+      "gzip_bytes": 1136
+    },
+    {
+      "former": "wikipedia_2550_2510_bce.json",
+      "gzip": "wikipedia_2550_2510_bce.json.gz",
+      "raw_sha256": "556317d6be97bfc529259308085978099a77d010c0e6d400b9d555fad7102096",
+      "gzip_sha256": "9b4bfdfdad3ec62fdf311343509ebf2314f8f085a6b94c16bc101be55baeb423",
+      "raw_bytes": 9806,
+      "gzip_bytes": 3303
+    },
+    {
+      "former": "wikipedia_2600_2560_bce.json",
+      "gzip": "wikipedia_2600_2560_bce.json.gz",
+      "raw_sha256": "baa04151e2d36cc6265fd481286dbc7721442ea7dcd7bb967bfcd7587d96d2f0",
+      "gzip_sha256": "345b499fcd67bbf3889bfe210ac332a28db117e3296f8554b6582c8965cb186e",
+      "raw_bytes": 7390,
+      "gzip_bytes": 2538
+    },
+    {
+      "former": "wikipedia_2650_2610_bce.json",
+      "gzip": "wikipedia_2650_2610_bce.json.gz",
+      "raw_sha256": "97f047acb8fc694ebaa72c98361f50289d3dd98bfff3378e8ad63c377864b2bc",
+      "gzip_sha256": "b8fb2172fe138c37f21bfae408f9a8bef49e7e96a3ba26a642c935fecb9d1f50",
+      "raw_bytes": 7969,
+      "gzip_bytes": 2800
+    },
+    {
+      "former": "wikipedia_2700_2660_bce.json",
+      "gzip": "wikipedia_2700_2660_bce.json.gz",
+      "raw_sha256": "2b49165aede65190edef4077b496084a44bd4aead3f509b31886af2def308262",
+      "gzip_sha256": "bb73ff0217a3fcc257c04f3bf9db883dfb9f219a7d32df912200661d2837498f",
+      "raw_bytes": 7843,
+      "gzip_bytes": 2750
+    },
+    {
+      "former": "wikipedia_2750_2710_bce.json",
+      "gzip": "wikipedia_2750_2710_bce.json.gz",
+      "raw_sha256": "97d0521b5a21af6910d7aae8a145a46c51728dc1b92f96467880e0359e44a5a1",
+      "gzip_sha256": "f4fc5c21852d080a74a6762dd2613198a90a69c26a14606d52a0c73f57cb2bd9",
+      "raw_bytes": 5244,
+      "gzip_bytes": 2163
+    },
+    {
+      "former": "wikipedia_2800_2760_bce.json",
+      "gzip": "wikipedia_2800_2760_bce.json.gz",
+      "raw_sha256": "de35368a02efeb931ca6ab9055e501d47bedcfc06649458e180df89c3036d8dc",
+      "gzip_sha256": "5c70557ced0d7bf01cd80ca6bb4f13ca343a362466aabab768e2f2e1d435fa7f",
+      "raw_bytes": 4869,
+      "gzip_bytes": 1959
+    },
+    {
+      "former": "wikipedia_2850_2810_bce.json",
+      "gzip": "wikipedia_2850_2810_bce.json.gz",
+      "raw_sha256": "38747363c6f68499495b4c61ca321206582e4fb4e1cb10871edacba7898a308d",
+      "gzip_sha256": "7711dba020b2a636701de0e4eae1a46a959afdda08c573491aab5056a9273ff8",
+      "raw_bytes": 4481,
+      "gzip_bytes": 1760
+    },
+    {
+      "former": "wikipedia_2860_bce.json",
+      "gzip": "wikipedia_2860_bce.json.gz",
+      "raw_sha256": "a758568cbf649e4111726e78628ccedcdb6e0225f3a52af798776d134831948f",
+      "gzip_sha256": "4a50e2e89e8b8fa08cbe887ce5004a31d2d6af39aa4288c26fdf6d880fdd5657",
+      "raw_bytes": 3555,
+      "gzip_bytes": 1419
+    },
+    {
+      "former": "wikipedia_2870_bce.json",
+      "gzip": "wikipedia_2870_bce.json.gz",
+      "raw_sha256": "875ef1cacd2298894b0d85a7c9ad55d1b984a09e39a0d09815dfd9f88449236e",
+      "gzip_sha256": "394c3d2a11d8db946db49ffa708dc7028c1f412e19ce33648514761a1ed3e3f6",
+      "raw_bytes": 5482,
+      "gzip_bytes": 2366
+    },
+    {
+      "former": "wikipedia_2880_bce.json",
+      "gzip": "wikipedia_2880_bce.json.gz",
+      "raw_sha256": "450b9c675d866a304cb560a1d33f153fa53a6300068ffb5ae071f2445a0ec77f",
+      "gzip_sha256": "12ed1625f2d27a81f0ae47bfb7dc15d086b1009475933c0bcc7850577a389860",
+      "raw_bytes": 5277,
+      "gzip_bytes": 2286
+    },
+    {
+      "former": "wikipedia_2890_bce.json",
+      "gzip": "wikipedia_2890_bce.json.gz",
+      "raw_sha256": "e2bd92f8aab7ec80c20879cd0cfe595d6f1118a1f39fe67906ed832100b56fa0",
+      "gzip_sha256": "a81f1ffeaad39321f1b06d6ced859e5f2e8c0cd02b32ba1088f5aa87f44d8911",
+      "raw_bytes": 6845,
+      "gzip_bytes": 2693
+    },
+    {
+      "former": "wikipedia_2900_bce.json",
+      "gzip": "wikipedia_2900_bce.json.gz",
+      "raw_sha256": "949b1b1ae938d91e8fb14781644bf680634b98fe9264e7029529e134cd48e52a",
+      "gzip_sha256": "182e7374f0f6484e20fba342c56de386b826e261890963ceaf939fc3a861869e",
+      "raw_bytes": 3914,
+      "gzip_bytes": 1743
+    },
+    {
+      "former": "wikipedia_2910_bce.json",
+      "gzip": "wikipedia_2910_bce.json.gz",
+      "raw_sha256": "302b0071160e7e23e0d95bdaf07fd1b19b53b34e0e0a4a0d70706757d3eb3caf",
+      "gzip_sha256": "996797ea9bdffa398535d85bffbb236e99c27bd4faadc2e76fec9d339c13d300",
+      "raw_bytes": 4873,
+      "gzip_bytes": 1907
+    },
+    {
+      "former": "wikipedia_2920_bce.json",
+      "gzip": "wikipedia_2920_bce.json.gz",
+      "raw_sha256": "6e4dab29c435d90133ecc8d9f5ad8ed159b6dc8820a4ff8e0decf6883ab58b3c",
+      "gzip_sha256": "2f724b68732bc634ad887ea51482b7fc18e20f0008bd52677cf9103f8e33c59f",
+      "raw_bytes": 3117,
+      "gzip_bytes": 1442
+    },
+    {
+      "former": "wikipedia_2930_bce.json",
+      "gzip": "wikipedia_2930_bce.json.gz",
+      "raw_sha256": "00782deb5e41f763be842afcc1f67de5f0358cf33afab83bd0b69d77f75959be",
+      "gzip_sha256": "1bada301d24c97994fac10f7f4880a5b5f8c8cb0d14c54f77ea2770d3aed9ef5",
+      "raw_bytes": 4979,
+      "gzip_bytes": 1673
+    },
+    {
+      "former": "wikipedia_2940_bce.json",
+      "gzip": "wikipedia_2940_bce.json.gz",
+      "raw_sha256": "24b97038dd9e013679d104a740e039ac8a38ba527cae6ea04f2333b9dde8d8e3",
+      "gzip_sha256": "78cdf330389dbbb5d008b89c0a727f9912203cab49c7edc4bc054b1ee1913597",
+      "raw_bytes": 3524,
+      "gzip_bytes": 1704
+    },
+    {
+      "former": "wikipedia_2950_bce.json",
+      "gzip": "wikipedia_2950_bce.json.gz",
+      "raw_sha256": "a8c43a8d64f3dfc2c3411fea2cc7a28d41dcf92eb7e591567e3defe7e99198b3",
+      "gzip_sha256": "0c34316450e57261e004d8e44de78c17d7db3c1fb1c1d542571d9f2b94b977df",
+      "raw_bytes": 2316,
+      "gzip_bytes": 1169
+    },
+    {
+      "former": "wikipedia_2960_bce.json",
+      "gzip": "wikipedia_2960_bce.json.gz",
+      "raw_sha256": "c3eb03777081bd911bc59470853ebffe240fb00ae6c8664744dccd27f079f508",
+      "gzip_sha256": "09bc9c478b8f4827cc17c05195cc28c233d7230cff4419e16b8e85ade682beb0",
+      "raw_bytes": 3067,
+      "gzip_bytes": 1529
+    },
+    {
+      "former": "wikipedia_2970_bce.json",
+      "gzip": "wikipedia_2970_bce.json.gz",
+      "raw_sha256": "7c98c44e316d4eb663f2b7e2b4b05bc3c79b6a6774fd6a3c4613f713ffa6e1ee",
+      "gzip_sha256": "b1694a67e1b4db4241eb4145e2ff6b57685accf69334f38c4066c91948e61790",
+      "raw_bytes": 4110,
+      "gzip_bytes": 1807
+    },
+    {
+      "former": "wikipedia_2980_bce.json",
+      "gzip": "wikipedia_2980_bce.json.gz",
+      "raw_sha256": "7062255adf15f38050a0e0e4fe48703599a15e2869b17666c3f949a1edaac873",
+      "gzip_sha256": "1f52c2be9d374aa3bab69cb3165b130ae008190303ddc25854e8bb22e7120592",
+      "raw_bytes": 7132,
+      "gzip_bytes": 2397
+    },
+    {
+      "former": "wikipedia_2990_bce.json",
+      "gzip": "wikipedia_2990_bce.json.gz",
+      "raw_sha256": "26c0f0fd5b95c10b3e8e1ad2fc05baf9dc22160c022ea7dae5afbd9e943a3a75",
+      "gzip_sha256": "efd77f6d3655d04985062ef9e665c941974c250f34371c97b3e16d5d802b53e3",
+      "raw_bytes": 5588,
+      "gzip_bytes": 2347
+    },
+    {
+      "former": "wikipedia_2999_2990_bce.json",
+      "gzip": "wikipedia_2999_2990_bce.json.gz",
+      "raw_sha256": "9d1e9d1fb44a51e777b027244ef86e337cce6c46601ba5b12967a6e7cfa64d0d",
+      "gzip_sha256": "9eca3121578945792832f60e10e9d80e36bc116daa29da980f6e768c0a3387d1",
+      "raw_bytes": 4724,
+      "gzip_bytes": 1140
+    },
+    {
+      "former": "wikipedia_3000_bce.json",
+      "gzip": "wikipedia_3000_bce.json.gz",
+      "raw_sha256": "4e36273e93bef3c2d2aeff933254c136566da09a972e248138a571642dbb395f",
+      "gzip_sha256": "41ce6695ef05a4f42743571aa07887b88521acb8b654ef41bb23fb104a2d50e0",
+      "raw_bytes": 110635,
+      "gzip_bytes": 21263
+    },
+    {
+      "former": "wikipedia_3000_bce_court_network.json",
+      "gzip": "wikipedia_3000_bce_court_network.json.gz",
+      "raw_sha256": "15d78c6474687bbbbe74535a016ea75fb96d9acedbb7b9a7ee8497ad057e1957",
+      "gzip_sha256": "59b73ea0030af86e6455b2241fb68971b182f86a7588ebc6e5f3c072dbc7162a",
+      "raw_bytes": 6207,
+      "gzip_bytes": 1630
+    },
+    {
+      "former": "wikipedia_3000_bce_people_network.json",
+      "gzip": "wikipedia_3000_bce_people_network.json.gz",
+      "raw_sha256": "9b7cfa373006d2c490f126555ca3b130126181baa504cd79b198bc0c0e5466e1",
+      "gzip_sha256": "602d473a336dcc63a876f294248b7689cf2ce1d0175a022abffb4e9ac70c014d",
+      "raw_bytes": 5993,
+      "gzip_bytes": 1432
+    },
+    {
+      "former": "wikipedia_300_260_bce.json",
+      "gzip": "wikipedia_300_260_bce.json.gz",
+      "raw_sha256": "b9084577916364f2eede2f24a37e7849d2798249ce56c4aff7b7ef6c1152d34f",
+      "gzip_sha256": "e47e094a97727f45880d8ba8d9c7d20b357f7468aa5a371e2d14b3a5fd1ed6d7",
+      "raw_bytes": 5885,
+      "gzip_bytes": 2085
+    },
+    {
+      "former": "wikipedia_301_341_ce.json",
+      "gzip": "wikipedia_301_341_ce.json.gz",
+      "raw_sha256": "8d9f9e18b27a7e5c8a4166314e40114eae480055f2b5713ee2a609ca00d4eedb",
+      "gzip_sha256": "db07217bcacd0ecf906bd5b6d8ba9f2e96df1c90ef18d265cccb0fc490afd638",
+      "raw_bytes": 4456,
+      "gzip_bytes": 1475
+    },
+    {
+      "former": "wikipedia_350_310_bce.json",
+      "gzip": "wikipedia_350_310_bce.json.gz",
+      "raw_sha256": "b0dd9dfb3f561a2f4bda59cd4d6ca1490978a64d437cf0f3cdceacefd5b9bd13",
+      "gzip_sha256": "312426c4de4406616087a63b8550aa8fc8bbdb7b9e29399c00fd42c7b6e22609",
+      "raw_bytes": 4451,
+      "gzip_bytes": 1877
+    },
+    {
+      "former": "wikipedia_351_391_ce.json",
+      "gzip": "wikipedia_351_391_ce.json.gz",
+      "raw_sha256": "58043eebafc4e47c72844cb93492a43883bb98f2ec9853f90e854690e720a6b2",
+      "gzip_sha256": "a52cfe12a7732ad7a6244f1a35b8be8889afc359f23ebd8d0b7a12efb1fb379a",
+      "raw_bytes": 3907,
+      "gzip_bytes": 1259
+    },
+    {
+      "former": "wikipedia_400_360_bce.json",
+      "gzip": "wikipedia_400_360_bce.json.gz",
+      "raw_sha256": "61a10e1b7395e5a87af4522e59bbfe10314137e495d1c71cf5c0330590de9e30",
+      "gzip_sha256": "1c280667e7cf895dffe65060a47b5652f4af894b4db12f71b32c40f1203813c6",
+      "raw_bytes": 4917,
+      "gzip_bytes": 2102
+    },
+    {
+      "former": "wikipedia_401_441_ce.json",
+      "gzip": "wikipedia_401_441_ce.json.gz",
+      "raw_sha256": "1f09e7209a35316b480df2e61fd5d02b506173a50304e4a79f6bf023b4d9fbb7",
+      "gzip_sha256": "256c68cd15f09638ade4b2ea8ee1bbaa3eb1eb4b069dabc7695b7f3752722247",
+      "raw_bytes": 3980,
+      "gzip_bytes": 1413
+    },
+    {
+      "former": "wikipedia_450_410_bce.json",
+      "gzip": "wikipedia_450_410_bce.json.gz",
+      "raw_sha256": "2fda2b6f0b979074968f404739c29f0cb764932d0492ad32d8079f6a203d70db",
+      "gzip_sha256": "0e9923a161dcb41ba3662d3a2c76fb406a390b586652d6075dd9986b65ad6507",
+      "raw_bytes": 4383,
+      "gzip_bytes": 1818
+    },
+    {
+      "former": "wikipedia_451_491_ce.json",
+      "gzip": "wikipedia_451_491_ce.json.gz",
+      "raw_sha256": "9037396e4e6ace373fd2a40fc342a3b7f1ecc532e7f5e12183778e742041c2bb",
+      "gzip_sha256": "b1adb03c413b457be707d77d37fa17d698f6f8ec68172cedd90363706b902a09",
+      "raw_bytes": 5724,
+      "gzip_bytes": 1784
+    },
+    {
+      "former": "wikipedia_500_460_bce.json",
+      "gzip": "wikipedia_500_460_bce.json.gz",
+      "raw_sha256": "c49fff302161a107e1e2e1033a5ce0a94fc42c7c1dca0a80f9e6a1904fdb50c2",
+      "gzip_sha256": "729a78d940e033308aeb38a944a83d210d025bcbd6b5685bdcfcfd53277df650",
+      "raw_bytes": 2319,
+      "gzip_bytes": 1028
+    },
+    {
+      "former": "wikipedia_501_541_ce.json",
+      "gzip": "wikipedia_501_541_ce.json.gz",
+      "raw_sha256": "03a434cc6fe454b29f83e750a2d80495ea3d1bc063a16da4a8970ba4cdf0b421",
+      "gzip_sha256": "455d8f1b760d7dea3537bba890c0ad2ddb47e5addc1622c9ab12c5ef22d6720d",
+      "raw_bytes": 4520,
+      "gzip_bytes": 1673
+    },
+    {
+      "former": "wikipedia_50_10_bce.json",
+      "gzip": "wikipedia_50_10_bce.json.gz",
+      "raw_sha256": "a4103fe05a96a01a250748d55430d210016065eb1511252dd97e3286ff557cd5",
+      "gzip_sha256": "35b697fdf90ca79e164d9c3274287deb24da8db72b83a2766f588d052f2eac1f",
+      "raw_bytes": 4701,
+      "gzip_bytes": 1630
+    },
+    {
+      "former": "wikipedia_51_91_ce.json",
+      "gzip": "wikipedia_51_91_ce.json.gz",
+      "raw_sha256": "2159433139cc573dddd17f56d0f8a71b088393c02d25d041f837bcaee0eab41b",
+      "gzip_sha256": "ebf5a006018cce8b8650c517c493bfd5d6bdd7b5106800abb0f03d1d46f09bb7",
+      "raw_bytes": 2438,
+      "gzip_bytes": 944
+    },
+    {
+      "former": "wikipedia_550_510_bce.json",
+      "gzip": "wikipedia_550_510_bce.json.gz",
+      "raw_sha256": "80918e4efaf664266304cca55955d7831fffeed32f79f6440ec324dce61fa406",
+      "gzip_sha256": "e3d046e98f518ab517ccff3f345c08457e3a68ffd21df6c314125326ad4316ed",
+      "raw_bytes": 2156,
+      "gzip_bytes": 1037
+    },
+    {
+      "former": "wikipedia_551_591_ce.json",
+      "gzip": "wikipedia_551_591_ce.json.gz",
+      "raw_sha256": "16ece05fd2612cb8d11d1caa5fe1b186c688d78d19e5d26d941181085214e06d",
+      "gzip_sha256": "a9046c42e1a678c9a91218489250b6f8eef45dc205b18f5125f92174b1a467df",
+      "raw_bytes": 4583,
+      "gzip_bytes": 1410
+    },
+    {
+      "former": "wikipedia_600_560_bce.json",
+      "gzip": "wikipedia_600_560_bce.json.gz",
+      "raw_sha256": "7925e4b2642a5d6746412da04d155e71091ce5a8b9908778546443f4c598486e",
+      "gzip_sha256": "3cd089a06576857009550a25e0d27fb0f4f55eb90d0e88cef491c94dfdbf3752",
+      "raw_bytes": 1961,
+      "gzip_bytes": 853
+    },
+    {
+      "former": "wikipedia_601_641_ce.json",
+      "gzip": "wikipedia_601_641_ce.json.gz",
+      "raw_sha256": "ea2b7448c66013dfd89c9f13b0aa38b6eb1af769324a9283dea629ecdbe8f77e",
+      "gzip_sha256": "c38585e5212cc4b3c2ab9983064013b24ae54c96341af6fe85be457e676b5047",
+      "raw_bytes": 7100,
+      "gzip_bytes": 2282
+    },
+    {
+      "former": "wikipedia_650_610_bce.json",
+      "gzip": "wikipedia_650_610_bce.json.gz",
+      "raw_sha256": "f72ff00499958e82df6c9f25b8a28ab0469edb02c53011f4300177f8cf427fc1",
+      "gzip_sha256": "435de0f3f7eba2ced0187ef29bcddf4b8431114e0cb0615ec302dfa561168bf1",
+      "raw_bytes": 3075,
+      "gzip_bytes": 1173
+    },
+    {
+      "former": "wikipedia_651_691_ce.json",
+      "gzip": "wikipedia_651_691_ce.json.gz",
+      "raw_sha256": "15aaa65df139f38aea3cc375ee556bc8f2a28db1242129f32fd2a5fa476a9d1f",
+      "gzip_sha256": "63270ddd44703c064da102594de6341ccbe7a8df789f0ef696e9e394d5a5fdb9",
+      "raw_bytes": 6183,
+      "gzip_bytes": 2039
+    },
+    {
+      "former": "wikipedia_700_660_bce.json",
+      "gzip": "wikipedia_700_660_bce.json.gz",
+      "raw_sha256": "21f1c95dd293e0a2449419d1d12f6dc613330d4c6d9a0889d69db5439577b2d9",
+      "gzip_sha256": "3bf3579691bbcd665f7afdbd5f5731aa937820c7e2223891def131560e30b7b7",
+      "raw_bytes": 4474,
+      "gzip_bytes": 1591
+    },
+    {
+      "former": "wikipedia_701_741_ce.json",
+      "gzip": "wikipedia_701_741_ce.json.gz",
+      "raw_sha256": "910c3db15f2a18a1bcea6cf4039376c56c0b630fb8472879f7bce75cc17190e8",
+      "gzip_sha256": "25b4f3594eedf8f381f3908c1bf2b9bee4c8daa97adec5b4f5272ec4d2f70270",
+      "raw_bytes": 7290,
+      "gzip_bytes": 2323
+    },
+    {
+      "former": "wikipedia_750_710_bce.json",
+      "gzip": "wikipedia_750_710_bce.json.gz",
+      "raw_sha256": "b76ea0832748bba34c3233220de1aecbd735a362ff382c8a0c9b52b22b45f32a",
+      "gzip_sha256": "f26ebcb173b2a6fd43e79d8ac4e552cfee8e96f48f3dce39d2a1ae4712f931d3",
+      "raw_bytes": 4580,
+      "gzip_bytes": 1595
+    },
+    {
+      "former": "wikipedia_751_791_ce.json",
+      "gzip": "wikipedia_751_791_ce.json.gz",
+      "raw_sha256": "c631c19c0973582da88662f2edace2696a40d8be05d26b9285a8a903059c1280",
+      "gzip_sha256": "9ec7c0b7e4e3f966d1537b21efd9f70336d9c08f7646f22043082b4e146e6489",
+      "raw_bytes": 5982,
+      "gzip_bytes": 2107
+    },
+    {
+      "former": "wikipedia_800_760_bce.json",
+      "gzip": "wikipedia_800_760_bce.json.gz",
+      "raw_sha256": "fab53850fb387894257c9005e6ab0d43bf5472dcf5868579f2ee66331e0c7750",
+      "gzip_sha256": "fa3456479c256bddf2e7c9527ed23b887ea2ccaa0acce9bc94c8450e35439332",
+      "raw_bytes": 4298,
+      "gzip_bytes": 1508
+    },
+    {
+      "former": "wikipedia_801_841_ce.json",
+      "gzip": "wikipedia_801_841_ce.json.gz",
+      "raw_sha256": "904695207bbe03d60ea95c4bd941826aa185f55738ba477c12cb6cf34ce609f1",
+      "gzip_sha256": "9056bf155b9dcb59055084cefdfa09a46d011e424ca22f9c54021d24ead66e60",
+      "raw_bytes": 7196,
+      "gzip_bytes": 2239
+    },
+    {
+      "former": "wikipedia_850_810_bce.json",
+      "gzip": "wikipedia_850_810_bce.json.gz",
+      "raw_sha256": "bbfa3e2f34ec22904353cc1532265ae21ec831015b418fed9aa06c4961e55e22",
+      "gzip_sha256": "a4037756f10f11d4849f0521dbac07b8f502a21f0c2a5735f54230c8a3d821d8",
+      "raw_bytes": 5328,
+      "gzip_bytes": 1620
+    },
+    {
+      "former": "wikipedia_851_891_ce.json",
+      "gzip": "wikipedia_851_891_ce.json.gz",
+      "raw_sha256": "37159e33426a9ed5b71cb1cf989f13ab7a42ee100bcfbf51b99a9dac6155c1e4",
+      "gzip_sha256": "ff6f311bb500d3b2851e1e7f8d98974acf4c0581da6d62a1b416fb6c57b941f1",
+      "raw_bytes": 6804,
+      "gzip_bytes": 2121
+    },
+    {
+      "former": "wikipedia_900_860_bce.json",
+      "gzip": "wikipedia_900_860_bce.json.gz",
+      "raw_sha256": "7ad4b7e6280ce40b9825e63034edbbdf4507a4cbd6bccb155d2733d8d6f12514",
+      "gzip_sha256": "a76c068117df7ae3c6587fab7766bac472f163fc981f215eb15d989de9d8053b",
+      "raw_bytes": 4305,
+      "gzip_bytes": 1482
+    },
+    {
+      "former": "wikipedia_901_941_ce.json",
+      "gzip": "wikipedia_901_941_ce.json.gz",
+      "raw_sha256": "5f546afb134321721136ffe5d7e0c72decc356eebd406372236edbd3f0db9b31",
+      "gzip_sha256": "fac7d4cf87ed55c103a306d7c63cdfe13b6f4aee747bfd825221b1b0fa6e7216",
+      "raw_bytes": 7384,
+      "gzip_bytes": 2641
+    },
+    {
+      "former": "wikipedia_950_910_bce.json",
+      "gzip": "wikipedia_950_910_bce.json.gz",
+      "raw_sha256": "91100e98f12587375f7a8c19e571d258b91f68c98f89ce0d46359a2c36e8abb3",
+      "gzip_sha256": "ab75bfbbfa1a1b9277e772a34ebe80711def0f8672352f4c7c4640e6c52d6fd5",
+      "raw_bytes": 5710,
+      "gzip_bytes": 1693
+    },
+    {
+      "former": "wikipedia_951_991_ce.json",
+      "gzip": "wikipedia_951_991_ce.json.gz",
+      "raw_sha256": "8a24a52ba2b476943f3e1b052a973d1ce3493bc298595e58d710a02dcdc20318",
+      "gzip_sha256": "50a57b08031ab9945ff6f539de005af089adb9e25641c5600a56c4514adaded2",
+      "raw_bytes": 7290,
+      "gzip_bytes": 2533
+    }
+  ]
+}

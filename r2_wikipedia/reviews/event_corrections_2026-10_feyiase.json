@@ -1,0 +1,105 @@
+{
+  "schema": "eternal-r2-reviewed-event-corrections-v1",
+  "target": "events_wikipedia_decades.json.gz",
+  "updates": [
+    {
+      "event_id": "wpd_342c3bc78d",
+      "candidate_id": "2263887597bb0e760c283041",
+      "candidate_source": {
+        "title": "18th century",
+        "page_id": 34570,
+        "revision_id": 1378596652,
+        "line": 30,
+        "url": "https://en.wikipedia.org/w/index.php?title=18th_century&oldid=1378596652"
+      },
+      "before": {
+        "id": "wpd_342c3bc78d",
+        "name": "The Battle of Feyiase marks the rise of the Ashanti Empire",
+        "start": 1701,
+        "end": 1702,
+        "lat": 6.7867,
+        "lon": -1.397,
+        "radiusKm": 120,
+        "kind": "battle",
+        "effect": "note",
+        "confidence": "wikipedia_region"
+      },
+      "changes": {
+        "start": 1701,
+        "end": 1702,
+        "name": "Asante forces defeat Denkyira at the Battle of Feyiase",
+        "lat": 6.61369,
+        "lon": -1.56117,
+        "radiusKm": 20,
+        "confidence": "wikipedia_region"
+      },
+      "corroborating_sources": [
+        "https://encyclopaediaafricana.com/ghana/",
+        "https://www.acona.org/asante-history",
+        "https://www.mindat.org/feature-2300955.html",
+        "https://mapcarta.com/16947588"
+      ],
+      "review_note": "Feyiase village location is an approximate regional reference for the battle, not a measured battlefield point or full battlefield area. The previous decade pin was northeast of Kumasi and radius 120 km; 20 km is a gameplay search radius, not a verified historical extent. Another century-pack entry wpy_05843fc46d remains at wrong year 1750 with an unrelated location and has not been removed or changed. Sources differ on the month; no month is asserted.",
+      "reviewed_as_of": "2026-10-28",
+      "candidate_snapshot": {
+        "schema": "eternal-r2-history-candidate-v1",
+        "id": "2263887597bb0e760c283041",
+        "status": "unreviewed_not_game_ready",
+        "source": {
+          "title": "18th century",
+          "page_id": 34570,
+          "revision_id": 1378596652,
+          "line": 30,
+          "url": "https://en.wikipedia.org/w/index.php?title=18th_century&oldid=1378596652"
+        },
+        "section_path": [
+          "Events",
+          "1701–1750"
+        ],
+        "section_kind": "event_or_development_section",
+        "period_context": {
+          "kind": "century",
+          "start": 1701,
+          "end": 1800,
+          "year_convention": "negative BCE; positive CE; no year zero"
+        },
+        "temporal_context": {
+          "classification": "before_present_year_context",
+          "basis": "leading_year_label",
+          "start_year": 1701,
+          "end_year": 1701,
+          "as_of": "2026-10-28",
+          "warning": "Context only: does not establish when an event occurred or whether a future claim is a projection."
+        },
+        "explicit_leading_year": {
+          "year": 1701,
+          "precision": "year",
+          "approximate": false,
+          "raw_label": "[[1701]]:",
+          "meaning": "unverified_label_at_start_of_source_bullet"
+        },
+        "parent_bullets": [],
+        "raw_wikitext": "[[1701]]: The [[Battle of Feyiase]] marks the rise of the [[Ashanti Empire]].",
+        "display_text_unverified": "1701: The Battle of Feyiase marks the rise of the Ashanti Empire.",
+        "linked_articles": [
+          {
+            "title": "1701",
+            "label": "1701"
+          },
+          {
+            "title": "Battle of Feyiase",
+            "label": "Battle of Feyiase"
+          },
+          {
+            "title": "Ashanti Empire",
+            "label": "Ashanti Empire"
+          }
+        ],
+        "resolved_location": null,
+        "event_date_verified": false,
+        "note": "Source-derived candidate only; link names, section labels and page context are not proof of identity, date or location."
+      }
+    }
+  ],
+  "notice": "This improves a single existing correct-year row. The wrong-year duplicate remains unresolved."
+}

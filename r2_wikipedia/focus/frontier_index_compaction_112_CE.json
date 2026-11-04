@@ -1,0 +1,120 @@
+{
+  "original_bytes": 10326016,
+  "new_bytes": 9027584,
+  "saved_bytes": 1298432,
+  "old_index": "CREATE INDEX frontier_priority on frontier(status,priority,depth,title)",
+  "new_index": "CREATE INDEX frontier_priority ON frontier(status,priority,depth)",
+  "before_raw_sha256": "aa30d63b330caa5a9b8bc11ad4dc4277179fedcdf2e2b6d184bea4129e073222",
+  "after_raw_sha256": "13f5b7d4f76ecfb4ef97b2c8073df254e67d0389bda9ceb81feb8f75e85e3c36",
+  "table_fingerprints": {
+    "frontier": {
+      "rows": 45613,
+      "sha256": "a96fabd9f235837ff9c08314ad342c30e72a12a419f5f890f5df997ae05a8f46"
+    },
+    "pages": {
+      "rows": 206,
+      "sha256": "522d627e0fc14424d122bece3492906d5f01c13dad8c5e030724d12ca91a48e4"
+    },
+    "edges": {
+      "rows": 89209,
+      "sha256": "0021be287a78c389d6e7caf10e37695506bdc9f3e09008e92c0793208b488ac5"
+    },
+    "resolutions": {
+      "rows": 236,
+      "sha256": "0b0a60caf304bef4df38d57fe3b1e39f2fcb0ac7036f20a0f9143cf5889efc5b"
+    },
+    "scheduler_state": {
+      "rows": 2,
+      "sha256": "bebe5d29a59a06a60db275641e0823b69210ae8d8477347a6a8fc6180ad9ae50"
+    }
+  },
+  "scheduler_choices": {
+    "next": [
+      "1590s BC",
+      0
+    ],
+    "priority": {
+      "0": [
+        "1590s BC",
+        0
+      ],
+      "10": null,
+      "20": null,
+      "30": [
+        "1740s BC",
+        1
+      ],
+      "40": [
+        "2000 BCE",
+        1
+      ],
+      "100": [
+        "'Apepi",
+        1
+      ]
+    },
+    "fair": [
+      [
+        "1590s BC",
+        0
+      ],
+      [
+        "1590s BC",
+        0
+      ],
+      [
+        "1590s BC",
+        0
+      ],
+      [
+        "1590s BC",
+        0
+      ],
+      [
+        "1590s BC",
+        0
+      ],
+      [
+        "1590s BC",
+        0
+      ],
+      [
+        "1590s BC",
+        0
+      ]
+    ],
+    "no_zero_fair": [
+      [
+        "1740s BC",
+        1
+      ],
+      [
+        "2000 BCE",
+        1
+      ],
+      [
+        "3002 BC",
+        2
+      ],
+      [
+        "1740s BC",
+        1
+      ],
+      [
+        "1109–1100 BC",
+        2
+      ],
+      [
+        "1740s BC",
+        1
+      ],
+      [
+        "2000 BCE",
+        1
+      ]
+    ]
+  },
+  "integrity": "ok",
+  "foreign_keys": "ok",
+  "note": "Index-only schema change. Cache backup does not persist; data fingerprinted. Some title-tie sorting may be slower. Stop collectors before maintenance."
+}

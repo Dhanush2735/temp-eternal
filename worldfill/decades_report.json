@@ -1,0 +1,75 @@
+{
+ "seconds": 19,
+ "pages": 280,
+ "bullets": {
+  "no_own_year": 11392,
+  "with_year": 4256
+ },
+ "stats": {
+  "already_harvested": 3,
+  "births_deaths": 103,
+  "bullets": 4202,
+  "candidates": 4096,
+  "drop_filters": 170,
+  "dupe_within": 8,
+  "learned_names": 344,
+  "no_place_found": 1316,
+  "placed_country": 34,
+  "placed_district": 42,
+  "placed_isle": 35,
+  "placed_people": 2,
+  "placed_region": 168,
+  "placed_river": 6,
+  "placed_site": 1037,
+  "placed_state": 667,
+  "placed_text_country": 39,
+  "placed_text_isle": 5,
+  "placed_text_region": 31,
+  "placed_text_state": 523,
+  "placed_text_waterbody": 1,
+  "placed_waterbody": 12
+ },
+ "placed": 2602,
+ "already_in_mod": 839,
+ "installed": 1763,
+ "duplicates_by_pack": {
+  "events_world.json / same name": 244,
+  "events_wikipedia_regional.json.gz / same name": 184,
+  "events_wikipedia.json.gz / same name": 172,
+  "events_wikipedia_regional.json.gz / same wording": 97,
+  "events_wikipedia.json.gz / same wording": 68,
+  "events_wikidata_more.json.gz / same name": 33,
+  "events_wikipedia.json.gz / same disaster": 12,
+  "events_hazards.json.gz / same disaster": 12,
+  "events_world.json / same disaster": 5,
+  "events.json / same name": 5,
+  "events_wikipedia_regional.json.gz / same disaster": 4,
+  "mediterranean.json / same name": 1
+ },
+ "installed_by_confidence": {
+  "wikipedia_region": 1110,
+  "wikipedia_coord": 653
+ },
+ "installed_by_era": {
+  "1000-1 BC": 325,
+  "1000-1499": 367,
+  "1500-1799": 393,
+  "1800-2026": 409,
+  "3000-1001 BC": 41,
+  "AD 1-999": 228
+ },
+ "examples": [
+  "-1601: Sharma-Adad II became the King of Assyria (wikipedia_region, r=155)",
+  "-495: Temple to Mercury on the Circus Maximus in Rome is built (wikipedia_coord, r=20)",
+  "-206: Qin dynasty falls after men from all over China revolts, attacking officials, raising armies, and de (wikipedia_region, r=113)",
+  "591: Khosrau II is restored as the Shah of Persia (wikipedia_region, r=800)",
+  "972: Cairo becomes the new Egyptian capital, and the seat of the Fatimid Caliphate (wikipedia_region, r=800)",
+  "1127: The Northern Song dynasty loses power over northern China to the Jin dynasty (wikipedia_region, r=800)",
+  "1368: The end of the Mongol-led Yuan dynasty in China and the beginning of the Ming dynasty (wikipedia_region, r=800)",
+  "1524: Giovanni da Verrazzano is the first European to explore the Atlantic coast of North America between  (wikipedia_coord, r=30)",
+  "1605: The King of Gowa, a Makassarese kingdom in South Sulawesi, converts to Islam (wikipedia_coord, r=60)",
+  "1769: The French East India Company dissolves, only to be revived in 1785 (wikipedia_region, r=408)",
+  "1833: Barron v. Baltimore: The United States Supreme Court rules that the Bill of Right only applies to th (wikipedia_region, r=800)",
+  "1875: HMS Challenger surveys the deepest point in the Earth's oceans, the Challenger Deep (wikipedia_coord, r=30)"
+ ]
+}

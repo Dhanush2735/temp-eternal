@@ -1,0 +1,1129 @@
+{
+ "map_ids_fixed": 92,
+ "new_state_entries": 77,
+ "filled_rel": 55,
+ "filled_cap": 69,
+ "infobox_head_rows": 63,
+ "infobox_gov_rows": 8,
+ "reigns_moved": 829,
+ "filled_lang": 56,
+ "relY_moved": 7,
+ "famous_people_retagged": 30574,
+ "fixes": [
+  {
+   "name": "Qi",
+   "old": "Q1143524",
+   "new": "Q837855",
+   "article": "Qi (state)",
+   "span": [
+    -750,
+    -204
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Song",
+   "old": "Q7462",
+   "new": "Q1065073",
+   "article": "Song (state)",
+   "span": [
+    -750,
+    -285
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 1
+  },
+  {
+   "name": "Cao",
+   "old": "Q204077",
+   "new": "Q284964",
+   "article": "Cao (state)",
+   "span": [
+    -750,
+    -451
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 3
+  },
+  {
+   "name": "Lu",
+   "old": "Q555994",
+   "new": "Q736936",
+   "article": "Lu (state)",
+   "span": [
+    -750,
+    -248
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Yan",
+   "old": "Q1472004",
+   "new": "Q1055713",
+   "article": "Yan (state)",
+   "span": [
+    -750,
+    -204
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 1
+  },
+  {
+   "name": "Wu",
+   "old": "Q274488",
+   "new": "Q912068",
+   "article": "Wu (state)",
+   "span": [
+    -750,
+    -451
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Yue",
+   "old": "Q1936158",
+   "new": "Q1137403",
+   "article": "Yue (state)",
+   "span": [
+    -500,
+    -334
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Zhao",
+   "old": "Q1574107",
+   "new": "Q197430",
+   "article": "Zhao (state)",
+   "span": [
+    -404,
+    -226
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 11
+  },
+  {
+   "name": "Wei",
+   "old": "Q320930",
+   "new": "Q912052",
+   "article": "Wei (state)",
+   "span": [
+    -404,
+    -204
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 6
+  },
+  {
+   "name": "Han",
+   "old": "Q1968654",
+   "new": "Q1574130",
+   "article": "Han (Warring States)",
+   "span": [
+    -404,
+    -203
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Jin",
+   "old": "Q6201794",
+   "new": "Q912043",
+   "article": "Jin (Chinese state)",
+   "span": [
+    -750,
+    -405
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 1
+  },
+  {
+   "name": "Qin",
+   "old": "Q1471995",
+   "new": "Q34756",
+   "article": "Qin (state)",
+   "span": [
+    -750,
+    -219
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 29
+  },
+  {
+   "name": "Zhongshan",
+   "old": "Q59223",
+   "new": "Q197913",
+   "article": "Zhongshan (state)",
+   "span": [
+    -366,
+    -292
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Western Chu",
+   "old": "Q1151705",
+   "new": "Q504759",
+   "article": "Chu (state)",
+   "span": [
+    -208,
+    -203
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Zhai",
+   "old": "Q7183",
+   "new": "Q5349053",
+   "article": "Eighteen Kingdoms",
+   "span": [
+    -208,
+    -204
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 4
+  },
+  {
+   "name": "Han Dynasty",
+   "old": "Q1068371",
+   "new": "Q7209",
+   "article": "Han dynasty",
+   "span": [
+    -202,
+    237
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 1
+  },
+  {
+   "name": "Xia",
+   "old": "Q7427",
+   "new": "Q546282",
+   "article": "Xia (Sixteen Kingdoms)",
+   "span": [
+    410,
+    438
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Southern Liang",
+   "old": "Q1069868",
+   "new": "Q1330290",
+   "article": "Southern Liang (Sixteen Kingdoms)",
+   "span": [
+    397,
+    413
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Liang Dynasty",
+   "old": "Q783489",
+   "new": "Q1069868",
+   "article": "Liang dynasty",
+   "span": [
+    510,
+    560
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 2
+  },
+  {
+   "name": "Western Liang",
+   "old": "Q4186404",
+   "new": "Q994451",
+   "article": "Western Liang (Sixteen Kingdoms)",
+   "span": [
+    407,
+    409
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Later Western Liang",
+   "old": "Q4186404",
+   "new": "Q849770",
+   "article": "Western Liang (555–587)",
+   "span": [
+    561,
+    586
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 5
+  },
+  {
+   "name": "Later Han",
+   "old": "Q957429",
+   "new": "Q1069829",
+   "article": "Later Han (Five Dynasties)",
+   "span": [
+    947,
+    959
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 2
+  },
+  {
+   "name": "Southern Wu",
+   "old": "Q107994370",
+   "new": "Q1323195",
+   "article": "Yang Wu",
+   "span": [
+    911,
+    959
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Min",
+   "old": "Q224634",
+   "new": "Q1192067",
+   "article": "Min (Ten Kingdoms)",
+   "span": [
+    911,
+    946
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 5
+  },
+  {
+   "name": "Great Yuan",
+   "old": "Q7313",
+   "new": "Q1179260",
+   "article": "Dayuan",
+   "span": [
+    -110,
+    50
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Great Mongol State",
+   "old": "Q7313",
+   "new": "Q2475921",
+   "article": "Bogd Khanate of Mongolia",
+   "span": [
+    1912,
+    1925
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Mongol Khanate",
+   "old": "Q19927420",
+   "new": "Q8959",
+   "article": "Northern Yuan",
+   "span": [
+    1468,
+    1635
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 1
+  },
+  {
+   "name": "Roman Republic",
+   "old": "Q175881",
+   "new": "Q17167",
+   "article": "Roman Republic",
+   "span": [
+    -500,
+    -32
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 5
+  },
+  {
+   "name": "Roman Empire",
+   "old": "Q12544",
+   "new": "Q2277",
+   "article": "Roman Empire",
+   "span": [
+    -31,
+    394
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 65
+  },
+  {
+   "name": "Byzantine Empire",
+   "old": "Q112039853",
+   "new": "Q12544",
+   "article": "Byzantine Empire",
+   "span": [
+    633,
+    1474
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 64
+  },
+  {
+   "name": "Kingdom of Numidia",
+   "old": "Q156173",
+   "new": "Q102679",
+   "article": "Numidia",
+   "span": [
+    -197,
+    -47
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 8
+  },
+  {
+   "name": "Sasanian Empire",
+   "old": "Q1661685",
+   "new": "Q83891",
+   "article": "Sasanian Empire",
+   "span": [
+    215,
+    643
+   ],
+   "shares_years_with_old_users": true,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Buyid Dynasty",
+   "old": "Q12536",
+   "new": "Q273874",
+   "article": "Buyid dynasty",
+   "span": [
+    936,
+    1055
+   ],
+   "shares_years_with_old_users": true,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Samanid Empire",
+   "old": "Q486181",
+   "new": "Q12150341",
+   "article": "Samanid Empire",
+   "span": [
+    886,
+    999
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 12
+  },
+  {
+   "name": "Muzaffarids",
+   "old": "Q6944360",
+   "new": "Q877670",
+   "article": "Muzaffarids (Iran)",
+   "span": [
+    1344,
+    1394
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 1
+  },
+  {
+   "name": "Turks",
+   "old": "Q2118293",
+   "new": "Q205466",
+   "article": "Göktürks",
+   "span": [
+    666,
+    756
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Oghuz Turks",
+   "old": "Q2118293",
+   "new": "Q1099731",
+   "article": "Oghuz Yabgu State",
+   "span": [
+    750,
+    1055
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Qarlugs",
+   "old": "Q2330335",
+   "new": "Q815677",
+   "article": "Karluks",
+   "span": [
+    793,
+    849
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Turk Shahis",
+   "old": "Q654380",
+   "new": "Q39047075",
+   "article": "Turk Shahis",
+   "span": [
+    561,
+    874
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 2
+  },
+  {
+   "name": "Kannauj-Varman Dynasty",
+   "old": "Q614890",
+   "new": "Q104880990",
+   "article": "Varman dynasty (Kannauj)",
+   "span": [
+    732,
+    771
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Harsha's Empire",
+   "old": "Q216895",
+   "new": "Q28109312",
+   "article": "Pushyabhuti dynasty",
+   "span": [
+    612,
+    655
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 1
+  },
+  {
+   "name": "Anurādhapura",
+   "old": "Q5724",
+   "new": "Q1965597",
+   "article": "Anuradhapura kingdom",
+   "span": [
+    -291,
+    1017
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 120
+  },
+  {
+   "name": "Ceylon",
+   "old": "Q918153",
+   "new": "Q854",
+   "article": "Sri Lanka",
+   "span": [
+    1236,
+    1506
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Kalinga",
+   "old": "Q356524",
+   "new": "Q1150706",
+   "article": "Kalinga (region)",
+   "span": [
+    -318,
+    -171
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Kathmandu",
+   "old": "Q3037",
+   "new": "Q2366229",
+   "article": "Malla dynasty (Nepal)",
+   "span": [
+    1202,
+    1761
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Old Kingdom of Norway",
+   "old": "Q202266",
+   "new": "Q2196956",
+   "article": "Kingdom of Norway (872–1397)",
+   "span": [
+    866,
+    1401
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 40
+  },
+  {
+   "name": "County of Barcelona",
+   "old": "Q7038",
+   "new": "Q1233672",
+   "article": "County of Barcelona",
+   "span": [
+    898,
+    1168
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 9
+  },
+  {
+   "name": "Kingdom of Poland",
+   "old": "Q577867",
+   "new": "Q8890160",
+   "article": "Kingdom of Poland",
+   "span": [
+    962,
+    1449
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 11
+  },
+  {
+   "name": "Nitra",
+   "old": "Q26397",
+   "new": "Q837326",
+   "article": "Principality of Nitra",
+   "span": [
+    898,
+    910
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Principality of Polotsky",
+   "old": "Q200797",
+   "new": "Q517333",
+   "article": "Principality of Polotsk",
+   "span": [
+    1056,
+    1249
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Tver",
+   "old": "Q2288",
+   "new": "Q163268",
+   "article": "Principality of Tver",
+   "span": [
+    1294,
+    1486
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 3
+  },
+  {
+   "name": "Nizhny Novgorod",
+   "old": "Q891",
+   "new": "Q4318679",
+   "article": "Principality of Nizhny Novgorod-Suzdal",
+   "span": [
+    1294,
+    1394
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Strathclyde",
+   "old": "Q124661",
+   "new": "Q225890",
+   "article": "Kingdom of Strathclyde",
+   "span": [
+    644,
+    1033
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 13
+  },
+  {
+   "name": "Aquitaine",
+   "old": "Q1179",
+   "new": "Q7703611",
+   "article": "Duchy of Aquitaine",
+   "span": [
+    629,
+    895
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 4
+  },
+  {
+   "name": "Habsburg Monarchy",
+   "old": "Q66504140",
+   "new": "Q153136",
+   "article": "Habsburg monarchy",
+   "span": [
+    1487,
+    1805
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 14
+  },
+  {
+   "name": "Georgia",
+   "old": "Q4962",
+   "new": "Q230",
+   "article": "Georgia (country)",
+   "span": [
+    567,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Kingdom of France",
+   "old": "Q207162",
+   "new": "Q70972",
+   "article": "Kingdom of France",
+   "span": [
+    990,
+    1791
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 27
+  },
+  {
+   "name": "Kingdom of Great Britain",
+   "old": "Q23666",
+   "new": "Q145",
+   "article": "United Kingdom",
+   "span": [
+    1709,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 40
+  },
+  {
+   "name": "Serbia",
+   "old": "Q1311990",
+   "new": "Q241748",
+   "article": "Kingdom of Serbia",
+   "span": [
+    1918,
+    1918
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Yugoslavia",
+   "old": "Q83286",
+   "new": "Q191077",
+   "article": "Kingdom of Yugoslavia",
+   "span": [
+    1919,
+    1945
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 5
+  },
+  {
+   "name": "Danish Magnates",
+   "old": "Q350186",
+   "new": "Q756617",
+   "article": "Danish Realm",
+   "span": [
+    1333,
+    1351
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Barghawata Conference",
+   "old": "Q7903",
+   "new": "Q808139",
+   "article": "Barghawata",
+   "span": [
+    793,
+    1065
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Zululand",
+   "old": "Q13558877",
+   "new": "Q729768",
+   "article": "Zulu Kingdom",
+   "span": [
+    1820,
+    1897
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "British Africa",
+   "old": "Q179848",
+   "new": "Q8680",
+   "article": "British Empire",
+   "span": [
+    1885,
+    1960
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Portuguese Africa",
+   "old": "Q16879646",
+   "new": "Q200464",
+   "article": "Portuguese Empire",
+   "span": [
+    1507,
+    1581
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Cuzco",
+   "old": "Q5582862",
+   "new": "Q2314963",
+   "article": "Kingdom of Cusco",
+   "span": [
+    1294,
+    1439
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 4
+  },
+  {
+   "name": "Texcoco",
+   "old": "Q1178043",
+   "new": "Q2047652",
+   "article": "Tetzcoco (altepetl)",
+   "span": [
+    1202,
+    1428
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "New Granada",
+   "old": "Q1863715",
+   "new": "Q2249661",
+   "article": "United Provinces of New Granada",
+   "span": [
+    1811,
+    1821
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Cuban Nationalists",
+   "old": "Q11256",
+   "new": "Q133878465",
+   "article": "Republic of Cuba in Arms",
+   "span": [
+    1895,
+    1899
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Mahan",
+   "old": "Q421372",
+   "new": "Q704278",
+   "article": "Mahan confederacy",
+   "span": [
+    -91,
+    346
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 1
+  },
+  {
+   "name": "Joseon",
+   "old": "Q28405",
+   "new": "Q28179",
+   "article": "Joseon",
+   "span": [
+    1395,
+    1897
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 26
+  },
+  {
+   "name": "Kingdom of Pajana",
+   "old": "Q1074947",
+   "new": "Q2390716",
+   "article": "Kingdom of Pajang",
+   "span": [
+    1572,
+    1587
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Qasimids",
+   "old": "Q5261548",
+   "new": "Q85816686",
+   "article": "Qasimid State",
+   "span": [
+    1636,
+    1802
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Kingdom of Champasak",
+   "old": "Q403369",
+   "new": "Q1062415",
+   "article": "Kingdom of Champasak",
+   "span": [
+    1709,
+    1894
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 10
+  },
+  {
+   "name": "Chiangmai",
+   "old": "Q52028",
+   "new": "Q4202331",
+   "article": "Nakhon Chiang Mai (1775–1899)",
+   "span": [
+    1775,
+    1884
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 8
+  },
+  {
+   "name": "Denmark",
+   "old": "Q350186",
+   "new": "Q35",
+   "article": "Denmark",
+   "span": [
+    1945,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 19
+  },
+  {
+   "name": "Syria",
+   "old": "Q41137",
+   "new": "Q858",
+   "article": "Syria",
+   "span": [
+    1973,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Slovakia",
+   "old": "Q33946",
+   "new": "Q214",
+   "article": "Slovakia",
+   "span": [
+    1992,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 20
+  },
+  {
+   "name": "Republic of Korea",
+   "old": "Q423",
+   "new": "Q884",
+   "article": "South Korea",
+   "span": [
+    1948,
+    2024
+   ],
+   "shares_years_with_old_users": true,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Republic of the Congo",
+   "old": "Q974",
+   "new": "Q971",
+   "article": "Republic of the Congo",
+   "span": [
+    1961,
+    2024
+   ],
+   "shares_years_with_old_users": true,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Guinea",
+   "old": "Q983",
+   "new": "Q1006",
+   "article": "Guinea",
+   "span": [
+    1960,
+    2024
+   ],
+   "shares_years_with_old_users": true,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Republic of Vietnam",
+   "old": "Q172640",
+   "new": "Q180573",
+   "article": "South Vietnam",
+   "span": [
+    1956,
+    1975
+   ],
+   "shares_years_with_old_users": true,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Republic of China",
+   "old": "Q148",
+   "new": "Q865",
+   "article": "Taiwan",
+   "span": [
+    1912,
+    2024
+   ],
+   "shares_years_with_old_users": true,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Mexico",
+   "old": "Q5062192",
+   "new": "Q96",
+   "article": "Mexico",
+   "span": [
+    1868,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 33
+  },
+  {
+   "name": "Lebanon",
+   "old": "Q139708",
+   "new": "Q822",
+   "article": "Lebanon",
+   "span": [
+    1944,
+    2024
+   ],
+   "shares_years_with_old_users": true,
+   "reigns_moved": 0
+  },
+  {
+   "name": "Ukraine",
+   "old": "Q598570",
+   "new": "Q212",
+   "article": "Ukraine",
+   "span": [
+    1992,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 37
+  },
+  {
+   "name": "Japan",
+   "old": "Q188712",
+   "new": "Q17",
+   "article": "Japan",
+   "span": [
+    1953,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 41
+  },
+  {
+   "name": "Romania",
+   "old": "Q203493",
+   "new": "Q218",
+   "article": "Romania",
+   "span": [
+    1990,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 44
+  },
+  {
+   "name": "Republic of Bulgaria",
+   "old": "Q121932",
+   "new": "Q219",
+   "article": "Bulgaria",
+   "span": [
+    1991,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 39
+  },
+  {
+   "name": "Republic of Albania",
+   "old": "Q467864",
+   "new": "Q222",
+   "article": "Albania",
+   "span": [
+    1991,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 4
+  },
+  {
+   "name": "Republic of Yemen",
+   "old": "Q199841",
+   "new": "Q805",
+   "article": "Yemen",
+   "span": [
+    1990,
+    2024
+   ],
+   "shares_years_with_old_users": false,
+   "reigns_moved": 27
+  },
+  {
+   "name": "Hungary",
+   "old": "Q28513",
+   "new": "Q28",
+   "article": "Hungary",
+   "span": [
+    1947,
+    2024
+   ],
+   "shares_years_with_old_users": true,
+   "reigns_moved": 0
+  }
+ ],
+ "same_years_as_old_id_users": [
+  "Sasanian Empire",
+  "Buyid Dynasty",
+  "Republic of Korea",
+  "Republic of the Congo",
+  "Guinea",
+  "Republic of Vietnam",
+  "Republic of China",
+  "Lebanon",
+  "Hungary"
+ ]
+}

@@ -1,0 +1,39 @@
+# Preliminary batch: 139–90 BCE
+
+**Status: partly worked, not fully collected.** All 50 English Wikipedia year titles resolved without redirects or missing pages. Their revision wikitext is archived in `year_wikitext_139_90.json.gz`; transclusions have not been expanded. The five decade pages and selected linked articles were reviewed, not every link. A scan found 222 indexed rows whose start falls in the interval; earlier-starting overlaps were excluded, and most rows remain unreviewed. Thus neither title resolution nor the scan establishes complete historical coverage.
+
+## Indexed gameplay data
+
+Twenty existing rows were revised using guarded before/after images: 19 via the context review and one independent Gracchi correction. Two uncertain hazards were moved out of the damaging hazard pack into regional context notes. These changes affect indexed resources; no new battle events were fabricated. Existing IDs and evidence are retained in the reviewed manifests.
+
+- Corrected the indexed start years for Noreia, Aquae Sextiae, Arausio, Thala and Muluccha, and corrected Numantia's siege interval. Their locations and modeled circles remain approximations; the world `NewsIndex` may display the inclusive end year, unlike the gazetteer's exclusive end.
+- The Battle of Mayi was an **aborted ambush**, not a demonstrated pitched battle, and is now context rather than an assumed military encounter. Cirta's source gives conflicting dates. Muthul's linked battle article says 109 BCE while the year page says 108; the river's identification is disputed. A duplicate annual Muthul entry incorrectly placed in Rome was moved to an approximate North African reference and both rows made contextual.
+- The Ecbatana campaign's imported latitude was 4.7961° N, in the Indian Ocean. Its two affected rows now use the article's 34.7961° N Iranian reference; that is **not proof of the exact battlefield**. The decade row is also contextual because it overlaps the same campaign. The series of Seleucid–Parthian wars spans a much wider period than its 129 BCE anchor.
+- Broad continuous-effect footprints for the Numantine War, Jugurthine War and Social War were converted to context; the Social War interval was corrected. The Zama battle note overlaps the separate siege row, which remains indexed. This avoids treating the same investment as two independently validated military footprints.
+- A 133 BCE annual row confused Gaius Gracchus with his brother Tiberius. It now records Gaius's 123–122 BCE plebeian office as context; an office year is not proof of the election date. The original assertion is preserved in the before-image.
+- A reported Modena earthquake was shifted from 90 to 91 BCE and made contextual. Wikidata identifies the event and a modern study discusses Pliny's account; its physical interpretation and a damaging footprint remain uncertain. There is no English article at the guessed title.
+- The Beminitiya famine is contextualized as c. 103–89 BCE rather than an asserted 800 km continuous drought circle. Its article requests additional citations. The 132 BCE Yellow River flood remains in the nature pack and needs additional assessment; its article describes the breach and a changed river course, but does not validate the existing circular footprint.
+
+## Hazards
+
+- NOAA tsunami event 15 describes a proposed ancient wave along the Levant, but its sources differ on date and cause, and NOAA flags timing, location and effects for checking. The 138 BCE fixed damaging trigger became a note; this does **not** assert that no wave occurred.
+- Smithsonian GVP classifies the 104 BCE Vulsini eruption as uncertain: an ancient report of flame near Volsinii does not identify a volcanic eruption conclusively. The fixed damaging trigger became a note, without asserting that nothing occurred.
+- Five other hazard entries remain active: GVP lists Etna in 135 and 122 BCE, Vulcano in 126 and 91 BCE, and Ischia in 91 BCE as confirmed reported eruptions. Their end dates are unknown and GVP does not validate the game's uniform 40 km damage footprint. Ischia's explosion and lava-flow components are individually uncertain; the 91 Vulcano VEI is marked uncertain. Vulcanello island-formation interpretations are debated. These remaining triggers were not independently validated in a live game.
+
+## Connected people
+
+`history/sources/wikipedia_139_90_people_links.json` contains **31 research references, 15 qualified relationships and 37 event roles across 14 indexed IDs**, linking figures such as Jugurtha, Scipio Aemilianus, Metellus, Marius, Antiochus VII, Phraates II, the Han commanders and the Gracchi brothers. Links preserve source revisions where resolved. A relationship does not prove a personal encounter, and association with a war or flood does not establish continuous or physical presence. This graph is research-only; it does not spawn VIPs.
+
+## Verification and rollback
+
+- Context manifest canonical SHA-256 `800f9fd11fd36f700521c42c4661357c52aa5936eaedd36a026164724aa2c227`; hazards `ff08848814f2be908586743d861861918d91a0f9e0b242c40be39d6d1d6f9b33`; Gracchi `0387849cc44f0f69a85dca5284c2188a04a9b625a6f27db3b9a5b81e7f49f1ec`.
+- Staging preceded each application. Twenty-four context/hazard tests passed before and after applying; the final combined suite including the separate Gracchi checks passed **27 tests**. The 21 main context/hazard after-images were checked and seven pack objects logically reversed and reapplied in memory; the separate Gracchi row independently passed exact-image and logical round-trip checks. Graph references were structurally checked against indexed IDs, not fact-certified.
+- Writes are atomic **per pack**, not across multiple packs. Reverse this batch's hazards before its context, and reverse shared-pack operations before earlier dependent installers. The independent Gracchi installer has a separate before-image and should also be reversed before any older installer that changes its row. Rollback has not been tested against a saved world.
+- Eleven unreviewed CE overlap scans were losslessly compressed with byte checks; original-path compatibility and restoration are documented in `storage_compaction_139_90.md`. External dependencies were not exhaustively checked. Workspace snapshot headroom remains limited.
+- No live game, loader, save, full integrity check, Java probe or jar rebuild was performed. The existing jar is stale. Natural VIP spawning, historical VIP behavior and player-triggered alternate timelines are not implemented.
+
+## Sources and limitations
+
+Examples: [Parthian campaign, revision 1382309877](https://en.wikipedia.org/w/index.php?title=Parthian_campaign_of_Antiochus_VII&oldid=1382309877), [Muthul, revision 1378115134](https://en.wikipedia.org/w/index.php?title=Battle_of_the_Muthul&oldid=1378115134), [Mayi, revision 1370449356](https://en.wikipedia.org/w/index.php?title=Battle_of_Mayi&oldid=1370449356), [Gaius Gracchus, revision 1378035155](https://en.wikipedia.org/w/index.php?title=Gaius_Gracchus&oldid=1378035155), [NOAA tsunami 15](https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events/15), [GVP Vulsini](https://volcano.si.edu/volcano.cfm?vn=211003), [GVP Etna](https://volcano.si.edu/volcano.cfm?vn=211060), [GVP Vulcano](https://volcano.si.edu/volcano.cfm?vn=211050), [GVP Ischia](https://volcano.si.edu/volcano.cfm?vn=211030), [Wikidata Modena earthquake](https://www.wikidata.org/wiki/Q30014080). Additional source links and qualifications are embedded in the reviewed after-images. English Wikipedia pages are starting points, not proof that every statement is accurate.
+
+**Ledger:** 3,123 years partly worked under the existing shared-endpoint convention (+45 for this five-step batch), **0 fully collected**. These are not 3,123 complete independent annual histories. Earlier intervals remain incomplete; the next preliminary interval is 89–40 BCE.

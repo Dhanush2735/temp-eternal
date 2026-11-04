@@ -1,0 +1,59 @@
+{
+  "note": "Raw archive bytes retained and test readers updated. Original gzip-byte hashes unavailable due to interruption before map write; do not claim those were verified.",
+  "files": [
+    {
+      "old": "r2_wikipedia/focus/year_wikitext_912_961_CE.json.gz",
+      "new": "r2_wikipedia/focus/year_wikitext_912_961_CE.json.xz",
+      "uncompressed_sha256": "7a686857bd80536ddfcff353b2ac6c9a06ab9e8ae38180fcfc55b795ac7da36e",
+      "uncompressed_bytes": 321619,
+      "new_bytes": 79320,
+      "note": "Original gzip-byte hash lost when compaction stopped before map was written; uncompressed archive is intact.",
+      "test_updated": "r2_wikipedia/test_912_961_ce.py"
+    },
+    {
+      "old": "r2_wikipedia/focus/year_wikitext_862_911_CE.json.gz",
+      "new": "r2_wikipedia/focus/year_wikitext_862_911_CE.json.xz",
+      "uncompressed_sha256": "3be5a5fdc790315bdbf1dd02bdd75c89a955de4127e0fa0767d6e97fc0bb1a6f",
+      "uncompressed_bytes": 319602,
+      "new_bytes": 78400,
+      "note": "Original gzip-byte hash lost when compaction stopped before map was written; uncompressed archive is intact.",
+      "test_updated": "r2_wikipedia/test_862_911_ce.py"
+    },
+    {
+      "old": "r2_wikipedia/focus/year_wikitext_812_861_CE.json.gz",
+      "new": "r2_wikipedia/focus/year_wikitext_812_861_CE.json.xz",
+      "uncompressed_sha256": "59203bc6ac5d46b20192762843337cad2e0ccb8e58c362c50cf585973460bcd8",
+      "uncompressed_bytes": 263772,
+      "new_bytes": 65532,
+      "note": "Original gzip-byte hash lost when compaction stopped before map was written; uncompressed archive is intact.",
+      "test_updated": "r2_wikipedia/test_812_861_ce.py"
+    },
+    {
+      "old": "r2_wikipedia/focus/year_wikitext_762_811_CE.json.gz",
+      "new": "r2_wikipedia/focus/year_wikitext_762_811_CE.json.xz",
+      "uncompressed_sha256": "535773f9cf97b2e64de8f5132fa8f5cdb3ed49d59f1009e9a350e4f04ec82529",
+      "uncompressed_bytes": 252251,
+      "new_bytes": 61444,
+      "note": "Original gzip-byte hash lost when compaction stopped before map was written; uncompressed archive is intact.",
+      "test_updated": "r2_wikipedia/test_762_811_ce.py"
+    },
+    {
+      "old": "r2_wikipedia/focus/year_wikitext_712_761_CE.json.gz",
+      "new": "r2_wikipedia/focus/year_wikitext_712_761_CE.json.xz",
+      "uncompressed_sha256": "2563c1ddbb954e063b735b86c3bed56ca9902d0811f9fd402355b47c4a4065cd",
+      "uncompressed_bytes": 292181,
+      "new_bytes": 71712,
+      "note": "Original gzip-byte hash lost when compaction stopped before map was written; uncompressed archive is intact.",
+      "test_updated": "r2_wikipedia/test_712_761_ce.py"
+    },
+    {
+      "old": "r2_wikipedia/focus/year_wikitext_662_711_CE.json.gz",
+      "new": "r2_wikipedia/focus/year_wikitext_662_711_CE.json.xz",
+      "uncompressed_sha256": "ab1d911cd30c3fd7cc0338b0cd7b71e1cb3b9a134d4c900550e479eb320d0a3e",
+      "uncompressed_bytes": 240045,
+      "new_bytes": 56116,
+      "note": "Original gzip-byte hash lost when compaction stopped before map was written; uncompressed archive is intact.",
+      "test_updated": "r2_wikipedia/test_662_711_ce.py"
+    }
+  ]
+}

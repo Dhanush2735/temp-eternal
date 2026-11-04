@@ -1,0 +1,44 @@
+{
+ "heads_of_state": {
+  "rows": 17700,
+  "named_in_game": 12332,
+  "state_not_on_map_then": 4233,
+  "hidden_by_a_later_accession": 1135
+ },
+ "heads_of_government": {
+  "rows": 4588,
+  "where": "only the /ee here command, never villagers"
+ },
+ "state_languages": {
+  "entries": 2351,
+  "said_in_game": 1709
+ },
+ "state_faiths": {
+  "entries": 2054,
+  "said_in_game": 954,
+  "states_with_measured_shares": 230
+ },
+ "peoples_languages": {
+  "languages": 6709,
+  "used_in_talk": 137,
+  "rule": "nearest major language within 300 km, from AD 1500"
+ },
+ "famous_people": {
+  "rows": 184193,
+  "born near here (exact birthplace)": 149025,
+  "any way": 182815,
+  "through their state": 174095,
+  "never": 1378
+ },
+ "famous_pool_median": {
+  "1500": 5.0,
+  "1800": 22.0,
+  "1900": 237.0,
+  "2000": 470.0
+ },
+ "places": {
+  "sites": 46864,
+  "reba_cities_with_recorded_populations": 1787,
+  "reba_population_numbers_in_mod": 0
+ }
+}

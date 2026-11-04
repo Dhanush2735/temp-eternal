@@ -1,0 +1,30 @@
+{
+  "schema": "eternal-r2-2860bce-v1",
+  "pack": "events_wikipedia_regional.json.gz",
+  "event": {
+    "id": "r2_saqqara_gallery_reference_c2860",
+    "name": "c. 2860 BC: One date proposed for Saqqara gallery tomb; timing and attribution uncertain",
+    "start": -2860,
+    "end": -2859,
+    "lat": 29.87111,
+    "lon": 31.21639,
+    "radiusKm": 25,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=29th_century_BC&oldid=1371895849",
+        "https://en.wikipedia.org/w/index.php?title=Saqqara&oldid=1382336232",
+        "https://en.wikipedia.org/w/index.php?title=Hotepsekhemwy&oldid=1361247478",
+        "https://en.wikipedia.org/w/index.php?title=Nebra_(pharaoh)&oldid=1370758556",
+        "https://en.wikipedia.org/w/index.php?title=Second_Dynasty_of_Egypt&oldid=1374675562",
+        "https://www.ancient-egypt.org/history/early-dynastic-period/2nd-dynasty/horus-hotepsekhemwi/tomb-of-horus-hotepsekhemwi.html"
+      ],
+      "review_note": "The 29th-century overview says Tomb A construction began in 2860 BCE but offers no individual citation. The Saqqara article places underground royal galleries in the early Second Dynasty, while Hotepsekhemwy and Nebra biographies dispute attribution. The independent Ancient Egypt Site uses a different A/B gallery designation and mentions alternative interpretations of the seals; its page could not be fetched directly and only its search result was inspected. No linked evidence establishes construction began in exactly 2860, identifies a particular burial with certainty or locates a ruler at this point in that year. This one-year slot is only a disputed period reference to the overview claim, not an archaeological construction date. A 25 km radius and Saqqara point are regional game references, not the precise tomb coordinates. The Saqqara Wikipedia history section lacks citations; use remains provisional.",
+      "date_precision": "One disputed dating reference; exact start of construction unknown.",
+      "location_precision": "General Saqqara necropolis reference, not exact tomb or ruler location.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

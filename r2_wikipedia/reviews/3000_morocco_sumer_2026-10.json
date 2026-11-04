@@ -1,0 +1,113 @@
+{
+  "schema": "eternal-r2-morocco-sumer-v1",
+  "updates": [
+    {
+      "pack": "events_wikipedia.json.gz",
+      "section": "events",
+      "id": "wpy_2e31a84306",
+      "before": {
+        "id": "wpy_2e31a84306",
+        "name": "c. 3000 BC – Sumerians establish cities",
+        "start": -3000,
+        "end": -2999,
+        "lat": 32.0,
+        "lon": 45.5,
+        "radiusKm": 20,
+        "kind": "political",
+        "effect": "political",
+        "confidence": "wikipedia_year_page"
+      },
+      "after": {
+        "id": "wpy_2e31a84306",
+        "name": "c. 3000 BC: Cities such as Uruk existed in southern Mesopotamia",
+        "start": -3000,
+        "end": -2999,
+        "lat": 32.0,
+        "lon": 45.5,
+        "radiusKm": 100,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_region",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Sumer&oldid=1382166647",
+            "https://en.wikipedia.org/w/index.php?title=Uruk&oldid=1380485388",
+            "https://www.getty.edu/art/exhibitions/mesopotamia/explore.html",
+            "https://www.metmuseum.org/essays/uruk-the-first-city"
+          ],
+          "review_note": "Southern Mesopotamian urban centers emerged in the fourth millennium BCE; the old entry implied cities were established in exactly 3000 BCE. The Met identifies Uruk as a city around 3200 BCE and says it continued to expand after 3000. This is a regional context note, not an exact founding or a political incident. The point and 100 km radius are gameplay references, not the boundary of Sumer.",
+          "date_precision": "Approximately 3000 BCE is a reference slot, not a founding year.",
+          "location_precision": "Regional reference in southern Mesopotamia, not an exact site or boundary.",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    },
+    {
+      "pack": "places_pleiades.json.gz",
+      "section": "sites",
+      "id": "pl_594703044",
+      "before": {
+        "id": "pl_594703044",
+        "name": "Oued Beht",
+        "lat": 33.8837,
+        "lon": -5.93388,
+        "occupiedStart": -4000,
+        "occupiedEnd": 641,
+        "rank": "town",
+        "confidence": "pleiades",
+        "civHint": "rome"
+      },
+      "after": {
+        "id": "pl_594703044",
+        "name": "Oued Beht",
+        "lat": 33.8837,
+        "lon": -5.93388,
+        "occupiedStart": -4000,
+        "occupiedEnd": 641,
+        "rank": "town",
+        "confidence": "pleiades",
+        "civHint": "",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Oued_Beht_(archaeological_site)&oldid=1382237474",
+            "https://pleiades.stoa.org/places/594703044",
+            "https://doi.org/10.15184/aqy.2024.101",
+            "https://doi.org/10.1017/lis.2026.10037"
+          ],
+          "review_note": "A Neolithic farming site at Oued Beht, Morocco is not the Roman polity. A blank civHint avoids asserting an unsupported state; other gameplay fallbacks can still assign a civilization. The imported -4000 to 641 span is unchanged and is NOT proof of continuous occupation: research reports distinct Final Neolithic, Bronze Age and much later episodes. Its chronology and town rank require separate review; no Roman or continuous occupation is asserted.",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    }
+  ],
+  "additions": [
+    {
+      "pack": "events_wikipedia_regional.json.gz",
+      "section": "events",
+      "record": {
+        "id": "r2_oued_beht_farming_c3000",
+        "name": "c. 3000 BC: Oued Beht in Morocco has evidence of Neolithic farming",
+        "start": -3000,
+        "end": -2999,
+        "lat": 33.8837,
+        "lon": -5.93388,
+        "radiusKm": 20,
+        "kind": "cultural",
+        "effect": "note",
+        "confidence": "wikipedia_coord",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/w/index.php?title=Oued_Beht_(archaeological_site)&oldid=1382237474",
+            "https://pleiades.stoa.org/places/594703044",
+            "https://doi.org/10.15184/aqy.2024.101",
+            "https://doi.org/10.1017/lis.2026.10037"
+          ],
+          "review_note": "Radiocarbon dates from surveyed pits are approximately 3400–2900 BCE; archaeological evidence includes domesticated crops and animals. The research does not prove exact continuous occupation in 3000 BCE, a precisely dated founding, or a specific community structure. A possible defensive structure dates to the second millennium BCE and is not asserted here. The coordinate is a survey reference point and the radius is a gameplay setting, not an archaeological boundary. An existing dated site record is separate from this historical event note.",
+          "date_precision": "The archaeological date range spans centuries; this single-year slot is an approximate reference, not an exact year.",
+          "location_precision": "Survey center; 20 km is a gameplay radius, not the site boundary.",
+          "reviewed_as_of": "2026-10-28"
+        }
+      }
+    }
+  ]
+}

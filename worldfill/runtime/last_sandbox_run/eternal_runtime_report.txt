@@ -1,0 +1,36 @@
+Eternal Engine runtime report
+started: 2026-10-22T14:38:41.285522680Z
+year: 3000 BC   where: console (no player position)
+world file: ./world/./eternalengine
+
+verdict: 21 passed, 0 failed, 0 known limits, 8 needs more
+
+[PASS] engines            check-all                    58 passed, 0 failed, 0 known limits
+[LIMIT] commands           command-smoke                ran /ee test all: its summary line above is the verdict (this suite does not read chat)
+[PASS] places             place-hyderabad-1500         It is 1500. Golconda, under Vijayanagara Empire.
+[PASS] places             place-hyderabad-1948         It is 1948. Hyderabad, under Hyderabad State.
+[PASS] places             place-hyderabad-3000         It is 3000. Hyderabad, under Republic of India (an estimate).
+[PASS] places             place-hyderabad-outskirts-3000-bc It is 3000 BC. Here, where only the population grid counts a few people, with no ruler the register names.
+[PASS] places             place-delhi-1650             It is 1650. Shahjahanabad, under Mughal Empire.
+[PASS] places             place-rome-ad-100            It is AD 100. Rome, under Roman Empire (an estimate).
+[PASS] places             place-london-1700            It is 1700. London, under Kingdom of England.
+[PASS] places             place-beijing-1500           It is 1500. Beijing, under Ming Dynasty.
+[PASS] places             place-cusco-1500             It is 1500. Cusco, under Inca Empire.
+[PASS] places             place-ur-2500-bc             It is 2500 BC. Ur, under Sumerian City-States.
+[PASS] places             place-mohenjo-daro-2500-bc   It is 2500 BC. Mohenjo Daro, under Indus Valley Civilization.
+[PASS] places             place-mid-sahara-1000        It is 1000. Here, where nobody the data records lives, with no ruler the register names.
+[PASS] places             place-siberia-1000           It is 1000. Here, where nobody the data records lives, with no ruler the register names.
+[PASS] places             place-ohio-valley-1200       It is 1200. Here, where nobody the data records lives, with no ruler the register names.
+[PASS] places             registers                    46864 sites, 129163 events; towns 30151 towns, 15849 provinces, 3724 offices with 30206 holders (loaded in 261 ms); ruler register: 78495 places, 9612 timelines, 244393 spans from /data/eternalengine/eternal/history/deccan_rulers.json.gz + /data/eternalengine/eternal/history/world_rulers.json.gz; grid 28 slices
+[PASS] places             route-claims                 every route stop's claim holds at query level (34 stops checked without moving)
+[PASS] places             world-sampling               120 random ordinary looks across 10 land regions and 12 years; the rank never contradicted the evidence
+[PASS] economy            economy-day-hyderabad-1948   100 loads of wheat sold in 1 days for 275 (the merchant's budget was 1536, 1261 left; busiest day 100 against a want of 64; the pace: all soldtrade words: 4 annas 5 pai for 16 sheaves of wheat)
+[PASS] economy            economy-day-london-1800      100 loads of wheat sold in 1 days for 114 (the merchant's budget was 640, 526 left; busiest day 100 against a want of 64; the pace: all soldtrade words: 5 pence 2 farthings for 16 sheaves of wheat)
+[LIMIT] living             walking-state                needs a player position: run /ee test everything in game
+[LIMIT] living             day-pass                     needs a player in game: the day-pass borrows time at the player's place
+[LIMIT] screen             era-route                    the 31 place-years of buildings and dress: this run's camera pass walks them now (about five minutes; the pilot walks a loop through each stop so the frames catch the world mid-stride, and each stop also reads the wheat price, credit terms and ruler systems there). Verdict becomes PASS or FAIL when the folder arrives and the frames are judged against the packs
+[LIMIT] screen             view-and-sky                 this exact view and the sky day and night at the current year: the camera pass shoots them first (etest_now_*.png, etest_sky_day.png, etest_sky_night.png; the clock is put back). For any other century: set the date and run the test again
+[LIMIT] screen             screens-gui                  accents, wrapping and GUI scale: the camera pass ends by photographing a test book page (etest_book_accents.png); the frame settles Findings 11 and 30
+[PASS] screen             frame-numbers                the run measures its own smoothness instead of asking: every shot's fps and client tick ms land in etest_perf.txt beside the frames, and every era-stop line carries server tick ms; only how it looks in motion to a human is left, and that is the folder's judgement
+[LIMIT] screen             multiplayer                  true multiplayer (a second human): the run exercises talk and trade with NPCs as the counterparty, and one player's session can be photographed; a real second player is the one thing no in-run alternative can fake
+[LIMIT] screen             performance                  hours of play feel: the day-pass borrows one full day round and gives it back (see day-pass in the living phase); what is left is the feel of many real hours, which no compression can honestly fake

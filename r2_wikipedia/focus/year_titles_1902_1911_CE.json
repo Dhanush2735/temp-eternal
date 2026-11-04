@@ -1,0 +1,108 @@
+{
+  "schema": "year-title-resolution-v1",
+  "retrieved_at": "2026-11-01T08:10:38.282467+00:00",
+  "method": "MediaWiki info, redirects, disambiguation guard and revision identity checks",
+  "note": "Title resolution is not year completeness.",
+  "results": [
+    {
+      "requested_title": "1902 (year)",
+      "canonical_title": "1902",
+      "redirect_chain": [
+        "1902"
+      ],
+      "status": "resolved",
+      "pageid": 34652,
+      "lastrevid": 1375428527
+    },
+    {
+      "requested_title": "1903 (year)",
+      "canonical_title": "1903",
+      "redirect_chain": [
+        "1903"
+      ],
+      "status": "resolved",
+      "pageid": 34639,
+      "lastrevid": 1375064379
+    },
+    {
+      "requested_title": "1904 (year)",
+      "canonical_title": "1904",
+      "redirect_chain": [
+        "1904"
+      ],
+      "status": "resolved",
+      "pageid": 34651,
+      "lastrevid": 1382339859
+    },
+    {
+      "requested_title": "1905 (year)",
+      "canonical_title": "1905",
+      "redirect_chain": [
+        "1905"
+      ],
+      "status": "resolved",
+      "pageid": 34637,
+      "lastrevid": 1382374886
+    },
+    {
+      "requested_title": "1906 (year)",
+      "canonical_title": "1906",
+      "redirect_chain": [
+        "1906"
+      ],
+      "status": "resolved",
+      "pageid": 34650,
+      "lastrevid": 1376892063
+    },
+    {
+      "requested_title": "1907 (year)",
+      "canonical_title": "1907",
+      "redirect_chain": [
+        "1907"
+      ],
+      "status": "resolved",
+      "pageid": 34649,
+      "lastrevid": 1379530411
+    },
+    {
+      "requested_title": "1908 (year)",
+      "canonical_title": "1908",
+      "redirect_chain": [
+        "1908"
+      ],
+      "status": "resolved",
+      "pageid": 34600,
+      "lastrevid": 1378931855
+    },
+    {
+      "requested_title": "1909 (year)",
+      "canonical_title": "1909",
+      "redirect_chain": [
+        "1909"
+      ],
+      "status": "resolved",
+      "pageid": 19283284,
+      "lastrevid": 1382329536
+    },
+    {
+      "requested_title": "1910 (year)",
+      "canonical_title": "1910",
+      "redirect_chain": [
+        "1910"
+      ],
+      "status": "resolved",
+      "pageid": 34690,
+      "lastrevid": 1380080956
+    },
+    {
+      "requested_title": "1911 (year)",
+      "canonical_title": "1911",
+      "redirect_chain": [
+        "1911"
+      ],
+      "status": "resolved",
+      "pageid": 34605,
+      "lastrevid": 1373497014
+    }
+  ]
+}

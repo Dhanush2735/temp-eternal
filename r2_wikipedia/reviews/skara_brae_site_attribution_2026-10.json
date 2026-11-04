@@ -1,0 +1,39 @@
+{
+  "schema": "eternal-r2-skara-brae-site-v1",
+  "updates": [
+    {
+      "pack": "places_pleiades.json.gz",
+      "site_id": "pl_80606012",
+      "before": {
+        "id": "pl_80606012",
+        "name": "Skara Brae",
+        "lat": 59.04873,
+        "lon": -3.3417,
+        "occupiedStart": -4000,
+        "occupiedEnd": 641,
+        "rank": "town",
+        "confidence": "pleiades",
+        "civHint": "rome"
+      },
+      "after": {
+        "id": "pl_80606012",
+        "name": "Skara Brae",
+        "lat": 59.04873,
+        "lon": -3.3417,
+        "occupiedStart": -4000,
+        "occupiedEnd": 641,
+        "rank": "town",
+        "confidence": "pleiades",
+        "civHint": "",
+        "r2SourceEvidence": {
+          "sources": [
+            "https://en.wikipedia.org/wiki/Skara_Brae",
+            "https://www.historicenvironment.scot/visit/all/skara-brae/history-and-stories/"
+          ],
+          "review_note": "Skara Brae is a prehistoric Neolithic Orkney settlement, not a Roman site; blank hint makes no substitute claim. Wikipedia gives approximately 3180–2500 BCE, while Historic Environment Scotland gives village life ending about 2500 BCE. The inherited -4000 to 641 slot and town rank are unchanged and unverified, not proof of continuous occupation. The loader may use other hints or saved data.",
+          "reviewed_as_of": "2026-10-29"
+        }
+      }
+    }
+  ]
+}

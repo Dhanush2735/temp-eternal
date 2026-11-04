@@ -1,0 +1,39 @@
+{
+  "schema": "eternal-r2-2940-liangzhu-v1",
+  "pack": "events_wikipedia.json.gz",
+  "event_id": "wpy_9f829b7b30",
+  "before": {
+    "id": "wpy_9f829b7b30",
+    "name": "Liangzhu culture",
+    "start": -2501,
+    "end": -2500,
+    "lat": 30.39556,
+    "lon": 119.99083,
+    "radiusKm": 20,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_year_page"
+  },
+  "after": {
+    "id": "wpy_9f829b7b30",
+    "name": "c. 3300–2300 BC: Liangzhu culture in the lower Yangtze region (dates approximate)",
+    "start": -3300,
+    "end": -2299,
+    "lat": 30.39556,
+    "lon": 119.99083,
+    "radiusKm": 100,
+    "kind": "cultural",
+    "effect": "note",
+    "confidence": "wikipedia_region",
+    "r2SourceEvidence": {
+      "sources": [
+        "https://en.wikipedia.org/w/index.php?title=Liangzhu_culture&oldid=1381879788",
+        "https://whc.unesco.org/en/list/1592/"
+      ],
+      "review_note": "Wikipedia gives the archaeological Liangzhu culture c.3300–2300 BCE, while UNESCO gives its city-region ruins about 3300–2300 BCE. This replacement expands the former one-year -2501 culture reference to a long archaeological period; the old snapshot remains in the manifest. It is a periodization, not evidence of continuous occupation at each location, an event in exactly 2940 BCE, or construction of all Liangzhu city features by that year. The retained coordinates and radius are gameplay reference values, not the boundaries of the culture. NewsIndex may surface this period as news in any indexed year.",
+      "date_precision": "Approximate archaeological period; no particular event in 2940 is asserted.",
+      "location_precision": "Regional gameplay point and radius, not a boundary or exact location of a historical event.",
+      "reviewed_as_of": "2026-10-28"
+    }
+  }
+}

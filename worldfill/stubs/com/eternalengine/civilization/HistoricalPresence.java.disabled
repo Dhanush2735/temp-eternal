@@ -1,0 +1,25 @@
+package com.eternalengine.civilization;
+
+/**
+ * A stand-in for {@code HistoricalPresence}, which cannot compile without the Minecraft jars (it takes
+ * a {@code CivilizationManager}, which reaches {@code EternalEngineMod}, which reaches Forge). Step 57's
+ * walk measures {@code HistoryGazetteer}, which calls exactly one thing from that class:
+ * {@link #haversineKm}. The body below is the real one, copied verbatim, so the walk measures the real
+ * arithmetic and not a stand-in's.
+ */
+public final class HistoricalPresence {
+
+    private HistoricalPresence() {
+    }
+
+    public static double haversineKm(double lat1, double lon1, double lat2, double lon2) {
+        double r = 6371.0d;
+        double p1 = Math.toRadians(lat1);
+        double p2 = Math.toRadians(lat2);
+        double dLat = Math.toRadians(lat2 - lat1);
+        double dLon = Math.toRadians(lon2 - lon1);
+        double a = Math.sin(dLat / 2.0d) * Math.sin(dLat / 2.0d)
+                + Math.cos(p1) * Math.cos(p2) * Math.sin(dLon / 2.0d) * Math.sin(dLon / 2.0d);
+        return 2.0d * r * Math.asin(Math.min(1.0d, Math.sqrt(a)));
+    }
+}
